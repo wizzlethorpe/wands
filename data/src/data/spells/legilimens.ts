@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const legilimens = SpellSchema.parse({
+  id: "legilimens",
+  foundryId: "ZHPPAams6Xm4LY7g",
+  type: "spell",
+  level: 3,
+  school: "div",
+  source: "W&W p.75",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "creature", value: 1, width: null, units: "" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "wis", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

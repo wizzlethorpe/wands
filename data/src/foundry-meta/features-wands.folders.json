@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Beast Commands",
+    "sorting": "a",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "type": "Item",
+    "_id": "yuF2070agEJYsawU",
+    "sort": 100000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1708585450158,
+      "modifiedTime": 1708585477030,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!yuF2070agEJYsawU"
+  },
+  {
+    "name": "Boons",
+    "sorting": "a",
+    "folder": "es83ya1f5Rl8XxpI",
+    "type": "Item",
+    "_id": "cVVwqz2mnpY5I8ZU",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": null,
+      "systemVersion": null,
+      "coreVersion": null,
+      "createdTime": null,
+      "modifiedTime": null,
+      "lastModifiedBy": null
+    },
+    "_key": "!folders!cVVwqz2mnpY5I8ZU"
+  },
+  {
+    "name": "Class Features",
+    "sorting": "a",
+    "folder": null,
+    "type": "Item",
+    "_id": "iAydmmJhg1PATiSa",
+    "sort": 100000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1708583665473,
+      "modifiedTime": 1708584172267,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!iAydmmJhg1PATiSa"
+  },
+  {
+    "name": "Corruption Effects",
+    "sorting": "a",
+    "folder": "es83ya1f5Rl8XxpI",
+    "type": "Item",
+    "_id": "Kf15n5zQIh9SkxL4",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": null,
+      "systemVersion": null,
+      "coreVersion": null,
+      "createdTime": null,
+      "modifiedTime": null,
+      "lastModifiedBy": null
+    },
+    "_key": "!folders!Kf15n5zQIh9SkxL4"
+  },
+  {
+    "name": "Dark Magic Corruption",
+    "sorting": "a",
+    "folder": null,
+    "type": "Item",
+    "_id": "es83ya1f5Rl8XxpI",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1708585516649,
+      "modifiedTime": 1708585516649,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!es83ya1f5Rl8XxpI"
+  },
+  {
+    "name": "Feats",
+    "sorting": "a",
+    "folder": null,
+    "type": "Item",
+    "_id": "kBrkVEaWAkteheSS",
+    "sort": 200000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1708584039199,
+      "modifiedTime": 1708584172267,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!kBrkVEaWAkteheSS"
+  },
+  {
+    "name": "Metamagic",
+    "sorting": "a",
+    "folder": "iAydmmJhg1PATiSa",
+    "type": "Item",
+    "_id": "vaAGtFsbcr4rF8Nx",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": null,
+      "systemVersion": null,
+      "coreVersion": null,
+      "createdTime": null,
+      "modifiedTime": null,
+      "lastModifiedBy": null
+    },
+    "_key": "!folders!vaAGtFsbcr4rF8Nx"
+  },
+  {
+    "name": "Mild Effects",
+    "sorting": "a",
+    "folder": "Kf15n5zQIh9SkxL4",
+    "type": "Item",
+    "_id": "xRMFP4czBggAtGOo",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": null,
+      "systemVersion": null,
+      "coreVersion": null,
+      "createdTime": null,
+      "modifiedTime": null,
+      "lastModifiedBy": null
+    },
+    "_key": "!folders!xRMFP4czBggAtGOo"
+  },
+  {
+    "name": "Race Features",
+    "sorting": "a",
+    "folder": null,
+    "type": "Item",
+    "_id": "iywfvRuhk9XTtOAX",
+    "sort": 300000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1708584092628,
+      "modifiedTime": 1708584172267,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!iywfvRuhk9XTtOAX"
+  },
+  {
+    "name": "Severe Effects",
+    "sorting": "a",
+    "folder": "Kf15n5zQIh9SkxL4",
+    "type": "Item",
+    "_id": "4FZpH33THNKkIksN",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": null,
+      "systemVersion": null,
+      "coreVersion": null,
+      "createdTime": null,
+      "modifiedTime": null,
+      "lastModifiedBy": null
+    },
+    "_key": "!folders!4FZpH33THNKkIksN"
+  },
+  {
+    "name": "Subclass Features",
+    "sorting": "a",
+    "folder": null,
+    "type": "Item",
+    "_id": "ZNrtfcrRGYMDXeuX",
+    "sort": 0,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1708584805996,
+      "modifiedTime": 1708584805996,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!ZNrtfcrRGYMDXeuX"
+  }
+]

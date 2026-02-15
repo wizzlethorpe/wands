@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const obscuro = SpellSchema.parse({
+  id: "obscuro",
+  foundryId: "czpa0o0AzXB3YYrU",
+  type: "spell",
+  level: 1,
+  school: "trf",
+  source: "W&W p.68",
+  activation: { type: "action", cost: 1, condition: "(active until dispelled)" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: null, units: "" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: true },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "dex", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

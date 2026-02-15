@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const glacius = SpellSchema.parse({
+  id: "glacius",
+  foundryId: "ubGQ6Vk2T8IdKZqK",
+  type: "spell",
+  level: 1,
+  school: "cha",
+  source: "W&W p.71",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: 1, units: "hour" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: true },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cube", value: 5, width: null, units: "ft" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["3d8","cold"]], versatile: "" },
+  save: { ability: "con", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "1d8" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

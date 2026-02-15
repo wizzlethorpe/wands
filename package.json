@@ -1,0 +1,16 @@
+{
+  "name": "wands",
+  "private": true,
+  "description": "W.A.N.D.S. (Wands & Wizards) — data, Foundry VTT module, and documentation site",
+  "scripts": {
+    "build": "cd data && npm run build:packs",
+    "build:data": "cd data && npm run build",
+    "build:packs": "cd data && npm run build:packs",
+    "build:site": "cd site && npx quartz build",
+    "dev:site": "cd site && npx quartz build && npx wrangler pages dev public",
+    "deploy:site": "cd site && npx quartz build && npx wrangler pages deploy public --project-name wands-quartz",
+    "release:foundry": "./scripts/release-foundry.sh",
+    "validate": "cd data && npm run validate",
+    "install:all": "cd data && npm install && cd ../site && npm install"
+  }
+}

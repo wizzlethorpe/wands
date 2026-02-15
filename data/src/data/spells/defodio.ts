@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const defodio = SpellSchema.parse({
+  id: "defodio",
+  foundryId: "apcdAOspeni6sNVR",
+  type: "spell",
+  level: 0,
+  school: "cha",
+  source: "W&W p.66",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 30, long: null, units: "ft" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cube", value: 5, width: null, units: "ft" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

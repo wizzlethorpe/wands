@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const episkey = SpellSchema.parse({
+  id: "episkey",
+  foundryId: "VTTT0dAMjpI0wwIx",
+  type: "spell",
+  level: 1,
+  school: "hea",
+  source: "W&W p.68",
+  activation: { type: "bonus", cost: 1, condition: "" },
+  range: { value: 10, long: null, units: "ft" },
+  duration: { value: null, units: "" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "creature", value: 1, width: null, units: "" },
+  actionType: "heal",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["2d4+@mod","healing"]], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "1d4" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

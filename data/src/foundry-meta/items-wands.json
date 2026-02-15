@@ -1,0 +1,2772 @@
+{
+  "ybrrj6Qzry3wjW6B": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425065,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "UQ86jRcL49U2XZH2": {
+    "img": "icons/consumables/potions/bottle-round-corked-pink.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425088,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "l4NJDA43TZHjSwFO": {
+    "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425038,
+      "modifiedTime": 1708992475681,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XXtozxI3F7LyJhaL": {
+    "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425062,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gHtzAAVq0fnKuZF5": {
+    "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+    "folder": "VSpi16qK2PZDTA6e",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424850,
+      "modifiedTime": 1708586723560,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XS99dtF2VkYn4ahw": {
+    "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424978,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "AXz39U6Fh6Lis9Nh": {
+    "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424860,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "DzHLk4wA9pbUeBOc": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424824,
+      "modifiedTime": 1708992783504,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "F95rFIoSUWjvbvgr": {
+    "img": "icons/consumables/potions/potion-flask-corked-orange.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424998,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Yka4GkqRAFnAtEfW": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424987,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "jHOQchs3Qs0zGJi8": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6000000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424932,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ylkXrCkNOJofGzJg": {
+    "img": "icons/commodities/materials/bowl-powder-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 6100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424938,
+      "modifiedTime": 1708992890588,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "l7D305BA2ojpyiu7": {
+    "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424994,
+      "modifiedTime": 1708992936111,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dMJSoR9YqsE5tQPJ": {
+    "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "effects": [
+      {
+        "_id": "srbZ4d3Xa2oEIvaN",
+        "flags": {},
+        "changes": [],
+        "disabled": true,
+        "duration": {
+          "startTime": null,
+          "seconds": null,
+          "combat": null,
+          "rounds": null,
+          "turns": null,
+          "startRound": null,
+          "startTurn": null
+        },
+        "origin": "Item.SvqPXId891Qkx9OD",
+        "tint": "#ffffff",
+        "transfer": true,
+        "name": "Poison",
+        "description": "",
+        "statuses": [],
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/svg/poison.svg",
+        "type": "base",
+        "system": {},
+        "sort": 0,
+        "_key": "!items.effects!dMJSoR9YqsE5tQPJ.srbZ4d3Xa2oEIvaN"
+      }
+    ],
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424844,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "kMuvqAHWCk6NhpyA": {
+    "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424966,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "g6wYrrXuD8NtzKbH": {
+    "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424896,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uqI6wa2MtvwDKY5n": {
+    "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+    "folder": "VSpi16qK2PZDTA6e",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424853,
+      "modifiedTime": 1708586724945,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "y3p9S2CXZa3Iuf0p": {
+    "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424855,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "8wdzlW5UqGK4UyT8": {
+    "img": "icons/equipment/back/cloak-brown.webp",
+    "folder": "O28fSj9g2pbEZ1mQ",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424821,
+      "modifiedTime": 1708586683414,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dH018NLGfL46PP0L": {
+    "img": "icons/equipment/back/cloak-hooded-blue.webp",
+    "folder": "O28fSj9g2pbEZ1mQ",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424846,
+      "modifiedTime": 1708586687474,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZiL09HkXdPgIwUr8": {
+    "img": "icons/commodities/gems/pearl-storm.webp",
+    "folder": "VSpi16qK2PZDTA6e",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424843,
+      "modifiedTime": 1708586726259,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "3dD30dB0SoYXzGGe": {
+    "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425082,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tIa49UKdCUECWSWl": {
+    "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424830,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zdXtC9Cbi4VSai92": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424882,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dMsbWgmZ4Y1gzzC6": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5000000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424848,
+      "modifiedTime": 1708993051301,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "jQ5Y8fArHFHMdez3": {
+    "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424948,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RCfX6qYd9l0GM4jc": {
+    "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 5200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424922,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "GcaawJhErL46zMtg": {
+    "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425073,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "7R1TDQsY6cJ9u3DQ": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425084,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "73Kkg18ydDuSk94z": {
+    "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425077,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "nX8DJFD6JgdVzzoG": {
+    "img": "icons/consumables/potions/potion-flask-corked-capped-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425068,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ckV4i4wpQ7wu48VI": {
+    "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425092,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "47ZQr17DAoDArsBw": {
+    "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424878,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6cKqaQb6MZKKd3J7": {
+    "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424992,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "aDKqv3T1MRfd0y7J": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425015,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "lnSf6pxkdhfenhrY": {
+    "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4000000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424958,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "NvJBCh705HNUZJwz": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 4100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424892,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Mw777QpIjrZlCqY8": {
+    "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425094,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RT3iN95EMkJGtF2L": {
+    "img": "icons/consumables/vegetable/garlic-clove-sprout-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424989,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9yOwuN0ZegON8W56": {
+    "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424954,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "TT8MGBykxNrmyXM6": {
+    "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425090,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "S0q90HycTnRsJ4gU": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425029,
+      "modifiedTime": 1708993217229,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "jl13cyryEdqlRZQq": {
+    "img": "icons/consumables/potions/potion-flask-stopped-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425074,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "LkmfTNvHM6p9R24P": {
+    "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425035,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "MXRChbKcytwoMQib": {
+    "img": "icons/containers/bags/pouch-leather-green.webp",
+    "folder": "VSpi16qK2PZDTA6e",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424836,
+      "modifiedTime": 1708586727392,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RVqXLVOI1CjoInwQ": {
+    "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424871,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "64El0eWKkyAGS4j8": {
+    "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3000000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425011,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KVH85gQA7h2L3dwP": {
+    "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 3100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424982,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "AtgLBe99nZKuyRL1": {
+    "img": "icons/consumables/potions/potion-flask-corked-labeled-pink.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424976,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gUuPcdPmgWIQOS9K": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424794,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gHs8gZya7LLOZV7w": {
+    "img": "icons/consumables/potions/potion-flask-corked-orange.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424875,
+      "modifiedTime": 1708993268608,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bpTjlZQGRKSavvXl": {
+    "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425060,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "VHd6y3FXyTNBryjJ": {
+    "img": "icons/consumables/potions/bottle-round-corked-pink.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425002,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "G01FoNIujKOi8pyR": {
+    "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424852,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bfiKprWDzaBfRHbZ": {
+    "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424827,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "sz7WNXng1pZCBvYq": {
+    "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425047,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "arlH705OGLjIhWId": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425018,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "LWyajeY6pJnCJ7U0": {
+    "img": "icons/consumables/potions/potion-flask-corked-capped-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 2000000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424886,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9N7466XCneIsi5SV": {
+    "img": "icons/containers/bags/pack-simple-leather.webp",
+    "folder": "VSpi16qK2PZDTA6e",
+    "sort": 112500,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424825,
+      "modifiedTime": 1708586729466,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gm07IGHO4e8TsVx6": {
+    "img": "icons/consumables/potions/potion-bottle-corked-labeled-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424944,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KiYoSiNjJMY7XC1M": {
+    "img": "icons/equipment/chest/breastplate-scale-leather.webp",
+    "folder": "O28fSj9g2pbEZ1mQ",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424832,
+      "modifiedTime": 1708586690529,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "s6zKb1EhdCpLvxdc": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425007,
+      "modifiedTime": 1708993355904,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "7RPPlU65gInFAsw5": {
+    "img": "icons/equipment/back/mantle-collared-black.webp",
+    "folder": "O28fSj9g2pbEZ1mQ",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424774,
+      "modifiedTime": 1708586692527,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dRD8sQrfloqHoawd": {
+    "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425027,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XlMmaW8RlljzkcDv": {
+    "img": "icons/consumables/potions/potion-vial-corked-labeled-purple.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425070,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "0bqG2d7a2HPONNEN": {
+    "img": "icons/commodities/materials/bowl-powder-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424834,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9SN9FGJGNIUIEC4a": {
+    "img": "icons/consumables/potions/potion-bottle-corked-fancy-orange.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "effects": [
+      {
+        "_id": "R7uhzG7VxPxcnjsn",
+        "flags": {},
+        "changes": [
+          {
+            "key": "@abilities.str.mod",
+            "value": "21",
+            "mode": 4,
+            "priority": null
+          }
+        ],
+        "disabled": true,
+        "duration": {
+          "startTime": null,
+          "turns": 599,
+          "startTurn": 1,
+          "seconds": null,
+          "combat": null,
+          "rounds": null,
+          "startRound": null
+        },
+        "origin": "Item.684rXYZYCBnCNOJv",
+        "tint": "#ffffff",
+        "transfer": true,
+        "name": "Increase Strength",
+        "description": "",
+        "statuses": [],
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/svg/pill.svg",
+        "type": "base",
+        "system": {},
+        "sort": 0,
+        "_key": "!items.effects!9SN9FGJGNIUIEC4a.R7uhzG7VxPxcnjsn"
+      }
+    ],
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425057,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "I2aqoLQfkyDsQRBi": {
+    "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424963,
+      "modifiedTime": 1708993441731,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "YpAD7DG1j8eYA0Iz": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425051,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "QV2bAMA1HKKMP1B8": {
+    "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425043,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zxTgLaX1ZDpcFGLh": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425023,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "va6bVt1U19lwGzjH": {
+    "img": "icons/consumables/potions/bottle-bulb-empty-glass.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424866,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9A4SUIROEnN5qB5O": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-glowing-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424971,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "OVpq2HeRQKJEk8RO": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424906,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "eIALIhq5cRFdRsHt": {
+    "img": "icons/consumables/potions/potion-flask-corked-capped-green.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424838,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Esw2azHBNNrsx6Qw": {
+    "img": "icons/equipment/back/cloak-heavy-fur-blue.webp",
+    "folder": "O28fSj9g2pbEZ1mQ",
+    "sort": 112500,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424829,
+      "modifiedTime": 1708586694690,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Hgbk2ejlRQQareof": {
+    "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424863,
+      "modifiedTime": 1708993593853,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "94kFPYA3wPMZcyuB": {
+    "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425054,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "fg6eLteXHrOMSgIO": {
+    "img": "icons/consumables/potions/potion-flask-corled-pink-red.webp",
+    "folder": "WnIyLJ4y3sjWvVoi",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "HJtvMnewDM77SRUs": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424967,
+      "modifiedTime": 1708586944941,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "51dfc6fad3c8b932": {
+    "img": "icons/commodities/materials/bowl-powder-grey.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "917174e2018bf45c": {
+    "img": "icons/tools/laboratory/bowl-herbs-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "dba77822358e9588": {
+    "img": "icons/commodities/flowers/daisy-white.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "40d0a6d736fd638c": {
+    "img": "icons/commodities/biological/organ-liver-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "0528a250cd5eacfe": {
+    "img": "icons/commodities/flowers/iris-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "778e2515af19afb4": {
+    "img": "icons/commodities/bones/horn-antler-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4f71afcb39b778d6": {
+    "img": "icons/commodities/biological/stinger-insect-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "a79b357b5dff2b33": {
+    "img": "icons/commodities/flowers/blooms-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "30f1d55d6ecdd788": {
+    "img": "icons/commodities/leather/leather-pelt-cured.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "d433dc532ea900ee": {
+    "img": "icons/commodities/biological/pustules-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "773e31d882d57ce1": {
+    "img": "icons/commodities/biological/organ-bladder-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "d263b2f59746b271": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "85d4231098751df4": {
+    "img": "icons/commodities/flowers/cornflower-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "ce867b65043ef3ae": {
+    "img": "icons/commodities/biological/shell-conch-gray.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "3110065f02257280": {
+    "img": "icons/consumables/plants/thorned-curled-vine-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "76f5fa01c8f70a0b": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "c15c1f84f9708218": {
+    "img": "icons/creatures/claws/claw-talons-yellow-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "073c099ffadc80f6": {
+    "img": "icons/commodities/bones/horn-curved-grey.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "9378a351012f1ccc": {
+    "img": "icons/consumables/drinks/alcohol-spirits-bottle-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "f4ce544ed1774e6a": {
+    "img": "icons/commodities/flowers/dandelion-pod-white.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "faabe0d5a369da32": {
+    "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "eb4211e5f6b261ee": {
+    "img": "icons/commodities/flowers/buds-red-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "7094132bbbcf2fce": {
+    "img": "icons/commodities/materials/plant-sprout-seed-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "f4c3802951ad1568": {
+    "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "2323f3906e46367d": {
+    "img": "icons/creatures/fish/fish-bioluminous-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "ef3f5e336f9d0881": {
+    "img": "icons/consumables/meat/frog-leg-raw-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "c68b9e017a32f8d2": {
+    "img": "icons/commodities/flowers/lotus-violet.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "884fb4f43debadd7": {
+    "img": "icons/commodities/flowers/daisy-white.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "60d01761dbb8e572": {
+    "img": "icons/commodities/biological/mouth-toothed-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "d5ab5b407c5e929c": {
+    "img": "icons/creatures/claws/claw-hooked-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "c52cc24443b63ad1": {
+    "img": "icons/commodities/flowers/blooms-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "bede4f80fe71a32b": {
+    "img": "icons/commodities/flowers/cornflower-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "e7938c6198a3822a": {
+    "img": "icons/consumables/food/honey-beehive-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "a39966365ad9c0c0": {
+    "img": "icons/creatures/birds/songbird-yellow-flying.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "24251132afb5c6f0": {
+    "img": "icons/commodities/flowers/clover.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4ab49ec62b7ff261": {
+    "img": "icons/tools/laboratory/vials-blue-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "89dda1fb475fd95f": {
+    "img": "icons/magic/water/bubbles-air-water-light.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "e329d212f7c86306": {
+    "img": "icons/creatures/fish/fish-fangtooth-skeletal-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "a642c9e47440e609": {
+    "img": "icons/commodities/flowers/cornflower-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "446ce3a4cfd780e4": {
+    "img": "icons/consumables/plants/dried-herb-bundle-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "f3014cce75e93ea2": {
+    "img": "icons/commodities/flowers/holly-buds-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "b35b7a6eedbcccd2": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4ec36c1c329aad1c": {
+    "img": "icons/commodities/gems/gem-faceted-oval-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "221439cd6f55e23e": {
+    "img": "icons/commodities/biological/tentacle-yellow.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4a332bdd692bdca9": {
+    "img": "icons/consumables/plants/holly-pointy-leaf-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "159022b804ab4277": {
+    "img": "icons/consumables/mushrooms/cluster-red-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "bae3023ebfeb46d9": {
+    "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "2fb60adc3769e85f": {
+    "img": "icons/consumables/plants/mint-dried-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "88483df978705940": {
+    "img": "icons/consumables/plants/dried-herb-bundle-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "68fa500f8013ef84": {
+    "img": "icons/commodities/claws/claw-spiked-gold.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "380ee89af3e9c547": {
+    "img": "icons/sundries/books/book-backed-wood-tan.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "9b4b917f428ce548": {
+    "img": "icons/sundries/books/book-clasp-spiral-green.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "839281b9b0b2117d": {
+    "img": "icons/sundries/books/book-embossed-bound-brown.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "b764477c08664f2f": {
+    "img": "icons/sundries/books/book-embossed-gold-green.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "98c70938ded78eff": {
+    "img": "icons/sundries/books/book-embossed-jewel-silver-green.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "34d0f344d76dcb06": {
+    "img": "icons/sundries/books/book-embossed-roots-green.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "157def488c713193": {
+    "img": "icons/sundries/books/book-embossed-steel-green.webp",
+    "folder": "14e95fa39206684c",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "f613e18c4e06765a": {
+    "img": "icons/consumables/potions/bottle-conical-corked-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4867e29cefe149a1": {
+    "img": "icons/commodities/biological/organ-heart-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "7ef7071ab444ff8b": {
+    "img": "icons/commodities/flowers/lily-white.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "393e5b93a26575aa": {
+    "img": "icons/consumables/eggs/egg-spiked-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "b25d6990bba5acc9": {
+    "img": "icons/commodities/materials/slime-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "278d967d52622d4c": {
+    "img": "icons/creatures/invertebrates/beetle-stag-tan-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "7bd20b23a107dfcb": {
+    "img": "icons/commodities/flowers/flower-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "9885401a14f63db1": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4f4e97ca5f0d40da": {
+    "img": "icons/commodities/biological/organ-brain-pink-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "20e15847f08cb545": {
+    "img": "icons/consumables/plants/herb-tied-bundle-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4b090350c5ca5a7c": {
+    "img": "icons/commodities/flowers/lily-bloom.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "fa3e5146c27f6f69": {
+    "img": "icons/consumables/drinks/alcohol-spirits-bottle-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "d96125de6075d0b9": {
+    "img": "icons/tools/laboratory/bowl-herbs-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "1282594f7ec7802f": {
+    "img": "icons/commodities/flowers/cornflower-blue.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4e4f583ac0284f89": {
+    "img": "icons/commodities/biological/shell-conch-gray.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "3be342b5f02c520e": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "fb3d03f90bb9cbc4": {
+    "img": "icons/tools/laboratory/vial-orange.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "d2426a750f809da3": {
+    "img": "icons/commodities/materials/hair-tuft-gold.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "3fb8abd17262c482": {
+    "img": "icons/commodities/flowers/blooms-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "0059796088df1302": {
+    "img": "icons/consumables/plants/leaf-herb-green.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "fb8fdb62228dd498": {
+    "img": "icons/commodities/flowers/blooms-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "631a2036af312845": {
+    "img": "icons/magic/nature/mushroom-glow-red.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "6bec23944cb32fda": {
+    "img": "icons/commodities/flowers/blooms-purple.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "fd6805ddd369a21c": {
+    "img": "icons/commodities/wood/bark-brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "4039425397ddd79e": {
+    "img": "icons/commodities/biological/shell-snail.brown.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  },
+  "95ce17340100f4e9": {
+    "img": "icons/consumables/potions/potion-jar-corked-orange.webp",
+    "folder": "8b9356509439cbd8",
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    }
+  }
+}

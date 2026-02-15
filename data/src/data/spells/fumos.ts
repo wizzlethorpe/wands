@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const fumos = SpellSchema.parse({
+  id: "fumos",
+  foundryId: "tITRwjvVLVb6hbOx",
+  type: "spell",
+  level: 2,
+  school: "cha",
+  source: "W&W p.71",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: null, long: null, units: "self" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cube", value: 15, width: null, units: "ft" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["3d6","poison"]], versatile: "" },
+  save: { ability: "con", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "2d6" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

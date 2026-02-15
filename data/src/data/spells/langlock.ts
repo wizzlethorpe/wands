@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const langlock = SpellSchema.parse({
+  id: "langlock",
+  foundryId: "8tt8LszN4RUexC1o",
+  type: "spell",
+  level: 3,
+  school: "jhc",
+  source: "W&W p.74",
+  activation: { type: "reaction", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "int", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "d20+@mod",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

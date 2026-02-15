@@ -1,0 +1,4 @@
+[submodule "wands"]
+	path = wands
+	url = git@github.com:jaredraycoleman/wands.git
+	branch = v13-migration

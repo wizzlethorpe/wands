@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const immobulus = SpellSchema.parse({
+  id: "immobulus",
+  foundryId: "6yZcAouod1aHBJYO",
+  type: "spell",
+  level: 2,
+  school: "cha",
+  source: "W&W p.72",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: null, long: null, units: "self" },
+  duration: { value: 1, units: "round" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cube", value: 15, width: null, units: "ft" },
+  actionType: "util",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["7d10",""]], versatile: "" },
+  save: { ability: "cha", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "2d10" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

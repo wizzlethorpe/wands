@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const fortissimum = SpellSchema.parse({
+  id: "fortissimum",
+  foundryId: "TQcUlVY1YJPN9rNY",
+  type: "spell",
+  level: 3,
+  school: "cha",
+  source: "W&W p.74",
+  activation: { type: "action", cost: 1, condition: "(active until dispelled)" },
+  range: { value: null, long: null, units: "touch" },
+  duration: { value: null, units: "" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

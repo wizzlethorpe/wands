@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const imperio = SpellSchema.parse({
+  id: "imperio",
+  foundryId: "oJ9u3TDc2g1Nwlkn",
+  type: "spell",
+  level: 5,
+  school: "jhc",
+  source: "W&W p.73",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 10, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "cha", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

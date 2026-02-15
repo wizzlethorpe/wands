@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const draconifors = SpellSchema.parse({
+  id: "draconifors",
+  foundryId: "J9SLlXNKiIikWzdk",
+  type: "spell",
+  level: 5,
+  school: "trf",
+  source: "W&W p.70",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 30, long: null, units: "ft" },
+  duration: { value: 10, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "object", value: 2, width: null, units: "" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

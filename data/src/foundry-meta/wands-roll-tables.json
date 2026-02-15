@@ -1,0 +1,6070 @@
+{
+  "dGK1IzVmbELM56nB": {
+    "img": "icons/tools/hand/brush-paint-pink.webp",
+    "folder": "2kep2yCIRJxRNGso",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156573465,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.uEUI8ifQcjaLOcUs",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "SNeYbBmZxtEHRwxp",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Beauty. When I create, I make the world better than it was.",
+        "name": "",
+        "_key": "!tables.results!dGK1IzVmbELM56nB.SNeYbBmZxtEHRwxp"
+      },
+      {
+        "_id": "6OikIfsnjw9nVfOw",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: People. I want to make an impact on everyone who experiences my work.",
+        "name": "",
+        "_key": "!tables.results!dGK1IzVmbELM56nB.6OikIfsnjw9nVfOw"
+      },
+      {
+        "_id": "olg7UNFq3vRwHWMt",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Honesty. Art should reflect the soul; it should come from within and reveal who we really are.",
+        "name": "",
+        "_key": "!tables.results!dGK1IzVmbELM56nB.olg7UNFq3vRwHWMt"
+      }
+    ]
+  },
+  "FN8pyTc0R4uzUcnI": {
+    "img": "icons/tools/hand/brush-paint-pink.webp",
+    "folder": "2kep2yCIRJxRNGso",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156574579,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.3oYbU9yO2wtXHnLX",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ve2pOtcIn5HGAw75",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Reasonably Firm: In fact, the world does revolve around me.",
+        "name": "",
+        "_key": "!tables.results!FN8pyTc0R4uzUcnI.ve2pOtcIn5HGAw75"
+      },
+      {
+        "_id": "Xur3TlIpGuYP8wVi",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Slightly Swishy: There's no room for caution in a life lived to the fullest.",
+        "name": "",
+        "_key": "!tables.results!FN8pyTc0R4uzUcnI.Xur3TlIpGuYP8wVi"
+      },
+      {
+        "_id": "vUjipUe6tzA3A3p9",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Quite Yielding: I'll do anything to win fame and renown.",
+        "name": "",
+        "_key": "!tables.results!FN8pyTc0R4uzUcnI.vUjipUe6tzA3A3p9"
+      }
+    ]
+  },
+  "WAViVaKrvumFGoYz": {
+    "img": "icons/tools/hand/brush-paint-pink.webp",
+    "folder": "2kep2yCIRJxRNGso",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156575631,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.x9esxHd1l5FBuBFU",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "uHmRJbsjPaAdmEy8",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "10\": I owe my mentors a great debt for shaping me into the person I am today.",
+        "name": "",
+        "_key": "!tables.results!WAViVaKrvumFGoYz.uHmRJbsjPaAdmEy8"
+      },
+      {
+        "_id": "P7ywWBvNPE9miBB0",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "11.5\": I have a family, but I have no idea where they are. One day, I hope to see them again.",
+        "name": "",
+        "_key": "!tables.results!WAViVaKrvumFGoYz.P7ywWBvNPE9miBB0"
+      },
+      {
+        "_id": "yeHMRPYzVoAeS88U",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "13\": My camera/easel/instrument is my most treasured possession, and it reminds me of someone I love.",
+        "name": "",
+        "_key": "!tables.results!WAViVaKrvumFGoYz.yeHMRPYzVoAeS88U"
+      }
+    ]
+  },
+  "BpF2x9JLGIrtWWJV": {
+    "img": "icons/tools/hand/brush-paint-pink.webp",
+    "folder": "2kep2yCIRJxRNGso",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156576982,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.55ONeZvBXNGtXxHl",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ZDbeQHvn65RB0vAR",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Pine",
+        "name": "",
+        "_key": "!tables.results!BpF2x9JLGIrtWWJV.ZDbeQHvn65RB0vAR"
+      },
+      {
+        "_id": "LHqvlH6YkH1e5Xrx",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Pine wands always choose an independent, individual master who may be perceived as a loner, intriguing and perhaps mysterious. Pine wands enjoy being used creatively, and unlike some others, will adapt unprotestingly to new methods and spells. Many wandmakers insist that pine wands are able to detect, and perform best for, owners who are destined for long lives. The pine wand is one of those that are sensitive to non-verbal magic.",
+        "name": "",
+        "_key": "!tables.results!BpF2x9JLGIrtWWJV.LHqvlH6YkH1e5Xrx"
+      },
+      {
+        "_id": "Nxr8WgV8EjO0i5Bi",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Red Oak",
+        "name": "",
+        "_key": "!tables.results!BpF2x9JLGIrtWWJV.Nxr8WgV8EjO0i5Bi"
+      },
+      {
+        "_id": "FjfxZL1UQt1OZLOm",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You will often hear the ignorant say that red oak is an infallible sign of its owner’s hot temper. In fact, the true match for a red oak wand is possessed of unusually fast reactions, making it a perfect duelling wand. Less common than English oak, its ideal master is light of touch, quick-witted and adaptable, often the creator of distinctive, trademark spells, and a good man or woman in a fight.",
+        "name": "",
+        "_key": "!tables.results!BpF2x9JLGIrtWWJV.FjfxZL1UQt1OZLOm"
+      },
+      {
+        "_id": "dpKLCmZuQSIBTzR5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Sycamore",
+        "name": "",
+        "_key": "!tables.results!BpF2x9JLGIrtWWJV.dpKLCmZuQSIBTzR5"
+      },
+      {
+        "_id": "nwLVZt0LclXPszmg",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "The sycamore makes a questing wand, eager for experience and losing brilliance in mundane activities. These may combust if allowed to become ‘bored,’ and many aging witches and wizards are disconcerted to find their wand bursting into flame as they ask it, one more time, to fetch their slippers. The sycamore’s ideal owner is curious, vital and adventurous, and with such an owner, it demonstrates a highly-prized capacity to learn and adapt.",
+        "name": "",
+        "_key": "!tables.results!BpF2x9JLGIrtWWJV.nwLVZt0LclXPszmg"
+      }
+    ]
+  },
+  "r3PDF4XImfDZ7Zvv": {
+    "img": "icons/sundries/books/book-plain-orange.webp",
+    "folder": "immZOdtHQM7E6W3M",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156585446,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.iQ5WEIXmUR1bVWWT",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "igwU52EMt09JQgVM",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Creativity. The world is in need of new ideas and bold action.",
+        "name": "",
+        "_key": "!tables.results!r3PDF4XImfDZ7Zvv.igwU52EMt09JQgVM"
+      },
+      {
+        "_id": "fXMk6OHAgHRaNPP5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Knowledge. The path to power and self-improvement is through knowledge.",
+        "name": "",
+        "_key": "!tables.results!r3PDF4XImfDZ7Zvv.fXMk6OHAgHRaNPP5"
+      },
+      {
+        "_id": "T6uyEg0LGS1pvhJX",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Self-improvement. The goal of a life of study is the betterment of oneself.",
+        "name": "",
+        "_key": "!tables.results!r3PDF4XImfDZ7Zvv.T6uyEg0LGS1pvhJX"
+      }
+    ]
+  },
+  "QWmXp80pXwSaQp20": {
+    "img": "icons/sundries/books/book-plain-orange.webp",
+    "folder": "immZOdtHQM7E6W3M",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156586431,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.50XL52ZaxiQPrOzK",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "igwU52EMt09JQgVM",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unyielding: Uncovering knowledge is worth any price, even a piece of my own humanity.",
+        "name": "",
+        "_key": "!tables.results!QWmXp80pXwSaQp20.igwU52EMt09JQgVM"
+      },
+      {
+        "_id": "fXMk6OHAgHRaNPP5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Reasonably Supple: I let my need to win arguments overshadow friendships and harmony.",
+        "name": "",
+        "_key": "!tables.results!QWmXp80pXwSaQp20.fXMk6OHAgHRaNPP5"
+      },
+      {
+        "_id": "T6uyEg0LGS1pvhJX",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Pliant: I overlook obvious solutions in favor of complicated ones.",
+        "name": "",
+        "_key": "!tables.results!QWmXp80pXwSaQp20.T6uyEg0LGS1pvhJX"
+      }
+    ]
+  },
+  "sYd7HPhREPPKa1wa": {
+    "img": "icons/sundries/books/book-plain-orange.webp",
+    "folder": "immZOdtHQM7E6W3M",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156587834,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.uuO9cY1x3OpGrmhc",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "igwU52EMt09JQgVM",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "10\": I want my life's work to be magical textbooks related to a specific field.",
+        "name": "",
+        "_key": "!tables.results!sYd7HPhREPPKa1wa.igwU52EMt09JQgVM"
+      },
+      {
+        "_id": "fXMk6OHAgHRaNPP5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "12.5\": I've been searching my whole life for the answer to a certain question.",
+        "name": "",
+        "_key": "!tables.results!sYd7HPhREPPKa1wa.fXMk6OHAgHRaNPP5"
+      },
+      {
+        "_id": "T6uyEg0LGS1pvhJX",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "13\": My family has an ancient text of terrible secrets that must not fall into the wrong hands.",
+        "name": "",
+        "_key": "!tables.results!sYd7HPhREPPKa1wa.T6uyEg0LGS1pvhJX"
+      }
+    ]
+  },
+  "k9rTp75Vg9dvdZBc": {
+    "img": "icons/sundries/books/book-plain-orange.webp",
+    "folder": "immZOdtHQM7E6W3M",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156588832,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.mZdgfsJCP5yJHsqL",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "06T1GbDjcR9SjEEJ",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Beech",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.06T1GbDjcR9SjEEJ"
+      },
+      {
+        "_id": "NI75ihAOcW1cKiiL",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "The true match for a beech wand will be, if young, wise beyond his or her years, and if full-grown, rich in understanding and experience. Beech wands perform very weakly for the narrow-minded and intolerant. When properly matched, the beech wand is capable of a subtlety and artistry not seen in any other wood, hence its lustrous reputation.",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.NI75ihAOcW1cKiiL"
+      },
+      {
+        "_id": "Jjdz82tH3a8JLIsT",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Hornbeam",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.Jjdz82tH3a8JLIsT"
+      },
+      {
+        "_id": "BEaBk93qX98RaHgQ",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Hornbeam, a fine-tuned and sentient wand, selects for its life mate the talented witch or wizard with a single, pure passion. Hornbeam wands adapt more quickly to their owner’s style of magic and become so personalized, so quickly, that others will find them extremely difficult to use. They likewise absorb their owner’s code of honor and will refuse to perform acts - good or ill - conflicting with their master’s principles.",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.BEaBk93qX98RaHgQ"
+      },
+      {
+        "_id": "7ilAOiik7uYYZKoD",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Vine",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.7ilAOiik7uYYZKoD"
+      },
+      {
+        "_id": "l5UT0qCvcp850gqM",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Vine wands are among the less common types, and their ideal owners are nearly always those witches or wizards who seek a greater purpose, have a vision beyond the ordinary and frequently astound those who think they know them best. Vine wands seem strongly attracted by personalities with hidden depths, and often instantly detect a match.",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.l5UT0qCvcp850gqM"
+      },
+      {
+        "_id": "WDQsGYGv6GjIqd1X",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Walnut",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.WDQsGYGv6GjIqd1X"
+      },
+      {
+        "_id": "8YQ47fhVZwfwww2r",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Walnut wands are often found in the hands of highly intelligent magical innovators and inventors; this is a handsome wood possessed of unusual versatility and adaptability. Walnut wands will, once subjugated, perform any task its owner desires, provided that the user is of sufficient brilliance. This makes for a truly lethal weapon in the hands of a witch or wizard of no conscience, for the wand and the wizard may feed on each other in an unhealthy manner.",
+        "name": "",
+        "_key": "!tables.results!k9rTp75Vg9dvdZBc.8YQ47fhVZwfwww2r"
+      }
+    ]
+  },
+  "3iLBLVAyw2qk4Cyc": {
+    "img": "icons/magic/death/projectile-skull-fire-purple.webp",
+    "folder": "msDlZwjP4f7Qeguj",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156608835,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "5azX1A5nthCyFD18",
+        "type": "document",
+        "img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Hoarder",
+        "documentUuid": "Compendium.wands.features-wands.Item.nVJ14ea5kcdHbsBT",
+        "description": "",
+        "_key": "!tables.results!3iLBLVAyw2qk4Cyc.5azX1A5nthCyFD18"
+      },
+      {
+        "_id": "MksQWMkmyt4EzFNK",
+        "type": "document",
+        "img": "icons/magic/death/skull-trio-badge-purple.webp",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Compulsive",
+        "documentUuid": "Compendium.wands.features-wands.Item.MlmRx0EN6TKBNWkt",
+        "description": "",
+        "_key": "!tables.results!3iLBLVAyw2qk4Cyc.MksQWMkmyt4EzFNK"
+      },
+      {
+        "_id": "LD8EuYnW6GsNzib3",
+        "type": "document",
+        "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Cough",
+        "documentUuid": "Compendium.wands.features-wands.Item.EjZG9PL7BmYxNuIx",
+        "description": "",
+        "_key": "!tables.results!3iLBLVAyw2qk4Cyc.LD8EuYnW6GsNzib3"
+      },
+      {
+        "_id": "yLgTuNfnrEv1iNtn",
+        "type": "document",
+        "img": "icons/skills/melee/strike-sword-blood-red.webp",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Reckless",
+        "documentUuid": "Compendium.wands.features-wands.Item.JN1RlcPm3MCyTnEk",
+        "description": "",
+        "_key": "!tables.results!3iLBLVAyw2qk4Cyc.yLgTuNfnrEv1iNtn"
+      },
+      {
+        "_id": "E9YxlMmX4tcFX6PD",
+        "type": "document",
+        "img": "icons/skills/wounds/injury-hand-blood-red.webp",
+        "weight": 1,
+        "range": [
+          5,
+          5
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Scent of Decay",
+        "documentUuid": "Compendium.wands.features-wands.Item.r2GhFm005A1wyiZU",
+        "description": "",
+        "_key": "!tables.results!3iLBLVAyw2qk4Cyc.E9YxlMmX4tcFX6PD"
+      },
+      {
+        "_id": "h0hSIYSob6JRoZKY",
+        "type": "document",
+        "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
+        "weight": 1,
+        "range": [
+          6,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Mildly Phobic",
+        "documentUuid": "Compendium.wands.features-wands.Item.R6N8HnLphMcSRtcu",
+        "description": "",
+        "_key": "!tables.results!3iLBLVAyw2qk4Cyc.h0hSIYSob6JRoZKY"
+      }
+    ]
+  },
+  "0HycHJC360Bn1KIs": {
+    "img": "icons/magic/death/projectile-skull-flaming-green.webp",
+    "folder": "msDlZwjP4f7Qeguj",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156610101,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ZbPmagBocQrb72xg",
+        "type": "document",
+        "img": "icons/magic/death/skull-horned-goat-pentagram-red.webp",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Phobic",
+        "documentUuid": "Compendium.wands.features-wands.Item.Y3anHlfFvmqhbsEm",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.ZbPmagBocQrb72xg"
+      },
+      {
+        "_id": "XUoGvho8xqMow8le",
+        "type": "document",
+        "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Jittery",
+        "documentUuid": "Compendium.wands.features-wands.Item.iUruyzGbgmjDPUVg",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.XUoGvho8xqMow8le"
+      },
+      {
+        "_id": "zKAN7ETmSRIfNrLv",
+        "type": "document",
+        "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Unnatural Pallor",
+        "documentUuid": "Compendium.wands.features-wands.Item.GuU4oMsPFkFpzorP",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.zKAN7ETmSRIfNrLv"
+      },
+      {
+        "_id": "AINpEz2R8cHhu1XE",
+        "type": "document",
+        "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Paranoid",
+        "documentUuid": "Compendium.wands.features-wands.Item.ysAn2dJhmEIDntbP",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.AINpEz2R8cHhu1XE"
+      },
+      {
+        "_id": "P4KgpsVcIFmaKXYl",
+        "type": "document",
+        "img": "icons/magic/death/undead-skeleton-deformed-red.webp",
+        "weight": 1,
+        "range": [
+          5,
+          5
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Crimson Pupils",
+        "documentUuid": "Compendium.wands.features-wands.Item.QiVVsr1653UIDixu",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.P4KgpsVcIFmaKXYl"
+      },
+      {
+        "_id": "67yA0wqqAe3zL07s",
+        "type": "document",
+        "img": "icons/magic/acid/projectile-glowing-bubbles.webp",
+        "weight": 1,
+        "range": [
+          6,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Distracted",
+        "documentUuid": "Compendium.wands.features-wands.Item.qOFMIxXhii0sCzQ9",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.67yA0wqqAe3zL07s"
+      },
+      {
+        "_id": "RnoDVw2McM2GN8TC",
+        "type": "document",
+        "img": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+        "weight": 1,
+        "range": [
+          7,
+          7
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Hallucinations",
+        "documentUuid": "Compendium.wands.features-wands.Item.Tehmrfm0ZJtYIODU",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.RnoDVw2McM2GN8TC"
+      },
+      {
+        "_id": "xf6knVRN7XUbcbRp",
+        "type": "document",
+        "img": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+        "weight": 1,
+        "range": [
+          8,
+          8
+        ],
+        "drawn": false,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "name": "Sadistic",
+        "documentUuid": "Compendium.wands.features-wands.Item.55BKrk3KIpvESzwH",
+        "description": "",
+        "_key": "!tables.results!0HycHJC360Bn1KIs.xf6knVRN7XUbcbRp"
+      }
+    ]
+  },
+  "jHKvVOtuZhhT3ITU": {
+    "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+    "folder": "qDW8sBhPerg8KHfM",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156617301,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.veq3SpcA6mANWAEV",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "qhikm90oTdXgyakC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Honesty. Lies, hypocrisy and inauthenticity cause the most spiritual harm to a person's soul.",
+        "name": "",
+        "_key": "!tables.results!jHKvVOtuZhhT3ITU.qhikm90oTdXgyakC"
+      },
+      {
+        "_id": "21OgjTlEdGhnlM7J",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Change. All good and bad things must come to an end. Change is the nature of existence.",
+        "name": "",
+        "_key": "!tables.results!jHKvVOtuZhhT3ITU.21OgjTlEdGhnlM7J"
+      },
+      {
+        "_id": "M8NTr0VsnL7iiuzA",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Independence. My spirit is free, and no one else has authority over my life.",
+        "name": "",
+        "_key": "!tables.results!jHKvVOtuZhhT3ITU.M8NTr0VsnL7iiuzA"
+      }
+    ]
+  },
+  "SZTZYLCrhz5Cc0Ao": {
+    "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+    "folder": "qDW8sBhPerg8KHfM",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156618519,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.BAx5wzdUAeUK05ln",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "qhikm90oTdXgyakC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Rigid: I can't keep a secret to save my life, or anyone else's.",
+        "name": "",
+        "_key": "!tables.results!SZTZYLCrhz5Cc0Ao.qhikm90oTdXgyakC"
+      },
+      {
+        "_id": "21OgjTlEdGhnlM7J",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Slightly Yielding: I am dogmatic in my thoughts and philosophy.",
+        "name": "",
+        "_key": "!tables.results!SZTZYLCrhz5Cc0Ao.21OgjTlEdGhnlM7J"
+      },
+      {
+        "_id": "M8NTr0VsnL7iiuzA",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Surprisingly Swishy: I am easily distracted and if there's a plan, I'll forget it. If I don't forget it, I'll ignore it.",
+        "name": "",
+        "_key": "!tables.results!SZTZYLCrhz5Cc0Ao.M8NTr0VsnL7iiuzA"
+      }
+    ]
+  },
+  "8eBUdxKOc3nrDxPF": {
+    "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+    "folder": "qDW8sBhPerg8KHfM",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156619768,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.lfuMzeyCjvxAVmo2",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "qhikm90oTdXgyakC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "9.5\": I'm seeking enlightenment, but it always eludes me.",
+        "name": "",
+        "_key": "!tables.results!8eBUdxKOc3nrDxPF.qhikm90oTdXgyakC"
+      },
+      {
+        "_id": "21OgjTlEdGhnlM7J",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "11.5\": I see what others are blind to, and I need to open their eyes.",
+        "name": "",
+        "_key": "!tables.results!8eBUdxKOc3nrDxPF.21OgjTlEdGhnlM7J"
+      },
+      {
+        "_id": "M8NTr0VsnL7iiuzA",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "14\": I suffer recurring dreams of a terrible event in the future and will do anything to prevent it.",
+        "name": "",
+        "_key": "!tables.results!8eBUdxKOc3nrDxPF.M8NTr0VsnL7iiuzA"
+      }
+    ]
+  },
+  "W62UzCgtEr9eApFR": {
+    "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+    "folder": "qDW8sBhPerg8KHfM",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156621208,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.368Bn2sE7bYzyzY3",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "qhikm90oTdXgyakC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Black Walnut",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.qhikm90oTdXgyakC"
+      },
+      {
+        "_id": "21OgjTlEdGhnlM7J",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Less common than the standard walnut wand, black walnut wands seek a master of good instincts and powerful insight. Black walnut is a very handsome wood, but is not the easiest to master. If the wand is paired with a sincere, self-aware owner, however, it becomes one of the most loyal and impressive wands of all, with a particular flair in all kinds of charmwork.",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.21OgjTlEdGhnlM7J"
+      },
+      {
+        "_id": "M8NTr0VsnL7iiuzA",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Cedar",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.M8NTr0VsnL7iiuzA"
+      },
+      {
+        "_id": "eIpG37aHCc8dApub",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Never matched to the easily-fooled, the cedar wand finds its perfect home where there is perspicacity and perception. Some wandmakers would go further than that, saying one should never cross the owner of a cedar wand, especially if harm is done to their allies or kin. The witch or wizard who is well-matched with cedar carries the potential to be a frightening adversary, which often comes as a shock to those who have thoughtlessly challenged them.",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.eIpG37aHCc8dApub"
+      },
+      {
+        "_id": "E3wH8pXI43ueKTqb",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Hazel",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.E3wH8pXI43ueKTqb"
+      },
+      {
+        "_id": "8WuzOTe4W5vAaWTA",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "A sensitive wand, hazel often reflect its owner’s emotional state and works best for a master who understands and can manage their own feelings. Others should be careful handling a hazel wand if its owner has been angered or disappointed, because the wand will absorb such energy and discharge it unpredictably. It is capable of outstanding magic in the hands of the skilful and is so devoted to its owner that it often ‘wilts’ at the end of their master's life.",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.8WuzOTe4W5vAaWTA"
+      },
+      {
+        "_id": "QPf2DTZZY5qZVjdg",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          7,
+          8
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Redwood",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.QPf2DTZZY5qZVjdg"
+      },
+      {
+        "_id": "EDS7T77NJL47UmFZ",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          7,
+          8
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Wand-quality redwood is in short supply due to its reputation for bringing good fortune. As usual with wandlore, the populace has it backwards: redwood wands are not themselves lucky, but are strongly attracted to witches and wizards who already possess the admirable ability to fall on their feet, to make the right choice, to snatch advantage from catastrophe. One can expect to hear of exciting exploits when such a witch or wizard wields a redwood wand.",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.EDS7T77NJL47UmFZ"
+      },
+      {
+        "_id": "JM3Gm3kNqjevxmY4",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          9,
+          10
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Silver Lime",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.JM3Gm3kNqjevxmY4"
+      },
+      {
+        "_id": "VVIqua9N9wBUHzKc",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          9,
+          10
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "This unusual and highly attractive wand wood was greatly in vogue in the nineteenth century, and demand consistently outstripped supply. The reasons for these wands’ desirability lay not only in their unusually handsome appearance, but also because they had a reputation for performing best for Seers and those skilled in Legilimency, mysterious arts both, which consequently gave the possessor of a silver lime wand considerable status.",
+        "name": "",
+        "_key": "!tables.results!W62UzCgtEr9eApFR.VVIqua9N9wBUHzKc"
+      }
+    ]
+  },
+  "bhigZFsRUd11qwAY": {
+    "img": "icons/environment/settlement/hut.webp",
+    "folder": "5SeLDrs5q3w74VUa",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156642438,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.VnNZIJDVmD5ozinE",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0gzYYMBiMHnzU87q",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Redemption. There’s a spark of good in everyone.",
+        "name": "",
+        "_key": "!tables.results!bhigZFsRUd11qwAY.0gzYYMBiMHnzU87q"
+      },
+      {
+        "_id": "GGbBLN8wrtg1CKVW",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Community. We have to take care of each other, because no one else will.",
+        "name": "",
+        "_key": "!tables.results!bhigZFsRUd11qwAY.GGbBLN8wrtg1CKVW"
+      },
+      {
+        "_id": "45eRwP2qsEm7FcoV",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Nature. The natural world is more precious than all of so-called civilization.",
+        "name": "",
+        "_key": "!tables.results!bhigZFsRUd11qwAY.45eRwP2qsEm7FcoV"
+      }
+    ]
+  },
+  "wMczx4beRG0O4nXb": {
+    "img": "icons/environment/settlement/hut.webp",
+    "folder": "5SeLDrs5q3w74VUa",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156643402,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.KPlnF3XYiVyEBjfj",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0gzYYMBiMHnzU87q",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Brittle: I am suspicious of strangers and suspect the worst of them.",
+        "name": "",
+        "_key": "!tables.results!wMczx4beRG0O4nXb.0gzYYMBiMHnzU87q"
+      },
+      {
+        "_id": "GGbBLN8wrtg1CKVW",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Slightly Springy: I speak quite tactlessly, without really thinking through my words.",
+        "name": "",
+        "_key": "!tables.results!wMczx4beRG0O4nXb.GGbBLN8wrtg1CKVW"
+      },
+      {
+        "_id": "45eRwP2qsEm7FcoV",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Quite Bendy: Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.",
+        "name": "",
+        "_key": "!tables.results!wMczx4beRG0O4nXb.45eRwP2qsEm7FcoV"
+      }
+    ]
+  },
+  "nwGWFXLDWcCP0tX5": {
+    "img": "icons/environment/settlement/hut.webp",
+    "folder": "5SeLDrs5q3w74VUa",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156644336,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.DcQAbyzs8As9W7Bg",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0gzYYMBiMHnzU87q",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "10.5\": An injury to unspoiled wilderness is an injury to me.",
+        "name": "",
+        "_key": "!tables.results!nwGWFXLDWcCP0tX5.0gzYYMBiMHnzU87q"
+      },
+      {
+        "_id": "GGbBLN8wrtg1CKVW",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "11\": I owe my life to the wizard who took me in when my parents died.",
+        "name": "",
+        "_key": "!tables.results!nwGWFXLDWcCP0tX5.GGbBLN8wrtg1CKVW"
+      },
+      {
+        "_id": "45eRwP2qsEm7FcoV",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "13.5\": It is my duty to preserve and sustain endangered creatures.",
+        "name": "",
+        "_key": "!tables.results!nwGWFXLDWcCP0tX5.45eRwP2qsEm7FcoV"
+      }
+    ]
+  },
+  "7zE4iqtZpjrD0Y7d": {
+    "img": "icons/environment/settlement/hut.webp",
+    "folder": "5SeLDrs5q3w74VUa",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156645271,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.BhPwADeXTOr2zs1I",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "UMrQCJPtgOsYBt1h",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Chestnut",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.UMrQCJPtgOsYBt1h"
+      },
+      {
+        "_id": "zEDKQ0764gfPEQ81",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "This is a most curious, multi-faceted wood, which takes a great deal of colour from the personality that possesses it. The wand of chestnut is attracted to witches and wizards who are skilled tamers of magical beasts and those who are natural fliers. However, three successive heads of the Wizengamot have possessed chestnut and unicorn wands, for this combination shows a predilection for those concerned with all manner of justice.",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.zEDKQ0764gfPEQ81"
+      },
+      {
+        "_id": "CrNbE8sYUe90lMkm",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "English Oak",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.CrNbE8sYUe90lMkm"
+      },
+      {
+        "_id": "dJbQfSuRLPg6lZ4j",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "A wand for good times and bad, this is a friend as loyal as the wizard who deserves it. Wands of English oak demand partners of strength, courage and fidelity. Less well-known is the propensity for owners of English oak wands to have powerful intuition, and, often, an affinity with the magic of the natural world, with the creatures and plants that are necessary to wizardkind.",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.dJbQfSuRLPg6lZ4j"
+      },
+      {
+        "_id": "tH6H563XRzzVD3Yv",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Maple",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.tH6H563XRzzVD3Yv"
+      },
+      {
+        "_id": "eKSKMBP7tMcgMr80",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Garrick Ollivander found that witches and wizards chosen by maple wands, a beautiful and desirable wood, are by nature travelers and explorers. They are not stay-at-home wands, and prefer ambition in their owner, otherwise their magic grows lackluster. Fresh challenges and regular changes of scene cause this wand to literally shine, burnishing itself as it grows with its partner in ability and status, earning its reputation as the wand of high achievers.",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.eKSKMBP7tMcgMr80"
+      },
+      {
+        "_id": "oW8ogucaOoKLPwYY",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Poplar",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.oW8ogucaOoKLPwYY"
+      },
+      {
+        "_id": "v05rRuXQJsa3dICL",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Poplar wands can be relied upon, wands of consistency, strength and uniform power. Always happiest when working with a witch or wizard of clear moral vision, some wizards joke that a poplar wand has never chosen a politician. However, two of the Ministry’s most accomplished Ministers for Magic, Eldritch Diggory and Evangeline Orpington, were possessors of fine, Ollivander-made poplar wands.",
+        "name": "",
+        "_key": "!tables.results!7zE4iqtZpjrD0Y7d.v05rRuXQJsa3dICL"
+      }
+    ]
+  },
+  "gjFpTnzXj5DT7NLo": {
+    "img": "icons/commodities/materials/hair-tuft-brown.webp",
+    "folder": "i9GaPu99jBLcimYX",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156654921,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.FEOXpn5iS1jFPhzZ",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0jIEhXdw07oRRSDz",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "AshUnicorn Hair: Greater Good. The most noble cause is to lay down our lives to defend others.",
+        "name": "",
+        "_key": "!tables.results!gjFpTnzXj5DT7NLo.0jIEhXdw07oRRSDz"
+      },
+      {
+        "_id": "fkUIz6NhqQfbIhpn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Respect. All people—rich or poor, powerful or weak, magical or muggle—deserve respect.",
+        "name": "",
+        "_key": "!tables.results!gjFpTnzXj5DT7NLo.fkUIz6NhqQfbIhpn"
+      },
+      {
+        "_id": "HwY3T9W8bltjcNUS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Sincerity. There's no good pretending to be something I'm not.",
+        "name": "",
+        "_key": "!tables.results!gjFpTnzXj5DT7NLo.HwY3T9W8bltjcNUS"
+      }
+    ]
+  },
+  "s3In5r0Pv73RIgxd": {
+    "img": "icons/commodities/materials/hair-tuft-brown.webp",
+    "folder": "i9GaPu99jBLcimYX",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156655988,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.ghwC0oR4Cmij68hZ",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0jIEhXdw07oRRSDz",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Inflexible: I am slow to trust that others' words are sincere, because of some bad experiences.",
+        "name": "",
+        "_key": "!tables.results!s3In5r0Pv73RIgxd.0jIEhXdw07oRRSDz"
+      },
+      {
+        "_id": "fkUIz6NhqQfbIhpn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Slightly Pliant: I follow the rules, even if they aren't what's best.",
+        "name": "",
+        "_key": "!tables.results!s3In5r0Pv73RIgxd.fkUIz6NhqQfbIhpn"
+      },
+      {
+        "_id": "HwY3T9W8bltjcNUS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Very Supple: I'm always putting my foot in my mouth, invariably insulting or embarrassing others.",
+        "name": "",
+        "_key": "!tables.results!s3In5r0Pv73RIgxd.HwY3T9W8bltjcNUS"
+      }
+    ]
+  },
+  "jaMWWr29yvokKvlL": {
+    "img": "icons/commodities/materials/hair-tuft-brown.webp",
+    "folder": "i9GaPu99jBLcimYX",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156656943,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.EWBfPmktvV5UVcXO",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0jIEhXdw07oRRSDz",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "9\": Someone is depending on me, and I'll never forgive myself if I let them down.",
+        "name": "",
+        "_key": "!tables.results!jaMWWr29yvokKvlL.0jIEhXdw07oRRSDz"
+      },
+      {
+        "_id": "fkUIz6NhqQfbIhpn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "12.5\": I have to prove to that I'm not a disappointment to my family, mentors or peers.",
+        "name": "",
+        "_key": "!tables.results!jaMWWr29yvokKvlL.fkUIz6NhqQfbIhpn"
+      },
+      {
+        "_id": "HwY3T9W8bltjcNUS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "14\": I will be fiercely loyal to anyone who doesn't see me for my faults, but for who I am.",
+        "name": "",
+        "_key": "!tables.results!jaMWWr29yvokKvlL.HwY3T9W8bltjcNUS"
+      }
+    ]
+  },
+  "Q18CLanTMB0kK2x2": {
+    "img": "icons/commodities/materials/hair-tuft-brown.webp",
+    "folder": "i9GaPu99jBLcimYX",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156657853,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.x1xxXArYv0TfojVQ",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "0jIEhXdw07oRRSDz",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Ash",
+        "name": "",
+        "_key": "!tables.results!Q18CLanTMB0kK2x2.0jIEhXdw07oRRSDz"
+      },
+      {
+        "_id": "jf6PoyprcHCw8jwE",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "The ash wand clings to its one true master and ought not to be passed on or gifted from the original owner, because it will lose power and skill. Witches and wizards best suited to ash wands are not lightly swayed from their beliefs or purposes. However, a brash or over-confident witch or wizard will be disappointed by its effects. The ideal owner may be stubborn, and will certainly be courageous, but never crass or arrogant.",
+        "name": "",
+        "_key": "!tables.results!Q18CLanTMB0kK2x2.jf6PoyprcHCw8jwE"
+      },
+      {
+        "_id": "8sb6UPJl2DJShMNE",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Cypress",
+        "name": "",
+        "_key": "!tables.results!Q18CLanTMB0kK2x2.8sb6UPJl2DJShMNE"
+      },
+      {
+        "_id": "vcz4x7J18skqVQUx",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Cypress wands are associated with nobility and dying a heroic death, historically. Fortunately, the possessors of cypress wands are rarely called upon to lay down their lives, but doubtless many of them would do so if required. Wands of cypress find their soulmates among the brave, the bold and the self-sacrificing: those who are unafraid to confront the shadows in their own and others’ natures.",
+        "name": "",
+        "_key": "!tables.results!Q18CLanTMB0kK2x2.vcz4x7J18skqVQUx"
+      },
+      {
+        "_id": "fkUIz6NhqQfbIhpn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Willow",
+        "name": "",
+        "_key": "!tables.results!Q18CLanTMB0kK2x2.fkUIz6NhqQfbIhpn"
+      },
+      {
+        "_id": "HwY3T9W8bltjcNUS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Willow is an uncommon wand wood with healing power, and their ideal owner often has some (usually unwarranted) insecurity, however well they may try and hide it. With a handsome appearance and well-founded reputation for enabling advanced, non-verbal magic, the willow wands have consistently selected those of greatest potential, rather than those who feel they have little to learn.",
+        "name": "",
+        "_key": "!tables.results!Q18CLanTMB0kK2x2.HwY3T9W8bltjcNUS"
+      }
+    ]
+  },
+  "SWyme2qexuuxsq3h": {
+    "img": "icons/skills/wounds/injury-pain-body-orange.webp",
+    "folder": "QyRgDsxoMIFbzvJb",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156696951,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "HVWDQHAjYkHRatxm",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/commodities/bones/bone-joint-tan.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose part of a leg.",
+        "name": "",
+        "_key": "!tables.results!SWyme2qexuuxsq3h.HVWDQHAjYkHRatxm"
+      },
+      {
+        "_id": "d0McDZ9ih4lvpMI7",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/commodities/biological/hand-clawed-tan.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose an arm.",
+        "name": "",
+        "_key": "!tables.results!SWyme2qexuuxsq3h.d0McDZ9ih4lvpMI7"
+      },
+      {
+        "_id": "ah9MeK0tZrFFFeL1",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/commodities/biological/pustules-red.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose a large amount of flesh.",
+        "name": "",
+        "_key": "!tables.results!SWyme2qexuuxsq3h.ah9MeK0tZrFFFeL1"
+      }
+    ]
+  },
+  "eOCBeLpbD5nA0wDX": {
+    "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+    "folder": "QyRgDsxoMIFbzvJb",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156698665,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "7Fxri0TMvFVAVvwO",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/skills/wounds/injury-hand-blood-red.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose a part of a finger.",
+        "name": "",
+        "_key": "!tables.results!eOCBeLpbD5nA0wDX.7Fxri0TMvFVAVvwO"
+      },
+      {
+        "_id": "t5CuLksalcfjQWmR",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/commodities/biological/finger-clawed-green-black.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose a toe.",
+        "name": "",
+        "_key": "!tables.results!eOCBeLpbD5nA0wDX.t5CuLksalcfjQWmR"
+      },
+      {
+        "_id": "AmdIrGnBmnxvLM6E",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "systems/dnd5e/icons/skills/yellow_17.jpg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose a piece of one of your ears.",
+        "name": "",
+        "_key": "!tables.results!eOCBeLpbD5nA0wDX.AmdIrGnBmnxvLM6E"
+      },
+      {
+        "_id": "vGdWO6HRSBUTzCUP",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose a small piece of skin.",
+        "name": "",
+        "_key": "!tables.results!eOCBeLpbD5nA0wDX.vGdWO6HRSBUTzCUP"
+      },
+      {
+        "_id": "muyxVbmr1gZ7RmVV",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          5,
+          5
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "systems/dnd5e/icons/skills/light_02.jpg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose one of your eyebrows.",
+        "name": "",
+        "_key": "!tables.results!eOCBeLpbD5nA0wDX.muyxVbmr1gZ7RmVV"
+      },
+      {
+        "_id": "f4Xq5K5RJ1xy4SoP",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          6,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/equipment/chest/shirt-collared-brown.webp",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "You lose an article of clothing.",
+        "name": "",
+        "_key": "!tables.results!eOCBeLpbD5nA0wDX.f4Xq5K5RJ1xy4SoP"
+      }
+    ]
+  },
+  "hbqNQEFAql96OWeX": {
+    "img": "icons/tools/laboratory/vials-blue-pink.webp",
+    "folder": "phDA2akNgGJRaX0z",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156708106,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.DUg87NoETDnDY4Jw",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "6w5XsM6IWGdHAPNB",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Tradition. The ways of the past must never be forgotten, for they teach us who we are.",
+        "name": "",
+        "_key": "!tables.results!hbqNQEFAql96OWeX.6w5XsM6IWGdHAPNB"
+      },
+      {
+        "_id": "6R7bKKRsi1zWDxlE",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Aspiration. I work hard to be recognized as the best there is at my craft.",
+        "name": "",
+        "_key": "!tables.results!hbqNQEFAql96OWeX.6R7bKKRsi1zWDxlE"
+      },
+      {
+        "_id": "a5Q1ZA1T4RZ9DvYn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Live and Let Live. Meddling in the affairs of others only causes trouble.",
+        "name": "",
+        "_key": "!tables.results!hbqNQEFAql96OWeX.a5Q1ZA1T4RZ9DvYn"
+      }
+    ]
+  },
+  "yTAP6fE8aWEbiHwe": {
+    "img": "icons/tools/laboratory/vials-blue-pink.webp",
+    "folder": "phDA2akNgGJRaX0z",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156709150,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.bf7Kkk7DnLzmALwB",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "6w5XsM6IWGdHAPNB",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Hard: I'm convinced of my work's significance, and blind to my shortcomings and the risk of failure.",
+        "name": "",
+        "_key": "!tables.results!yTAP6fE8aWEbiHwe.6w5XsM6IWGdHAPNB"
+      },
+      {
+        "_id": "6R7bKKRsi1zWDxlE",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Barely Yielding: Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.",
+        "name": "",
+        "_key": "!tables.results!yTAP6fE8aWEbiHwe.6R7bKKRsi1zWDxlE"
+      },
+      {
+        "_id": "a5Q1ZA1T4RZ9DvYn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Quite Flexible: I'm horribly jealous of anyone who outshines my work. Everywhere I go, I'm surrounded by rivals.",
+        "name": "",
+        "_key": "!tables.results!yTAP6fE8aWEbiHwe.a5Q1ZA1T4RZ9DvYn"
+      }
+    ]
+  },
+  "IACL8r7EYUEsf6To": {
+    "img": "icons/tools/laboratory/vials-blue-pink.webp",
+    "folder": "phDA2akNgGJRaX0z",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156710018,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.vvDIXBHuR2RwNCVZ",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "6w5XsM6IWGdHAPNB",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "9\": I will face any challenge to win the approval of my family.",
+        "name": "",
+        "_key": "!tables.results!IACL8r7EYUEsf6To.6w5XsM6IWGdHAPNB"
+      },
+      {
+        "_id": "6R7bKKRsi1zWDxlE",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "10.5\": I idolize legendary wizards and measure my deeds against theirs.",
+        "name": "",
+        "_key": "!tables.results!IACL8r7EYUEsf6To.6R7bKKRsi1zWDxlE"
+      },
+      {
+        "_id": "a5Q1ZA1T4RZ9DvYn",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "12\": I am the only one carrying on my name, and it is up to me to immortalize it in history.",
+        "name": "",
+        "_key": "!tables.results!IACL8r7EYUEsf6To.a5Q1ZA1T4RZ9DvYn"
+      }
+    ]
+  },
+  "syVrV4kESfKRQ4Cp": {
+    "img": "icons/tools/laboratory/vials-blue-pink.webp",
+    "folder": "phDA2akNgGJRaX0z",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156711042,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.Hq9PMYFCjO9w3JL7",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "6w5XsM6IWGdHAPNB",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Acacia",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.6w5XsM6IWGdHAPNB"
+      },
+      {
+        "_id": "Qnrs61Nz6nc6motX",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "This very unusual wand wood creates tricky wands that often refuse to produce magic for any but their owner, and also withholds their best effects from all but those most gifted. This makes them difficult to place, and wandmakers often keep only a small stock for those witches or wizards of sufficient subtlety, for acacia is not suited to what is commonly known as ‘bangs-and-smells’ magic. When well-matched, an acacia wand matches any for power, though it is often underrated due to the peculiarity of its temperament.",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.Qnrs61Nz6nc6motX"
+      },
+      {
+        "_id": "6R7bKKRsi1zWDxlE",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Elm",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.6R7bKKRsi1zWDxlE"
+      },
+      {
+        "_id": "jr66TaJUjRot32DR",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Elm wands prefer owners with presence, magical dexterity and a certain native dignity. Although some wizards have spread rumors that elm wands’ magic requires blood purity, there have been perfect matches of elm wands who are Muggle-borns. Of all wand woods, elm produces the fewest accidents, the least foolish errors, and the most elegant charms and spells; these are sophisticated wands, capable of highly advanced magic in the right hands.",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.jr66TaJUjRot32DR"
+      },
+      {
+        "_id": "a5Q1ZA1T4RZ9DvYn",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Larch",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.a5Q1ZA1T4RZ9DvYn"
+      },
+      {
+        "_id": "qo1geS8DcZLUec9b",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Larch wands have a reputation for instilling confidence and courage in the user. The celebrated wandmaker Garrick Ollivander found that larch always created wands of hidden talents and unexpected effects, which likewise describes the master who deserves it. It is often the case that the witch or wizard who belongs to the larch wand may never realize the full extent of their considerable talents until paired with it, but that they will then make an exceptional match.",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.qo1geS8DcZLUec9b"
+      },
+      {
+        "_id": "BrEX2vZ31t9tLE9Y",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Laurel",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.BrEX2vZ31t9tLE9Y"
+      },
+      {
+        "_id": "TOXRxwZcOMnrV7ul",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "It is said a laurel wand cannot perform a dishonourable act, although in the owner’s quest for glory, laurel wands can perform powerful and sometimes lethal magic. The laurel wand seems unable to tolerate laziness in a possessor, and in that case, can be won away from their owner most easily. Otherwise, it will cleave happily to its first match and issue a spontaneous zap if another attempts to steal it.",
+        "name": "",
+        "_key": "!tables.results!syVrV4kESfKRQ4Cp.TOXRxwZcOMnrV7ul"
+      }
+    ]
+  },
+  "A86ktgyz6XwSJs5U": {
+    "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+    "folder": "1OYJ2ygxZ9or23lv",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156719000,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.Ahp773xn2CwTT6Sf",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "hTsUE0AE1C9RBIMU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Charity. I always try to help those in need, no matter what the personal cost.",
+        "name": "",
+        "_key": "!tables.results!A86ktgyz6XwSJs5U.hTsUE0AE1C9RBIMU"
+      },
+      {
+        "_id": "oxOjVYgfwM0QN2KK",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Fairness. No one should get preferential treatment, and no one is above justice.",
+        "name": "",
+        "_key": "!tables.results!A86ktgyz6XwSJs5U.oxOjVYgfwM0QN2KK"
+      },
+      {
+        "_id": "SWR1Y3W03mr4hNKZ",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Might. History is written by the victors, and the strong will always win.",
+        "name": "",
+        "_key": "!tables.results!A86ktgyz6XwSJs5U.SWR1Y3W03mr4hNKZ"
+      }
+    ]
+  },
+  "ovMbxF1L1ZAWC939": {
+    "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+    "folder": "1OYJ2ygxZ9or23lv",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156720355,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.Qa7H5IglO5fNHqTH",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "hTsUE0AE1C9RBIMU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Very Solid: I have little respect for anyone who is not willing to stand up for what is right.",
+        "name": "",
+        "_key": "!tables.results!ovMbxF1L1ZAWC939.hTsUE0AE1C9RBIMU"
+      },
+      {
+        "_id": "oxOjVYgfwM0QN2KK",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Mildly Flexible: Secretly, I believe that things would be better if I were a tyrant, ruling over everyone else.",
+        "name": "",
+        "_key": "!tables.results!ovMbxF1L1ZAWC939.oxOjVYgfwM0QN2KK"
+      },
+      {
+        "_id": "SWR1Y3W03mr4hNKZ",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Whippy: Too often, violence is my answer to almost any situation.",
+        "name": "",
+        "_key": "!tables.results!ovMbxF1L1ZAWC939.SWR1Y3W03mr4hNKZ"
+      }
+    ]
+  },
+  "RPwbn9Qm7tFYKivz": {
+    "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+    "folder": "1OYJ2ygxZ9or23lv",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156721311,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.0eZQgbYVi1CVmzhr",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "hTsUE0AE1C9RBIMU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "9.5\": I owe a debt I can never repay to someone who once defended me.",
+        "name": "",
+        "_key": "!tables.results!RPwbn9Qm7tFYKivz.hTsUE0AE1C9RBIMU"
+      },
+      {
+        "_id": "oxOjVYgfwM0QN2KK",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "10.5\": Nothing is more important than honoring a pledge I make.",
+        "name": "",
+        "_key": "!tables.results!RPwbn9Qm7tFYKivz.oxOjVYgfwM0QN2KK"
+      },
+      {
+        "_id": "SWR1Y3W03mr4hNKZ",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "13.5\": I protect those who cannot protect themselves.",
+        "name": "",
+        "_key": "!tables.results!RPwbn9Qm7tFYKivz.SWR1Y3W03mr4hNKZ"
+      }
+    ]
+  },
+  "OUnFRyyfNFEPTHcq": {
+    "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+    "folder": "1OYJ2ygxZ9or23lv",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156722430,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.3O6RbWDPtwizYNNG",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "hTsUE0AE1C9RBIMU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Blackthorn",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.hTsUE0AE1C9RBIMU"
+      },
+      {
+        "_id": "oxOjVYgfwM0QN2KK",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "A very unusual wand wood, blackthorn wands have the reputation of being best suited to a warrior. One finds blackthorn wands among the Aurors as well as among the denizens of Azkaban. These wands appear to need to pass through danger or hardship with their owners to become truly bonded. Given this condition, the blackthorn wand will become a loyal and faithful servant.",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.oxOjVYgfwM0QN2KK"
+      },
+      {
+        "_id": "SWR1Y3W03mr4hNKZ",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Hawthorn",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.SWR1Y3W03mr4hNKZ"
+      },
+      {
+        "_id": "mKYzaa3AOVOCrE9F",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Hawthorn wands may be particularly suited to healing magic, but they are also adept at curses, and it has been generally observed that the hawthorn wand seems most at home with a conflicted nature or a period of turmoil. Hawthorn wands are not easy to master, however, and one should only ever be placed in the hands of a witch or wizard of proven talent. Hawthorn wands have a notable peculiarity: their spells can, when badly handled, backfire.",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.mKYzaa3AOVOCrE9F"
+      },
+      {
+        "_id": "eZ3airwvkV10sv4h",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Mahogany",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.eZ3airwvkV10sv4h"
+      },
+      {
+        "_id": "ALKAqX8RShHGRMez",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "The mahogany tree symbolizes strength, safety, protectiveness, and practicality, and these traits are mirrored in a mahogany wand’s suitable match. With plenty of power and a knack for transfiguration, the owners of mahogany wands are often reliable and serve as cornerstones for their local wizard community.",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.ALKAqX8RShHGRMez"
+      },
+      {
+        "_id": "ZA0MDKH9zIKlYTB0",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          7,
+          8
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Rowan",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.ZA0MDKH9zIKlYTB0"
+      },
+      {
+        "_id": "d3UxCUBHbeHAx7O6",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          7,
+          8
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Rowan wood has always been much-favored for wands, because it is reputed to be more protective than any other and renders all manner of defensive charms especially strong and difficult to break. It is also commonly stated that no dark witch or wizard ever owned a rowan wand. Rowan is most happily placed with the clear-headed and the pure-hearted, but this reputation for virtue ought not to fool anyone – these wands frequently outperform others in duels.",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.d3UxCUBHbeHAx7O6"
+      },
+      {
+        "_id": "0iRepT4OdF0MiZJJ",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          9,
+          10
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Yew",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.0iRepT4OdF0MiZJJ"
+      },
+      {
+        "_id": "QkHri0uSkRHKxk0Y",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          9,
+          10
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Yew wands are among the rarer kinds, and their ideal matches are likewise unusual and occasionally notorious. The wand of yew is reputed to endow the power of life and death, retaining a fearsome reputation in the spheres of duelling and curses. However, a witch or wizard might equally prove a fierce protector. Where wizards have been buried with wands of yew, the wand generally sprouts into a tree guarding the owner’s grave. A yew wand never chooses either a mediocre or a timid owner.",
+        "name": "",
+        "_key": "!tables.results!OUnFRyyfNFEPTHcq.QkHri0uSkRHKxk0Y"
+      }
+    ]
+  },
+  "QPMQBwBpdPnUpQCo": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "iB0vxH8ognjaI6Ep",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156734812,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.DnVL47x4CU2PdQ1l",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ZnUidYoBvaeRlkmC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Friends. I’m loyal to my friends, and anyone else can go soak their head.",
+        "name": "",
+        "_key": "!tables.results!QPMQBwBpdPnUpQCo.ZnUidYoBvaeRlkmC"
+      },
+      {
+        "_id": "90LOosAMBmzyl5IS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Retribution. Wrongdoers should suffer the same misery they've inflicted.",
+        "name": "",
+        "_key": "!tables.results!QPMQBwBpdPnUpQCo.90LOosAMBmzyl5IS"
+      },
+      {
+        "_id": "IxvXhDEuR1k9RJLu",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Competition. The struggle to win and survive drives greatness.",
+        "name": "",
+        "_key": "!tables.results!QPMQBwBpdPnUpQCo.IxvXhDEuR1k9RJLu"
+      }
+    ]
+  },
+  "J8jEltY1ovdg23eE": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "iB0vxH8ognjaI6Ep",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156735859,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.l0tHhruZGkBqO6fy",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ZnUidYoBvaeRlkmC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unbending: My hatred of my enemies is blind and unreasoning.",
+        "name": "",
+        "_key": "!tables.results!J8jEltY1ovdg23eE.ZnUidYoBvaeRlkmC"
+      },
+      {
+        "_id": "90LOosAMBmzyl5IS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Fairly Supple: Despite my best efforts, I am unreliable to my friends.",
+        "name": "",
+        "_key": "!tables.results!J8jEltY1ovdg23eE.90LOosAMBmzyl5IS"
+      },
+      {
+        "_id": "IxvXhDEuR1k9RJLu",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Very Pliant: I too often hear veiled insults and threats in innocent words, and I'm quick to anger.",
+        "name": "",
+        "_key": "!tables.results!J8jEltY1ovdg23eE.IxvXhDEuR1k9RJLu"
+      }
+    ]
+  },
+  "1wETAYKuFNqx7uQi": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "iB0vxH8ognjaI6Ep",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156737014,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.a5rVpUEJy81539Ek",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ZnUidYoBvaeRlkmC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "9.5\": I will be incredible at my chosen pursuits, the greatest that ever lived",
+        "name": "",
+        "_key": "!tables.results!1wETAYKuFNqx7uQi.ZnUidYoBvaeRlkmC"
+      },
+      {
+        "_id": "90LOosAMBmzyl5IS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "11\": I'll never forget a crushing defeat or the opponent who dealt it.",
+        "name": "",
+        "_key": "!tables.results!1wETAYKuFNqx7uQi.90LOosAMBmzyl5IS"
+      },
+      {
+        "_id": "IxvXhDEuR1k9RJLu",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "14\": Those who fight beside me are those worth dying for.",
+        "name": "",
+        "_key": "!tables.results!1wETAYKuFNqx7uQi.IxvXhDEuR1k9RJLu"
+      }
+    ]
+  },
+  "0NBvFWcUXFyjzGFy": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "iB0vxH8ognjaI6Ep",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156738026,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.AQ3SvkD3CKWxwvF4",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "ZnUidYoBvaeRlkmC",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Cherry",
+        "name": "",
+        "_key": "!tables.results!0NBvFWcUXFyjzGFy.ZnUidYoBvaeRlkmC"
+      },
+      {
+        "_id": "90LOosAMBmzyl5IS",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "This very rare wand wood creates a wand of strange power, most highly prized by the wizarding students of the school of Mahoutokoro in Japan, where those who own cherry wands have special prestige. The Western wand-purchaser should dispel from their minds any notion that the pink blossom of the living tree makes for a frivolous or merely ornamental wand, for cherry wood often makes a wand that possesses truly lethal power, whatever the core.",
+        "name": "",
+        "_key": "!tables.results!0NBvFWcUXFyjzGFy.90LOosAMBmzyl5IS"
+      },
+      {
+        "_id": "IxvXhDEuR1k9RJLu",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Fir",
+        "name": "",
+        "_key": "!tables.results!0NBvFWcUXFyjzGFy.IxvXhDEuR1k9RJLu"
+      },
+      {
+        "_id": "YGhnRaWBdz02n450",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "One wandmaker called wands of fir wood ‘the survivor’s wand’, because he had sold it to three wizards who subsequently passed through mortal peril unscathed. There is no doubt that this wood, coming as it does from the most resilient of trees, produces wands that demand staying power and strength of purpose in their true owners. Fir wands are particularly suited to Transfiguration, and favour owners of focused, strong-minded and, occasionally, intimidating demeanor.",
+        "name": "",
+        "_key": "!tables.results!0NBvFWcUXFyjzGFy.YGhnRaWBdz02n450"
+      },
+      {
+        "_id": "LNTdmzUr6F2KmAsN",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Spruce",
+        "name": "",
+        "_key": "!tables.results!0NBvFWcUXFyjzGFy.LNTdmzUr6F2KmAsN"
+      },
+      {
+        "_id": "PPdotLmT4PhQahn8",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Spruce wands are ill-matched with cautious or nervous natures, becoming positively dangerous in fumbling fingers. They require a firm hand, because they seem to have their own ideas about what magic it ought to produce. However, when a spruce wand meets its match in a bold spell-caster with a good sense of humor, it becomes a superb helper. Intensely loyal to owners, the wands are capable of producing particularly flamboyant and dramatic effects.",
+        "name": "",
+        "_key": "!tables.results!0NBvFWcUXFyjzGFy.PPdotLmT4PhQahn8"
+      }
+    ]
+  },
+  "gIXdFaOlhW3F7nrt": {
+    "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+    "folder": "bI4uOLB4seNA6Rcy",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156745593,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.c7HRw7OrwyyFQVrd",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "GXopuveoMGmPgBhx",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: People. I like seeing smiles on people’s faces. That’s all that matters.",
+        "name": "",
+        "_key": "!tables.results!gIXdFaOlhW3F7nrt.GXopuveoMGmPgBhx"
+      },
+      {
+        "_id": "2hRr2PWjjogFAqFU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Might. The strong are meant to lead and the weak will follow.",
+        "name": "",
+        "_key": "!tables.results!gIXdFaOlhW3F7nrt.2hRr2PWjjogFAqFU"
+      },
+      {
+        "_id": "tRJEJSC12SWMlgpb",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Destiny. Nothing and no one can steer me away from my higher calling.",
+        "name": "",
+        "_key": "!tables.results!gIXdFaOlhW3F7nrt.tRJEJSC12SWMlgpb"
+      }
+    ]
+  },
+  "fHvQuSgFu3nv5Q6q": {
+    "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+    "folder": "bI4uOLB4seNA6Rcy",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156746887,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.sJZX4QZAFc6KKCmd",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "GXopuveoMGmPgBhx",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Solid: I'm never satisfied with what I have--I always want more.",
+        "name": "",
+        "_key": "!tables.results!fHvQuSgFu3nv5Q6q.GXopuveoMGmPgBhx"
+      },
+      {
+        "_id": "2hRr2PWjjogFAqFU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Reasonably Springy: I secretly believe that everyone is beneath me.",
+        "name": "",
+        "_key": "!tables.results!fHvQuSgFu3nv5Q6q.2hRr2PWjjogFAqFU"
+      },
+      {
+        "_id": "tRJEJSC12SWMlgpb",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Swishy: I'm a (misguided) romantic and a sucker for a pretty face.",
+        "name": "",
+        "_key": "!tables.results!fHvQuSgFu3nv5Q6q.tRJEJSC12SWMlgpb"
+      }
+    ]
+  },
+  "1lDnmoV1tYwDSDey": {
+    "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+    "folder": "bI4uOLB4seNA6Rcy",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156747845,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.DxosXebfaEGxgqQv",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "GXopuveoMGmPgBhx",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "10\": I want to be famous, whatever it takes.",
+        "name": "",
+        "_key": "!tables.results!1lDnmoV1tYwDSDey.GXopuveoMGmPgBhx"
+      },
+      {
+        "_id": "2hRr2PWjjogFAqFU",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "12\": Family and institutions are most important--friends and sycophants come and go.",
+        "name": "",
+        "_key": "!tables.results!1lDnmoV1tYwDSDey.2hRr2PWjjogFAqFU"
+      },
+      {
+        "_id": "tRJEJSC12SWMlgpb",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "13\": It is my duty to lead and inspire others.",
+        "name": "",
+        "_key": "!tables.results!1lDnmoV1tYwDSDey.tRJEJSC12SWMlgpb"
+      }
+    ]
+  },
+  "Xy5a4yp6Z0L9iTv5": {
+    "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+    "folder": "bI4uOLB4seNA6Rcy",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156748846,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.JvJLMqW68H9qME99",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "GXopuveoMGmPgBhx",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Alder",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.GXopuveoMGmPgBhx"
+      },
+      {
+        "_id": "2hRr2PWjjogFAqFU",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "While the wood itself is unyielding, the ideal owner of an alder wand is not stubborn or obstinate, but often helpful, considerate and most likeable. When an alder wand is happily placed, it becomes a magnificent, loyal helpmate. Of all wand types, alder is best suited to non-verbal spell work, whence comes its reputation for being suitable only for the most advanced witches and wizards.",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.2hRr2PWjjogFAqFU"
+      },
+      {
+        "_id": "tRJEJSC12SWMlgpb",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Apple",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.tRJEJSC12SWMlgpb"
+      },
+      {
+        "_id": "7KF1pDPzyXjGvG9K",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Applewood wands are not made in great numbers. They are powerful and best suited to an owner of high aims and ideals, as this wood mixes poorly with Dark magic. It is said that the possessor of an apple wand will be well-loved and long-lived, and wizards of great personal charm often find their perfect match in an applewood wand.",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.7KF1pDPzyXjGvG9K"
+      },
+      {
+        "_id": "6NQhACCZYErcP36o",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Aspen",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.6NQhACCZYErcP36o"
+      },
+      {
+        "_id": "AUfP94rhXedc0I8Z",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Wand-quality aspen wood is prized for its stylish resemblance to ivory and usually outstanding charmwork. The proper owner of the aspen wand is often an accomplished duellist, for the aspen wand is particularly suited to martial magic. An infamous and secretive eighteenth-century duelling club, the Silver Spears, only admitted owners of aspen wands. Owners are generally strong-minded and determined, likely to be attracted by quests; this is a wand for revolutionaries.",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.AUfP94rhXedc0I8Z"
+      },
+      {
+        "_id": "knUExkUp4kQKETip",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Pear",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.knUExkUp4kQKETip"
+      },
+      {
+        "_id": "hmo8wSzSInWwYoYo",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "The golden-toned wood of pear produces wands of splendid magical powers. Possessors of pear wands are usually popular and well-respected, and no one knows of a single instance where a pear wand was in the possession of a Dark witch or wizard. Pear wands are among the most resilient, and they commonly keep a remarkable appearance of newness, even after many years of hard use.",
+        "name": "",
+        "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.hmo8wSzSInWwYoYo"
+      }
+    ]
+  },
+  "VytZ33lhwe8kZ0N7": {
+    "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+    "folder": "n8EyrfzBwmACsoDw",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156758505,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.Lz8DjrDM18keXsOv",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "C8fQWcZzklfjez6w",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Unicorn Hair: Aspiration. I'm going to prove that I'm worthy of a better life.",
+        "name": "",
+        "_key": "!tables.results!VytZ33lhwe8kZ0N7.C8fQWcZzklfjez6w"
+      },
+      {
+        "_id": "4bftiuzCtyks1Err",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dragon Heartstring: Cynicism. I only help the people who help me; that’s how you survive.",
+        "name": "",
+        "_key": "!tables.results!VytZ33lhwe8kZ0N7.4bftiuzCtyks1Err"
+      },
+      {
+        "_id": "AT2UXhr1ZaPkXhK5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Phoenix Feather: Freedom. When people follow rules blindly, they imprison themselves.",
+        "name": "",
+        "_key": "!tables.results!VytZ33lhwe8kZ0N7.AT2UXhr1ZaPkXhK5"
+      }
+    ]
+  },
+  "oyZAal7DUhWWCfIi": {
+    "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+    "folder": "n8EyrfzBwmACsoDw",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156760106,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.KHTHbJYIT9aNazDI",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "C8fQWcZzklfjez6w",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Stiff: Once someone questions my courage, I never back down no matter how dangerous the situation.",
+        "name": "",
+        "_key": "!tables.results!oyZAal7DUhWWCfIi.C8fQWcZzklfjez6w"
+      },
+      {
+        "_id": "4bftiuzCtyks1Err",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Slightly Bendy: I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.",
+        "name": "",
+        "_key": "!tables.results!oyZAal7DUhWWCfIi.4bftiuzCtyks1Err"
+      },
+      {
+        "_id": "AT2UXhr1ZaPkXhK5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Flexible: I'll say anything to avoid having to do extra work.",
+        "name": "",
+        "_key": "!tables.results!oyZAal7DUhWWCfIi.AT2UXhr1ZaPkXhK5"
+      }
+    ]
+  },
+  "gkELBK6K6J3lRmpN": {
+    "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+    "folder": "n8EyrfzBwmACsoDw",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156760986,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.xYEccSNnKNApeoQp",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "C8fQWcZzklfjez6w",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          1,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "9\": An impudent joke once earned me a horrible beating, and I will take my revenge on any bully I encounter.",
+        "name": "",
+        "_key": "!tables.results!gkELBK6K6J3lRmpN.C8fQWcZzklfjez6w"
+      },
+      {
+        "_id": "4bftiuzCtyks1Err",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          3,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "11.5\": I will do anything to prove myself superior to my hated rival.",
+        "name": "",
+        "_key": "!tables.results!gkELBK6K6J3lRmpN.4bftiuzCtyks1Err"
+      },
+      {
+        "_id": "AT2UXhr1ZaPkXhK5",
+        "type": "text",
+        "weight": 2,
+        "range": [
+          5,
+          6
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "13.5\": No one else is going to have to endure the hardships I've been through.",
+        "name": "",
+        "_key": "!tables.results!gkELBK6K6J3lRmpN.AT2UXhr1ZaPkXhK5"
+      }
+    ]
+  },
+  "He7MDS3d8udfd4ZH": {
+    "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+    "folder": "n8EyrfzBwmACsoDw",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": null,
+      "modifiedTime": 1709156762210,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "RollTable.R2TmtRnZzET0Wl2p",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "results": [
+      {
+        "_id": "C8fQWcZzklfjez6w",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dogwood",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.C8fQWcZzklfjez6w"
+      },
+      {
+        "_id": "4bftiuzCtyks1Err",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          1,
+          1
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Dogwood wands are quirky, noisy, and mischievous; they have playful natures and insist upon partners who provide excitement and fun. It would be quite wrong to think dogwood wands aren’t capable of serious magic; they perform outstanding spells in difficult conditions, and with a suitably clever owner, can produce dazzling enchantments.",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.4bftiuzCtyks1Err"
+      },
+      {
+        "_id": "AT2UXhr1ZaPkXhK5",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Ebony",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.AT2UXhr1ZaPkXhK5"
+      },
+      {
+        "_id": "HQNulFQkOsu3CqNe",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          2,
+          2
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Ebony wands are impressive in appearance and reputation, being highly suited to Transfiguration and combative magic. Ebony is happiest in the hand of those with the courage to be themselves. Frequently non-conformist or comfortable with being an outsider, the ebony wand’s perfect match will not be swayed lightly from their beliefs and purpose.",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.HQNulFQkOsu3CqNe"
+      },
+      {
+        "_id": "eFbN8NQ8uQd0scrm",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Elder",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.eFbN8NQ8uQd0scrm"
+      },
+      {
+        "_id": "L1ND5YG95JMkYWQa",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          3,
+          3
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "The rarest wand wood of all, and reputed to be unlucky (a baseless superstition), elder wands are trickiest to master. They contain powerful magic, but scorn any owner who is not a superior caster; it takes a remarkable wizard to keep an elder wand. The truth is that only a highly unusual person will find their perfect match in elder, but that witch or wizard in question is certainly marked out for a special destiny.",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.L1ND5YG95JMkYWQa"
+      },
+      {
+        "_id": "MBHd59Xt3vGezN3H",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Holly",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.MBHd59Xt3vGezN3H"
+      },
+      {
+        "_id": "gw6WnK8kfwsKYMdY",
+        "type": "text",
+        "weight": 1,
+        "range": [
+          4,
+          4
+        ],
+        "drawn": false,
+        "flags": {},
+        "img": "icons/svg/d20-black.svg",
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": "Holly is one of the rarer kinds of wand woods; traditionally considered protective, it works most happily for those who may need help overcoming a tendency to anger and impetuosity. At the same time, holly wands often choose owners engaged in some dangerous and often spiritual quest. Holly is a notoriously difficult wood to team with phoenix feather, but should such a pairing find its match, nothing and nobody should stand in their way.",
+        "name": "",
+        "_key": "!tables.results!He7MDS3d8udfd4ZH.gw6WnK8kfwsKYMdY"
+      }
+    ]
+  }
+}

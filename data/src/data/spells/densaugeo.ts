@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const densaugeo = SpellSchema.parse({
+  id: "densaugeo",
+  foundryId: "2t2TuOHaeTRemxMv",
+  type: "spell",
+  level: 1,
+  school: "jhc",
+  source: "W&W p.66",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "creature", value: 1, width: null, units: "" },
+  actionType: "rsak",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["2d8","psychic"]], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "1d8" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: "" },
+  preparation: { mode: "prepared", prepared: false },
+});

@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const dissonusUlulatus = SpellSchema.parse({
+  id: "dissonus-ululatus",
+  foundryId: "rwE32HoFEGrZa1pD",
+  type: "spell",
+  level: 3,
+  school: "cha",
+  source: "W&W p.67",
+  activation: { type: "minute", cost: 10, condition: "" },
+  range: { value: null, long: null, units: "self" },
+  duration: { value: 8, units: "hour" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "sphere", value: 30, width: null, units: "ft" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

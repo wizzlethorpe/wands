@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const mucoVolatilis = SpellSchema.parse({
+  id: "muco-volatilis",
+  foundryId: "iw9eCAwGt6KTTQKd",
+  type: "spell",
+  level: 4,
+  school: "jhc",
+  source: "W&W p.76",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "rsak",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["6d4","slashing"]], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "2d4" },
+  formula: "3d4",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: "" },
+  preparation: { mode: "prepared", prepared: false },
+});

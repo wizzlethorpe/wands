@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const lumosMaxima = SpellSchema.parse({
+  id: "lumos-maxima",
+  foundryId: "r3rwXjISSe99kZfk",
+  type: "spell",
+  level: 3,
+  school: "cha",
+  source: "W&W p.76",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 90, long: null, units: "ft" },
+  duration: { value: 1, units: "hour" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: true },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "sphere", value: 60, width: null, units: "ft" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

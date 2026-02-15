@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const sectumsempra = SpellSchema.parse({
+  id: "sectumsempra",
+  foundryId: "dYlo34EKocPSL3CF",
+  type: "spell",
+  level: 4,
+  school: "jhc",
+  source: "W&W p.82",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "rsak",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["10d6","slashing"]], versatile: "" },
+  save: { ability: "con", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "2d6" },
+  formula: "5d6",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: "" },
+  preparation: { mode: "prepared", prepared: false },
+});

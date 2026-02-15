@@ -1,0 +1,3473 @@
+{
+  "dGuRNYr82oIAva8Y": {
+    "img": "icons/magic/air/fog-gas-smoke-brown.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425151,
+      "modifiedTime": 1709148397451,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.zmj3JUL2Wc65S8Q1",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5mSNhiu5OIbTGPYM": {
+    "img": "icons/magic/water/water-hand.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424855,
+      "modifiedTime": 1709148144215,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.kBRO5zv7S2ac9HMI",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "vRGqcJIal0kGv19T": {
+    "img": "icons/magic/water/pseudopod-swirl-blue.webp",
+    "folder": "9LUfCk0hBUbSGdB6",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425226,
+      "modifiedTime": 1709155557406,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.AP49DBPcTuJ8alEG",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "7iEiSq5gvaTOm5TS": {
+    "img": "icons/sundries/misc/key-brass.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424878,
+      "modifiedTime": 1709148150087,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.g3SobwNgnosTHQLY",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5zjpnZcFzf46ixGp": {
+    "img": "icons/magic/life/heart-cross-green.webp",
+    "folder": "7sJHwbAnD0Ml8LgD",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424859,
+      "modifiedTime": 1709155734672,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Tku3m1OsOmcQvT7B",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "GBcjuuBfNa6e9giv": {
+    "img": "icons/magic/perception/eye-ringed-glow-angry-small-teal.webp",
+    "folder": "qmDmm58zfrEAlxZ4",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424981,
+      "modifiedTime": 1709155813776,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.vRu7SQ1TAyqrK9Or",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xjyXNncVKZgo4z01": {
+    "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
+    "folder": null,
+    "sort": 13100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425234,
+      "modifiedTime": 1709148462536,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.xK02DxaDQAuWbnHf",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "t8wyry090Kl5k1UU": {
+    "img": "icons/magic/air/wind-tornado-spiral-brown.webp",
+    "folder": "GcHvloTAn06pmDrT",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425207,
+      "modifiedTime": 1709155320464,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.tRVBdJy6qgQMNS6y",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "H5qkAQSb6RcZNdEQ": {
+    "img": "icons/magic/earth/volcano-explosion-lava-yellow.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424989,
+      "modifiedTime": 1709148610714,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.K9ezzGGrHnm5A9Zs",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "HLjTdBAZPg4LucMi": {
+    "img": "icons/magic/light/beam-rays-green-large.webp",
+    "folder": "WJGvr2g5N7x9WPZr",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424992,
+      "modifiedTime": 1709155332936,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.rKeITbveKS8N2IaV",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tgPT53glC2cTCnjD": {
+    "img": "icons/creatures/mammals/bats-movement-flying-black.webp",
+    "folder": "si2BplEz0X6NqMWP",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425211,
+      "modifiedTime": 1709155560123,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.QIkXJQXlqk1CUmEn",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "TPFYUtmd1XGdbx8k": {
+    "img": "icons/magic/air/wind-tornado-cyclone-red-orange.webp",
+    "folder": "wDQQ46W9IxnfutpQ",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425058,
+      "modifiedTime": 1709155339200,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.KJJniQUg3b28hW9I",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uzy4BWTrdyAiy7ed": {
+    "img": "icons/magic/earth/projectile-stone-ball-orange.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425223,
+      "modifiedTime": 1709155299124,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.OSCFQ9mMMXjKJ3DT",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "n1mv5w4S5RxAINEN": {
+    "img": "icons/magic/life/heart-cross-purple-orange.webp",
+    "folder": "SPnxcKG6MIumGpGN",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425187,
+      "modifiedTime": 1709155737183,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.WdGXaYJZh6WsePjm",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "o6s7fj88FQCbOWen": {
+    "img": "icons/skills/melee/strike-blade-scimitar-orange-blue.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425191,
+      "modifiedTime": 1709155304766,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.hHqKYCmuPEBVquvy",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "7diyINrwOrLBwxrN": {
+    "img": "icons/containers/chest/chest-reinforced-steel-walnut-brown.webp",
+    "folder": "9WCHq8aiaRzKyUNL",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424874,
+      "modifiedTime": 1709148699180,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.NuOugbn2i20GV8RH",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "0GHQuJxD53t0Acar": {
+    "img": "icons/creatures/slimes/slime-movement-pseudopod-green.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424813,
+      "modifiedTime": 1709148170837,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.hksBV1ffGuzHUHG2",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "m9Y8EtqINax2pLO4": {
+    "img": "icons/magic/light/beam-rays-yellow-blue-small.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425186,
+      "modifiedTime": 1709148215462,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.whPdTb5rBJ0vWBtW",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xcJj5h2HbksR2dZg": {
+    "img": "icons/magic/control/debuff-energy-hold-yellow.webp",
+    "folder": "1crSeXZMenf9H1UB",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425232,
+      "modifiedTime": 1709162555723,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.3kbRoPvyPTgksq9s",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "teiJrAHloBhkGPyQ": {
+    "img": "icons/sundries/misc/key-brass.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 112500,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425210,
+      "modifiedTime": 1709148234875,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.fcrdgUXnAfFVMi6l",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "fSv75Ggj9q5rVTfz": {
+    "img": "icons/tools/fasteners/screw-flat-steel-brown.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 106250,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425160,
+      "modifiedTime": 1709148249439,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.2DycfZS7y0dxKbW3",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5HeMomzrSnAwH3cb": {
+    "img": "icons/equipment/feet/boots-collared-simple-leather.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424851,
+      "modifiedTime": 1709155342628,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.P5FoInnZ86AYPX1z",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "G9jNNlFA4ZJYSuIz": {
+    "img": "icons/magic/fire/explosion-fireball-small-purple.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 103125,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424977,
+      "modifiedTime": 1709148294260,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.YSetYbphC81ZqWng",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "YN38OZROA5Oxljuu": {
+    "img": "icons/magic/fire/projectile-fireball-orange-yellow.webp",
+    "folder": "2UOdfWIWaPrrN6iO",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425094,
+      "modifiedTime": 1709155345737,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.AxAeNTdRYW5M5BS5",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "h0cxfGrQ4Rpdc66J": {
+    "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+    "folder": "9WCHq8aiaRzKyUNL",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425170,
+      "modifiedTime": 1709148765977,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.XoVuEEP2csFJuhmY",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "k6Cl5LpPTw2Vpxq9": {
+    "img": "icons/creatures/eyes/humanoid-single-blue.webp",
+    "folder": "2UOdfWIWaPrrN6iO",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425176,
+      "modifiedTime": 1709155348470,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.9nHhrUEOqp2VYt34",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "E3YhVkvxabkFpAwx": {
+    "img": "icons/magic/light/explosion-star-small-orange.webp",
+    "folder": "9LUfCk0hBUbSGdB6",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424958,
+      "modifiedTime": 1709155562254,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.iZeYqZ2gsPDsTQXB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "NsNFI0dgndgxcrdT": {
+    "img": "icons/magic/unholy/projectile-fireball-green.webp",
+    "folder": "wDQQ46W9IxnfutpQ",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425027,
+      "modifiedTime": 1709155351032,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.j8FdWf5BwhfUYdTN",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "apcdAOspeni6sNVR": {
+    "img": "icons/magic/symbols/runes-triangle-orange.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425113,
+      "modifiedTime": 1709148824064,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.xaNYwN9TTIPslVJU",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "2t2TuOHaeTRemxMv": {
+    "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424833,
+      "modifiedTime": 1709155354518,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.FeXTPqiLeit1GyLB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "vIeeBcG374znJOtD": {
+    "img": "icons/magic/symbols/runes-carved-stone-yellow.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425225,
+      "modifiedTime": 1709148852647,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.HwBKFbe1ROsyFu9y",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "lmJJaXRHiDHZfV7h": {
+    "img": "icons/magic/fire/projectile-fireball-smoke-strong-blue.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425182,
+      "modifiedTime": 1709148868735,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.r8OYK9BGyk6FBXah",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "S6BSXO0q346KzbhV": {
+    "img": "icons/magic/air/wind-tornado-spiral-blue-gray.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425050,
+      "modifiedTime": 1709155315547,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.XxqeoriYOTjkq6tH",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "kCbce6brWwK7a3s8": {
+    "img": "icons/skills/melee/strike-blade-scimitar-blue-red.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425178,
+      "modifiedTime": 1709148899596,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.bPsdltPpM5e6t3yZ",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "g3v9bgrbSTDdDta8": {
+    "img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425165,
+      "modifiedTime": 1709155359718,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1LfzdoMm5bJkJrbY",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ywlZJ89bFULH3NSk": {
+    "img": "icons/magic/fire/explosion-fireball-small-blue.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425239,
+      "modifiedTime": 1709148929088,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.TIL57ftgBrUtlRoa",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "rwE32HoFEGrZa1pD": {
+    "img": "icons/magic/air/fog-gas-smoke-swirling-orange.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425201,
+      "modifiedTime": 1709148945398,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.0CdWREDmFSxWU3sW",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "J9SLlXNKiIikWzdk": {
+    "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
+    "folder": "DTvOsPeei4fc4ais",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425007,
+      "modifiedTime": 1709155564390,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.SdmXzTra4jKjAkqS",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "aZ6d6KCnUuTJR4D4": {
+    "img": "icons/magic/earth/projectile-spiked-stone-boulder-brown.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425110,
+      "modifiedTime": 1709148973084,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1aY25c1YltguC2ad",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ERTP6Lm6qmqH8dBw": {
+    "img": "icons/magic/air/air-wave-gust-blue.webp",
+    "folder": "nA8hrUxDPjaxigLP",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424965,
+      "modifiedTime": 1709155566742,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.4eRxUu9tEbdcpL7F",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "t2qC1P5SSIHrN09U": {
+    "img": "icons/magic/fire/explosion-fireball-large-blue.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425204,
+      "modifiedTime": 1709148999151,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.XNyM2vXQ3HuWcFSS",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "VTTT0dAMjpI0wwIx": {
+    "img": "icons/magic/life/heart-cross-green.webp",
+    "folder": "KtiYU4ZEQBsTdNii",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425078,
+      "modifiedTime": 1709155739983,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.ISHwYHO26IspRwrH",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XVdszqglD9WFH7XG": {
+    "img": "icons/creatures/slimes/slime-movment-dripping-green.webp",
+    "folder": "9LUfCk0hBUbSGdB6",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425092,
+      "modifiedTime": 1709155568774,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.BQdeH2vh7Ux8IQ7i",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ao0uAYz0vhGJM2va": {
+    "img": "icons/magic/light/beam-rays-teal-purple-small.webp",
+    "folder": "si2BplEz0X6NqMWP",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425112,
+      "modifiedTime": 1709155571613,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.jvZKf7zJkkKv8wQx",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gF4a6kra5adpRO4G": {
+    "img": "icons/magic/control/debuff-energy-snare-brown.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425169,
+      "modifiedTime": 1709149053876,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.un8h0Bck2gpwRNje",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bRva7KY6nVWmRZ9c": {
+    "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425122,
+      "modifiedTime": 1709149064172,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.YT2DjuSyutuir3ZN",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "riWXiETnA7psWuM2": {
+    "img": "icons/magic/air/fog-gas-smoke-brown.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425199,
+      "modifiedTime": 1709149078107,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.n6D0BjgCyaFUs5AE",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "7oFO8vw0GNO8857C": {
+    "img": "icons/magic/light/beam-strike-orange-gold.webp",
+    "folder": "2UOdfWIWaPrrN6iO",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424881,
+      "modifiedTime": 1709155362796,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.bwn3NJ2KQwPv4fyT",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "UBMeESIUBkTsEgm0": {
+    "img": "icons/magic/life/heart-cross-blue.webp",
+    "folder": "KtiYU4ZEQBsTdNii",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425065,
+      "modifiedTime": 1709155742483,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.no96tkZ8YMObfSYn",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZIXMrRHJv3L54u3X": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-blue.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425102,
+      "modifiedTime": 1709149108788,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.nCUvfN2PCWyhP1HN",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "eFzSkIgxYHLaKlEs": {
+    "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+    "folder": "BGUbAbLRcdOEKDSz",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425154,
+      "modifiedTime": 1709149121042,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.ldYW3Cvr80IRF5lX",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "yCRD6pabyn0mkVoa": {
+    "img": "icons/magic/air/air-burst-spiral-yellow.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425238,
+      "modifiedTime": 1709149134529,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.dvzZGtAKrKb8bN3h",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "SQnurPdikw1UbJ3p": {
+    "img": "icons/magic/fire/projectile-meteor-salvo-light-blue.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425053,
+      "modifiedTime": 1709149147943,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.jNb6FEsBNv6oVL6M",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ftMvgTU9CCVELQAo": {
+    "img": "icons/magic/light/beam-rays-orange-small.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425163,
+      "modifiedTime": 1709149159865,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.DM8ouVsfER2nads1",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "QFbK80Nuw22UT03W": {
+    "img": "icons/magic/fire/projectile-fireball-smoke-large-blue.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425042,
+      "modifiedTime": 1709155365762,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.CgS3TV1vWfrrRTzr",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "TQcUlVY1YJPN9rNY": {
+    "img": "icons/equipment/shield/kite-wooden-oak-glow.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425060,
+      "modifiedTime": 1709149187720,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.SCzLCINKUnV6Mf2M",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tITRwjvVLVb6hbOx": {
+    "img": "icons/magic/air/fog-gas-smoke-swirling-gray.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425208,
+      "modifiedTime": 1709149203630,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.AzPd0iC2JP8527o5",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "AwttbtDiV1QXzJpm": {
+    "img": "icons/creatures/eyes/humanoid-single-blue.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424923,
+      "modifiedTime": 1709155368480,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.s1cRQOoJEegwHlm9",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "GlXKURVTA5e9fUzt": {
+    "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424986,
+      "modifiedTime": 1709149228837,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.ICIsXdX2f0pFPWgh",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "lKqTlS33zLxRCMWP": {
+    "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425180,
+      "modifiedTime": 1709155370482,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.3hiKNdUKANTeUjpo",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ubGQ6Vk2T8IdKZqK": {
+    "img": "icons/magic/water/projectile-ice-faceted-blue.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425221,
+      "modifiedTime": 1709154430239,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "UEmdBoIYEyOTaNNo": {
+    "img": "icons/magic/air/wind-tornado-spiral-pink-purple.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425070,
+      "modifiedTime": 1709154442099,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.tkDuwwWZyRjeWdJV",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "cgsHUV03Lk20w4tM": {
+    "img": "icons/magic/nature/leaf-glow-maple-green.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425148,
+      "modifiedTime": 1709154453516,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uCvgD5pc19lDMuAq": {
+    "img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+    "folder": "qmDmm58zfrEAlxZ4",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425218,
+      "modifiedTime": 1709155816356,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.ralBsFPmzSp26ERi",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KJTHvwvmlkbPEwK7": {
+    "img": "icons/magic/fire/explosion-mushroom-nuke-orange.webp",
+    "folder": "IunJYXMuWUUztxMY",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425014,
+      "modifiedTime": 1709155573957,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.TWnXXjAjF6Zuj8hs",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "I3Tq6dodRnATfA7a": {
+    "img": "icons/magic/earth/lava-explosion-orange.webp",
+    "folder": "si2BplEz0X6NqMWP",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424998,
+      "modifiedTime": 1709155576545,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1eFWWHyO1vF3ODZ6",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "I1r49bYvyXaIyyIz": {
+    "img": "icons/commodities/materials/feather-white.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424994,
+      "modifiedTime": 1709154511453,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.UXa7pRV9vOORoazF",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6yZcAouod1aHBJYO": {
+    "img": "icons/equipment/neck/choker-chain-thick-silver.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424871,
+      "modifiedTime": 1709154522087,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.DiZRv3IVRnPN8Ojo",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "shyIHZFhSGKHTxZW": {
+    "img": "icons/magic/fire/projectile-fireball-smoke-strong-blue.webp",
+    "folder": "2UOdfWIWaPrrN6iO",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425202,
+      "modifiedTime": 1709155373380,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.PZQpxowke5v8tLTD",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "oJ9u3TDc2g1Nwlkn": {
+    "img": "icons/magic/control/energy-stream-link-spiral-teal.webp",
+    "folder": "pZsH9KfcFyS9BdcK",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425192,
+      "modifiedTime": 1709155376296,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.QmwOhhLQiZQfUow7",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "apk6grtvtNE1Cj2Q": {
+    "img": "icons/magic/light/beam-rays-blue-small.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425115,
+      "modifiedTime": 1709154559399,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.LsgrvDLvzZri70jJ",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "a4hQlSKc5Iz6AFsc": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-orange.webp",
+    "folder": "Mo9qhFulXOk60lxW",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425107,
+      "modifiedTime": 1709155579299,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.4f48w4sHHmLo6401",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uCE4cTdb8hT2hvzB": {
+    "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+    "folder": "nkdO00rwGm5WtwMN",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425217,
+      "modifiedTime": 1709155581658,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.k8f7Pn8qWIqmhmJC",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9gE25344Q4hWDXMz": {
+    "img": "icons/magic/fire/explosion-embers-orange.webp",
+    "folder": "Mo9qhFulXOk60lxW",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424897,
+      "modifiedTime": 1709155584148,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.07FSUkhY0vKWPFHC",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "rLPfrlJJcEIPbVMg": {
+    "img": "icons/magic/light/beam-rays-blue.webp",
+    "folder": "9LUfCk0hBUbSGdB6",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425198,
+      "modifiedTime": 1709155586880,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.At87kJ5CUgyvPI2x",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "43T1UgLO8IFiAlrb": {
+    "img": "icons/magic/control/debuff-energy-hold-levitate-pink.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424844,
+      "modifiedTime": 1709155378984,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.FpSAoibmFVItGaBq",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tsvo5fYrhU0jP9i5": {
+    "img": "icons/magic/life/heart-cross-purple-orange.webp",
+    "folder": "89w5JNi1TttvNed3",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425214,
+      "modifiedTime": 1709155745383,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1IroqyAajJzsX7mA",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "8tt8LszN4RUexC1o": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue-yellow.webp",
+    "folder": "2UOdfWIWaPrrN6iO",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424886,
+      "modifiedTime": 1709155382348,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Vf8lzGQ6qC8N15wB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ewtmiKM90jo1BauV": {
+    "img": "icons/magic/control/debuff-energy-snare-brown.webp",
+    "folder": "nA8hrUxDPjaxigLP",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425155,
+      "modifiedTime": 1709155589350,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.JfbwOPCoNM1Pj6LV",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZHPPAams6Xm4LY7g": {
+    "img": "icons/magic/control/energy-stream-link-large-blue.webp",
+    "folder": "19jqw7mUi2Fuvu2W",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425097,
+      "modifiedTime": 1709155818494,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.TgSMzdE3Tm5pz0v7",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uA1XF4a9OKWuRcwq": {
+    "img": "icons/magic/control/debuff-energy-snare-brown.webp",
+    "folder": "Uphfi4tc1rgeGLxy",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425215,
+      "modifiedTime": 1709155385705,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1kHGsJx0yVUKl5kG",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RxkOrJzCX3egYmLC": {
+    "img": "icons/magic/nature/vines-thorned-glow-green.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425047,
+      "modifiedTime": 1709155388598,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.4R6RcyvzSHv51bPI",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zHlJ6I3T7wpP1oN6": {
+    "img": "icons/magic/nature/vines-thorned-curled-glow-green.webp",
+    "folder": "NlE3LnLXbtUJO9ec",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425242,
+      "modifiedTime": 1709155390684,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.4IB6CuaudndKeZeu",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bywNONdUp4Y2Gz8W": {
+    "img": "icons/magic/air/air-burst-spiral-large-blue.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425135,
+      "modifiedTime": 1709154710362,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.extOTIdiITK1DSi0",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "r3rwXjISSe99kZfk": {
+    "img": "icons/magic/fire/explosion-fireball-large-orange.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425194,
+      "modifiedTime": 1709154745281,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Ip8U9ewJZgekycEI",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "PvZoDaj54ZZJNrLS": {
+    "img": "icons/magic/fire/explosion-fireball-medium-orange.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425035,
+      "modifiedTime": 1709154740519,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.pBVNWP7TsDjDRRoA",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "1d2yPOwD2NrJubSg": {
+    "img": "icons/magic/air/fog-gas-smoke-orange.webp",
+    "folder": "si2BplEz0X6NqMWP",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424827,
+      "modifiedTime": 1709155592172,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.xchRENYK8z6nlxvT",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xbAvLMDnxJjT0zu1": {
+    "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425230,
+      "modifiedTime": 1709155393597,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.5riCe0Up05IT6P8S",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "aKTg71AoFpoiJle5": {
+    "img": "icons/magic/light/beam-rays-yellow-blue-small.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425109,
+      "modifiedTime": 1709154788229,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.9tdV59k9jri8mE41",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "z2tiBhmegXkVb1QP": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425240,
+      "modifiedTime": 1709154801718,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.39xez2SrGbyL3El9",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "iw9eCAwGt6KTTQKd": {
+    "img": "icons/creatures/mammals/bat-giant-tattered-purple.webp",
+    "folder": "Uphfi4tc1rgeGLxy",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425175,
+      "modifiedTime": 1709155396399,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.rqaDARpRHe3fi9hs",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "v1TnTjk2YX18SV1B": {
+    "img": "icons/magic/air/fog-gas-smoke-swirling-white.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425224,
+      "modifiedTime": 1709154831321,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.e6JwanB7KQ5AuV3F",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "UCa2Dh0jMa6pxvvs": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-red.webp",
+    "folder": "1crSeXZMenf9H1UB",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425067,
+      "modifiedTime": 1709154843203,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.LCZfy2En8jttREdp",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "E8vuQSRQsDTGyWsw": {
+    "img": "icons/magic/air/fog-gas-smoke-dense-gray.webp",
+    "folder": "Mo9qhFulXOk60lxW",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424963,
+      "modifiedTime": 1709155594758,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1GaQmeAOUcu07MFu",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6oRDpMXIw5ZfyKJI": {
+    "img": "icons/magic/light/explosion-star-blue.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424866,
+      "modifiedTime": 1709154865822,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.aZHrQTe1bwXuqZQF",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "vdKNNez7BuFB79hc": {
+    "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
+    "folder": "pZsH9KfcFyS9BdcK",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425227,
+      "modifiedTime": 1709155399199,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.1X9DAk3pyxwPTo5x",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XKcgpYlHVknc8TiD": {
+    "img": "icons/magic/control/energy-stream-link-white.webp",
+    "folder": "1crSeXZMenf9H1UB",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425085,
+      "modifiedTime": 1709154889519,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.ScgJRJudzZNIeNWB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "czpa0o0AzXB3YYrU": {
+    "img": "icons/magic/air/wind-stream-blue-gray.webp",
+    "folder": "Mo9qhFulXOk60lxW",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425150,
+      "modifiedTime": 1709155597676,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.TOoMIHZIAzMr1i9W",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "VIHuOkkoWTVDidKr": {
+    "img": "icons/skills/melee/shield-damaged-broken-gold.webp",
+    "folder": "pZsH9KfcFyS9BdcK",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425075,
+      "modifiedTime": 1709155403349,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.WeR0TTublUxydLs1",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "fHeehV67CV8NHJ1p": {
+    "img": "icons/creatures/mammals/bats-movement-flying-black.webp",
+    "folder": "GcHvloTAn06pmDrT",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425158,
+      "modifiedTime": 1709155408065,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.O0RwZbJeY41pfvLS",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5FshZ3pIIzYxRyxv": {
+    "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
+    "folder": "nkdO00rwGm5WtwMN",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424848,
+      "modifiedTime": 1709155600256,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.4P1VLHyFIoZrU5XO",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "MeJA6LTCO4CAEn1b": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "9LUfCk0hBUbSGdB6",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425023,
+      "modifiedTime": 1709155602699,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Cv0yZvTwGeGeYNgB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ngKwdVOw8HNwcjwK": {
+    "img": "icons/environment/settlement/stone-stairs.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425190,
+      "modifiedTime": 1709154956231,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.CoNfVYka9lufeGBP",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bFaHfNdaRvROZDfA": {
+    "img": "icons/skills/targeting/target-glowing-yellow.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425117,
+      "modifiedTime": 1709154962077,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.C1xSewMt7BjFDVqF",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6aI5t4FtiaYxGRyd": {
+    "img": "icons/sundries/lights/candle-unlit-white.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424862,
+      "modifiedTime": 1709154967728,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.KwYrXuKxjSGOf3Rz",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uUrAudFyl6k4DVKd": {
+    "img": "icons/commodities/materials/feather-blue-grey.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425220,
+      "modifiedTime": 1709154977443,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.QbS3vOnYhxAkkn1y",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tSNte9WLiC8N1mqX": {
+    "img": "icons/magic/fire/projectile-meteor-salvo-light-teal.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425209,
+      "modifiedTime": 1709154985414,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.OPXZuDOjwuwPmAlq",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Uwbo0my3Ot8QSnOD": {
+    "img": "icons/equipment/neck/choker-chain-thick-silver.webp",
+    "folder": "0bwXoRhtRkBMRaak",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425073,
+      "modifiedTime": 1709155412220,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.NYYSuzBkQ1wMegb9",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ThUz2c1Isi0U9bkK": {
+    "img": "icons/magic/air/fog-gas-smoke-gray.webp",
+    "folder": "1crSeXZMenf9H1UB",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425062,
+      "modifiedTime": 1709154996725,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Rf7cknOaw5h7dxDf",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZdmCbl07ML6tJjUU": {
+    "img": "icons/tools/navigation/map-simple-brown.webp",
+    "folder": "2HaUmmDvnlKK66YK",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425105,
+      "modifiedTime": 1709155820689,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.UYU1IjRBP6xXwpPJ",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "F0o5Xrimdh2Vf2Fg": {
+    "img": "icons/magic/fire/projectile-fireball-smoke-blue.webp",
+    "folder": "2HaUmmDvnlKK66YK",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424971,
+      "modifiedTime": 1709155822723,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.b0FWojOSSrOoEM7Y",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "EgRBuzwafm5XCPxo": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424967,
+      "modifiedTime": 1709155020048,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.N42kLFpRPPdkXAsd",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XUX8NuUWEEhOaNMS": {
+    "img": "icons/magic/defensive/shield-barrier-flaming-diamond-blue.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425091,
+      "modifiedTime": 1709155024549,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.wackaanDk0qZeY8K",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "PsGaIKsVev0tbDzQ": {
+    "img": "icons/magic/defensive/shield-barrier-flaming-pentagon-blue.webp",
+    "folder": "QkTaYCAiofLOIpte",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425031,
+      "modifiedTime": 1709155028826,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.BzJRaOfUFuOLHOMv",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "cGhbCj4k7hA1c9lO": {
+    "img": "icons/magic/fire/explosion-fireball-small-blue.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425138,
+      "modifiedTime": 1709155035577,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.c5PGNnR7I0f6gd2t",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "rEHpgzC8daBibUE1": {
+    "img": "icons/magic/air/air-burst-spiral-large-yellow.webp",
+    "folder": "Uphfi4tc1rgeGLxy",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425196,
+      "modifiedTime": 1709155415402,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.w5EiMPUJS83RAhB2",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9T5ikBIdwJQzTpFa": {
+    "img": "icons/magic/air/wind-tornado-spiral-brown.webp",
+    "folder": "GcHvloTAn06pmDrT",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424892,
+      "modifiedTime": 1709155418849,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.g0zzyTRsfclHNBGg",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "awKAxkmmCZSjYiZw": {
+    "img": "icons/magic/life/heart-cross-green.webp",
+    "folder": "7sJHwbAnD0Ml8LgD",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425116,
+      "modifiedTime": 1709155747682,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.6DiuD47e0iXHQoxj",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bgbal4Kr9r6jWrDi": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue-yellow.webp",
+    "folder": "nkdO00rwGm5WtwMN",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425134,
+      "modifiedTime": 1709155604998,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.mP4cvdlKqLgvtZPr",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "F65nsK2xlfBqNOhH": {
+    "img": "icons/magic/life/heart-cross-purple-orange.webp",
+    "folder": "KtiYU4ZEQBsTdNii",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424975,
+      "modifiedTime": 1709155750376,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.youABJkzwDSpkd22",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "qYG3DBttisvOrPXs": {
+    "img": "icons/magic/light/beam-rays-teal-purple-small.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 1300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425193,
+      "modifiedTime": 1709155070416,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.3ml1uViZp6YDM93a",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "iI4DAtowIg24mYFH": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-magenta.webp",
+    "folder": "kBYSABTXwqefF7XJ",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425173,
+      "modifiedTime": 1709155076829,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.gWjb9qkPJ8ao3sUn",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xrTWMXrutiEa7mfw": {
+    "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
+    "folder": "9WCHq8aiaRzKyUNL",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425235,
+      "modifiedTime": 1709155082664,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.2OfYHi05WebBUsiq",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XLDz4SCZipcQOQDG": {
+    "img": "icons/magic/symbols/runes-triangle-orange.webp",
+    "folder": "19jqw7mUi2Fuvu2W",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425088,
+      "modifiedTime": 1709155825122,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.d7VtEMoLeHScN3XB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "IZOmjRn6UC0vzyqw": {
+    "img": "icons/commodities/materials/feather-blue.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425002,
+      "modifiedTime": 1709155094400,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.HzazBPHhdGaaWbGe",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "BUkVOL8i6fif5HsG": {
+    "img": "icons/magic/fire/explosion-fireball-small-orange.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424932,
+      "modifiedTime": 1709155098846,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.KgIsdRp6rFKiPORM",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "LKr79xu9caQkKPPL": {
+    "img": "icons/skills/ranged/arrow-flying-white-blue.webp",
+    "folder": "Mo9qhFulXOk60lxW",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425019,
+      "modifiedTime": 1709155607894,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.RbEWmiMMIe2jo3OF",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xsQcssBtP4b2oLes": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-blue.webp",
+    "folder": "1crSeXZMenf9H1UB",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425236,
+      "modifiedTime": 1709155108613,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.MCKuEvGwPE8m5eXZ",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Bev0BjmaJRkuQxez": {
+    "img": "icons/magic/air/wind-vortex-swirl-blue.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424938,
+      "modifiedTime": 1709155116981,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.5cB3vDWXDPBaU6RG",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dYlo34EKocPSL3CF": {
+    "img": "icons/magic/lightning/strike-arrow-spear-red.webp",
+    "folder": "Uphfi4tc1rgeGLxy",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425152,
+      "modifiedTime": 1709155421700,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.RvsCANAs9L5GkW8F",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "E2pOKP8nQx7G9Gqn": {
+    "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+    "folder": "nkdO00rwGm5WtwMN",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424954,
+      "modifiedTime": 1709155610280,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.eUbd9hMpYtADse66",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xaKvFb2eQ2TYogim": {
+    "img": "icons/magic/sonic/scream-wail-shout-teal.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 1400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425229,
+      "modifiedTime": 1709155131882,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.jFQNJ5Aau86NuL4v",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Q8yBwkBRjVgvvqcX": {
+    "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
+    "folder": "GcHvloTAn06pmDrT",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425038,
+      "modifiedTime": 1709155424583,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.IFBLQwZk8Ri9yqkM",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "fs9b0l8eAJBKmqH9": {
+    "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425161,
+      "modifiedTime": 1709155146270,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.8XEfUA4GIcTlLMYr",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "DXr0kJP9lMFe1yjU": {
+    "img": "icons/magic/lightning/bolt-strike-blue.webp",
+    "folder": "jbPnNsUZ0Dc0ckie",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424948,
+      "modifiedTime": 1709155827811,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.bXbhFSXtBnIOiVyl",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ApILxZHWCg2cMZej": {
+    "img": "icons/magic/water/water-hand.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424912,
+      "modifiedTime": 1709155157222,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Ys64P6Abh94Gi4iQ",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Ct43yC0Wb5FWMxQD": {
+    "img": "icons/magic/water/projectile-ice-snowball.webp",
+    "folder": "b1gW0xVEV2yZNQnj",
+    "sort": 1500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424944,
+      "modifiedTime": 1709155162066,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.Zn9JeKAYRg4VW91d",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "irqqg1GDa5fHRafz": {
+    "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+    "folder": "GcHvloTAn06pmDrT",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425174,
+      "modifiedTime": 1709155427002,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.v4rXnvsL0bSuvJq0",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "3b127TtSS7K04kf6": {
+    "img": "icons/magic/water/pseudopod-teal.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424838,
+      "modifiedTime": 1709155172738,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.EETFiSLwTuXvzPWH",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "exCcTF281uCasIg9": {
+    "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+    "folder": "DTvOsPeei4fc4ais",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425157,
+      "modifiedTime": 1709155612644,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.rJ0lRM2FNfUB47mf",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "1BwhdXg2Uvp85DX4": {
+    "img": "icons/magic/control/debuff-chains-shackles-movement-blue.webp",
+    "folder": "GcHvloTAn06pmDrT",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424823,
+      "modifiedTime": 1709155429520,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.TyRqhL6N70rkCb6q",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "X4ct8APuWOXfHlX7": {
+    "img": "icons/magic/defensive/shield-barrier-blades-teal.webp",
+    "folder": "9LUfCk0hBUbSGdB6",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425083,
+      "modifiedTime": 1709155614677,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.SeOfQkoNEJCJzTDm",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "JQHSEgvCM4RPUz57": {
+    "img": "icons/magic/light/explosion-star-glow-yellow.webp",
+    "folder": "5kpuqKy6VwZK1heX",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425010,
+      "modifiedTime": 1709155196717,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.ycC91ZfdGHaryfbk",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "g4z9ulU4uWkk4bHr": {
+    "img": "icons/magic/life/ankh-gold-blue.webp",
+    "folder": "WYE2MbvtBLtxF1hD",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425166,
+      "modifiedTime": 1709155752885,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.n56NLeJlstcmgo4p",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "2QW1xUgLxIfWSdyx": {
+    "img": "icons/commodities/materials/feather-blue-grey.webp",
+    "folder": "B9e8v8Eqsm3HuZzJ",
+    "sort": 1800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424830,
+      "modifiedTime": 1709155207786,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.spells-wandw.FYxjrTW26Bx2I8t8",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  }
+}

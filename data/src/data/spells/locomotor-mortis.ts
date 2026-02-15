@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const locomotorMortis = SpellSchema.parse({
+  id: "locomotor-mortis",
+  foundryId: "RxkOrJzCX3egYmLC",
+  type: "spell",
+  level: 1,
+  school: "jhc",
+  source: "W&W p.75",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 90, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "creature", value: 1, width: null, units: "" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["2d4","bludgeoning"]], versatile: "" },
+  save: { ability: "wis", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

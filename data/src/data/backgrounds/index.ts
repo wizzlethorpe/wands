@@ -1,0 +1,33 @@
+export { socialite } from "./socialite.js";
+export { troublemaker } from "./troublemaker.js";
+export { walkingDisaster } from "./walking-disaster.js";
+export { bookworm } from "./bookworm.js";
+export { follower } from "./follower.js";
+export { rumorMonger } from "./rumor-monger.js";
+export { teachersPet } from "./teachers-pet.js";
+export { forgettableFace } from "./forgettable-face.js";
+export { dramaticEntrance } from "./dramatic-entrance.js";
+export { potioneer } from "./potioneer.js";
+export { punchingBag } from "./punching-bag.js";
+export { apprentice } from "./apprentice.js";
+export { regularCustomer } from "./regular-customer.js";
+export { performer } from "./performer.js";
+export { protector } from "./protector.js";
+export { valueAllLife } from "./value-all-life.js";
+export { bully } from "./bully.js";
+export { artist } from "./artist.js";
+export { stargazer } from "./stargazer.js";
+export { peoplesChamp } from "./peoples-champ.js";
+export { commonThug } from "./common-thug.js";
+export { groundskeeper } from "./groundskeeper.js";
+export { dreamer } from "./dreamer.js";
+export { prodigy } from "./prodigy.js";
+export { klutz } from "./klutz.js";
+export { creativeThinker } from "./creative-thinker.js";
+export { quidditchFan } from "./quidditch-fan.js";
+export { superfan } from "./superfan.js";
+
+// All entries as an array
+import { socialite, troublemaker, walkingDisaster, bookworm, follower, rumorMonger, teachersPet, forgettableFace, dramaticEntrance, potioneer, punchingBag, apprentice, regularCustomer, performer, protector, valueAllLife, bully, artist, stargazer, peoplesChamp, commonThug, groundskeeper, dreamer, prodigy, klutz, creativeThinker, quidditchFan, superfan } from "./index.js";
+import type { Background } from "../../schemas/index.js";
+export const all: Background[] = [socialite, troublemaker, walkingDisaster, bookworm, follower, rumorMonger, teachersPet, forgettableFace, dramaticEntrance, potioneer, punchingBag, apprentice, regularCustomer, performer, protector, valueAllLife, bully, artist, stargazer, peoplesChamp, commonThug, groundskeeper, dreamer, prodigy, klutz, creativeThinker, quidditchFan, superfan];

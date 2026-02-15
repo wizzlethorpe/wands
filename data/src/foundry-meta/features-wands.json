@@ -1,0 +1,3679 @@
+{
+  "ZAAlZINpw1QhGA6G": {
+    "img": "icons/skills/social/peace-luck-insult.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708628308475,
+      "modifiedTime": 1708628440820,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "wenKcholDVy6CkF7": {
+    "img": "icons/magic/water/projectile-ice-shard.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424993,
+      "modifiedTime": 1708585265027,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6fOzz7YuV8iHp8QL": {
+    "img": "icons/equipment/chest/robe-collared-blue.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708588843179,
+      "modifiedTime": 1708588967250,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "F1yTpv7DyxJM5Vjv": {
+    "img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424866,
+      "modifiedTime": 1708585266397,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5wU0VKqt3n1At4xP": {
+    "img": "icons/magic/nature/leaf-glow-triple-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424924,
+      "modifiedTime": 1708585267752,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "F6x1LyNIWsDut93p": {
+    "img": "icons/skills/wounds/injury-face-impact-orange.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "alert_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424874,
+      "modifiedTime": 1708584120762,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "D45jKuNucX2YtWgs": {
+    "img": "icons/environment/wilderness/terrain-stone-stalagtite.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627847790,
+      "modifiedTime": 1708627927638,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9Lf4DtHi5rxApNDP": {
+    "img": "icons/creatures/mammals/bats-movement-flying-black.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424779,
+      "modifiedTime": 1708584122354,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6H4CZeQjDoAlMXn1": {
+    "img": "icons/sundries/books/book-red-exclamation.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424830,
+      "modifiedTime": 1708585269212,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dCaSJnUhQVjdRsIo": {
+    "img": "icons/magic/nature/wolf-paw-glow-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424887,
+      "modifiedTime": 1708585271029,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "VdRKM0dXVRIzQSeL": {
+    "img": "icons/magic/nature/wolf-paw-glow-large-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424838,
+      "modifiedTime": 1708585272498,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "K0sNedD2aum7pe1T": {
+    "img": "icons/sundries/books/book-embossed-spiral-purple-white.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424766,
+      "modifiedTime": 1708584022162,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "YhbP81Hza2VTskb1": {
+    "img": "icons/magic/life/heart-cross-blue.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424832,
+      "modifiedTime": 1708584024376,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Hz9ldrmSkBrFwpLE": {
+    "img": "icons/skills/melee/unarmed-punch-fist.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "athlete_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424892,
+      "modifiedTime": 1708584123896,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "k5pYIiS2kWD6tS2F": {
+    "img": "icons/skills/melee/strike-slashes-red.webp",
+    "folder": "yuF2070agEJYsawU",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424948,
+      "modifiedTime": 1708585453539,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KIX1NJuJ1l4yi1nz": {
+    "img": "icons/magic/perception/eye-ringed-glow-angry-teal.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424827,
+      "modifiedTime": 1708585274411,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "4Vm2EKoawas4zBZk": {
+    "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425061,
+      "modifiedTime": 1708585276079,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "g7E4rUyV8LkHCUUX": {
+    "img": "icons/sundries/documents/document-sealed-red-yellow.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424998,
+      "modifiedTime": 1708585277935,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gDEKDuMd0Rrj9I0O": {
+    "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425019,
+      "modifiedTime": 1708585279516,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "4JedCeLIdY9ASEq6": {
+    "img": "icons/magic/life/heart-area-circle-red-green.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708587634940,
+      "modifiedTime": 1708588075596,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Id95hikL7vGvRxVb": {
+    "img": "icons/skills/targeting/target-strike-triple-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425048,
+      "modifiedTime": 1708585281162,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "D5TbpuxPEM8C3mlW": {
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425084,
+      "modifiedTime": 1708585282954,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "LaLGB1LcuduKwnIQ": {
+    "img": "icons/sundries/misc/admission-ticket-grey.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425094,
+      "modifiedTime": 1708585284813,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "srRtgG4zoLaEil5N": {
+    "img": "icons/commodities/bones/bone-fragments-grey.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425054,
+      "modifiedTime": 1708585286448,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "2Xiqd7GNjfvErQOi": {
+    "img": "icons/magic/earth/projectile-stone-ball-orange.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627056280,
+      "modifiedTime": 1708627171218,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bZ3VyayJTuRaUaHh": {
+    "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708588715986,
+      "modifiedTime": 1708588793957,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "MlmRx0EN6TKBNWkt": {
+    "img": "icons/magic/death/skull-trio-badge-purple.webp",
+    "folder": "xRMFP4czBggAtGOo",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424850,
+      "modifiedTime": 1708585749092,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uGzL0mWwlYX6cDrL": {
+    "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627602079,
+      "modifiedTime": 1708627779674,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "EjZG9PL7BmYxNuIx": {
+    "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+    "folder": "xRMFP4czBggAtGOo",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424857,
+      "modifiedTime": 1708585750271,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "QiVVsr1653UIDixu": {
+    "img": "icons/magic/death/undead-skeleton-deformed-red.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424761,
+      "modifiedTime": 1708585802296,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "pGjSQVEEO4vxnCnx": {
+    "img": "icons/commodities/gems/pearl-water.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424963,
+      "modifiedTime": 1708585288216,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tNfarNLf7XYynLBA": {
+    "img": "icons/magic/unholy/projectile-fireball-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424881,
+      "modifiedTime": 1708585290004,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "TZL55PehzHqaKvUk": {
+    "img": "icons/weapons/swords/sword-broad-crystal-paired.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424965,
+      "modifiedTime": 1708585291545,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "TxOVEG5EzfBhbuCV": {
+    "img": "icons/sundries/books/book-embossed-jewel-gold-purple.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627201917,
+      "modifiedTime": 1708627584257,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "qyYgiYGZ3gVAPPGp": {
+    "img": "icons/creatures/birds/corvid-flying-wings-purple.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425088,
+      "modifiedTime": 1708585293299,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "oEK9maUDS84dE0do": {
+    "img": "icons/magic/perception/hand-eye-pink.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 1900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425073,
+      "modifiedTime": 1709156276451,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "pzr9bHEYyqyi18Oh": {
+    "img": "icons/equipment/shield/kite-wooden-oak-glow.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424990,
+      "modifiedTime": 1708585296680,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "QscDzf2amq2A0Chj": {
+    "img": "icons/tools/navigation/compass-plain-blue.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627941974,
+      "modifiedTime": 1708628055464,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "4F7hy30J5yzhTWdb": {
+    "img": "icons/magic/perception/third-eye-blue-red.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424850,
+      "modifiedTime": 1708584125454,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "qOFMIxXhii0sCzQ9": {
+    "img": "icons/magic/acid/projectile-glowing-bubbles.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424773,
+      "modifiedTime": 1708585807398,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gz3EDRAUnimqJriU": {
+    "img": "icons/sundries/books/book-embossed-jewel-gold-purple.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424753,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KJJfIoOwXQceqePS": {
+    "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+    "folder": "yuF2070agEJYsawU",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425027,
+      "modifiedTime": 1708585455154,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "0PRnNZ0fE1xmY7qz": {
+    "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425098,
+      "modifiedTime": 1708585298551,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "aolxtyoPsC4ChRax": {
+    "img": "icons/environment/settlement/pyramid.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "dungeon%20delver_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424885,
+      "modifiedTime": 1708584127148,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "2XoVbQbNEmIqiweh": {
+    "img": "icons/skills/social/intimidation-impressing.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "durable_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424822,
+      "modifiedTime": 1708584128654,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Ok82C70D89EGBKjs": {
+    "img": "icons/weapons/hammers/hammer-double-glowing-yellow.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425039,
+      "modifiedTime": 1708585300352,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gcFvTdmOshIk5OaW": {
+    "img": "icons/magic/defensive/shield-barrier-flaming-diamond-acid.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424859,
+      "modifiedTime": 1708585302111,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "DH8llNE5QemeV7tH": {
+    "img": "icons/magic/control/debuff-energy-snare-brown.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424848,
+      "modifiedTime": 1708585303949,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zpHbpsIQoogokCEW": {
+    "img": "icons/magic/life/heart-cross-strong-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425065,
+      "modifiedTime": 1708585305965,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "G1wMvXspvRFwUbBn": {
+    "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+    "folder": "cVVwqz2mnpY5I8ZU",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424832,
+      "modifiedTime": 1708980131743,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xFevYAMjnAj0GyZt": {
+    "img": "icons/skills/social/diplomacy-writing-letter.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708626961790,
+      "modifiedTime": 1708627021768,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "8A5uoEtnvRnGA0Vh": {
+    "img": "icons/skills/targeting/target-strike-gray.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424939,
+      "modifiedTime": 1708585307831,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zUjGUgq5CMUs8Bkv": {
+    "img": "icons/magic/life/heart-cross-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425070,
+      "modifiedTime": 1708585310403,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "H1luuJ6zzu6N1bX3": {
+    "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
+    "folder": "yuF2070agEJYsawU",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424878,
+      "modifiedTime": 1708585456720,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Eom245h6LiLxcRMR": {
+    "img": "icons/environment/creatures/frog-spotted-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425035,
+      "modifiedTime": 1708585312605,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "8hxch8J2qPjoMCez": {
+    "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424854,
+      "modifiedTime": 1708629461746,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "iT3xh6wHCOkjg9o2": {
+    "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 2900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424844,
+      "modifiedTime": 1708585314513,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ExfeFDYBDW3wmPjQ": {
+    "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424982,
+      "modifiedTime": 1708585316447,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "fM13prfsCgpvcPwn": {
+    "img": "icons/environment/settlement/watchtower-silhouette-yellow.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424934,
+      "modifiedTime": 1708585318547,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "YGtnl1VfN7BvP21T": {
+    "img": "icons/magic/water/orb-ice-opaque.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424892,
+      "modifiedTime": 1708585320317,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "sAzCUPDwePlBUE9a": {
+    "img": "icons/magic/life/heart-shadow-red.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424912,
+      "modifiedTime": 1708585322163,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "b9sm4jrjmbBKkdDC": {
+    "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424865,
+      "modifiedTime": 1708584130163,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KfJigqojr45VFQKX": {
+    "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424858,
+      "modifiedTime": 1708584131670,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Cr94uTu2t4sD4iuc": {
+    "img": "icons/skills/melee/unarmed-punch-fist.webp",
+    "folder": "yuF2070agEJYsawU",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424967,
+      "modifiedTime": 1708585458477,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Tehmrfm0ZJtYIODU": {
+    "img": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424758,
+      "modifiedTime": 1708585813825,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "U7onCy7go4ftNPJI": {
+    "img": "icons/magic/life/cross-area-circle-green-white.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708628108703,
+      "modifiedTime": 1708628275642,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "QGlLM158mjz69wdD": {
+    "img": "icons/magic/nature/leaf-glow-maple-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424971,
+      "modifiedTime": 1708585324098,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "LXM6kWuYiJ10Nwl3": {
+    "img": "icons/magic/acid/dissolve-bone-skull.webp",
+    "folder": "cVVwqz2mnpY5I8ZU",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424846,
+      "modifiedTime": 1708585844164,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "nVJ14ea5kcdHbsBT": {
+    "img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
+    "folder": "xRMFP4czBggAtGOo",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424835,
+      "modifiedTime": 1708585751860,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RGAkLqQUuY6SdWEq": {
+    "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425042,
+      "modifiedTime": 1708585325998,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5EBv9gSd9K8FjmHN": {
+    "img": "icons/sundries/scrolls/scroll-rolled-plain-white.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708588379756,
+      "modifiedTime": 1708588560499,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "5i7PJLudvWVskGbt": {
+    "img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
+    "folder": "cVVwqz2mnpY5I8ZU",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424828,
+      "modifiedTime": 1708585845798,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dSp1iqUguu0uaOZx": {
+    "img": "icons/magic/air/air-burst-spiral-blue-gray.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425058,
+      "modifiedTime": 1708585328364,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "iUruyzGbgmjDPUVg": {
+    "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424764,
+      "modifiedTime": 1708585784758,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "mh2fRxrwi7bmQGSi": {
+    "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "keen%20mind_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424861,
+      "modifiedTime": 1708584133032,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "j5gs4q6ayH0Yr276": {
+    "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708588213844,
+      "modifiedTime": 1708588279634,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "H3mJ4CG9jCjJ6p3c": {
+    "img": "icons/magic/control/energy-stream-link-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424900,
+      "modifiedTime": 1708585330701,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "p77oVAIEHAetHpXg": {
+    "img": "icons/magic/lightning/bolt-forked-teal-purple.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424995,
+      "modifiedTime": 1708585333781,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "z4ZyqOfsu4pXYFHn": {
+    "img": "icons/sundries/books/book-red-exclamation.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "linguist_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424896,
+      "modifiedTime": 1708584134504,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xUFhJQhBkZAHFbjE": {
+    "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1100000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424843,
+      "modifiedTime": 1708584136029,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "AxOv8zagJ4gmqzlg": {
+    "img": "icons/weapons/daggers/dagger-poisoned-curved-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 3900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425051,
+      "modifiedTime": 1708585336147,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "VqHPazoeRtAClwuZ": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424854,
+      "modifiedTime": 1708584137562,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zLxrw58humIRuiJW": {
+    "img": "icons/magic/control/energy-stream-link-spiral-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425002,
+      "modifiedTime": 1709156349365,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "1kZzJx0va0Fhi81T": {
+    "img": "icons/magic/unholy/orb-colllecting-energy-green.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 1200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424844,
+      "modifiedTime": 1708630034329,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "0WSEVvMEmPguSJeu": {
+    "img": "icons/magic/nature/beam-hand-leaves-green.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 1000000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424829,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "7mV9VErFXSkroF9N": {
+    "img": "icons/skills/targeting/target-strike-triple-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424833,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9Uwuy8LvCZ888TZ3": {
+    "img": "icons/magic/air/wind-tornado-wall-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424862,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "YUmL8vdQJhqCFkis": {
+    "img": "icons/magic/time/hourglass-yellow-green.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424822,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "bX8ekUbs0Cvh4AYI": {
+    "img": "icons/magic/light/hand-sparks-glow-yellow.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424848,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "KmZiDGjcDTaiOabW": {
+    "img": "icons/magic/fire/explosion-mushroom-nuke-orange.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424826,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "fOwRW1AsQ1H84XL8": {
+    "img": "icons/magic/time/clock-stopwatch-white-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424851,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "u1MxoKo8Gzmq5urI": {
+    "img": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424837,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "mzeKANMCzYx4sdnS": {
+    "img": "icons/creatures/slimes/slime-movement-swirling-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424858,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "w5WsO4UkKjAYlQFf": {
+    "img": "icons/magic/lightning/bolt-strike-blue.webp",
+    "folder": "vaAGtFsbcr4rF8Nx",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424784,
+      "modifiedTime": 1708586083868,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "4G8f82GOhy3E2XEB": {
+    "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1300000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424829,
+      "modifiedTime": 1708584139113,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "R6N8HnLphMcSRtcu": {
+    "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
+    "folder": "xRMFP4czBggAtGOo",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424842,
+      "modifiedTime": 1708585753181,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "eg9ujYaElmZXzkYd": {
+    "img": "icons/magic/control/debuff-energy-hold-blue-yellow.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425010,
+      "modifiedTime": 1708585340623,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "MmRMbk3JCJlZatLl": {
+    "img": "icons/creatures/mammals/elk-moose-marked-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424855,
+      "modifiedTime": 1708585343319,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Ahg4D1EmcjawNueB": {
+    "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424875,
+      "modifiedTime": 1708585345669,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "09hctYwlTSGmstJa": {
+    "img": "icons/magic/nature/leaf-glow-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424958,
+      "modifiedTime": 1709156377576,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "BlS1I1coRn3gW5Hu": {
+    "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708626584285,
+      "modifiedTime": 1708627032296,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "QBBJvAkKPk5dveuC": {
+    "img": "icons/magic/control/energy-stream-link-teal.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425082,
+      "modifiedTime": 1708585350667,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZAPFklljKMXAdJrm": {
+    "img": "icons/creatures/eyes/human-single-blue.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1400000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "observant_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424847,
+      "modifiedTime": 1708584140780,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "4cNDmnBetoKoQaAd": {
+    "img": "icons/magic/perception/third-eye-blue-red.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1500000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424870,
+      "modifiedTime": 1708584142232,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "j2mY6WoFFI1NFat3": {
+    "img": "icons/magic/light/orbs-hand-gray.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425067,
+      "modifiedTime": 1708585352781,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ysAn2dJhmEIDntbP": {
+    "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424769,
+      "modifiedTime": 1708585795840,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "XBPFGJafpJdzVlnX": {
+    "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1600000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424826,
+      "modifiedTime": 1708584143746,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "qjY0M07KyCS5A8yx": {
+    "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425023,
+      "modifiedTime": 1708585355249,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Y3anHlfFvmqhbsEm": {
+    "img": "icons/magic/death/skull-horned-goat-pentagram-red.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424767,
+      "modifiedTime": 1708585778972,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "mdZzD7IwY9aBKoU9": {
+    "img": "icons/creatures/mammals/bats-movement-flying-black.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4800000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424819,
+      "modifiedTime": 1708585357648,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "dxOlNgvzEfL7xTlh": {
+    "img": "icons/magic/control/buff-flight-wings-runes-red-yellow.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 4900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424978,
+      "modifiedTime": 1708585359950,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "9NFkPexJLRn7HVzi": {
+    "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424851,
+      "modifiedTime": 1708585362300,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "OjQqIDGNMILPlEV8": {
+    "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627288052,
+      "modifiedTime": 1708627567590,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "iI7mXPakj7JcdPEB": {
+    "img": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424976,
+      "modifiedTime": 1708585364832,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "23g7Lq1DXPHopXjW": {
+    "img": "icons/equipment/shield/buckler-wooden-boss-glowing-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425007,
+      "modifiedTime": 1708585367637,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "JN1RlcPm3MCyTnEk": {
+    "img": "icons/skills/melee/strike-sword-blood-red.webp",
+    "folder": "xRMFP4czBggAtGOo",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424825,
+      "modifiedTime": 1708585756712,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "DMtd0U4uLUFJphSp": {
+    "img": "icons/skills/ranged/target-bullseye-arrow-glowing.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1700000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424907,
+      "modifiedTime": 1708584145200,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "yKuuNWPRkDaw8zC6": {
+    "img": "icons/sundries/books/book-symbol-triangle-silver-blue.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424820,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "vwF5cPJxlnU6bWIt": {
+    "img": "icons/sundries/books/book-stack.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708588568264,
+      "modifiedTime": 1708588645168,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZsESDjQx3HU1PUXA": {
+    "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
+    "folder": "yuF2070agEJYsawU",
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424954,
+      "modifiedTime": 1708585460688,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "55BKrk3KIpvESzwH": {
+    "img": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424821,
+      "modifiedTime": 1708585819558,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "r2GhFm005A1wyiZU": {
+    "img": "icons/skills/wounds/injury-hand-blood-red.webp",
+    "folder": "xRMFP4czBggAtGOo",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424854,
+      "modifiedTime": 1708585758388,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "JuOF7gAFL5zs0Kaw": {
+    "img": "icons/sundries/books/book-embossed-gold-red.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "effects": [
+      {
+        "_id": "K4xQzXl1Z4zMnyOa",
+        "changes": [
+          {
+            "key": "flags.dnd5e.jackOfAllTrades",
+            "mode": 5,
+            "value": "true",
+            "priority": null
+          }
+        ],
+        "disabled": false,
+        "duration": {
+          "startTime": null,
+          "seconds": null,
+          "combat": null,
+          "rounds": null,
+          "turns": null,
+          "startRound": null,
+          "startTurn": null
+        },
+        "origin": "Item.LaQuQ37mInXH6TiR",
+        "transfer": true,
+        "flags": {},
+        "tint": "#ffffff",
+        "name": "Scholar's Mind",
+        "description": "",
+        "statuses": [],
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/sundries/books/book-embossed-gold-red.webp",
+        "type": "base",
+        "system": {},
+        "sort": 0,
+        "_key": "!items.effects!JuOF7gAFL5zs0Kaw.K4xQzXl1Z4zMnyOa"
+      }
+    ],
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1661787234402,
+      "modifiedTime": 1708584096891,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "mjl2AEU4BTYlkMSf": {
+    "img": "icons/skills/trades/academics-book-study-runes.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424768,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Pda9NazUBRLh6d7t": {
+    "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425030,
+      "modifiedTime": 1708585370269,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "K98JhLEPW6V5GRHi": {
+    "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425060,
+      "modifiedTime": 1708585372589,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "GcH83aqmJt78JEkq": {
+    "img": "icons/magic/symbols/runes-star-pentagon-orange-purple.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424835,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "4YYeiBrbznIYbyj6": {
+    "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1800000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "plutonium": {
+        "page": "feats.html",
+        "source": "PHB",
+        "hash": "skilled_phb"
+      },
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424880,
+      "modifiedTime": 1708584146850,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "0kOF1UxiRtRlOE8O": {
+    "img": "icons/magic/control/energy-stream-link-large-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5500000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425076,
+      "modifiedTime": 1709156422787,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "INoQH7zBzSR6JU1M": {
+    "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "effects": [
+      {
+        "_id": "EGXdtswepeAIKCQM",
+        "changes": [
+          {
+            "key": "system.attributes.ac.calc",
+            "mode": 5,
+            "value": "mage",
+            "priority": null
+          }
+        ],
+        "disabled": false,
+        "duration": {
+          "startTime": null,
+          "seconds": null,
+          "combat": null,
+          "rounds": null,
+          "turns": null,
+          "startRound": null,
+          "startTurn": null
+        },
+        "origin": "Item.W5GhamDAXtiySdWV",
+        "transfer": true,
+        "flags": {},
+        "tint": "#ffffff",
+        "name": "Sorcerous Resilience",
+        "description": "",
+        "statuses": [],
+        "_stats": {
+          "coreVersion": "13.347",
+          "systemId": null,
+          "systemVersion": null,
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
+        "type": "base",
+        "system": {},
+        "sort": 0,
+        "_key": "!items.effects!INoQH7zBzSR6JU1M.EGXdtswepeAIKCQM"
+      }
+    ],
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424771,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "nMRKZyxqAGAghkLS": {
+    "img": "icons/magic/symbols/triangle-glow-purple.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424843,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RAY9AaKWGx1vkYhd": {
+    "img": "icons/magic/defensive/shield-barrier-flaming-diamond-teal-purple.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424828,
+      "modifiedTime": 1708583690541,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "g1R67HlsjBfjdpHD": {
+    "img": "icons/sundries/books/book-backed-blue-gold.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424763,
+      "modifiedTime": 1708583693029,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "EaJRQ5xcaM3Mq45W": {
+    "img": "icons/sundries/books/book-backed-silver-red.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 50000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424825,
+      "modifiedTime": 1708584028006,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xwYxEfiivByAd8KJ": {
+    "img": "icons/sundries/books/book-embossed-steel-brown.webp",
+    "folder": "iAydmmJhg1PATiSa",
+    "sort": 25000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424760,
+      "modifiedTime": 1708584029480,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "etnNvxwkSCNrcHAW": {
+    "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708588133412,
+      "modifiedTime": 1708588206506,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "tWeoXe5LGdMiSNJ5": {
+    "img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 1900000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424833,
+      "modifiedTime": 1708584148372,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "hn3Ni3YL48Wml4vz": {
+    "img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5600000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424833,
+      "modifiedTime": 1708585377903,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "RqKX7cH5cCcnYwN1": {
+    "img": "icons/skills/ranged/target-bullseye-arrow-glowing.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5700000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424944,
+      "modifiedTime": 1708585380067,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "u5QusbRmcQjYl0Rw": {
+    "img": "icons/consumables/plants/mint-dried-green.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5800000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424871,
+      "modifiedTime": 1708585409691,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "cm7nxYmVwUILWlpY": {
+    "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 5900000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425075,
+      "modifiedTime": 1708585412191,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "sBwG9yIv1XBjokrY": {
+    "img": "icons/weapons/swords/sword-gold-holy.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708587929081,
+      "modifiedTime": 1708588091446,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "GuU4oMsPFkFpzorP": {
+    "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+    "folder": "4FZpH33THNKkIksN",
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424861,
+      "modifiedTime": 1708585790926,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "xlcBvtKFpNTv9RA1": {
+    "img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 6000000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424863,
+      "modifiedTime": 1708585414209,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ze6VCRlObvjxSJke": {
+    "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 6100000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425092,
+      "modifiedTime": 1708585416402,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "8frXd100NK62IYFH": {
+    "img": "icons/skills/wounds/blood-spurt-spray-red.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 2000000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424922,
+      "modifiedTime": 1708584150054,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "PcBnLLTP94VYb2sK": {
+    "img": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424837,
+      "modifiedTime": 1708584151747,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "gJCLVF6JkHwqkfEZ": {
+    "img": "icons/magic/perception/third-eye-blue-red.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 6200000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424824,
+      "modifiedTime": 1708585418686,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "s8IaNnOam5Ngh6dj": {
+    "img": "icons/magic/control/debuff-energy-hold-teal-blue.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 6300000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425090,
+      "modifiedTime": 1708585420757,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "pnzwEriuGceQxiQY": {
+    "img": "icons/magic/water/water-hand.webp",
+    "folder": "kBrkVEaWAkteheSS",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "N8RgN1jdDFyXuWNq": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424877,
+      "modifiedTime": 1708584153464,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "vLyqRGiUCxB2rAbi": {
+    "img": "icons/skills/melee/shield-damaged-broken-gold.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 6400000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424987,
+      "modifiedTime": 1708585423091,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "eKRIFNekxx8Az6HR": {
+    "img": "icons/magic/life/heart-hand-gold-green-light.webp",
+    "folder": "iywfvRuhk9XTtOAX",
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708627414546,
+      "modifiedTime": 1708627535177,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zZKTRoKCVHjLgqX8": {
+    "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
+    "folder": "ZNrtfcrRGYMDXeuX",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995425014,
+      "modifiedTime": 1708585426341,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  }
+}

@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const oppugno = SpellSchema.parse({
+  id: "oppugno",
+  foundryId: "fHeehV67CV8NHJ1p",
+  type: "spell",
+  level: 2,
+  school: "jhc",
+  source: "W&W p.78",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 30, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "sphere", value: 5, width: null, units: "ft" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["4d4","slashing"]], versatile: "" },
+  save: { ability: "dex", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "1d4" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

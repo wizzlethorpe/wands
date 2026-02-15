@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const transmogrify = SpellSchema.parse({
+  id: "transmogrify",
+  foundryId: "exCcTF281uCasIg9",
+  type: "spell",
+  level: 5,
+  school: "trf",
+  source: "W&W p.83",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 30, long: null, units: "ft" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["2d12","acid"]], versatile: "" },
+  save: { ability: "con", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "1d12" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

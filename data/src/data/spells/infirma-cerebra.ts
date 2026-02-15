@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const infirmaCerebra = SpellSchema.parse({
+  id: "infirma-cerebra",
+  foundryId: "43T1UgLO8IFiAlrb",
+  type: "spell",
+  level: 0,
+  school: "jhc",
+  source: "W&W p.74",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 60, long: null, units: "ft" },
+  duration: { value: 1, units: "round" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "rsak",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["1d6","psychic"]], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "cantrip", formula: "1d6" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: "" },
+  preparation: { mode: "prepared", prepared: false },
+});

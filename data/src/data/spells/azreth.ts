@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const azreth = SpellSchema.parse({
+  id: "azreth",
+  foundryId: "TPFYUtmd1XGdbx8k",
+  type: "spell",
+  level: 7,
+  school: "jhc",
+  source: "W&W p.63",
+  activation: { type: "action", cost: 1, condition: "Dedication" },
+  range: { value: null, long: null, units: "self" },
+  duration: { value: 7, units: "round" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cube", value: 10, width: null, units: "ft" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["7d10","fire"]], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "2d10" },
+  formula: "",
+  ability: "dex",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

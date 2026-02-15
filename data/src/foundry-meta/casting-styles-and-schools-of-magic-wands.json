@@ -1,0 +1,212 @@
+{
+  "n31KaJnrCwRtUyuR": {
+    "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-purple-pink.webp",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424759,
+      "modifiedTime": 1708980012157,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.qtPfcnMIQ5aj1pdC",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "vywxjPPtRgn5UDBd": {
+    "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424762,
+      "modifiedTime": 1708982358512,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.XZZjLZwd8R4cIXhB",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "OhycVSevKDIBxbE2": {
+    "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue.webp",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "sort": 150000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424745,
+      "modifiedTime": 1708990862956,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.J3VGFwKn1P9s0tS8",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "aY9MKttqjWxgO8aq": {
+    "img": "icons/magic/fire/explosion-fireball-large-blue.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424750,
+      "modifiedTime": 1708978744078,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.casting-styles-and-schools-of-magic-wandw.RJytPSm3NX6193a9",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "VdxlU1YFkJGwlJSY": {
+    "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "sort": 125000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424747,
+      "modifiedTime": 1708991603573,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.Ddvwss32ckf2eqmj",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "6Z6ChZqL42lSkjnH": {
+    "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-green.webp",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "sort": 112500,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424741,
+      "modifiedTime": 1708991942036,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.W66ihWRuA8XPGB53",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "yIqpcDpoUmFoJI3U": {
+    "img": "icons/magic/fire/explosion-fireball-large-red-orange.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424765,
+      "modifiedTime": 1708978829787,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.casting-styles-and-schools-of-magic-wandw.oj55g3267QWsgWJp",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "zR5SEFVXzxkr4A5T": {
+    "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-orange.webp",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "sort": 106250,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424768,
+      "modifiedTime": 1708992290776,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Item.MXp3dekKOxu2ooDq",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "HRkzC0UTl2ZXhzzh": {
+    "img": "icons/magic/fire/explosion-fireball-large-purple-pink.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "PHVJjTTDyIktKSlJ": 3,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1662995424743,
+      "modifiedTime": 1708979461993,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.waw.casting-styles-and-schools-of-magic-wandw.BTvinvymI2X1iebF",
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  }
+}

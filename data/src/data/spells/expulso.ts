@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const expulso = SpellSchema.parse({
+  id: "expulso",
+  foundryId: "7oFO8vw0GNO8857C",
+  type: "spell",
+  level: 3,
+  school: "jhc",
+  source: "W&W p.69",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 90, long: null, units: "ft" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "sphere", value: 10, width: null, units: "ft" },
+  actionType: "save",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["4d8","thunder"]], versatile: "" },
+  save: { ability: "con", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "1d8" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

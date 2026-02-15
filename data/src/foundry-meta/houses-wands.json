@@ -1,0 +1,232 @@
+{
+  "IdyHa4eEOkDWrCoL": {
+    "img": "icons/magic/light/beam-rays-orange-small.webp",
+    "folder": null,
+    "sort": 800000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708493260970,
+      "modifiedTime": 1708628542459,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "ZhMND6dAR2E0t270": {
+    "img": "icons/magic/light/beam-rays-yellow-blue-small.webp",
+    "folder": null,
+    "sort": 900000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708494396220,
+      "modifiedTime": 1708628603909,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "mQ4MOC1aKfPKxlVZ": {
+    "img": "icons/magic/light/beams-rays-orange-purple-small.webp",
+    "folder": null,
+    "sort": 700000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708495033771,
+      "modifiedTime": 1708628738561,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "yOqv2Wtbmppm5CBD": {
+    "img": "icons/magic/light/beam-rays-blue-small.webp",
+    "folder": null,
+    "sort": 500000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708495934874,
+      "modifiedTime": 1708628784152,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "y8APVo7GHwp4uTil": {
+    "img": "icons/magic/light/beam-rays-teal-small.webp",
+    "folder": null,
+    "sort": 600000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708496139644,
+      "modifiedTime": 1708628824635,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "uZT2hrkmT28GIled": {
+    "img": "icons/magic/light/beam-rays-red-small.webp",
+    "folder": null,
+    "sort": 400000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708497103505,
+      "modifiedTime": 1708628861507,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "2iTn7K5z4mNm2HFZ": {
+    "img": "icons/magic/light/beam-rays-magenta-small.webp",
+    "folder": null,
+    "sort": 200000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708497211933,
+      "modifiedTime": 1708628899108,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "Dfxm6RugfZb54IGl": {
+    "img": "icons/magic/light/beam-rays-green-small.webp",
+    "folder": null,
+    "sort": 300000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708497544628,
+      "modifiedTime": 1708628934707,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "REiacbansQNLrsvL": {
+    "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",
+    "folder": null,
+    "sort": 100000,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708497645655,
+      "modifiedTime": 1708628966096,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  },
+  "MsRVqCiVivxBE7Np": {
+    "img": "icons/magic/light/beam-rays-teal-purple-small.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "13.347",
+      "createdTime": 1708497750730,
+      "modifiedTime": 1708629001758,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": null,
+      "duplicateSource": null,
+      "exportSource": null
+    }
+  }
+}

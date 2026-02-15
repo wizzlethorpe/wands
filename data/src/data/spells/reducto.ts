@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const reducto = SpellSchema.parse({
+  id: "reducto",
+  foundryId: "rEHpgzC8daBibUE1",
+  type: "spell",
+  level: 4,
+  school: "jhc",
+  source: "W&W p.83",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 90, long: null, units: "ft" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cube", value: 10, width: null, units: "ft" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

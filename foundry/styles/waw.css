@@ -1,0 +1,6 @@
+.dnd5e.sheet.actor.npc {
+	min-height: 700px;
+}
+.dnd5e.sheet.actor.npc ul.skills-list {
+	flex: 0 0 200px;
+}

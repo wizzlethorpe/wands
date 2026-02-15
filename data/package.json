@@ -1,0 +1,25 @@
+{
+  "name": "wands-data",
+  "version": "0.1.0",
+  "description": "Single source of truth for W.A.N.D.S. content — builds to Foundry VTT packs and Quartz site",
+  "type": "module",
+  "scripts": {
+    "validate": "tsx src/build/validate.ts",
+    "build": "tsx src/build/index.ts",
+    "build:foundry": "tsx src/build/build-foundry.ts",
+    "build:quartz": "tsx src/build/build-quartz.ts",
+    "build:packs": "tsx src/build/index.ts && tsx scripts/compile-packs.ts"
+  },
+  "dependencies": {
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

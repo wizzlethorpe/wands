@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const homenumRevelio = SpellSchema.parse({
+  id: "homenum-revelio",
+  foundryId: "uCvgD5pc19lDMuAq",
+  type: "spell",
+  level: 4,
+  school: "div",
+  source: "W&W p.72",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: null, long: null, units: "self" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "sphere", value: 60, width: null, units: "ft" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

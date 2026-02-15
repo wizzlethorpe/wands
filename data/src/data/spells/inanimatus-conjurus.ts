@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const inanimatusConjurus = SpellSchema.parse({
+  id: "inanimatus-conjurus",
+  foundryId: "a4hQlSKc5Iz6AFsc",
+  type: "spell",
+  level: 1,
+  school: "trf",
+  source: "W&W p.73",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 10, long: null, units: "ft" },
+  duration: { value: 1, units: "hour" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: true },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

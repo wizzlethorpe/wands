@@ -1,0 +1,15 @@
+import { HouseSchema } from "../../schemas/index.js";
+
+export const badger = HouseSchema.parse({
+  id: "badger",
+  foundryId: "IdyHa4eEOkDWrCoL",
+  type: "race",
+  source: "W&W p.p.4",
+  creatureType: "",
+  size: "medium",
+  abilityScoreIncrease: "",
+  movement: { walk: 30, fly: 0, swim: 0, climb: 0, burrow: 0 },
+  senses: { darkvision: 0, blindsight: 0, tremorsense: 0, truesight: 0, special: "" },
+  traits: [],
+  advancement: [{"type":"AbilityScoreImprovement","_id":"0kiY7wt6ilE0zDoq","configuration":{"points":1,"fixed":{"str":0,"dex":0,"con":1,"int":0,"wis":1,"cha":0},"cap":2},"value":{"type":"asi"},"level":0,"title":"","icon":null},{"type":"Size","_id":"VaAPVjB9bj0YMy4G","configuration":{"sizes":["med"]},"level":0,"value":{}},{"type":"Trait","configuration":{"grants":["languages:standard:common"],"mode":"default","allowReplacements":false,"choices":[]},"_id":"HvG4sj44CKyEpkCz","level":0,"value":{"chosen":[]}},{"_id":"8Vj1WhVAgI9UEHco","type":"ItemGrant","configuration":{"items":["Compendium.wands.features-wands.Item.etnNvxwkSCNrcHAW","Compendium.wands.features-wands.Item.j5gs4q6ayH0Yr276"],"optional":false,"spell":null},"value":{},"level":0,"title":"Features","icon":null}],
+});

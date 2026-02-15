@@ -1,0 +1,6300 @@
+{
+  "VOwFp5LDjrYmoSG1": {
+    "img": "systems/dnd5e/tokens/beast/PoisonousSnake.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753452,
+      "modifiedTime": 1662998564193,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.FUrG4xwXzZj2M8Yw",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Adder",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "attenuation": 0.5,
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/PoisonousSnake.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "s4C3Y6ruVm08oMvh",
+        "name": "Bite",
+        "type": "weapon",
+        "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: (1d1) piercing damage plus (1d4) poison damage. The target must succeed on a DC 10 Constitution saving throw or take the poison damage.</p>\n</section>\n<p>The adder attacks with its Bite.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": 1,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "piercing"
+              ],
+              [
+                "1d4",
+                "poison"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "con",
+            "dc": 9,
+            "scaling": "con"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false,
+            "ada": false,
+            "mgc": false,
+            "sil": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.WdpSeGqhZpptz37y",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!VOwFp5LDjrYmoSG1.s4C3Y6ruVm08oMvh"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "MjX1BWdkXDW1FCLN": {
+    "img": "systems/dnd5e/tokens/beast/Bat.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753437,
+      "modifiedTime": 1662998572310,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.qJYawMNrY2FHXwRQ",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Bat",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/Bat.webp",
+        "tint": "#ffffff",
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "FTpfVWT6Sh40imJh",
+        "name": "Echolocation",
+        "type": "feat",
+        "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
+        "effects": [],
+        "folder": null,
+        "sort": -100000,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The bat can't use its blindsight while deafened.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "Bat",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Item.xL1zgEf89s0xSVlW",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!MjX1BWdkXDW1FCLN.FTpfVWT6Sh40imJh"
+      },
+      {
+        "_id": "VrNjhpLtm0OQQIxF",
+        "name": "Keen Hearing",
+        "type": "feat",
+        "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 200000,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The bat has<strong> advantage </strong>on Wisdom (Perception) checks that rely on hearing.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "Bat",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Item.fVUqOLxkujSbpeB7",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!MjX1BWdkXDW1FCLN.VrNjhpLtm0OQQIxF"
+      },
+      {
+        "_id": "F2sA4xYjo6tOWRvx",
+        "name": "Flyby",
+        "type": "feat",
+        "img": "icons/creatures/mammals/bats-movement-flying-purple.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The bat doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null,
+            "type": ""
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "Owl",
+          "recharge": {
+            "value": null,
+            "charged": false
+          },
+          "time": {
+            "value": "",
+            "_deprecated": true
+          },
+          "damageType": {
+            "value": "",
+            "_deprecated": true
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.7WfeHV27l7DMcuTG",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!MjX1BWdkXDW1FCLN.F2sA4xYjo6tOWRvx"
+      },
+      {
+        "_id": "wE42vv3NWS9cBDNv",
+        "name": "Bite",
+        "type": "weapon",
+        "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 (1d1) piercing damage.</p>\n</section>\n<p>The bat attacks with its Bite.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": 1,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "piercing"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false,
+            "ada": false,
+            "mgc": false,
+            "sil": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.WdpSeGqhZpptz37y",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!MjX1BWdkXDW1FCLN.wE42vv3NWS9cBDNv"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 1,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "ESgnCo08VVa8vJQO": {
+    "img": "systems/dnd5e/tokens/beast/CatOrange.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753415,
+      "modifiedTime": 1662998579835,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.fGGwcv9dRlOFmCm7",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Cat",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "attenuation": 0.5,
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/CatOrange.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "IlErKZCTWbDb6LET",
+        "name": "Hunting Instincts",
+        "type": "feat",
+        "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<p>The cat can follow or patrol for a specific target. When doing so, it has advantage on Dexterity (Stealth) checks.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!ESgnCo08VVa8vJQO.IlErKZCTWbDb6LET"
+      },
+      {
+        "_id": "xRO9OxsfW2e9iQqM",
+        "name": "Keen Smell",
+        "type": "feat",
+        "img": "icons/magic/perception/eye-ringed-glow-angry-large-teal.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The cat has advantage on Wisdom (Perception) checks that rely on smell.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": null,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.JnLN0Rz60WHXk2Fr",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!ESgnCo08VVa8vJQO.xRO9OxsfW2e9iQqM"
+      },
+      {
+        "_id": "0ZlpJpjluA2oyphs",
+        "name": "Claw",
+        "type": "weapon",
+        "img": "icons/skills/melee/blood-slash-foam-red.webp",
+        "effects": [],
+        "folder": "mGPPKzxD2enc5Fob",
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p><em>Melee Weapon Attack:</em> +4 to hit, reach 5 ft., one target. <em>Hit:</em> 1 (1d1) slashing damage.</p>\n</section>\n<p>The cat makes an attack with its claws.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "slashing"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "ada": false,
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "mgc": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "sil": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Item.MNMNP8WQ04G6EpzF",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!ESgnCo08VVa8vJQO.0ZlpJpjluA2oyphs"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 1,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 1,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "1MJd62OuzDNSMEJS": {
+    "img": "systems/dnd5e/tokens/beast/Spider.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753303,
+      "modifiedTime": 1662998597277,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.dFjbCvKw0VqAULj7",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Goliath Tarantula",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/Spider.webp",
+        "tint": "#ffffff",
+        "scaleX": 0.5,
+        "scaleY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "iYLQqoYI0K1jbJye",
+        "name": "Spider Climb",
+        "type": "feat",
+        "img": "icons/creatures/invertebrates/spider-beetle-runed-green.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The goliath tarantula can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null,
+            "type": ""
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          },
+          "time": {
+            "value": "",
+            "_deprecated": true
+          },
+          "damageType": {
+            "value": "",
+            "_deprecated": true
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.FXHEc39G2d19opuE",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!1MJd62OuzDNSMEJS.iYLQqoYI0K1jbJye"
+      },
+      {
+        "_id": "oWEqnquXtTg9cv6X",
+        "name": "Web Sense",
+        "type": "feat",
+        "img": "icons/magic/control/debuff-chains-ropes-net-white.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>While in contact with a web, the goliath tarantula knows the exact location of any other creature in contact with the same web.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": null,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.kjF0btAMYHUAQgOt",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!1MJd62OuzDNSMEJS.oWEqnquXtTg9cv6X"
+      },
+      {
+        "_id": "BTgxdHLdlkhKmI0r",
+        "name": "Web Walker",
+        "type": "feat",
+        "img": "icons/magic/nature/tree-bare-glow-yellow.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The goliath tarantula ignores movement restrictions caused by webbing.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null,
+            "type": ""
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          },
+          "time": {
+            "value": "",
+            "_deprecated": true
+          },
+          "damageType": {
+            "value": "",
+            "_deprecated": true
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.zITrVwmnPpLoBZI1",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!1MJd62OuzDNSMEJS.BTgxdHLdlkhKmI0r"
+      },
+      {
+        "_id": "AcoT5gh7XbWoyop3",
+        "name": "Bite",
+        "type": "weapon",
+        "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 1 (1d1) piercing damage.</p>\n</section>\n<p>The goliath tarantula attacks with its Bite.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": 1,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "0",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "piercing"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false,
+            "ada": false,
+            "mgc": false,
+            "sil": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.WdpSeGqhZpptz37y",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!1MJd62OuzDNSMEJS.AcoT5gh7XbWoyop3"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 1,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "o7CHLT0NZtyIawAP": {
+    "img": "systems/dnd5e/tokens/beast/GiantCrab.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753455,
+      "modifiedTime": 1662998610353,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.smM8OrlpP6tdKrK4",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Miniature Firecrab",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/GiantCrab.webp",
+        "tint": "#ffffff",
+        "scaleX": 0.3,
+        "scaleY": 0.3,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "1dwNJmJRgKo1bWHD",
+        "name": "Blast-Ended",
+        "type": "feat",
+        "img": "icons/magic/fire/projectile-fireball-smoke-orange.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<p>A very small burst of fire may come out of the firecrab's rear end, which ignites flammable objects that aren't being worn or carried.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!o7CHLT0NZtyIawAP.1dwNJmJRgKo1bWHD"
+      },
+      {
+        "_id": "cJaYUcdCXeeqLgQQ",
+        "name": "Hold Breath",
+        "type": "feat",
+        "img": "icons/magic/water/pseudopod-swirl-blue.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The firecrab can hold its breath for <strong>1 hour</strong>.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.lwC6jwy9bXberyWo",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!o7CHLT0NZtyIawAP.cJaYUcdCXeeqLgQQ"
+      },
+      {
+        "_id": "crE07xbi7o9mLfgd",
+        "name": "Claw",
+        "type": "weapon",
+        "img": "icons/skills/melee/blood-slash-foam-red.webp",
+        "effects": [],
+        "folder": "mGPPKzxD2enc5Fob",
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p><em>Melee Weapon Attack:</em> +2 to hit, reach 5 ft., one target. <em>Hit:</em> 1 (1d1) slashing damage.</p>\n</section>\n<p>The firecrab makes an attack with its claws.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "slashing"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "ada": false,
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "mgc": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "sil": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Item.MNMNP8WQ04G6EpzF",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!o7CHLT0NZtyIawAP.crE07xbi7o9mLfgd"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "KKktgKkLNXkZFJ8b": {
+    "img": "systems/dnd5e/tokens/beast/Owl.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753424,
+      "modifiedTime": 1662998621961,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.WD8bXm7uwit1qsLs",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Owl",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "attenuation": 0.5,
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/OwlWhite.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "QBo4DxQIPLpvE4xx",
+        "name": "Flyby",
+        "type": "feat",
+        "img": "icons/creatures/mammals/bats-movement-flying-purple.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null,
+            "type": ""
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "Owl",
+          "recharge": {
+            "value": null,
+            "charged": false
+          },
+          "time": {
+            "value": "",
+            "_deprecated": true
+          },
+          "damageType": {
+            "value": "",
+            "_deprecated": true
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.7WfeHV27l7DMcuTG",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!KKktgKkLNXkZFJ8b.QBo4DxQIPLpvE4xx"
+      },
+      {
+        "_id": "P6XEmCjQBJmVKge2",
+        "name": "Keen Hearing and Sight",
+        "type": "feat",
+        "img": "icons/magic/perception/eye-ringed-glow-angry-large-teal.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The owl has<strong> advantage </strong>on Wisdom (Perception) checks that rely on sight or hearing.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": null,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.JnLN0Rz60WHXk2Fr",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!KKktgKkLNXkZFJ8b.P6XEmCjQBJmVKge2"
+      },
+      {
+        "_id": "DP8VnZPSMCJVQeKY",
+        "name": "Magical Post",
+        "type": "feat",
+        "img": "icons/sundries/documents/envelope-stealed-brown.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<p>When given a note, letter, or package, the owl will magically know the location of the recipient and fly to deliver the letter.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!KKktgKkLNXkZFJ8b.DP8VnZPSMCJVQeKY"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 1,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 1,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "SFuPJVBZZh6mDYBU": {
+    "img": "icons/svg/mystery-man.svg",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753444,
+      "modifiedTime": 1662995753665,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.YnG54iIsF0r05ioL",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Puffskein",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "attenuation": 0.5,
+        "color": null,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "icons/svg/mystery-man.svg",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "TkkZt0W2si7VVhDu",
+        "name": "Fluffy",
+        "type": "feat",
+        "img": "icons/commodities/materials/hair-tuft-white.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<p>The puffskein appears to be a living ball of fluff; its cuteness might be distracting to some, much like carrying around an adorable kitten.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!SFuPJVBZZh6mDYBU.TkkZt0W2si7VVhDu"
+      },
+      {
+        "_id": "TMjxbdaX01uc5kaj",
+        "name": "Prehensile Tongue",
+        "type": "feat",
+        "img": "icons/creatures/abilities/mouth-teeth-tongue-purple.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<p>The puffskein has a disproportionately long tongue that it can use to grab or manipulate small objects.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!SFuPJVBZZh6mDYBU.TMjxbdaX01uc5kaj"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 1,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "LwTJKIedGwmdWQcJ": {
+    "img": "systems/dnd5e/tokens/beast/Rat.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753429,
+      "modifiedTime": 1662998629531,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.dnd5e.monsters.pozQUPTnLZW8epox",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Rat",
+      "displayName": 20,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "disposition": 0,
+      "displayBars": 40,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "alpha": 1,
+      "light": {
+        "alpha": 1,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/Rat.webp",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 30,
+        "brightness": 0,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "mll5ghZVkPuiyBoa",
+        "name": "Keen Smell",
+        "type": "feat",
+        "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 100000,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<p>The rat has<strong> advantage </strong>on Wisdom (Perception) checks that rely on smell.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null,
+            "type": ""
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "Rat",
+          "recharge": {
+            "value": null,
+            "charged": false
+          },
+          "attunement": 0
+        },
+        "ownership": {
+          "default": 0
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!LwTJKIedGwmdWQcJ.mll5ghZVkPuiyBoa"
+      },
+      {
+        "_id": "QpysqgoHq9LXsShc",
+        "name": "Bite",
+        "type": "weapon",
+        "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 200000,
+        "flags": {},
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p><em>Melee Weapon Attack:</em><strong>+4 to hit,</strong>, <strong>5 ft.,</strong> one target. Hit:<strong> 1 (1d1) <em>piercing damage</em>.</strong></p>\n</section>\n<p>The Rat attacks with its Bite.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": null,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "common",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "piercing"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false,
+            "ada": false,
+            "mgc": false,
+            "sil": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!LwTJKIedGwmdWQcJ.QpysqgoHq9LXsShc"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -4,
+          "bonus": 0,
+          "passive": 6,
+          "prof": 0,
+          "total": -4
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -4,
+          "bonus": 0,
+          "passive": 6,
+          "prof": 0,
+          "total": -4
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -3,
+          "bonus": 0,
+          "passive": 7,
+          "prof": 0,
+          "total": -3
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -4,
+          "bonus": 0,
+          "passive": 6,
+          "prof": 0,
+          "total": -4
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -3,
+          "bonus": 0,
+          "passive": 7,
+          "prof": 0,
+          "total": -3
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -4,
+          "bonus": 0,
+          "passive": 6,
+          "prof": 0,
+          "total": -4
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -4,
+          "bonus": 0,
+          "passive": 6,
+          "prof": 0,
+          "total": -4
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -3,
+          "bonus": 0,
+          "passive": 7,
+          "prof": 0,
+          "total": -3
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -3,
+          "bonus": 0,
+          "passive": 7,
+          "prof": 0,
+          "total": -3
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": -4,
+          "bonus": 0,
+          "passive": 6,
+          "prof": 0,
+          "total": -4
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "ste": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          },
+          "mod": 0,
+          "bonus": 0,
+          "passive": 10,
+          "prof": 0,
+          "total": 0
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell2": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell3": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell4": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell5": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell6": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell7": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell8": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "spell9": {
+          "value": 0,
+          "override": null,
+          "max": 0
+        },
+        "pact": {
+          "value": 0,
+          "override": null,
+          "max": 0,
+          "level": 0
+        },
+        "spell0": {
+          "value": 0,
+          "max": 0
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "UBLeqV21wnuj55Pj": {
+    "img": "systems/dnd5e/tokens/beast/ConstrictorSnake.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753449,
+      "modifiedTime": 1662998640139,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.SstYp7IXviZ0asY5",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Snake",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/PoisonousSnake.webp",
+        "tint": "#ffffff",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "s4C3Y6ruVm08oMvh",
+        "name": "Bite",
+        "type": "weapon",
+        "img": "icons/creatures/abilities/mouth-teeth-long-red.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<section class=\"secret\">\n<p>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: (1d1) piercing damage.</p>\n</section>\n<p>The snake attacks with its Bite.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "quantity": 1,
+          "weight": 0,
+          "price": 0,
+          "attunement": 0,
+          "equipped": true,
+          "rarity": "",
+          "identified": true,
+          "activation": {
+            "type": "action",
+            "cost": 1,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": 1,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": 5,
+            "long": null,
+            "units": "ft"
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": "",
+            "amount": null
+          },
+          "ability": "dex",
+          "actionType": "mwak",
+          "attackBonus": "",
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [
+              [
+                "1d1",
+                "piercing"
+              ]
+            ],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "armor": {
+            "value": 10
+          },
+          "hp": {
+            "value": 0,
+            "max": 0,
+            "dt": null,
+            "conditions": ""
+          },
+          "weaponType": "natural",
+          "baseItem": "",
+          "properties": {
+            "amm": false,
+            "fin": false,
+            "fir": false,
+            "foc": false,
+            "hvy": false,
+            "lgt": false,
+            "lod": false,
+            "rch": false,
+            "rel": false,
+            "ret": false,
+            "spc": false,
+            "thr": false,
+            "two": false,
+            "ver": false,
+            "ada": false,
+            "mgc": false,
+            "sil": false
+          },
+          "proficient": true
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.WdpSeGqhZpptz37y",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!UBLeqV21wnuj55Pj.s4C3Y6ruVm08oMvh"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  },
+  "zRWP3bp43arGKnvV": {
+    "img": "systems/dnd5e/tokens/beast/GiantToad.webp",
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0,
+      "6KPKvdrxQhprt6if": 3
+    },
+    "flags": {
+      "core": {}
+    },
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "2.0.2",
+      "coreVersion": "13.347",
+      "createdTime": 1662995753467,
+      "modifiedTime": 1662998651135,
+      "lastModifiedBy": "6KPKvdrxQhprt6if",
+      "compendiumSource": "Compendium.wands.magical-pets-wands.dWDkuyimvZV8s6Rf",
+      "duplicateSource": null,
+      "exportSource": null
+    },
+    "prototypeToken": {
+      "name": "Pet Toad",
+      "displayName": 0,
+      "actorLink": false,
+      "width": 1,
+      "height": 1,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "flags": {},
+      "randomImg": false,
+      "light": {
+        "alpha": 0.25,
+        "angle": 360,
+        "bright": 0,
+        "coloration": 1,
+        "dim": 0,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "speed": 5,
+          "intensity": 5,
+          "type": null,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "color": null,
+        "attenuation": 0.5,
+        "negative": false,
+        "priority": 0
+      },
+      "texture": {
+        "src": "systems/dnd5e/tokens/beast/GiantToad.webp",
+        "tint": "#ffffff",
+        "scaleX": 0.3,
+        "scaleY": 0.3,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "fit": "contain",
+        "alphaThreshold": 0.75
+      },
+      "sight": {
+        "angle": 360,
+        "enabled": false,
+        "range": 0,
+        "brightness": 1,
+        "visionMode": "basic",
+        "color": null,
+        "attenuation": 0.1,
+        "saturation": 0,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "turnMarker": {
+        "mode": 1,
+        "animation": null,
+        "src": null,
+        "disposition": false
+      },
+      "movementAction": null,
+      "appendNumber": false,
+      "prependAdjective": false
+    },
+    "items": [
+      {
+        "_id": "R5PH09rRsPzJ3Oo9",
+        "name": "Amphibious",
+        "type": "feat",
+        "img": "icons/environment/creatures/frog-spotted-green.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The toad can breathe air and water.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": "",
+            "units": ""
+          },
+          "target": {
+            "value": "",
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": "",
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": "",
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": "",
+            "value": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell",
+            "value": ""
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.4Fap14HgvAwTAZuD",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!zRWP3bp43arGKnvV.R5PH09rRsPzJ3Oo9"
+      },
+      {
+        "_id": "06wxYt0pHuZBWkRl",
+        "name": "Standing Leap",
+        "type": "feat",
+        "img": "icons/environment/creatures/frog-spotted-green.webp",
+        "effects": [],
+        "folder": null,
+        "sort": 0,
+        "flags": {
+          "core": {}
+        },
+        "system": {
+          "description": {
+            "value": "<p>The toad's long jump is up to <strong>10 ft.</strong> and its high jump is up to <strong>5 ft.</strong>, with or without a running start.</p>",
+            "chat": "",
+            "unidentified": ""
+          },
+          "source": "",
+          "activation": {
+            "type": "",
+            "cost": 0,
+            "condition": ""
+          },
+          "duration": {
+            "value": null,
+            "units": ""
+          },
+          "target": {
+            "value": null,
+            "width": null,
+            "units": "",
+            "type": ""
+          },
+          "range": {
+            "value": null,
+            "long": null,
+            "units": ""
+          },
+          "uses": {
+            "value": null,
+            "max": null,
+            "per": null
+          },
+          "consume": {
+            "type": "",
+            "target": null,
+            "amount": null
+          },
+          "ability": null,
+          "actionType": "",
+          "attackBonus": 0,
+          "chatFlavor": "",
+          "critical": {
+            "threshold": null,
+            "damage": null
+          },
+          "damage": {
+            "parts": [],
+            "versatile": ""
+          },
+          "formula": "",
+          "save": {
+            "ability": "",
+            "dc": null,
+            "scaling": "spell"
+          },
+          "requirements": "",
+          "recharge": {
+            "value": null,
+            "charged": false
+          }
+        },
+        "ownership": {
+          "default": 0,
+          "6KPKvdrxQhprt6if": 3
+        },
+        "_stats": {
+          "systemId": null,
+          "systemVersion": null,
+          "coreVersion": "13.347",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": "Compendium.dnd5e.monsterfeatures.f4yvSah35ixQOswD",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "_key": "!actors.items!zRWP3bp43arGKnvV.06wxYt0pHuZBWkRl"
+      }
+    ],
+    "system": {
+      "skills": {
+        "acr": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ani": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "arc": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ath": {
+          "value": 0,
+          "ability": "str",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "dec": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "his": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ins": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "itm": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "inv": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "med": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "nat": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prc": {
+          "value": 1,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "prf": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "per": {
+          "value": 0,
+          "ability": "cha",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "rel": {
+          "value": 0,
+          "ability": "int",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "slt": {
+          "value": 0,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ste": {
+          "value": 1,
+          "ability": "dex",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "sur": {
+          "value": 0,
+          "ability": "wis",
+          "bonuses": {
+            "check": "",
+            "passive": ""
+          }
+        },
+        "ptn": {
+          "value": 0,
+          "ability": "wis"
+        }
+      },
+      "spells": {
+        "spell1": {
+          "value": 0,
+          "override": null
+        },
+        "spell2": {
+          "value": 0,
+          "override": null
+        },
+        "spell3": {
+          "value": 0,
+          "override": null
+        },
+        "spell4": {
+          "value": 0,
+          "override": null
+        },
+        "spell5": {
+          "value": 0,
+          "override": null
+        },
+        "spell6": {
+          "value": 0,
+          "override": null
+        },
+        "spell7": {
+          "value": 0,
+          "override": null
+        },
+        "spell8": {
+          "value": 0,
+          "override": null
+        },
+        "spell9": {
+          "value": 0,
+          "override": null
+        },
+        "pact": {
+          "value": 0,
+          "override": null
+        }
+      },
+      "bonuses": {
+        "mwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rwak": {
+          "attack": "",
+          "damage": ""
+        },
+        "msak": {
+          "attack": "",
+          "damage": ""
+        },
+        "rsak": {
+          "attack": "",
+          "damage": ""
+        },
+        "abilities": {
+          "check": "",
+          "save": "",
+          "skill": ""
+        },
+        "spell": {
+          "dc": ""
+        }
+      },
+      "resources": {
+        "legact": {
+          "value": 0,
+          "max": 0
+        },
+        "legres": {
+          "value": 0,
+          "max": 0
+        },
+        "lair": {
+          "value": false,
+          "initiative": 0
+        }
+      },
+      "currency": {
+        "pp": 0,
+        "gp": 0,
+        "ep": 0,
+        "sp": 0,
+        "cp": 0
+      },
+      "newskills": {
+        "ptn": {
+          "value": null,
+          "total": null
+        }
+      }
+    }
+  }
+}

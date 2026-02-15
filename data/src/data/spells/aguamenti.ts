@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const aguamenti = SpellSchema.parse({
+  id: "aguamenti",
+  foundryId: "vRGqcJIal0kGv19T",
+  type: "spell",
+  level: 0,
+  school: "trf",
+  source: "W&W p.62",
+  activation: { type: "action", cost: 1, condition: "Dedication" },
+  range: { value: null, long: null, units: "self" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: true, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "cone", value: 30, width: null, units: "ft" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

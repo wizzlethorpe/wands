@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Apparition Result",
+    "sorting": "a",
+    "folder": null,
+    "type": "RollTable",
+    "_id": "QyRgDsxoMIFbzvJb",
+    "sort": 500000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156692385,
+      "modifiedTime": 1709156776230,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!QyRgDsxoMIFbzvJb"
+  },
+  {
+    "name": "Artist",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "2kep2yCIRJxRNGso",
+    "sort": 100000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156571583,
+      "modifiedTime": 1709156779524,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!2kep2yCIRJxRNGso"
+  },
+  {
+    "name": "Background",
+    "sorting": "a",
+    "folder": null,
+    "type": "RollTable",
+    "_id": "CkghkUALJpaMfoup",
+    "sort": 1200000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156772089,
+      "modifiedTime": 1709156776230,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!CkghkUALJpaMfoup"
+  },
+  {
+    "name": "Bookworm",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "immZOdtHQM7E6W3M",
+    "sort": 200000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156583790,
+      "modifiedTime": 1709156781488,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!immZOdtHQM7E6W3M"
+  },
+  {
+    "name": "Dark Magic Corruption",
+    "sorting": "a",
+    "folder": null,
+    "type": "RollTable",
+    "_id": "msDlZwjP4f7Qeguj",
+    "sort": 1300000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156607056,
+      "modifiedTime": 1709156776230,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!msDlZwjP4f7Qeguj"
+  },
+  {
+    "name": "Dreamer",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "qDW8sBhPerg8KHfM",
+    "sort": 300000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156615450,
+      "modifiedTime": 1709156788579,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!qDW8sBhPerg8KHfM"
+  },
+  {
+    "name": "Groundskeeper",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "5SeLDrs5q3w74VUa",
+    "sort": 400000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156640689,
+      "modifiedTime": 1709156790828,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!5SeLDrs5q3w74VUa"
+  },
+  {
+    "name": "Klutz",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "i9GaPu99jBLcimYX",
+    "sort": 500000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156652351,
+      "modifiedTime": 1709156793262,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!i9GaPu99jBLcimYX"
+  },
+  {
+    "name": "Potioneer",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "phDA2akNgGJRaX0z",
+    "sort": 600000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156706749,
+      "modifiedTime": 1709156795374,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!phDA2akNgGJRaX0z"
+  },
+  {
+    "name": "Protector",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "1OYJ2ygxZ9or23lv",
+    "sort": 700000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156716703,
+      "modifiedTime": 1709156797533,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!1OYJ2ygxZ9or23lv"
+  },
+  {
+    "name": "Quidditch Fan",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "iB0vxH8ognjaI6Ep",
+    "sort": 800000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156732893,
+      "modifiedTime": 1709156799887,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!iB0vxH8ognjaI6Ep"
+  },
+  {
+    "name": "Socialite",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "bI4uOLB4seNA6Rcy",
+    "sort": 900000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156744019,
+      "modifiedTime": 1709156803220,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!bI4uOLB4seNA6Rcy"
+  },
+  {
+    "name": "Troublemaker",
+    "sorting": "a",
+    "folder": "CkghkUALJpaMfoup",
+    "type": "RollTable",
+    "_id": "n8EyrfzBwmACsoDw",
+    "sort": 1000000,
+    "color": null,
+    "flags": {},
+    "_stats": {
+      "systemId": "dnd5e",
+      "systemVersion": "3.0.3",
+      "coreVersion": "11.315",
+      "createdTime": 1709156756807,
+      "modifiedTime": 1709156805982,
+      "lastModifiedBy": "6KPKvdrxQhprt6if"
+    },
+    "_key": "!folders!n8EyrfzBwmACsoDw"
+  }
+]

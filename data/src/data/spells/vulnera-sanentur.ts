@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const vulneraSanentur = SpellSchema.parse({
+  id: "vulnera-sanentur",
+  foundryId: "g4z9ulU4uWkk4bHr",
+  type: "spell",
+  level: 6,
+  school: "hea",
+  source: "W&W p.84",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: null, long: null, units: "touch" },
+  duration: { value: 1, units: "minute" },
+  components: { vocal: true, somatic: true, material: false, concentration: true, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "heal",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [["4d8+@mod","healing"]], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "1d8" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

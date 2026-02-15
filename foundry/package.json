@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+    "packs:pack": "node scripts/packs.js pack",
+    "packs:unpack": "node scripts/packs.js unpack",
+    "migrate": "node scripts/migrate-v3.js"
+  }
+}

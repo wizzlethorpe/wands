@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const incendioGlacia = SpellSchema.parse({
+  id: "incendio-glacia",
+  foundryId: "rLPfrlJJcEIPbVMg",
+  type: "spell",
+  level: 0,
+  school: "trf",
+  source: "W&W p.74",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: null, long: null, units: "touch" },
+  duration: { value: 1, units: "hour" },
+  components: { vocal: true, somatic: true, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "" },
+  actionType: "",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "none", formula: "" },
+  formula: "",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: null },
+  preparation: { mode: "prepared", prepared: false },
+});

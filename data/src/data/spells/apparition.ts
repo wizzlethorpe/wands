@@ -1,0 +1,28 @@
+import { SpellSchema } from "../../schemas/index.js";
+
+export const apparition = SpellSchema.parse({
+  id: "apparition",
+  foundryId: "xjyXNncVKZgo4z01",
+  type: "spell",
+  level: 1,
+  school: "con",
+  source: "W&W p60",
+  activation: { type: "action", cost: 1, condition: "" },
+  range: { value: 0.001, long: 500, units: "mi" },
+  duration: { value: null, units: "inst" },
+  components: { vocal: false, somatic: false, material: false, concentration: false, ritual: false },
+  materials: { description: "", consumed: false, cost: 0, supply: 0 },
+  target: { type: "", value: null, width: null, units: "self" },
+  actionType: "util",
+  attackBonus: 0,
+  chatFlavor: "",
+  damage: { parts: [], versatile: "" },
+  save: { ability: "", dc: null, scaling: "spell" },
+  scaling: { mode: "level", formula: "" },
+  formula: "d20+@mod",
+  ability: "",
+  uses: { value: null, max: null, per: null, recovery: "" },
+  consume: { type: "", target: null, amount: null },
+  critical: { threshold: null, damage: "" },
+  preparation: { mode: "always", prepared: false },
+});
