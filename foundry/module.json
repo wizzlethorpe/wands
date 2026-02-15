@@ -16,6 +16,9 @@
   "relationships": {
     "requires": [
       { "id": "dnd5e", "type": "system", "compatibility": { "minimum": "3" } }
+    ],
+    "optional": [
+      { "id": "babele", "type": "module" }
     ]
   },
   "esmodules": ["src/wandsandwizards.js"],

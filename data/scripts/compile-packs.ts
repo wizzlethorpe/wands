@@ -45,4 +45,23 @@ for (const pack of packDirs) {
   }
 }
 
+// Copy Babele translation files to foundry/babele/
+const BABELE_SRC = path.resolve(import.meta.dirname, "../dist/babele");
+const BABELE_DEST = path.resolve(import.meta.dirname, "../../foundry/babele");
+
+if (fs.existsSync(BABELE_SRC)) {
+  const locales = fs.readdirSync(BABELE_SRC, { withFileTypes: true })
+    .filter((d) => d.isDirectory())
+    .map((d) => d.name);
+
+  if (locales.length > 0) {
+    // Clean and recreate
+    if (fs.existsSync(BABELE_DEST)) {
+      fs.rmSync(BABELE_DEST, { recursive: true });
+    }
+    fs.cpSync(BABELE_SRC, BABELE_DEST, { recursive: true });
+    console.log(`\nCopied Babele translations for ${locales.length} locale(s): ${locales.join(", ")}`);
+  }
+}
+
 console.log("\nDone. LevelDB packs at foundry/packs/");

@@ -1,0 +1,617 @@
+{
+  "label": "Features (WANDS)",
+  "entries": {
+    "Natural Remedies": {
+      "name": "Remédios Naturais",
+      "description": "<p>Seu interesse em cura o levou a estudar poções e cataplasmas. Você aprende a receita de @UUID[Compendium.wands.items-wands.Item.0bqG2d7a2HPONNEN]{Star Grass Salve} e ganha proficiência em uma das seguintes perícias: Herbologia, Medicina, Preparação de Poções.</p>"
+    },
+    "Draconic Empathy": {
+      "name": "Empatia Dracônica",
+      "description": "<p><em><strong>Melhor Amigo do Bruxo necessário.</strong></em> Sua dedicação como guardião de dragões permite que você compreenda profundamente os dragões. Se você já criou um dragão desde o ovo, ele o verá como um aliado e pode servir como seu companheiro bestial. Dragões domesticados têm seus próprios pontos de vida, dados de vida e valores de habilidade, e usam ações de ataque natural.</p>"
+    },
+    "Metamagic: Careful Spell": {
+      "name": "Metamagia: Magia Cuidadosa",
+      "description": "<p>Quando você conjura uma magia que força outras criaturas a fazer um teste de resistência, pode proteger algumas dessas criaturas da força total da magia. Para isso, gaste 1 ponto de feitiçaria e escolha um número dessas criaturas igual ao seu modificador de Carisma (mínimo de uma criatura). Uma criatura escolhida automaticamente tem sucesso em seu teste de resistência contra a magia.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar de onde os usos serão consumidos.</p>"
+    },
+    "Skilled Occlumens": {
+      "name": "Oclumente Habilidoso",
+      "description": "<p><em>@UUID[Compendium.wands.spells-wands.Item.ZHPPAams6Xm4LY7g]{Legilimens}</em> e @UUID[Compendium.wands.items-wands.Item.QV2bAMA1HKKMP1B8]{Veritaserum} não funcionarão em você, a menos que você permita. Você pode escolher deixar <em>legilimens</em> continuar e revelar informações falsas, emoções falsas ou memórias falsas de sua escolha.</p>"
+    },
+    "Metamagic": {
+      "name": "Metamagia",
+      "description": "<p>No 3º nível, você ganha a habilidade de moldar suas magias para atender às suas necessidades. Você ganha duas das seguintes opções de Metamagia à sua escolha. Você ganha mais uma no 10º e 17º nível. Você pode usar apenas uma opção de Metamagia em uma magia ao conjurá-la, a menos que indicado de outra forma.</p><p>Careful Spell</p><p>Distant Spell</p><p>Empowered Spell</p><p>Extended Spell</p><p>Heightened Spell</p><p>Quickened Spell</p><p>Subtle Spell</p><p>Twinned Spell</p><p>Você pode arrastar suas escolhas acima para sua ficha de personagem e ela será atualizada automaticamente.</p>"
+    },
+    "Protective Enchantments": {
+      "name": "Encantamentos Protetores",
+      "description": "<p>Qualquer magia de feitiço que você conjurar que afete uma área (cubo, linha, esfera ou cone) tem o tamanho de sua área dobrado.</p>"
+    },
+    "Cold Efficiency": {
+      "name": "Eficiência Fria",
+      "description": "<p>Você adiciona a magia @UUID[Compendium.wands.spells-wands.Item.uzy4BWTrdyAiy7ed]{Bombarda} à sua lista de magias conhecidas. Ela não conta contra seus truques conhecidos e não pode ser esquecida para aprender outro truque.</p>"
+    },
+    "Durable": {
+      "name": "Durável",
+      "description": "<p>Resistente e resiliente, você ganha os seguintes benefícios:</p><p>Aumente seu valor de Constituição em 1, até um máximo de 20.<br/>Quando você rola um Dado de Vida para recuperar pontos de vida, o número mínimo de pontos de vida que você recupera da rolagem é igual ao dobro do seu modificador de Constituição (mínimo de 2).</p>"
+    },
+    "Detecting Traces": {
+      "name": "Detectando Rastros",
+      "description": "<p>Você aprendeu a sentir magia e reconhecer estilos de feitiços e maldições. Usando concentração, você sente a presença de magia dentro de 9 metros de você. Se você sentir magia desta forma, pode usar sua ação para ver uma aura tênue ao redor de qualquer criatura ou objeto visível na área que possua magia, e você descobre a escola de magia associada à magia, se houver. Esta habilidade pode penetrar a maioria das barreiras, mas é bloqueada por 30 centímetros de pedra, 2,5 centímetros de metal comum, ou 90 centímetros de madeira ou terra.</p>"
+    },
+    "Metamorph Magic": {
+      "name": "Magia Metamorfomaga",
+      "description": "<p>Uma vez a cada muitos anos, um metamorfomago nasce em uma família bruxa com seu talento muito particular: transformar todos os aspectos de sua aparência humana. Antes de se tornar adulto, um metamorfomago não terá controle total sobre esta habilidade, frequentemente deixando suas emoções ou estresse levarem a melhor e perdendo o controle.</p><ul><li>À vontade, você pode transformar sua aparência. Como uma ação, você decide como se parece, incluindo sua altura, peso, características faciais, som de sua voz, comprimento do cabelo, coloração e características distintivas, se houver. Nenhuma de suas estatísticas muda, você não aparece como uma criatura de tamanho diferente do seu, e sua forma básica permanece a mesma. Se você é bípede, não pode usar esta magia para se tornar quadrúpede, por exemplo. A qualquer momento, você pode usar sua ação para mudar sua aparência desta forma novamente.</li></ul><ul><li>Você também pode adaptar seu corpo a um ambiente aquático, desenvolvendo membranas entre os dedos. Como uma ação, você ganha velocidade de natação igual à sua velocidade de caminhada.</li></ul>"
+    },
+    "Bravehearted": {
+      "name": "Coração Valente",
+      "description": "<p>Você tem vantagem em testes de resistência contra ficar amedrontado por qualquer fonte que não seja um Dementador.</p>"
+    },
+    "Auror Alert": {
+      "name": "Alerta Auror",
+      "description": "<p>Como um combatente proeminente de magia das Trevas, você tem conexões no Departamento de Execução das Leis da Magia. Você pode chamar uma equipe de dois aurores para aparatar em sua localização. Você não pode usar esta característica novamente até terminar um descanso longo.</p>"
+    },
+    "Skilled": {
+      "name": "Habilidoso",
+      "description": "<p>Você ganha proficiência em qualquer combinação de três perícias ou ferramentas de sua escolha.</p>"
+    },
+    "Occlumency Training": {
+      "name": "Treinamento de Oclumência",
+      "description": "<p>Você desenvolveu a presença de espírito para resistir a uma invasão mental. Quando alvo de <em>legilimens</em>, você faz um teste de resistência de Sabedoria para resistir aos seus efeitos iniciais, e tem vantagem nas disputas de Inteligência. Se falhar no teste de resistência inicial, você fica imediatamente ciente de que a magia está mirando em você. Se tiver sucesso em um teste de resistência ou disputa, pode deixar a magia continuar e revelar informações falsas, emoções falsas ou memórias falsas de sua escolha.</p><p>Veritaserum não funcionará em você, a menos que você permita.</p>"
+    },
+    "Sadistic": {
+      "name": "Sádico",
+      "description": "<p>Sua sede de sangue faz você ficar fascinado pela dor que causa. Sempre que você causar dano, o próximo ataque feito contra você por qualquer coisa que não seja a criatura que você danificou tem vantagem na jogada de ataque.</p>"
+    },
+    "In-Depth Knowledge": {
+      "name": "Conhecimento Aprofundado",
+      "description": "<p>Sempre que você fizer um teste de habilidade de Inteligência ou Sabedoria que permita adicionar seu bônus de proficiência, você pode tratar uma rolagem de d20 de 5 ou menos como 6.</p>"
+    },
+    "Inferi Ritual": {
+      "name": "Ritual dos Inferi",
+      "description": "<p>Ao se concentrar por 10 minutos e gastar um espaço de magia de 5º nível, este ritual cria um servo morto-vivo. Escolha um cadáver de um humanoide Médio ou Pequeno que você possa tocar. Sua magia imbuí o alvo com uma imitação vil de vida, erguendo-o como um @UUID[Compendium.wands.monsters-wands.Actor.DkY5yTEyIaZ39zTN]{Inferius}.</p><p>Como uma ação bônus, você pode comandar mentalmente qualquer um de seus inferi se um estiver dentro de 18 metros de você (se você controlar múltiplos, pode comandar qualquer um ou todos com o mesmo comando). Você decide sua ação e movimento durante seu próximo turno, ou pode emitir um comando geral, como guardar um corredor específico. Se você não emitir comandos, a criatura apenas se defende contra criaturas hostis. Uma vez dado um comando, a criatura continua a segui-lo até que sua tarefa esteja completa.</p><p>A magia das Trevas que liga o cadáver é permanente. O inferius só será desanimado se você morrer ou se ele for destruído.</p>"
+    },
+    "Accelerated Recovery": {
+      "name": "Recuperação Acelerada",
+      "description": "<p>Suas magias de cura são mais eficazes. Sempre que você usar uma magia de 1º nível ou superior para restaurar pontos de vida de uma criatura, a criatura recupera pontos de vida adicionais iguais a 2 + o nível da magia.</p>"
+    },
+    "Anatomy Textbook": {
+      "name": "Livro de Anatomia",
+      "description": "<p>Seu conhecimento do funcionamento interno de uma criatura torna suas transfigurações mais fáceis. Se uma magia de Transfiguração deve ser conjurada em um nível superior para envolver uma criatura viva, você pode envolver uma criatura viva e consumir um espaço de magia um nível abaixo do necessário.</p>"
+    },
+    "A Noble Quality": {
+      "name": "Uma Qualidade Nobre",
+      "description": "<p>Você é capaz de adotar uma persona de importância para se misturar entre funcionários de alto escalão e bruxas e bruxos prestigiosos.</p>"
+    },
+    "Metamagic: Distant Spell": {
+      "name": "Metamagia: Magia Distante",
+      "description": "<p>Quando você conjura uma magia com alcance de 1,5 metro ou mais, pode gastar 1 ponto de feitiçaria para dobrar o alcance da magia.</p><p>Quando você conjura uma magia com alcance de toque, pode gastar 1 ponto de feitiçaria para tornar o alcance da magia 9 metros.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Exploited Vulnerabilities": {
+      "name": "Vulnerabilidades Exploradas",
+      "description": "<p>Você sabe exatamente como acertar onde dói. Como uma ação bônus, você pode apontar as fraquezas de um inimigo para seus aliados. O alvo sofre [[/r 2d8]] de dano adicional das magias causadoras de dano de seus aliados até o início do seu próximo turno. Você tem um número de usos igual ao seu modificador de Inteligência, e os usos são restaurados após um descanso longo.</p>"
+    },
+    "Vampirism": {
+      "name": "Vampirismo",
+      "description": "<p>Você ganha os seguintes benefícios:</p><ul><li>Você pode ver em luz fraca dentro de 36 metros de você como se fosse luz forte, e na escuridão como se fosse luz fraca. Você não pode discernir cores na escuridão, apenas tons de cinza.</li></ul><ul><li>Você está preso à idade e forma que tinha no momento de sua morte-viva. Você não pode morrer de velhice, não sofre nenhuma das desvantagens da velhice, e não pode ser envelhecido magicamente.</li></ul><ul><li>Você ganha proficiência em Carisma (Persuasão).</li></ul><p>Você também ganha as seguintes penalidades:</p><ul><li>Você sofre 1 de dano quando começa seu turno sob luz solar direta.</li></ul><ul><li>Você tem desvantagem em jogadas de ataque e em testes de Sabedoria (Percepção) que dependem da visão quando você, o alvo do seu ataque, ou o que quer que esteja tentando perceber estiver sob luz solar direta.</li></ul><ul><li>Você não pode entrar em uma residência sem o convite de um dos ocupantes.</li></ul><ul><li>Você é repelido pelo cheiro de alho, e tocá-lo ou comê-lo causa dor intensa.</li></ul><ul><li>Em vez de comida e água, você deve beber sangue animal, humano ou de ser mágico para se sustentar.</li></ul>"
+    },
+    "Font of Magic": {
+      "name": "Fonte de Magia",
+      "description": "<p>No 2º nível, você acessa uma nascente profunda de magia dentro de si. Esta nascente é representada por pontos de feitiçaria, que permitem criar uma variedade de efeitos mágicos.</p><h3>Pontos de Feitiçaria</h3><p>Você nunca pode ter mais pontos de feitiçaria do que seu nível determina. Você recupera todos os pontos de feitiçaria gastos quando termina um descanso longo.</p><h3>Conjuração Flexível</h3><p>Você pode usar seus pontos de feitiçaria para ganhar espaços de magia adicionais, ou sacrificar espaços de magia para ganhar pontos de feitiçaria adicionais. Você aprende outras formas de usar seus pontos de feitiçaria conforme alcança níveis mais altos.</p><p><em><strong>Criando Espaços de Magia</strong>.</em>Você pode transformar pontos de feitiçaria não gastos em um espaço de magia como uma ação bônus no seu turno. A tabela Criando Espaços de Magia mostra o custo de criar um espaço de magia de um dado nível. Você pode criar espaços de magia de nível não superior ao 5º.</p><p>Qualquer espaço de magia que você crie com esta característica desaparece quando você termina um descanso longo.</p><table><thead><tr><td><strong>Nível do Espaço de Magia</strong></td><td><strong>Custo em Pontos de Feitiçaria</strong></td></tr></thead><tbody><tr><td>1º</td><td>2</td></tr><tr><td>2º</td><td>3</td></tr><tr><td>3º</td><td>5</td></tr><tr><td>4º</td><td>6</td></tr><tr><td>5º</td><td>7</td></tr></tbody></table><p><em><strong>Convertendo um Espaço de Magia em Pontos de Feitiçaria</strong>.</em>Como uma ação bônus no seu turno, você pode gastar um espaço de magia e ganhar um número de pontos de feitiçaria igual ao nível do espaço.</p><p><em><strong>Nota do Foundry:</strong>Use isto para rastrear os vários usos de pontos de feitiçaria do conjurador.</em><em> Por favor, ajuste manualmente conforme necessário.</em></p>"
+    },
+    "Aerial Combatant": {
+      "name": "Combatente Aéreo",
+      "description": "<p>Você é capaz de se manter orientado e mirar em seus alvos enquanto voa em uma vassoura. Você ganha os seguintes benefícios.</p><ul><li>Você ganha proficiência em ferramentas de Veículos (Vassoura).</li></ul><ul><li>Você não sofre mais desvantagem em jogadas de ataque devido a estar voando.</li></ul>"
+    },
+    "Prepared Ambush": {
+      "name": "Emboscada Preparada",
+      "description": "<p>Ao aprender a combater alvos perigosos, você sabe como colocar uma armadilha mágica, esperando para ser acionada. Quando você conjura uma magia que mira em uma única criatura ou área usando um espaço de magia de 1º nível ou superior, pode tecer essa magia em seus arredores, sem efeito imediato. A magia é conjurada quando é acionada por algo, que você decide no momento de montar a armadilha, como entrar em uma área, chegar a uma certa distância ou manipular um objeto. Você também pode definir condições para criaturas que não acionam a magia, como pessoas específicas ou aqueles que dizem uma senha.</p><p>Usar esta habilidade gasta um espaço de magia dois níveis acima da magia pretendida. Por exemplo, para definir uma magia de 1º nível como armadilha mágica, você deve gastar um espaço de magia de 3º nível.</p><p>Se a magia requer um alvo, ela só pode mirar em uma criatura que a acione, ou se afetar uma área, a área de efeito da magia é centrada na criatura que a acionou. Se a magia conjura criaturas hostis, elas aparecem o mais perto possível da criatura que acionou e atacam. Se a magia requer concentração, ela dura sua duração total. Uma armadilha pode ser detectada por um teste bem-sucedido de Inteligência (Investigação) contra sua CD de magia, ou conjurando @UUID[Compendium.wands.spells-wands.Item.DXr0kJP9lMFe1yjU]{Specialis Revelio}.</p>"
+    },
+    "Metamagic: Empowered Spell": {
+      "name": "Metamagia: Magia Potencializada",
+      "description": "<p>Quando você rola dano para uma magia, pode gastar 1 ponto de feitiçaria para rerolar um número de dados de dano até seu modificador de habilidade de conjuração (mínimo de um). Você deve usar as novas rolagens.</p><p>Você pode usar Magia Potencializada mesmo que já tenha usado uma opção de Metamagia diferente durante a conjuração da magia.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Muggle Dueling": {
+      "name": "Duelo Trouxa",
+      "description": "<p>Você treinou em duelo não-mágico como último recurso. Adicione seu bônus de proficiência às suas jogadas de dano para golpes desarmados e a quaisquer testes de Força envolvidos em agarrar ou desarmar um bruxo.</p>"
+    },
+    "Magical Adrenaline": {
+      "name": "Adrenalina Mágica",
+      "description": "<p>Sua magia o revigora em momentos de extrema necessidade. Como uma ação bônus, você pode gastar um dado de vida para recuperar pontos de vida como faria normalmente após um descanso curto, igual ao dado de vida + modificador de Constituição. Você tem um número de usos igual ao seu bônus de proficiência, e todos os usos são restaurados após um descanso longo.</p>"
+    },
+    "Nimble Evasion": {
+      "name": "Evasão Ágil",
+      "description": "<p>Sempre que realizar a ação de esquivar, adicione metade do seu modificador de proficiência à sua CA e aos seus testes de resistência de Destreza.</p>"
+    },
+    "Grab (Beast Command)": {
+      "name": "Agarrar (Comando de Besta)",
+      "description": "<p>Quando seu companheiro faz um ataque de oportunidade, você pode usar sua reação e rolar um dado de comando para emitir este comando. Se o ataque acertar, seu companheiro pode tentar agarrar o alvo como parte do ataque, adicionando o resultado do dado de comando ao teste de perícia feito para a tentativa.</p>"
+    },
+    "Adventurer's Footing": {
+      "name": "Passo de Aventureiro",
+      "description": "<p>Mover-se por terreno difícil não-mágico não custa movimento extra para você.</p>"
+    },
+    "Caretaker": {
+      "name": "Cuidador",
+      "description": "<p>Seu estudo de criaturas mágicas lhe ensinou sobre seus ferimentos e fisiologias. Você pode conjurar qualquer magia de Cura conhecida em bestas.</p>"
+    },
+    "Elementalist": {
+      "name": "Elementalista",
+      "description": "<p>Seu estudo de Alquimia lhe deu percepções sobre a natureza dos elementos. Qualquer magia que envolva apenas fogo, água, terra ou ar é automaticamente conjurada um nível acima do espaço de magia consumido, não excedendo o nível mais alto de espaços de magia disponíveis que você possui.</p>"
+    },
+    "Remarkable Aim": {
+      "name": "Pontaria Notável",
+      "description": "<p>Você tem precisão infalível com magias de projétil. Seus ataques de magia à distância ignoram meia cobertura e tratam três quartos de cobertura como se fosse meia cobertura.</p>"
+    },
+    "Spellcasting (Technique)": {
+      "name": "Conjuração (Técnica)",
+      "description": "<p>Sabedoria é sua habilidade de conjuração para suas magias. Você usa sua Sabedoria sempre que uma magia se referir à sua habilidade de conjuração. Além disso, você usa seu modificador de Sabedoria ao definir a CD do teste de resistência de uma magia que conjura e ao fazer uma jogada de ataque com uma.</p><p>Você deve usar uma varinha como foco de conjuração para suas magias. Sua progressão de espaços de magia é o padrão para conjuradores completos (22 espaços no nível 20).</p><p>Além disso, quando você ganha um nível nesta classe, pode escolher dois dos truques ou magias que conhece e substituí-los por dois novos truques ou magias, que também devem ser de um nível para o qual você tenha espaços de magia.</p>"
+    },
+    "Cough": {
+      "name": "Tosse",
+      "description": "<p>Você desenvolve uma tosse incontrolável que surge de vez em quando. Você tem desvantagem em testes de Destreza (Furtividade).</p>"
+    },
+    "Folio Bruti": {
+      "name": "Folio Bruti",
+      "description": "<p>Você tem seu próprio caderno pessoal de bestas onde registra suas descobertas. Sempre que você adicionar proficiência em Criaturas Mágicas a um teste de Habilidade, adicione seu modificador de Inteligência como bônus também.</p>"
+    },
+    "Foresight": {
+      "name": "Presciência",
+      "description": "<p>Você começa a ver presságios em todo lugar que olha. Após um descanso longo, role dois d20s e registre essas rolagens como suas duas rolagens de presciência.</p><p>Quando você ou uma criatura que você pode ver está prestes a fazer uma jogada de ataque, teste de resistência ou teste de habilidade, você pode gastar uma de suas rolagens de presciência para usar aquele número, uma vez por turno. Após um descanso longo, você perde e rerola suas rolagens de presciência. No nível 10, você ganha outra rolagem de presciência, para um total de 3.</p>"
+    },
+    "A Saving-People Thing": {
+      "name": "Mania de Salvar Pessoas",
+      "description": "<p>Você se jogará na linha de fogo para proteger os outros. Se uma criatura que você pode ver dentro de 3 metros de você for alvo de uma magia ou ataque, você pode usar sua reação para conjurar @UUID[Compendium.wands.spells-wands.Item.EgRBuzwafm5XCPxo]{Protego} e pular na frente dessa criatura, tornando-se o novo alvo do ataque. Se a magia ou ataque afetar ambos e você se colocar na frente dessa criatura, você estará sujeito aos efeitos dessa magia ou ataque duas vezes.</p>"
+    },
+    "Actor": {
+      "name": "Ator",
+      "description": "<p>Habilidoso em imitação e dramatização, você ganha os seguintes benefícios:</p><ul><li>Aumente seu valor de Carisma em 1, até um máximo de 20.</li></ul><ul><li>Você tem vantagem em testes de Carisma (Enganação) e Carisma (Atuação) quando tenta se passar por outra pessoa.</li></ul><ul><li>Você pode imitar a fala de outra pessoa ou os sons feitos por outras criaturas. Você deve ter ouvido a pessoa falar, ou ouvido a criatura fazer o som, por pelo menos 1 minuto. Um teste bem-sucedido de Sabedoria (Intuição) contestado pelo seu teste de Carisma (Enganação) permite que um ouvinte determine que o efeito é falso.</li></ul>"
+    },
+    "Empowered Darkness": {
+      "name": "Trevas Potencializadas",
+      "description": "<p>Quando você tem Empowered Spell como uma de suas opções de metamagia e a usa em uma magia das Trevas, ela custa 0 pontos de feitiçaria.</p>"
+    },
+    "Signature Spells": {
+      "name": "Magias de Assinatura",
+      "description": "<p>Quando você alcança o 20º nível, ganha maestria sobre duas magias poderosas e pode conjurá-las com pouco esforço. Escolha duas de suas magias conhecidas de 3º nível como suas magias de assinatura. Você pode conjurar cada uma delas uma vez no 3º nível sem gastar um espaço de magia. Quando fizer isso, não pode fazê-lo novamente até terminar um descanso curto ou longo.</p>"
+    },
+    "Unnatural Pallor": {
+      "name": "Palidez Antinatural",
+      "description": "<p>Sua pele ficou pálida e cerosa e suas feições estranhamente distorcidas. Você tem desvantagem em testes de habilidade de Carisma, exceto Carisma (Intimidação) e testes de resistência de Carisma.</p>"
+    },
+    "Find (Beast Command)": {
+      "name": "Encontrar (Comando de Besta)",
+      "description": "<p>Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro usa sua reação para tentar Procurar criaturas ou objetos ocultos, adicionando o resultado do dado de comando ao teste de perícia feito para a Busca.</p>"
+    },
+    "Legilimency": {
+      "name": "Legilimência",
+      "description": "<p>Você adiciona a magia @UUID[Compendium.wands.spells-wands.Item.ZHPPAams6Xm4LY7g]{Legilimens}<em> </em>à sua lista de magias conhecidas. Ela não conta contra seu número de magias conhecidas e não pode ser esquecida para aprender outra magia.</p>"
+    },
+    "Athlete": {
+      "name": "Atleta",
+      "description": "<p>Você passou por treinamento físico extensivo para ganhar os seguintes benefícios:</p><p>Aumente sua Força ou Destreza em 1, até um máximo de 20.</p><p>Quando você está caído, levantar-se usa apenas 1,5 metro do seu movimento.</p><p>Escalar não custa movimento extra para você.</p><p>Você pode fazer um salto em distância com corrida ou um salto em altura com corrida após mover-se apenas 1,5 metro a pé, em vez de 3 metros.</p>"
+    },
+    "Sorcerous Resilience": {
+      "name": "Resiliência Feiticeira",
+      "description": "<p>A magia acidental de sua primeira infância nunca parou de protegê-lo. Sua CA é igual a 13 + seu modificador de Destreza.</p>"
+    },
+    "Called Shot": {
+      "name": "Tiro Certeiro",
+      "description": "<p>Você aprimorou sua pontaria para ser capaz de atacar muito especificamente com seus Feitiços de duelo. Ao conjurar um Feitiço, você pode mirar em itens ou partes do corpo específicos, bem como restringir os efeitos do feitiço apenas àquele item ou parte do corpo específica.</p>"
+    },
+    "Reckless": {
+      "name": "Imprudente",
+      "description": "<p>Você se tornou impulsivo diante de situações perigosas. O primeiro ataque feito contra você em qualquer encontro de combate tem vantagem na jogada de ataque.</p>"
+    },
+    "Scholar's Mind": {
+      "name": "Mente de Estudioso",
+      "description": "<p>Você adiciona metade do seu bônus de proficiência a qualquer teste de habilidade de Inteligência ou Sabedoria que você faça que ainda não inclua seu bônus de proficiência.</p>"
+    },
+    "Apparition Lessons": {
+      "name": "Aulas de Aparatação",
+      "description": "<p>Aparatação é o método pelo qual muitas bruxas e bruxos adultos escolhem viajar de um lugar para outro. Quando alguém aparata, gira no lugar, \"sentindo seu caminho para o nada,\" e desaparece de sua localização atual para reaparecer um segundo depois em um novo local, acompanhado por um som alto de estalo.</p><p>Aparatação, assim como a direção trouxa, exige que o indivíduo faça um exame para adquirir uma licença aos 17 anos. Para se preparar, jovens de 16 anos podem ter aulas de aparatação, geralmente praticando saltos curtos de apenas alguns metros na presença de um instrutor. Isso porque o processo pode ser perigoso; se a bruxa ou bruxo não tiver o foco adequado ao aparatar, pode deixar uma parte de si para trás.</p><p>Você aprende @Item[xK02DxaDQAuWbnHf]{Aparatação}.</p>"
+    },
+    "Sensing Danger": {
+      "name": "Pressentindo Perigo",
+      "description": "<p>Você adiciona metade do seu bônus de proficiência à sua Iniciativa e não pode ser surpreendido enquanto estiver consciente.</p>"
+    },
+    "Aura Reading": {
+      "name": "Leitura de Aura",
+      "description": "<p>Sua conexão com seu Olho Interior permite que você veja auras coloridas ao redor de seres inteligentes. Você pode imediatamente perceber se um ser é hostil, amigável ou neutro.</p>"
+    },
+    "Down (Beast Command)": {
+      "name": "Deitar (Comando de Besta)",
+      "description": "<p>Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro usa sua reação para cair de bruços e tentar se Esconder, adicionando o resultado do dado de comando ao seu teste de Destreza (Furtividade). O primeiro ataque que ele fizer enquanto escondido desta forma também adiciona o resultado do dado de comando à sua jogada de ataque.</p>"
+    },
+    "Goblin Cunning": {
+      "name": "Astúcia Goblin",
+      "description": "<p>A combinação racial mais rara de todas, parte-goblins podem ter ancestralidade goblin em qualquer lugar de sua árvore genealógica, e ainda assim fará uma diferença muito notável. Com uma média de 1,2 metros de altura, parte-goblins podem se sentir deslocados em um mundo maior. No entanto, esses pequenos bruxos herdaram a astúcia dos goblins e frequentemente vêm com grandes corações e grandes personalidades.</p><ul><li>Parte-goblins adultos têm entre 0,9 e 1,5 metros de altura e pesam cerca de 50 quilogramas. Seu tamanho é Pequeno.</li></ul><ul><li>Você pode se mover através do espaço de qualquer criatura que seja de um tamanho maior que o seu.</li></ul><ul><li>Você tem vantagem em todos os testes de resistência de Inteligência e Sabedoria contra magia.</li></ul><ul><li>Você pode falar, ler e escrever Duendinês.</li></ul>"
+    },
+    "Metamagic: Heightened Spell": {
+      "name": "Metamagia: Magia Intensificada",
+      "description": "<p>Quando você conjura uma magia que força uma criatura a fazer um teste de resistência para resistir a seus efeitos, pode gastar 3 pontos de feitiçaria para dar a um alvo da magia desvantagem em seu primeiro teste de resistência feito contra a magia.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Heightened Darkness": {
+      "name": "Trevas Intensificadas",
+      "description": "<p>Você é capaz de usar a metamagia Magia Intensificada ao conjurar uma magia das Trevas, sendo ela uma de suas opções de metamagia ou não. Quando você usa a metamagia Magia Intensificada em uma magia das Trevas, ela custa 1 ponto de feitiçaria.</p>"
+    },
+    "Cartomancy": {
+      "name": "Cartomância",
+      "description": "<p>Você obtém percepções sobre o passado, presente e futuro de um ser que não seja você mesmo, realizando uma leitura de tarô. Seu sujeito faz uma única pergunta sobre um objetivo, evento ou atividade específica a ocorrer dentro de 7 dias. Gastando 6 pontos de feitiçaria e 10 minutos, as cartas contam uma história (uma resposta verdadeira do MJ). O significado das cartas pode ser uma frase curta, uma rima enigmática ou um presságio.</p><p>Esta habilidade não leva em conta quaisquer circunstâncias possíveis que possam mudar o resultado, como um uso diferente de magia ou a perda ou ganho de um companheiro.</p><p>Se você realizar uma leitura duas ou mais vezes antes de terminar seu próximo descanso longo, há uma chance cumulativa de 25 por cento para cada leitura após a primeira de que você obtenha uma leitura aleatória. O MJ faz essa rolagem em segredo.</p>"
+    },
+    "Compulsive": {
+      "name": "Compulsivo",
+      "description": "<p>Você começa a exibir um ritual compulsivo leve à escolha do MJ, provavelmente associado a algum medo. Isso pode se manifestar como verificar trancas e medidas defensivas quatro vezes, inspecionar atrás de cortinas, portas e arbustos em busca de atacantes ocultos, ou recusar-se a consumir qualquer coisa até conseguir que um pequeno animal teste se há veneno, por exemplo. Você leva 1,5 vezes mais tempo para completar um descanso curto.</p>"
+    },
+    "Monster Hunting": {
+      "name": "Caça a Monstros",
+      "description": "<p>Você tem vasta experiência estudando, rastreando e caçando criaturas, permitindo que se adapte rapidamente a ameaças. Se você gastar 10 minutos estudando os rastros de uma besta ou ser das trevas, automaticamente descobre o que a criatura é, seu tamanho e sua velocidade. Se desejar, essa criatura se torna e permanece Caçada até que use esta característica novamente.</p><p>Você tem vantagem em testes de Sabedoria para rastrear uma criatura Caçada e em testes de Inteligência para lembrar informações sobre ela. Enquanto estiver a até 9 metros de uma criatura Caçada que está rastreando ativamente, pode sentir sua direção relativa a você e a distância em metros de você.</p>"
+    },
+    "Procedural Thinking": {
+      "name": "Pensamento Procedimental",
+      "description": "<p>Você gosta de se testar com charadas e quebra-cabeças de lógica. Se ficar travado em um, pode inconscientemente conectar alguns pontos.</p>"
+    },
+    "Durable Constructs": {
+      "name": "Construções Duráveis",
+      "description": "<p>Você imbuí suas construções de criaturas com uma magia mais potente. Suas construções vivas transfiguradas ou conjuradas ganham pontos de vida adicionais iguais ao seu nível e causam 1d6 adicional de dano.</p>"
+    },
+    "Veela Charm": {
+      "name": "Encanto Veela",
+      "description": "<p>Assim como parte-gigantes, é muito raro encontrar um parte-veela. Um bruxo ou bruxa que herdou sangue veela quase sempre será o centro das atenções, um retrato de graça e beleza. Diferente de meio-veela ou quarto-veela, parte-veela têm a mesma probabilidade de serem homens ou mulheres.</p><ul><li>Você ganha proficiência em uma perícia de Carisma de sua escolha.</li></ul><ul><li>Como uma ação, você pode tentar encantar um humanoide que você possa ver dentro de 9 metros, que seria atraído por você. Ele deve fazer um teste de resistência de Sabedoria (se hostil, com vantagem). Se falhar, fica Encantado por você por uma hora ou até você ou seus companheiros o ferirem. A criatura Encantada o considera como um conhecido amigável e se sente compelida a impressioná-lo ou receber sua atenção. Depois, a criatura sabe que foi Encantada por você. Você não pode usar esta habilidade novamente até terminar um descanso longo.</li></ul>"
+    },
+    "Secret-Keeper": {
+      "name": "Fiel do Segredo",
+      "description": "<p>Você adiciona a magia @UUID[Compendium.wands.spells-wands.Item.eFzSkIgxYHLaKlEs]{Fidelius Mysteria Celare} à sua lista de magias conhecidas. Ela não conta contra seu número de magias conhecidas e não pode ser esquecida para aprender outra magia.</p>"
+    },
+    "Obliviator": {
+      "name": "Obliviador",
+      "description": "<p>Em vez de simplesmente apagar memórias, quando você conjura <em>obliviate</em>, pode escolher implantar memórias falsas muito detalhadas. Essas memórias são indetectáveis pelo alvo da magia, mas se outros examinarem as memórias do alvo (através de Legilimência ou um Penseira), podem ser capazes de detectar que são falsas.</p>"
+    },
+    "Healing Pulse": {
+      "name": "Pulso de Cura",
+      "description": "<p>Sua magia de cura e defensiva se entrelaçaram, energizando aliados próximos. Sempre que você conjurar uma magia defensiva, cada criatura não-hostil dentro de 9 metros de você (incluindo você) é curada em um número de pontos de vida igual à metade do seu nível.</p>"
+    },
+    "Crimson Pupils": {
+      "name": "Pupilas Carmesim",
+      "description": "<p>Seus olhos estão avermelhados e na iluminação certa, até a parte mais escura de suas pupilas parece brilhar em vermelho. Você tem desvantagem em jogadas de ataque quando está de frente para o sol ou uma luz forte.</p>"
+    },
+    "Dependable Bearings": {
+      "name": "Orientação Confiável",
+      "description": "<p>Você tem um bom senso de direção e pode facilmente usar marcos notáveis e geografia para lembrar o layout geral de áreas.</p>"
+    },
+    "Mildly Phobic": {
+      "name": "Levemente Fóbico",
+      "description": "<p>Você começa a se obcecar com uma criatura ou pessoa específica, acreditando ser a causa de sua morte. Durante a primeira rodada de combate com uma criatura do tipo escolhido, você fica amedrontado.</p>"
+    },
+    "Spell Deflection": {
+      "name": "Deflexão de Magia",
+      "description": "<p>No 3º nível, quando você é alvo de uma magia ou incluído na área de uma magia, pode defleti-la como uma reação. A magia deve estar na sua lista de magias conhecidas e você gasta um número de pontos de feitiçaria igual ao dobro do nível dessa magia.</p><p>Após a deflexão, você automaticamente tem sucesso no seu teste de resistência contra a magia e pode direcionar o efeito da magia para uma criatura dentro de 3 metros de você, se desejar. Se a magia não tiver um teste de resistência, ela não tem efeito em você. Se uma criatura também foi alvo da magia ou incluída na área da magia, você não pode redirecionar a magia para essa criatura.</p>"
+    },
+    "Hunter's Reflexes": {
+      "name": "Reflexos do Caçador",
+      "description": "<p>Você aprimorou precisamente seus instintos em combate. Como uma reação a uma criatura que você pode ver conjurando uma magia ou atacando, você pode conjurar uma magia com tempo de conjuração de uma ação, ação bônus ou reação, mirando apenas naquela criatura. Condições e dano são aplicados antes que o alvo complete sua ação. Dano causado ao alvo impõe desvantagem em sua jogada de ataque. Você não pode usar esta característica novamente até completar um descanso curto ou longo.</p>"
+    },
+    "Target Practice": {
+      "name": "Prática de Tiro",
+      "description": "<p>Sua mão firme e horas de prática lhe deram uma vantagem. Sempre que adicionar seu modificador de habilidade de conjuração a uma jogada de ataque de magia, adicione metade do seu modificador de Destreza (arredondado para cima) como bônus também.</p>"
+    },
+    "Dark Duelist": {
+      "name": "Duelista das Trevas",
+      "description": "<p>Sua experiência lutando contra bruxos das Trevas lhe ensinou como usar suas próprias técnicas contra eles. Você tem vantagem em quaisquer testes de resistência feitos contra magia das Trevas ou uma magia conjurada por um bruxo das Trevas, e qualquer magia das Trevas que você conjurar é automaticamente conjurada um nível acima do espaço de magia consumido, não excedendo o nível mais alto de espaços de magia disponíveis que você possui.</p>"
+    },
+    "Hallucinations": {
+      "name": "Alucinações",
+      "description": "<p>Visões estranhas e sussurros sem fonte ocasionalmente perturbam sua percepção. Você tem desvantagem em testes de Sabedoria (Percepção).</p>"
+    },
+    "Dark Education": {
+      "name": "Educação nas Trevas",
+      "description": "<p>Você tem vantagem em quaisquer rolagens feitas para resistir a ganhar efeitos de Corrupção de magia das Trevas.</p>"
+    },
+    "Healer's Knack": {
+      "name": "Aptidão do Curandeiro",
+      "description": "<p>Sempre que você fizer um teste de Sabedoria (Medicina) para estabilizar uma criatura, adicione metade do seu bônus de proficiência à sua rolagem.</p>"
+    },
+    "Apex Predator": {
+      "name": "Predador Supremo",
+      "description": "<p><em><strong>Transformação Animaga necessária.</strong></em> Você alcançou domínio completo sobre a arte mística das transformações animagas. Você pode selecionar duas criaturas adicionais como suas formas animagas, e pode escolher manter essas formas ocultas do Ministério da Magia. Você também pode escolher usar qualquer um desses animais como seu patrono corpóreo.</p>"
+    },
+    "Martial Artist": {
+      "name": "Artista Marcial",
+      "description": "<p>Seja como atividade extracurricular na infância ou como complemento ao seu duelo mágico, você é treinado em golpes e agarramentos. Você ganha os seguintes benefícios.</p><ul><li>Seu golpe desarmado usa um d6 para dano.</li></ul><ul><li>Quando você acerta uma criatura com um golpe desarmado no seu turno, pode tentar agarrar o alvo como uma ação bônus.</li></ul><ul><li>Você tem vantagem em jogadas de ataque contra criaturas que você está agarrando.</li></ul><ul><li>Enquanto uma criatura está agarrada por você, pode usar sua ação e fazer outro teste de agarramento para tentar uma das seguintes manobras:</li></ul><ul><li><strong>Imobilizar.</strong> Se tiver sucesso, você e a criatura ficam impedidos até o agarramento terminar.</li></ul><ul><li><strong>Derrubar.</strong> Se tiver sucesso, você faz um golpe desarmado e a criatura fica caída.</li></ul><ul><li><strong>Desarmar.</strong> Se tiver sucesso, a criatura é forçada a soltar um item de sua escolha que esteja segurando. Você pode escolher pegar o item, encerrando o agarramento.</li></ul>"
+    },
+    "Parseltongue": {
+      "name": "Ofidioglota",
+      "description": "<p>Quase exclusivamente hereditária, falar Ofidioglota é compreender magicamente e comunicar-se verbalmente com todas as cobras e bestas semelhantes a cobras, como a Runeráquia e o Basilisco. Esta língua oral tem sido associada a bruxos das Trevas, devido à linhagem de uma certa família e a um notório Lorde das Trevas. No entanto, fora da Grã-Bretanha Bruxa, tal associação não existe.</p><ul><li>Você pode falar Ofidioglota.</li></ul>"
+    },
+    "Phobic": {
+      "name": "Fóbico",
+      "description": "<p>Uma criatura ou pessoa específica invade seus sonhos, transformando-os em pesadelos. Quando você entra em combate com uma criatura do tipo escolhido, deve fazer um teste de resistência de Sabedoria (CD é 10 + seus pontos totais de corrupção). Em uma falha, você fica amedrontado por ela por 1 minuto.</p>"
+    },
+    "Fortune Teller": {
+      "name": "Vidente",
+      "description": "<p>Você se dedicou particularmente à astronomia, tassomancia e cristalomancia. Você ganha um @UUID[Compendium.wands.items-wands.Item.ZiL09HkXdPgIwUr8]{Diviner's Kit} e proficiência no uso de um Kit de Adivinhação.</p>"
+    },
+    "Metamagic: Extended Spell": {
+      "name": "Metamagia: Magia Estendida",
+      "description": "<p>Quando você conjura uma magia com duração de 1 minuto ou mais, pode gastar 1 ponto de feitiçaria para dobrar sua duração, até uma duração máxima de 24 horas.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Arcane Recovery": {
+      "name": "Recuperação Arcana",
+      "description": "<p>Quando você alcança o 20º nível, você aprendeu a recuperar parte de sua energia mágica estudando em seu tempo livre. Sempre que terminar um descanso curto, você pode escolher espaços de magia gastos para recuperar. Os espaços de magia podem ter um nível combinado igual ou inferior a 10, e nenhum dos espaços pode ser de 6º nível ou superior.</p>"
+    },
+    "A Diplomatic Touch": {
+      "name": "Um Toque Diplomático",
+      "description": "<p>Se você ajudar um ser hostil de maneira significativa, ele terá mais probabilidade de reconsiderar sua hostilidade em relação a você, potencialmente desarmando a situação.</p>"
+    },
+    "Observant": {
+      "name": "Observador",
+      "description": "<p>Rápido em notar detalhes do seu ambiente, você ganha os seguintes benefícios:</p><p>Aumente sua Inteligência ou Sabedoria em 1, até um máximo de 20.<br/>Se você puder ver a boca de uma criatura enquanto ela fala um idioma que você entende, pode interpretar o que está dizendo lendo seus lábios.<br/>Você tem um bônus de +5 na sua Sabedoria (Percepção) passiva e Inteligência (Investigação) passiva.</p>"
+    },
+    "Rush (Beast Command)": {
+      "name": "Avançar (Comando de Besta)",
+      "description": "<p>Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro usa sua reação para realizar a ação de Ajuda, auxiliando o próximo ataque contra uma criatura ao seu alcance que ele possa ver. Se este ataque acertar, o ataque causa dano extra igual ao resultado do dado de comando.</p>"
+    },
+    "Dungeon Delver": {
+      "name": "Explorador de Masmorras",
+      "description": "<p>Atento às armadilhas ocultas e portas secretas encontradas em muitas masmorras, você ganha os seguintes benefícios:</p><p>Você tem vantagem em testes de Sabedoria (Percepção) e Inteligência (Investigação) feitos para detectar a presença de portas secretas.<br/>Você tem vantagem em testes de resistência feitos para evitar ou resistir a armadilhas.<br/>Você tem resistência ao dano causado por armadilhas.<br/>Viajar em ritmo acelerado não impõe a penalidade normal de -5 na sua Sabedoria (Percepção) passiva.</p>"
+    },
+    "Giant's Blood": {
+      "name": "Sangue de Gigante",
+      "description": "<p>Embora sejam poucos e distantes, é difícil para meio-gigantes e parte-gigantes esconder sua genealogia; eles tendem a chamar atenção por onde vão. Com uma constituição ampla, força impressionante e uma resistência genética à magia, bruxos com sangue de gigante são aliados poderosos.</p><ul><li>Aumente seu valor de Força em 1, até um máximo de 20.</li></ul><ul><li>Parte-gigantes adultos têm entre 2,1 e 2,7 metros de altura e pesam entre 136 e 190 quilogramas. Seu tamanho é Médio.</li></ul><ul><li>Você é considerado uma categoria de tamanho maior ao determinar capacidade de carga e peso que pode empurrar, arrastar ou levantar.</li></ul><ul><li>Quando uma magia ou outro efeito mágico inflige uma condição em você, você pode usar sua reação para resistir a uma condição de sua escolha. Você não pode usar esta habilidade novamente até terminar um descanso longo.</li></ul>"
+    },
+    "Metamagic: Fierce Spell": {
+      "name": "Metamagia: Magia Feroz",
+      "description": "<p>No 3º nível, quando você conjura uma magia, pode gastar 2 pontos de feitiçaria para conjurá-la como se fosse usando um espaço de magia um nível acima do seu nível original, ou 4 pontos de feitiçaria para conjurá-la dois níveis acima. O nível superior da magia não pode exceder seu nível mais alto de espaços de magia disponíveis. Isto não conta contra seu número de opções de Metamagia.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Compromising Information": {
+      "name": "Informação Comprometedora",
+      "description": "<p>Sempre que você fizer um teste de Carisma relacionado ao uso dos segredos de uma pessoa, você é considerado proficiente na perícia apropriada e adiciona o dobro do seu bônus de proficiência ao teste, em vez do seu bônus de proficiência normal.</p>"
+    },
+    "True Alchemist": {
+      "name": "Verdadeiro Alquimista",
+      "description": "<p>Seu estudo vitalício dos escritos de Flamel e Dumbledore finalmente deu frutos. Você pode criar uma Pedra Filosofal, transformando qualquer metal em ouro e produzindo o Elixir da Vida. Você não pode morrer de causas naturais e envelhece mais lentamente. Para cada 10 anos que passam, seu corpo envelhece apenas 1 ano. Apenas uma Pedra Filosofal pode existir por vez.</p>"
+    },
+    "Animagus Transformation": {
+      "name": "Transformação Animaga",
+      "description": "<p>Você pode usar sua ação para magicamente assumir a forma de sua forma animaga (veja Sua Forma Animaga abaixo). Você pode usar esta característica duas vezes. Você recupera os usos gastos quando termina um descanso curto ou longo.</p><h2>Sua Forma Animaga</h2><p>Você pode permanecer na forma animaga por um número de horas igual à metade do seu nível de transfiguração (arredondado para baixo). Você então reverte para sua forma normal, a menos que gaste outro uso desta característica. Você pode reverter para sua forma normal mais cedo usando uma ação bônus no seu turno. Você reverte automaticamente se ficar inconsciente, cair para 0 pontos de vida, ou morrer.</p><p>Enquanto você está transformado, as seguintes regras se aplicam:</p><ul><li>Suas estatísticas de jogo são substituídas pelas estatísticas da besta, mas você mantém seu alinhamento, personalidade, e valores de inteligência, sabedoria e carisma. Você também mantém todas as suas proficiências em perícias e testes de resistência, além de ganhar as da criatura. Se a criatura tiver a mesma proficiência que você, use o bônus mais alto.</li></ul><ul><li>Quando você se transforma, você assume os pontos de vida e dados de vida da besta. Quando você reverte, você retorna aos pontos de vida que tinha antes de se transformar. Se você reverter como resultado de cair para 0 pontos de vida, qualquer dano excedente é transferido para sua forma normal. Por exemplo, se você sofrer 10 de dano na forma animaga e tiver apenas 1 ponto de vida restante, você reverte e sofre 9 de dano.</li></ul><ul><li>Você não pode conjurar magias, e as ações que você pode realizar dependem das capacidades físicas da sua forma bestial. Transformar-se não quebra sua concentração ou impede ações que fazem parte de uma magia já conjurada, mas magias de Dedicação terminam ao se transformar.</li></ul><ul><li>Você mantém o benefício de quaisquer características de sua classe, raça ou outra fonte e pode usá-las se a nova forma for fisicamente capaz de fazê-lo.</li></ul><ul><li>Seu equipamento se funde em sua nova forma e não tem efeito até que você saia da forma.</li></ul><p>Quando você ganha a característica Transformação Animaga, você deve escolher entre os dois tipos de formas: Forma de Combate ou Forma de Evasão. Esta é uma escolha permanente e única e determinará as estatísticas e habilidades da sua forma animaga.</p>"
+    },
+    "Intuitive Conversion": {
+      "name": "Conversão Intuitiva",
+      "description": "<p>Conceitualizar uma transfiguração é simplesmente fácil para você. Quando você conjura @UUID[Compendium.wands.spells-wands.Item.X4ct8APuWOXfHlX7]{Vera Verto}, ela automaticamente afeta alvos uma categoria de tamanho maior do que especificado pelo nível do espaço de magia.</p>"
+    },
+    "Phoenix Tears": {
+      "name": "Lágrimas de Fênix",
+      "description": "<p>Sua devoção santa aos outros e bravura diante do perigo lhe renderam o respeito das fênixes. Se você gastar 8 horas se conectando com sua magia, uma fênix aparecerá em um lampejo de fogo e derramará lágrimas em um frasco para você. Lágrimas de fênix removem todas as maldições, doenças e venenos que afetam uma criatura. Além disso, a criatura recupera todos os seus pontos de vida. Uma fênix só aparecerá e encherá um frasco com lágrimas quando você não tiver outras lágrimas, e as lágrimas de fênix perderão suas propriedades curativas se qualquer pessoa que não seja você possuir as lágrimas ou tentar administrá-las.</p>"
+    },
+    "Warrior's Endurance": {
+      "name": "Resistência do Guerreiro",
+      "description": "<p>Quando você rolar 16 ou mais em um teste de resistência contra morte, você instantaneamente recupera 1 ponto de vida. Você não pode usar esta característica novamente até terminar um descanso longo.</p>"
+    },
+    "Molding the Elements": {
+      "name": "Moldando os Elementos",
+      "description": "<p>Você aprendeu a moldar os elementos à sua vontade. Qualquer magia que envolva apenas fogo, água, terra ou ar pode ser conjurada em uma forma diferente da que a magia original pretendia. A nova forma não pode exceder a área ou volume aproximado da magia original.</p>"
+    },
+    "Steadfast Loyalty": {
+      "name": "Lealdade Inabalável",
+      "description": "<p>Você tem vantagem em testes de resistência contra qualquer efeito que o faria atacar ou trabalhar contra uma criatura que normalmente consideraria um aliado.</p>"
+    },
+    "Fortified Structures": {
+      "name": "Estruturas Fortificadas",
+      "description": "<p>Você aprendeu a tornar objetos mágicos mais fortes que os reais. Seus objetos transfigurados ou conjurados têm o dobro de pontos de vida antes de quebrar e podem suportar três vezes mais peso do que seus equivalentes mundanos.</p>"
+    },
+    "Metamagic: Quickened Spell": {
+      "name": "Metamagia: Magia Acelerada",
+      "description": "<p>Quando você conjura uma magia com tempo de conjuração de 1 ação, pode gastar 2 pontos de feitiçaria para mudar o tempo de conjuração para 1 ação bônus para esta conjuração.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Spellcasting (Intellect)": {
+      "name": "Conjuração (Intelecto)",
+      "description": "<p>Inteligência é sua habilidade de conjuração para suas magias. Você usa sua Inteligência sempre que uma magia se referir à sua habilidade de conjuração. Além disso, você usa seu modificador de Inteligência ao definir a CD do teste de resistência de uma magia que conjura e ao fazer uma jogada de ataque com uma.</p><p>Você deve usar uma varinha como foco de conjuração para suas magias. Sua progressão de espaços de magia é o padrão para conjuradores completos (22 espaços no nível 20).</p><p>Além disso, quando você ganha um nível nesta classe, pode escolher dois dos truques ou magias que conhece e substituí-los por dois novos truques ou magias, que também devem ser de um nível para o qual você tenha espaços de magia.</p>"
+    },
+    "Auror Training": {
+      "name": "Treinamento de Auror",
+      "description": "<p>Você já começou a praticar as habilidades necessárias para se tornar um Auror. Você aprende uma receita de poção comum e ganha proficiência em duas das seguintes: Investigação, Preparação de Poções, Furtividade, Sobrevivência.</p>"
+    },
+    "Beast Whisperer": {
+      "name": "Sussurrador de Bestas",
+      "description": "<p>Você aprendeu a linguagem corporal e os rituais sociais de muitas bestas. Como uma ação, você pode usar um teste de Sabedoria (Criaturas Mágicas) para tentar acalmar e tranquilizar uma besta hostil. Em caso de sucesso, a besta acredita que você não pretende causar mal e fica neutra em relação ao grupo. O efeito é cancelado se você ou um membro do grupo infligir qualquer dano ou condição naquela besta ou em quaisquer bestas idênticas. Você não pode usar esta característica novamente até completar um descanso curto ou longo.</p>"
+    },
+    "Vivid Visions": {
+      "name": "Visões Vívidas",
+      "description": "<p>Sua conexão com seu Olho Interior lhe dá visões lúcidas do futuro imediato. Como uma ação bônus, você pode ver uma visão de sua próxima ação e suas consequências imediatas, rolando quaisquer rolagens necessárias e ouvindo uma descrição dos resultados. Se você escolher aquela ação, sua visão se torna realidade, usando todas as mesmas rolagens. A visão é instantânea e não consome tempo. Após usar esta habilidade, você não pode usá-la novamente até terminar um descanso longo.</p>"
+    },
+    "Durable Shielding": {
+      "name": "Blindagem Durável",
+      "description": "<p>Seus feitiços de escudo são mais eficazes. Sempre que você usar uma magia defensiva de 1º nível ou superior que melhore a CA de uma criatura ou conceda pontos de vida temporários, a criatura ganha pontos de vida temporários adicionais iguais a 2 + o nível da magia, que duram pela duração do efeito da magia.</p>"
+    },
+    "Diverse Studies": {
+      "name": "Estudos Diversos",
+      "description": "<p>No 3º nível, você ganha ambas as características de nível 1 da sua Escola de Magia escolhida.</p>"
+    },
+    "Survivalist": {
+      "name": "Sobrevivencialista",
+      "description": "<p>Você é particularmente hábil em viajar e sobreviver em ambientes naturais.</p><p>Você ganha proficiência em Herbologia ou Sobrevivência. Entre Herbologia e Sobrevivência, escolha uma na qual tenha proficiência; seu bônus de proficiência é dobrado quando fizer qualquer teste usando essa perícia escolhida. Além disso, você e seu grupo ganham os seguintes benefícios:</p><ul><li>Terreno difícil não reduz a velocidade de viagem do seu grupo.</li></ul><ul><li>Seu grupo não pode ser surpreendido enquanto descansa, desde que você esteja de vigia.</li></ul><ul><li>Se uma rolagem de dado de vida for menor que o bônus de proficiência, seu grupo pode rerolá-lo uma vez e usar o resultado mais alto.</li></ul>"
+    },
+    "Professional Charmer": {
+      "name": "Encantador Profissional",
+      "description": "<p>Você aprendeu a tecer seus encantamentos através de objetos. Se você conjurar um Feitiço de alvo único com duração maior que Instantânea em um objeto individual, os efeitos têm duração permanente, se desejado, até serem dissipados por você. Esta característica não remove requisitos de Concentração ou Dedicação.</p>"
+    },
+    "Forceful Magic": {
+      "name": "Magia Vigorosa",
+      "description": "<p>Você conjura cada magia como se fosse uma questão de vida ou morte. Quando você conjura uma magia que causa dano, adicione [[/r 1d6]] a uma jogada de dano.</p>"
+    },
+    "Jittery": {
+      "name": "Nervoso",
+      "description": "<p>Você se torna fácil demais de assustar ou surpreender. Você tem desvantagem em rolagens de iniciativa.</p>"
+    },
+    "Palmistry": {
+      "name": "Quiromancia",
+      "description": "<p>Você dominou a leitura das linhas da vida. Após observar uma criatura por 30 segundos, como uma ação, pode sentir seus pontos de vida atuais.</p>"
+    },
+    "Kitchen Trips": {
+      "name": "Visitas à Cozinha",
+      "description": "<p>Sua experiência com os elfos domésticos da Escola Mágica Britânica lhe ensinou como se dirigir educadamente e interagir com seres mágicos. Ah, e você consegue montes de lanches.</p>"
+    },
+    "Attack (Beast Command)": {
+      "name": "Atacar (Comando de Besta)",
+      "description": "<p>Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro pode usar sua ação para realizar uma de suas ações de ataque natural. No entanto, ele não pode usar sua ação de Ataque Múltiplo, se tiver uma. Se o ataque acertar, adicione o resultado do dado de comando à jogada de dano.</p>"
+    },
+    "Phoenix Song": {
+      "name": "Canto da Fênix",
+      "description": "<p>Você tem uma presença reconfortante. Você ganha proficiência em Persuasão e vantagem em testes de Carisma para aliviar a dor de alguém ou ajudá-lo a manter a compostura.</p>"
+    },
+    "Keen Mind": {
+      "name": "Mente Aguçada",
+      "description": "<p>Você tem uma mente que pode rastrear tempo, direção e detalhes com precisão impressionante. Você ganha os seguintes benefícios:</p><p>Aumente seu valor de Inteligência em 1, até um máximo de 20.<br/>Você sempre sabe para onde é o norte.<br/>Você sempre sabe o número de horas restantes antes do próximo nascer ou pôr do sol.<br/>Você pode se lembrar com precisão de qualquer coisa que viu ou ouviu no último mês.</p>"
+    },
+    "School of Magic": {
+      "name": "Escola de Magia",
+      "description": "<p>No 1º nível, você escolhe uma das seguintes opções como sua escola de magia focada:</p><p>@UUID[Compendium.wands.casting-styles-and-schools-of-magic-wands.Item.n31KaJnrCwRtUyuR]{Charms (School of Magic)}</p><p>@UUID[Compendium.wands.casting-styles-and-schools-of-magic-wands.Item.VdxlU1YFkJGwlJSY]{Jinxes, Hexes, and Curses (School of Magic)}</p><p>@UUID[Compendium.wands.casting-styles-and-schools-of-magic-wands.Item.zR5SEFVXzxkr4A5T]{Transfiguration (School of Magic)}</p><p>@UUID[Compendium.wands.casting-styles-and-schools-of-magic-wands.Item.OhycVSevKDIBxbE2]{Healing (School of Magic)}</p><p>@UUID[Compendium.wands.casting-styles-and-schools-of-magic-wands.Item.vywxjPPtRgn5UDBd]{Divination (School of Magic)}</p><p>@UUID[Compendium.wands.casting-styles-and-schools-of-magic-wands.Item.6Z6ChZqL42lSkjnH]{Magizoology (School of Magic)}</p>"
+    },
+    "Metamagic: Subtle Spell": {
+      "name": "Metamagia: Magia Sutil",
+      "description": "<p>Quando você conjura uma magia, pode gastar 1 ponto de feitiçaria para conjurá-la sem quaisquer componentes somáticos ou verbais.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p>"
+    },
+    "Sorcerous Restoration": {
+      "name": "Restauração Feiticeira",
+      "description": "<p>Quando você alcança o 20º nível, recupera 4 pontos de feitiçaria gastos sempre que terminar um descanso curto.</p>"
+    },
+    "Hoarder": {
+      "name": "Acumulador",
+      "description": "<p>Você é compelido a coletar qualquer coisa que possa ser remotamente útil para protegê-lo de seus maiores medos. Itens apropriados encontrados devem ser recolhidos e carregados, se possível, até atingir a capacidade de carga.</p>"
+    },
+    "Darting Eyes": {
+      "name": "Olhos Velozes",
+      "description": "<p><em><strong>@UUID[Compendium.wands.features-wands.Item.H3mJ4CG9jCjJ6p3c]{Legilimency} necessária.</strong></em> Como uma ação bônus, você pode conjurar @UUID[Compendium.wands.spells-wands.Item.ZHPPAams6Xm4LY7g]{Legilimens} em combate para ver a próxima magia ou ação que uma criatura está planejando, desde que seus olhos estejam visíveis.</p>"
+    },
+    "Lightning-Fast Wand": {
+      "name": "Varinha Veloz como um Raio",
+      "description": "<p>Você aprimorou suas habilidades no ringue de duelos para ser capaz de conjurar magias duas vezes mais rápido que o bruxo médio. Se você ainda não tiver, Magia Acelerada é adicionada às suas opções de metamagia e não conta para seu limite de metamagia. Quando você usa a metamagia Magia Acelerada para conjurar uma magia como ação bônus, você pode conjurar qualquer magia como sua ação e as regras normais de conjuração como ação bônus não se aplicam.</p>"
+    },
+    "Crystal-gazing": {
+      "name": "Cristalomancia",
+      "description": "<p>Ao olhar nas profundezas nubladas da bola de cristal, você pode gastar 7 pontos de feitiçaria para ver uma criatura específica que você escolher por 10 minutos. O alvo deve fazer um teste de resistência de Sabedoria, que é modificado por quão bem você conhece o alvo e o tipo de conexão física que você tem com ele. Se um alvo sabe que você está usando esta habilidade, ele pode falhar no teste de resistência voluntariamente se quiser ser observado.</p><table><thead><tr><td><strong>Conhecimento</strong></td><td><strong>Modificador do Teste</strong></td></tr></thead><tbody><tr><td>De segunda mão (você ouviu falar do alvo)</td><td>0</td></tr><tr><td>Em primeira mão (você conheceu o alvo)</td><td>-5</td></tr><tr><td>Familiar (você conhece bem o alvo)</td><td>-10</td></tr></tbody></table><p>Em um teste bem-sucedido, o alvo não é afetado, e você não pode usar esta habilidade contra ele novamente por 24 horas.</p><p>Em um teste falho, esta habilidade permite que você veja como se estivesse lá, dentro de 3 metros do alvo. Sua visão se move com o alvo, permanecendo a 3 metros dele pela duração.</p><p>Em vez de mirar em uma criatura, você pode escolher um local que já viu antes como alvo desta habilidade. Quando fizer isso, sua visão mostra aquele local e não se move.</p>"
+    },
+    "Wandless Magic": {
+      "name": "Magia sem Varinha",
+      "description": "<p>Ao estudar tomos antigos ou canalizar parte da magia volátil de sua juventude, você é capaz de realizar pequenos feitos mágicos sem sua varinha. Se você conhecer qualquer uma das seguintes magias, pode conjurá-las sem precisar de varinha ou componente somático: @UUID[Compendium.wands.spells-wands.Item.5mSNhiu5OIbTGPYM]{Accio}<em>, @UUID[Compendium.wands.spells-wands.Item.7iEiSq5gvaTOm5TS]{Alohomora}, @UUID[Compendium.wands.spells-wands.Item.G9jNNlFA4ZJYSuIz]{Colovaria}, @UUID[Compendium.wands.spells-wands.Item.I1r49bYvyXaIyyIz]{Illegibilus}, @UUID[Compendium.wands.spells-wands.Item.rLPfrlJJcEIPbVMg]{Incendio Glacia}, @UUID[Compendium.wands.spells-wands.Item.6aI5t4FtiaYxGRyd]{Pereo}, @UUID[Compendium.wands.spells-wands.Item.2QW1xUgLxIfWSdyx]{Wingardium Leviosa}</em>.</p><p>Você não pode gastar um espaço de magia de nível superior ao conjurar desta forma.</p>"
+    },
+    "Defensive Arts": {
+      "name": "Artes Defensivas",
+      "description": "<p>Você aprendeu a bloquear as magias mais perigosas. Magias defensivas são automaticamente conjuradas dois níveis acima do espaço de magia consumido, não excedendo o nível mais alto de espaços de magia disponíveis que você possui.</p>"
+    },
+    "Distracted": {
+      "name": "Distraído",
+      "description": "<p>Sua mente ficou dispersa e facilmente confusa. Você tem desvantagem em testes de habilidade de Inteligência, exceto testes de resistência de Inteligência.</p>"
+    },
+    "Partial Transfiguration": {
+      "name": "Transfiguração Parcial",
+      "description": "<p>Seu entendimento da teoria mágica o capacitou a compartimentalizar sua magia. Qualquer magia de transfiguração pode ser intencionalmente conjurada como uma transfiguração parcial, convertendo apenas a porção desejada do alvo. Todas as mesmas capacidades e restrições de conjurar essas magias em níveis superiores se aplicam.</p>"
+    },
+    "Dark Traces": {
+      "name": "Rastros das Trevas",
+      "description": "<p>Você aprendeu os padrões e estilos da magia das Trevas. Você tem vantagem em qualquer rolagem de Investigação, Intuição ou Percepção que esteja envolvida com a detecção de magia das Trevas ou de um bruxo das Trevas.</p>"
+    },
+    "Scent of Decay": {
+      "name": "Cheiro de Decomposição",
+      "description": "<p>Seu corpo começou a emitir um leve fedor de morte. Você tem desvantagem em testes de Carisma (Persuasão).</p>"
+    },
+    "Wand and Shield": {
+      "name": "Varinha e Escudo",
+      "description": "<p>Você descobriu um estilo de duelo antigo, permitindo ofensa e defesa ao mesmo tempo. Quando você conjura @UUID[Compendium.wands.spells-wands.Item.EgRBuzwafm5XCPxo]{Protego}<em> </em>ou @UUID[Compendium.wands.spells-wands.Item.XUX8NuUWEEhOaNMS]{Protego Maxima}, pode transferir a conjuração da magia para sua mão secundária, liberando sua varinha para conjurar outras magias. A magia ainda requer concentração, mas você é capaz de conjurar e manter outra magia de concentração com sua varinha. Qualquer fator que afete sua capacidade de manter a concentração é aplicado individualmente a cada efeito (por exemplo, ao sofrer dano, faça um teste de resistência de Constituição para cada magia).</p>"
+    },
+    "Fractured Soul": {
+      "name": "Alma Fragmentada",
+      "description": "<p>Sua busca por magia das Trevas revelou os escritos de Herpo, o Sujo. Você pode criar uma Horcrux realizando o Ritual de Horcrux, cometendo um assassinato e selecionando um alvo para se tornar a Horcrux. Apenas uma Horcrux pode existir por vez.</p>"
+    },
+    "True Lion": {
+      "name": "Verdadeiro Leão",
+      "description": "<p>Em momentos de extrema necessidade, a Espada do Leão pode se apresentar a você.</p>"
+    },
+    "Cleromancy": {
+      "name": "Cleromancia",
+      "description": "<p>Você foca seu olho interior sobre bastões inscritos com runas ou ossos de Grindylow enquanto os lança no chão. Como uma ação, você pode gastar 2 pontos de feitiçaria para interpretar seu significado e aconselhar um ser de sua escolha dentro de 9 metros de você. Na próxima vez que o ser fizer um teste de habilidade, jogada de ataque ou teste de resistência dentro dos próximos 10 minutos, o alvo pode rolar um [[/r d4]] e adicionar o número rolado à jogada de ataque ou teste de resistência. Este efeito só pode estar ativo em um alvo por vez. Se você estiver se concentrando em uma magia no momento de interpretar os bastões ou ossos, você perde a concentração.</p>"
+    },
+    "Curse-Breaking": {
+      "name": "Quebra-Maldições",
+      "description": "<p>Sua curiosidade em desmontar magias e encantamentos encontrou uma saída. Ganhe um conjunto de @UUID[Compendium.wands.items-wands.Item.uqI6wa2MtvwDKY5n]{Curse-breakers' Tools} e ganhe proficiência em Ferramentas de Quebra-Maldições.</p>"
+    },
+    "Steady Caster": {
+      "name": "Conjurador Firme",
+      "description": "<p>Você é capaz de manter o foco, mesmo em situações estressantes. Você tem vantagem em testes de resistência de Constituição que faz para manter a concentração em uma magia quando sofre dano.</p>"
+    },
+    "Metamagic: Resistant Spell": {
+      "name": "Metamagia: Magia Resistente",
+      "description": "<p>No 3º nível, quando você conjura uma magia, pode gastar 1 ponto de feitiçaria por nível aumentado para tornar a deflexão de magia, @UUID[Compendium.wands.spells-wands.Item.SQnurPdikw1UbJ3p]{Finite Incantatem} ou @UUID[Compendium.wands.spells-wands.Item.F65nsK2xlfBqNOhH]{Reparifors} como se sua magia fosse conjurada usando um espaço de magia superior ao seu nível original, tornando sua magia mais resistente. O nível superior da magia não pode exceder seu nível mais alto de espaços de magia disponíveis. Isto não conta contra seu número de opções de Metamagia.</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p><p>Ao conjurar Magia Resistente com um nível de magia aumentado, você terá que inserir manualmente o número de Pontos de Feitiçaria consumidos.</p>"
+    },
+    "Tasseomancy": {
+      "name": "Tassomancia",
+      "description": "<p>O futuro é revelado através de uma leitura singularmente complexa de símbolos e padrões dentro de folhas de chá residuais de uma xícara recentemente consumida por um ser que não seja você mesmo. Após dez minutos de preparação, você pode gastar 3 pontos de feitiçaria para interpretar os presságios da xícara e prever os resultados de um curso de ação específico que seu sujeito planeja tomar nos próximos 30 minutos. O MJ escolhe entre os seguintes presságios possíveis:</p><ul><li><strong>Bom</strong>, para bons resultados</li></ul><ul><li><strong>Mau</strong>, para maus resultados</li></ul><ul><li><strong>Bom e mau</strong>, para resultados bons e maus</li></ul><ul><li><strong>Nada</strong>, para resultados que não são especialmente bons ou maus</li></ul><p>Esta habilidade não leva em conta quaisquer circunstâncias possíveis que possam mudar o resultado, como um uso diferente de magia ou a perda ou ganho de um companheiro.</p><p>Se você conjurar a magia duas ou mais vezes antes de completar seu próximo descanso longo, há uma chance cumulativa de 25 por cento para cada conjuração após a primeira de que você obtenha uma leitura aleatória. O MJ faz essa rolagem em segredo.</p>"
+    },
+    "Contagious Valor": {
+      "name": "Valor Contagiante",
+      "description": "<p>Sua audácia pode ser inspiradora, e aqueles ao seu redor se sentem mais inclinados a acompanhá-lo na batalha contra seus inimigos.</p>"
+    },
+    "Ward-Breaker": {
+      "name": "Quebrador de Proteções",
+      "description": "<p><em><strong>Quebra-Maldições necessário.</strong></em> É impossível para qualquer pessoa detectar magicamente o ato de você quebrar uma maldição com sucesso, remover um encantamento ou derrubar uma proteção. Se alguém o vir quebrando maldições ou estiver procurando ativamente pela magia removida, notará a ausência da magia. Se uma magia foi projetada para notificar o conjurador de alguma forma, ela não funciona mais e o conjurador não será notificado.</p>"
+    },
+    "Rowena's Library": {
+      "name": "Biblioteca de Rowena",
+      "description": "<p>Você pode facilmente pesquisar um tópico desejado alistando a ajuda de seus colegas de casa e navegando livros encontrados exclusivamente na sala comum da Águia.</p>"
+    },
+    "Metamagic: Twinned Spell": {
+      "name": "Metamagia: Magia Gêmea",
+      "description": "<p>Quando você conjura uma magia que mira em apenas uma criatura e não tem alcance pessoal, pode gastar um número de pontos de feitiçaria igual ao nível da magia para mirar em uma segunda criatura ao alcance com a mesma magia (1 ponto de feitiçaria se a magia for um truque).</p><p>Nota do Foundry: Após adicionar isto a uma ficha, você precisará indicar qual recurso será consumido ao usar.</p><p>Ao conjurar Magia Gêmea com nível de magia superior a um, você terá que inserir manualmente o número de Pontos de Feitiçaria consumidos.</p>"
+    },
+    "A Duty to Protect": {
+      "name": "Um Dever de Proteger",
+      "description": "<p>Quando você conjura @UUID[Compendium.wands.spells-wands.Item.ThUz2c1Isi0U9bkK]{Piertotum Locomotor}, a concentração não é mais necessária, o dobro de objetos podem ser animados, e a duração é estendida para 1 hora.</p>"
+    },
+    "Exchange Student": {
+      "name": "Estudante de Intercâmbio",
+      "description": "<p>Você está familiarizado com o funcionamento da Confederação Internacional dos Bruxos e outras associações internacionais.</p>"
+    },
+    "Lycanthropy": {
+      "name": "Licantropia",
+      "description": "<p>Você foi atacado por um lobisomem transformado, infectando-o com a maldição sanguínea da licantropia. Você ganha os seguintes benefícios.</p><ul><li>Aumente seus valores de Força e Constituição em 1, até um máximo de 20.</li></ul><ul><li>Você tem vantagem em testes de Sabedoria (Percepção) que dependem do olfato.</li></ul><p>Você também ganha as seguintes penalidades.</p><ul><li>Do pôr do sol ao nascer do sol na noite de lua cheia, você passa pela sua transformação de lobisomem. Durante a transformação, seu alinhamento muda para Caótico e Mau e seu personagem fica sob controle do MJ.</li></ul><ul><li>No dia da e nos três dias após sua transformação de lobisomem, você sofre uma penalidade de -3 no seu valor de Constituição, ganha dois níveis de exaustão que não podem ser removidos e tem desvantagem em testes de resistência de Constituição.</li></ul><ul><li>Se sua condição se tornar conhecida, bruxas e bruxos podem temer ou discriminar você.</li></ul>"
+    },
+    "Unraveling Magic": {
+      "name": "Desvendando Magia",
+      "description": "<p>Tenha sucesso automaticamente sempre que conjurar @UUID[Compendium.wands.spells-wands.Item.SQnurPdikw1UbJ3p]{Finite Incantatem}.</p>"
+    },
+    "Spellcasting (Willpower)": {
+      "name": "Conjuração (Força de Vontade)",
+      "description": "<p>Carisma é sua habilidade de conjuração para suas magias. Você usa seu Carisma sempre que uma magia se referir à sua habilidade de conjuração. Além disso, você usa seu modificador de Carisma ao definir a CD do teste de resistência de uma magia que conjura e ao fazer uma jogada de ataque com uma.</p><p>Você deve usar uma varinha como foco de conjuração para suas magias. Sua progressão de espaços de magia é o padrão para conjuradores completos.</p><p>Além disso, quando você ganha um nível nesta classe, pode escolher dois dos truques ou magias que conhece e substituí-los por dois novos truques ou magias, que também devem ser de um nível para o qual você tenha espaços de magia.</p>"
+    },
+    "Ritual Casting": {
+      "name": "Conjuração Ritual",
+      "description": "<p>Sua capacidade de recordar informações permite que você conjure magias livremente, desde que tenha tempo suficiente para parar e se concentrar. No 1º nível, você pode conjurar uma magia como ritual se essa magia tiver a marca de ritual e você conhecer a magia. Uma versão ritual de uma magia leva apenas 1 minuto a mais para conjurar do que o normal. Também não gasta um espaço de magia, o que significa que a versão ritual de uma magia não pode ser conjurada em um nível superior.</p>"
+    },
+    "Paranoid": {
+      "name": "Paranoico",
+      "description": "<p>Você não confia mais nas pessoas que encontra. Você não conta como uma criatura \"amigável\" para estranhos e conhecidos, e eles não contam como \"amigáveis\" para você, em relação a habilidades ou magias. As únicas criaturas que suas magias e habilidades benéficas podem mirar são você mesmo e seus aliados mais próximos.</p>"
+    },
+    "Linguist": {
+      "name": "Linguista",
+      "description": "<p>Você estudou idiomas e códigos, ganhando os seguintes benefícios:</p><p>Aumente seu valor de Inteligência em 1, até um máximo de 20.<br/>Você aprende três idiomas de sua escolha.<br/>Você pode criar cifras escritas habilmente. Outros não podem decifrar um código que você criou a menos que você os ensine, tenham sucesso em um teste de Inteligência (CD igual ao seu valor de Inteligência + seu bônus de proficiência), ou usem magia para decifrá-lo.</p>"
+    },
+    "Master of Minds": {
+      "name": "Mestre das Mentes",
+      "description": "<p><em><strong>@UUID[Compendium.wands.features-wands.Item.H3mJ4CG9jCjJ6p3c]{Legilimency} necessária.</strong></em> Sua habilidade em navegar pensamentos é incomparável. Agora você pode conjurar @UUID[Compendium.wands.spells-wands.Item.ZHPPAams6Xm4LY7g]{Legilimens}<em> </em>à vontade, verbalmente ou não-verbalmente. Qualquer tentativa de resistir à sua magia <em>legilimens</em> é feita com desvantagem.</p>"
+    },
+    "Extended Assistance": {
+      "name": "Assistência Estendida",
+      "description": "<p>Você ultrapassou os limites de sua magia de cura para salvar vidas na linha de frente. Todos os alcances de suas magias de Cura são dobrados. Se uma magia de Cura tiver alcance de toque, seu novo alcance é de 18 metros.</p>"
+    },
+    "Wizard's Best Friend": {
+      "name": "Melhor Amigo do Bruxo",
+      "description": "<p>Seu cuidado e compaixão pelas criaturas lhe rendem sua confiança e respeito. Você pode ter um companheiro bestial<em>.</em></p><h2>Seu Companheiro Bestial</h2><h3><strong>Criando Vínculo com Sua Besta</strong></h3><p>Com 8 horas de comunicação e vínculo ininterruptos, você pode convocar uma besta não-hostil para servir como seu fiel companheiro. Quando você ganha esta característica, selecione seu companheiro dentre qualquer besta única de tamanho Pequeno ou maior com nível de desafio 1/4 ou menor. Você pode ter apenas um companheiro bestial por vez.</p><p>Seu companheiro bestial obedece seus comandos da melhor forma possível. A besta se move e age durante seu turno, mas você determina suas ações, decisões, atitudes e assim por diante. Você e seu companheiro podem se mover e agir em qualquer ordem que escolher. Se você estiver incapacitado ou ausente, seu companheiro age por conta própria.</p><p>Seu companheiro lutará em uníssono com você. As seguintes regras se aplicam enquanto ele estiver vinculado a você por esta característica:</p><ul><li>Ele não pode usar suas ações de ataque natural, mas pode fazer golpes desarmados. Seu dado de dano para golpes desarmados se torna um d4.</li></ul><ul><li>Ele é proficiente em dois testes de resistência e duas perícias de sua escolha, além de suas proficiências normais.</li></ul><ul><li>Ele usa seu bônus de proficiência para ataques, bem como para testes de resistência e perícias nas quais é proficiente.</li></ul><ul><li>Ele adiciona seu bônus de proficiência à sua classe de armadura.</li></ul><p>Para encontrar os pontos de vida máximos do seu companheiro, pegue os pontos de vida do bloco de estatísticas e adicione 5 vezes seu nível de conjurador. Sempre que ganhar uma Melhoria de Valor de Habilidade, você também pode distribuir dois pontos entre os valores de habilidade do seu companheiro. Se seu companheiro bestial for morto ou dispensado, um vínculo pode ser formado com outra besta e essa besta progredirá de acordo com seu nível atual.</p><h3><strong>Comandando Sua Besta</strong></h3><p>Você treina seu companheiro para seguir certos comandos. Você tem um número de Dados de Comando igual à metade do seu nível (arredondado para baixo) + seu modificador de Sabedoria. Um dado de comando é um d6, e é usado para emitir comandos especificamente treinados a bestas, incluindo seu companheiro bestial.</p><p>Você pode emitir um comando por vez a uma besta dentro de 36 metros de você que possa ouvi-lo; a besta deve ser capaz de ouvi-lo para seguir o comando, e o comando é desperdiçado se a besta não o cumprir antes do final de seu próximo turno. Quando um dado de comando é rolado, seu uso é gasto. Seu dado de comando se torna um d8 quando você alcança o 14º nível.</p><p>Você recupera todos os dados de comando quando termina um descanso longo.</p><h3><strong>Comandos de Besta</strong></h3><p>Seu companheiro conhece dois comandos de besta de sua escolha. Ele aprende um comando adicional quando você alcança o 14º nível. Você também pode ensinar a qualquer besta amigável que não seja seu companheiro apenas um comando de besta gastando pelo menos 1 hora por dia durante 7 dias treinando a criatura.</p><p><strong>Atacar.</strong> Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro pode usar sua ação para realizar uma de suas ações de ataque natural. No entanto, ele não pode usar sua ação de Ataque Múltiplo, se tiver uma. Se o ataque acertar, adicione o resultado do dado de comando à jogada de dano.</p><p><strong>Deitar.</strong> Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro usa sua reação para cair de bruços e tentar se Esconder, adicionando o resultado do dado de comando ao seu teste de Destreza (Furtividade). O primeiro ataque que ele fizer enquanto escondido desta forma também adiciona o resultado do dado de comando à sua jogada de ataque.</p><p><strong>Encontrar.</strong> Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro usa sua reação para tentar Procurar criaturas ou objetos ocultos, adicionando o resultado do dado de comando ao teste de perícia feito para a Busca.</p><p><strong>Agarrar.</strong> Quando seu companheiro faz um ataque de oportunidade, você pode usar sua reação e rolar um dado de comando para emitir este comando. Se o ataque acertar, seu companheiro pode tentar agarrar o alvo como parte do ataque, adicionando o resultado do dado de comando ao teste de perícia feito para a tentativa.</p><p><strong>Avançar.</strong> Você pode usar sua ação bônus e rolar um dado de comando para emitir este comando. Seu companheiro usa sua reação para realizar a ação de Ajuda, auxiliando o próximo ataque contra uma criatura ao seu alcance que ele possa ver. Se este ataque acertar, o ataque causa dano extra igual ao resultado do dado de comando.</p>"
+    },
+    "Unshakable Nerves": {
+      "name": "Nervos de Aço",
+      "description": "<p>Seu estudo de ferimentos e doenças mágicas lhe deram um estômago forte e vontade de ferro. Você tem vantagem em testes de resistência contra ficar amedrontado.</p>"
+    },
+    "Empathic Bond": {
+      "name": "Vínculo Empático",
+      "description": "<p>Você sente profundamente a dor dos outros, o que lhe dá percepção sobre seu sofrimento. Quando você conjura uma magia de Cura em outra criatura, ela ganha pontos de vida adicionais e você perde pontos de vida iguais ao seu bônus de proficiência, a menos que seus pontos de vida sejam totalmente restaurados pela magia de Cura ou a menos que este efeito reduza seus pontos de vida a 0.</p>"
+    }
+  }
+}

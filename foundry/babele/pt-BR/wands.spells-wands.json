@@ -1,0 +1,585 @@
+{
+  "label": "Spells (WANDS)",
+  "entries": {
+    "Capto": {
+      "name": "Capto",
+      "description": "<p>Um objeto alvo se torna facilmente agarrado por uma mão, quase grudento, a menos que o portador voluntariamente o solte. O portador tem vantagem contra ser desarmado de forma não mágica.</p>"
+    },
+    "Ventus": {
+      "name": "Ventus",
+      "description": "<p>Uma rajada forte de ar flui da ponta da sua varinha e cria um dos seguintes efeitos em um ponto que você pode ver dentro do alcance:</p><ul><li>Uma criatura Média ou menor que você escolher deve ser bem-sucedida em um teste de resistência de Força ou ser instantaneamente empurrada até 5 pés para longe de você e ficar impedida de se aproximar de você pela duração.</li></ul><ul><li>Você cria uma pequena explosão de ar capaz de mover um objeto que não está sendo segurado nem carregado e que pese não mais que 5 libras. O objeto é empurrado até 10 pés para longe de você por rodada, pela duração da magia. Ele não é empurrado com força suficiente para causar dano.</li></ul><ul><li>Você cria um efeito sensorial inofensivo usando ar, como fazer folhas farfalharem, vento bater portas ou sua roupa ondular na brisa. Se desejar, o ar pode ser quente e funcionar como um secador de cabelo.</li></ul><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você pode alvejar uma criatura adicional para cada nível de espaço acima do 2º. As criaturas devem estar a até 30 pés umas das outras quando você as alveja.</p>"
+    },
+    "Melofors": {
+      "name": "Melofors",
+      "description": "<p>Você conjura uma abóbora ao redor da cabeça de um alvo, cegando-o e ensurdecendo-o. Escolha uma criatura que você pode ver dentro do alcance para fazer um teste de resistência de Sabedoria. Se falhar, o alvo fica cego e surdo pela duração. No final de cada um de seus turnos, o alvo pode fazer um teste de resistência de Sabedoria. Em um sucesso, a magia termina.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, você pode alvejar uma criatura adicional para cada nível de espaço acima do 3º.</p>"
+    },
+    "Wingardium Leviosa": {
+      "name": "Wingardium Leviosa",
+      "description": "<p>Uma criatura que não seja você mesmo ou objeto de sua escolha que você pode ver dentro do alcance sobe verticalmente, até 20 pés, e permanece suspenso lá pela duração. A magia pode levitar um alvo que pese até 100 libras. Uma criatura relutante que for bem-sucedida em um teste de resistência de Constituição não é afetada.</p><p>O alvo pode se mover apenas empurrando ou puxando contra um objeto ou superfície fixos ao alcance (como uma parede ou teto), o que permite que se mova como se estivesse escalando. Você pode alterar a altitude do alvo em até 20 pés em qualquer direção no seu turno. Caso contrário, pode usar sua ação para mover o alvo, que deve permanecer dentro do alcance da magia.</p><p>Se a magia for encerrada voluntariamente, o alvo flutua suavemente até o chão se ainda estiver no ar. Se encerrada involuntariamente, o alvo cai imediatamente.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 1º nível ou superior, o limite de peso aumenta em 150 libras para cada nível de espaço acima do 0.</p>"
+    },
+    "Densaugeo": {
+      "name": "Densaugeo",
+      "description": "<p>Os dois dentes da frente de um alvo crescem anormalmente longos, projetando-se para baixo além do queixo. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, ela sofre 2d8 de dano psíquico e tem desvantagem na próxima jogada de ataque que fizer antes do fim do seu próximo turno.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano aumenta em 1d8 para cada nível de espaço acima do 1º.</p>"
+    },
+    "Tergeo": {
+      "name": "Tergeo",
+      "description": "<p>Você escolhe um líquido específico que pode ver dentro do alcance e que cabe em um cubo de 5 pés. O líquido se junta em uma bolha flutuante na ponta da sua varinha, e você pode direcioná-lo para formar formas simples, animar ou fluir para um recipiente.</p>"
+    },
+    "Infirma Cerebra": {
+      "name": "Infirma Cerebra",
+      "description": "<p>Esta azaração atinge a mente de um alvo, causando-lhe um breve momento de desorientação. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, o alvo sofre 1d6 de dano psíquico, e na primeira vez que fizer um teste de resistência antes do final do seu próximo turno, deve rolar um [[/r d4]] e subtrair o número rolado do teste.</p><p>O dano desta magia aumenta em 1d6 quando você atinge certos níveis: 5º nível (2d6), 11º nível (3d6) e 17º nível (4d6).</p>"
+    },
+    "Orbis": {
+      "name": "Orbis",
+      "description": "<p>Você escolhe um espaço no chão que está atualmente ocupado por uma criatura que pode ver dentro do alcance. O chão se torna um líquido espesso e gira sob a criatura em uma forma esférica. O material então se abate de volta e recupera sua solidez anterior em uma tentativa de enterrar as pernas da criatura. O alvo deve fazer um teste de resistência de Destreza. Em uma falha, o alvo sofre 3d6 de dano de concussão e fica impedido pela duração da magia.</p><p>Como uma ação, você pode fazer a terra esmagar o alvo impedido, que deve fazer um teste de resistência de Força. Ele sofre 3d6 de dano de concussão em uma falha, ou metade do dano em um sucesso.</p><p>Para se libertar, o alvo impedido pode usar sua ação para fazer um teste de Força contra sua CD de resistência de magia. Em um sucesso, o alvo liberta suas pernas e não está mais impedido.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em 1d6 para cada nível de espaço acima do 2º.</p>"
+    },
+    "Colloshoo": {
+      "name": "Colloshoo",
+      "description": "<p>Esta azaração criativa gruda os sapatos de um ser no chão, prendendo-o no lugar. Escolha um ser que você possa ver dentro do alcance que esteja usando sapatos para fazer um teste de resistência de Destreza. Em uma falha, o alvo fica impedido pela duração. Se o teste de resistência falhar por 5 ou mais, o alvo também é derrubado prostrado. O alvo pode usar sua ação para tirar os sapatos, ou fazer um teste de Força contra sua CD de resistência de magia. Em um sucesso, ele liberta seus sapatos.</p>"
+    },
+    "Accio": {
+      "name": "Accio",
+      "description": "<p>Um objeto alvo é puxado diretamente para o conjurador como se carregado por uma mão invisível. O objeto é selecionado apontando para ele com uma varinha ou nomeando-o, Accio vassoura. Um objeto mais pesado que 20 libras não pode ser convocado.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 1º nível ou superior, você pode selecionar ou acumular um dos seguintes efeitos para cada nível de espaço acima do 0.</p><ul><li>Aumentar o alcance da magia em 100 pés.</li></ul><ul><li>Aumentar o limite de peso em 20 libras.</li></ul><ul><li>Aumentar o número de objetos alvejáveis em 5.</li></ul>"
+    },
+    "Anapneo": {
+      "name": "Anapneo",
+      "description": "<p>As vias aéreas de um ser são desobstruídas e ele é auxiliado na respiração. Se usado em um ser vivo que tem 0 pontos de vida, o ser se torna estável.</p>"
+    },
+    "Pereo": {
+      "name": "Pereo",
+      "description": "<p>Você escolhe uma chama que pode ver dentro do alcance e que cabe em um cubo de 5 pés. Você instantaneamente extingue as chamas dentro do cubo.</p>"
+    },
+    "Novum Spirare": {
+      "name": "Novum Spirare",
+      "description": "<p>Precisamente nomeado, o feitiço cabeça-de-bolha forma uma grande máscara semelhante a uma bolha sobre a boca, nariz e ouvidos de uma criatura que é magicamente preenchida com ar fresco inesgotável. Esta magia concede a uma criatura voluntária que você pode ver dentro do alcance a capacidade de respirar debaixo d'água ou no vácuo até a magia terminar. Além disso, a criatura é imune a dano de veneno por inalação pela duração. A criatura pode dissipar este efeito usando uma ação.</p>"
+    },
+    "Immobulus": {
+      "name": "Immobulus",
+      "description": "<p>Você envia um pulso pela área à sua frente, congelando tudo no espaço e no tempo. Role 7d10; o total é quantos pontos de vida de criaturas esta magia pode afetar. Todas as criaturas e objetos em um cubo de 15 pés originando de você são afetados na ordem do mais próximo ao mais distante. Cada criatura afetada por esta magia fica paralisada até a magia terminar. Enquanto paralisada, a criatura fica fixa no espaço que ocupava quando a magia foi conjurada, o que pode deixá-la suspensa no ar.</p><p>Subtraia os pontos de vida atuais de cada criatura do total antes de passar para outra criatura. Os pontos de vida de uma criatura devem ser iguais ou menores que o total restante para que aquela criatura seja afetada. Qualquer objeto que esteja totalmente dentro da área é automaticamente afetado por esta magia pela duração e não conta contra o número de pontos de vida que você pode afetar. Se conjurar a magia afetar apenas objetos e não afetar nenhuma criatura, a duração é de até 8 horas.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, role 2d10 adicionais para cada nível de espaço acima do 2º. Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, a duração aumenta em 1 rodada para cada dois níveis de espaço acima do 2º.</p>"
+    },
+    "Capacious Extremis": {
+      "name": "Capacious Extremis",
+      "description": "<p>Transforme uma bolsa/saquinho pequeno comum em um compartimento central de Mochila Prática, uma mochila em uma Bolsa de Devoragem, ou a capacidade interna de um baú em uma Bolsa de Devoragem com:</p><ul><li>Uma abertura de 3 pés de comprimento e 2 pés de largura.</li></ul><ul><li>Tamanho interno de 6 pés de comprimento, 4 pés de largura e 4 pés de profundidade.</li></ul><ul><li>Um limite de 1000 libras e 150 pés cúbicos.</li></ul>"
+    },
+    "Alohomora": {
+      "name": "Alohomora",
+      "description": "<p>Escolha uma porta ou janela que você possa ver dentro do alcance, que use meios mundanos ou mágicos para impedir o acesso.</p><p>Um alvo que está trancado por uma fechadura mundana ou que está preso ou barrado se torna destrancado, solto ou desbarrado. Se o objeto tiver múltiplas fechaduras, apenas uma delas é destrancada.</p><p>Se você escolher um alvo que está trancado com Colloportus, aquela magia é removida.</p><p>Quando você conjura a magia, o mecanismo gira ruidosamente e destranca. Este ruído emana do objeto alvo e é audível a até 100 pés de distância.</p>"
+    },
+    "Expulso": {
+      "name": "Expulso",
+      "description": "<p>A magia dispara da sua varinha e uma onda de força trovejante se espalha de um ponto de sua escolha dentro do alcance. Cada criatura em uma esfera de 10 pés de raio centrada naquele ponto deve fazer um teste de resistência de Constituição. Em uma falha, uma criatura sofre 4d8 de dano trovejante e é empurrada 10 pés para longe daquele ponto. Em um sucesso, a criatura sofre metade do dano e não é empurrada. Além disso, objetos não seguros que estão completamente dentro da área de efeito são automaticamente empurrados 10 pés para longe daquele ponto pelo efeito da magia, e a magia emite um estrondo trovejante audível a até 100 pés.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano aumenta em 1d8 para cada nível de espaço acima do 3º.</p>"
+    },
+    "Langlock": {
+      "name": "Langlock",
+      "description": "<p>Você tenta interromper um ser que pode ver no processo de conjurar uma magia. Se a criatura estiver conjurando verbalmente uma magia de 3º nível ou inferior, sua magia falha e não tem efeito. Se estiver conjurando verbalmente uma magia de 4º nível ou superior, faça um teste de habilidade usando sua habilidade de conjuração. A CD é igual a 10 + o nível da magia. Em um sucesso, a magia da criatura falha e não tem efeito.</p><p>Em um sucesso ou se o ser estava conjurando a magia de forma não verbal, o alvo deve conjurar todas as outras magias de forma não verbal até o fim do seu próximo turno. Se tentar conjurar uma magia verbalmente, deve primeiro ser bem-sucedido em um teste de resistência de Inteligência, ou a conjuração falha e a magia é desperdiçada.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, a magia interrompida não tem efeito se seu nível for menor ou igual ao nível do espaço de magia que você usou.</p>"
+    },
+    "Relashio": {
+      "name": "Relashio",
+      "description": "<p>Esta magia força tanto alvos vivos quanto inanimados a soltar sua pegada. Escolha um objeto ou criatura que você pode ver dentro do alcance. O objeto pode ser um par de algemas, um cadeado, correntes ou outro objeto que esteja enrolado ou restringindo algo. Se o alvo for uma criatura, ela deve fazer um teste de resistência de Sabedoria. Em uma falha, ela deve soltar o que quer que esteja restringindo. Este efeito encerra qualquer condição de agarrado ou impedido que esteja sendo imposta pelo alvo.</p><p>Um objeto que está preso por uma fechadura mundana ou mágica ou que está preso se torna destrancado, solto ou desbarrado. Quando você conjura a magia sobre um objeto, um barulho alto de chacoalhamento ou tinido, audível a até 100 pés, emana do objeto alvo.</p><p>Uma criatura não é forçada a soltar qualquer objeto que esteja segurando. A criatura deve estar restringindo o objeto de alguma forma, como segurar um objeto sobre o qual accio foi conjurado.</p>"
+    },
+    "Incendio": {
+      "name": "Incendio",
+      "description": "<p>Você cria uma fogueira no chão que pode ver dentro do alcance. Até a magia terminar, a fogueira preenche um cubo de 5 pés. Qualquer criatura no espaço da fogueira quando você conjura a magia deve ser bem-sucedida em um teste de resistência de Destreza. Ela sofre 3d6 de dano de fogo em uma falha, ou metade do dano em um sucesso. Uma criatura também deve fazer o teste de resistência quando se mover para o espaço da fogueira pela primeira vez em um turno ou terminar seu turno lá.</p><p>A fogueira incendeia objetos inflamáveis em sua área que não estão sendo vestidos ou carregados. Se houver combustível adequado para a fogueira queimar, ela continuará queimando após a magia terminar.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano aumenta em 2d6 para cada nível de espaço acima do 2º.</p>"
+    },
+    "Spongify": {
+      "name": "Spongify",
+      "description": "<p>Esta magia torna um objeto que você pode ver dentro do alcance macio e elástico, como uma esponja ou colchão. Qualquer dano de cair sobre ou colidir com este objeto é anulado. Esta magia pode ser conjurada como uma reação a uma colisão afetando uma criatura ou dois objetos que você pode ver dentro do alcance.</p>"
+    },
+    "Furnunculus": {
+      "name": "Furnunculus",
+      "description": "<p>Surtos desta azaração são uma ocorrência comum quando estudantes brigam, resultando em espinhas grotescas cobrindo o rosto das vítimas. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, ele sofre 1d4 de dano psíquico e tem desvantagem na próxima jogada de ataque que fizer antes do fim do seu próximo turno. Além disso, ele tem desvantagem no próximo teste de habilidade de Carisma que fizer.</p><p>O dano desta magia aumenta em 1d4 quando você atinge o 5º nível (2d4), 11º nível (3d4) e 17º nível (4d4).</p>"
+    },
+    "Riddikulus": {
+      "name": "Riddikulus",
+      "description": "<p>Esta magia tem uma aplicação muito específica: forçar um bicho-papão a se transformar em uma versão cômica de sua forma atual. Apenas um bicho-papão pode ser alvo desta magia.</p>"
+    },
+    "Scourgify": {
+      "name": "Scourgify",
+      "description": "<p>Um objeto não maior que 5 pés cúbicos é impecavelmente limpo.</p>"
+    },
+    "Stupefy": {
+      "name": "Stupefy",
+      "description": "<p>Este encantamento é a magia de duelo mais comum no mundo bruxo, encerrando inofensivamente um duelo entre dois bruxos. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, o alvo cai inconsciente pela duração, ou até ser reanimado com rennervate.</p><p><strong>Em Níveis Superiores.</strong> Se você conjurar esta magia usando um espaço de magia de 3º nível ou superior, a duração aumenta para 1 hora (3º nível) ou 8 horas (4º nível). Alternativamente, quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, pode alvejar uma besta em vez de um ser, por uma duração de 10 minutos (4º nível), 1 hora (5º nível) ou 8 horas (6º nível).</p>"
+    },
+    "Specialis Revelio": {
+      "name": "Specialis Revelio",
+      "description": "<p>Você toca sua varinha em um objeto ou área, revelando influências mágicas. Se for um item mágico ou algum outro objeto imbuído de magia, você aprende suas propriedades e como usá-las, se requer sintonização para uso, e quantas cargas tem, se houver. Você aprende se quaisquer magias estão afetando o item e quais são. Se o item foi criado por uma magia, você aprende qual magia o criou.</p><p>Se conjurada em uma área, você aprende quais magias, se houver, estão atualmente ativas dentro de um cubo de 5 pés à sua frente. A borda do efeito de cada magia é iluminada dentro daquele cubo, muito como soprar poeira através de feixes de laser.</p>"
+    },
+    "Serpensortia": {
+      "name": "Serpensortia",
+      "description": "<p>Você conjura uma cobra venenosa do nada. Uma Víbora aparece em um espaço desocupado que você pode ver dentro do alcance. Role iniciativa para a criatura convocada, que tem seus próprios turnos. Embora a víbora não ataque o conjurador voluntariamente, você não pode controlar as ações ou alvos da víbora. É possível que a víbora seja virada contra você por meios mágicos.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de nível superior, múltiplas víboras são conjuradas em espaços desocupados que você pode ver dentro do alcance. Escolha entre as seguintes opções: duas víboras (4º nível), três víboras (6º nível) ou quatro víboras (8º nível). A iniciativa é rolada como um grupo.</p>"
+    },
+    "Crinus Muto": {
+      "name": "Crinus Muto",
+      "description": "<p>Seu cabelo é magicamente alongado, encurtado, estilizado ou colorido. Isso também pode ser aplicado a sobrancelhas e barba. Se sua aparência for drasticamente alterada, você pode ser difícil de reconhecer. Para discernir que você está disfarçado, uma criatura pode usar sua ação para inspecionar sua aparência e deve ser bem-sucedida em um teste de Inteligência (Investigação) contra sua CD de resistência de magia.</p>"
+    },
+    "Nebulus": {
+      "name": "Nebulus",
+      "description": "<p>Você cria uma esfera de névoa com raio de 20 pés centrada em um ponto dentro do alcance. A esfera se espalha ao redor de cantos, e sua área é densamente obscurecida. Ela dura pela duração ou até que um vento moderado ou mais forte (pelo menos 16 km/h) a disperse.</p><p>Em Níveis Superiores. Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o raio da névoa aumenta em 20 pés para cada nível de espaço acima do 1º.</p>"
+    },
+    "Ebublio": {
+      "name": "Ebublio",
+      "description": "<p>Você conjura uma esfera giratória de água com 5 pés de raio em um ponto que pode ver dentro do alcance. A esfera pode pairar, mas não mais que 10 pés acima do chão. A esfera permanece pela duração da magia.</p><p>Qualquer criatura no espaço da esfera deve fazer um teste de resistência de Força. Em um sucesso, uma criatura é ejetada daquele espaço para o espaço desocupado mais próximo de sua escolha fora da esfera. Uma criatura Enorme ou maior é automaticamente bem-sucedida no teste de resistência, e uma criatura Grande ou menor pode escolher falhar. Em uma falha, uma criatura fica impedida pela esfera e é engolida pela bolha giratória de água. No final de cada um de seus turnos, um alvo impedido pode repetir o teste de resistência, encerrando o efeito sobre si em um sucesso.</p><p>A esfera pode impedir até quatro criaturas Médias ou menores ou uma criatura Grande. Se a esfera impedir uma criatura que faça com que exceda esta capacidade, uma criatura aleatória que já estava impedida pela esfera cai dela e fica prostrada em um espaço a até 5 pés.</p><p>Como uma ação, você pode mover a esfera até 30 pés em linha reta. Se ela se mover sobre um poço, penhasco ou outro declive, ela desce com segurança até pairar 10 pés acima do chão. Qualquer criatura impedida pela esfera se move com ela. Você pode lançar a esfera contra criaturas, forçando-as a fazer o teste de resistência.</p><p>Quando a magia termina, a esfera cai no chão e extingue todas as chamas normais em um raio de 30 pés. Qualquer criatura impedida pela esfera fica prostrada no espaço onde ela cai. A água então desaparece.</p>"
+    },
+    "Protego": {
+      "name": "Protego",
+      "description": "<p>Uma barreira invisível de força mágica aparece à sua frente e o protege. Pela duração, você tem um bônus de +5 à CA, incluindo contra o ataque desencadeador. Se você for alvo de uma magia que requer uma jogada de ataque e o nível da magia for igual ou inferior a metade do seu bônus de proficiência, a magia não tem efeito sobre você.</p><p>Você pode usar uma ação bônus para mudar a direção que o escudo está voltado. Se for atacado por qualquer um dos seus lados ou por trás enquanto conjura esta magia, deve usar sua reação para redirecionar o escudo para apontar na direção da ameaça. Caso contrário, esta magia não o protege.</p>"
+    },
+    "Prior Incantato": {
+      "name": "Prior Incantato",
+      "description": "<p>Frequentemente usada como ferramenta investigativa em crimes bruxos, esta magia produz uma recriação fantasmagórica da magia anterior conjurada pela varinha atualmente usada. Se a magia anteriormente conjurada não puder ser representada visualmente, você aprende a encantação que foi usada, independentemente de a encantação ter sido falada em voz alta no momento da conjuração. Esta magia pode ser conjurada um total de três vezes consecutivas em uma única varinha, revelando as três magias conjuradas mais recentemente.</p>"
+    },
+    "Reparifors": {
+      "name": "Reparifors",
+      "description": "<p>Com um toque de sua varinha, um ser que você pode ver dentro do alcance recupera 1d8 pontos de vida. Você também pode encerrar uma doença ou uma condição que o aflige. A condição pode ser cego, surdo, paralisado ou envenenado.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, a cura aumenta em 1d8 para cada nível de espaço acima do 1º.</p>"
+    },
+    "Colovaria": {
+      "name": "Colovaria",
+      "description": "<p>Você muda a cor de qualquer alvo dentro do alcance que dura pela duração, para qualquer complexidade desejada. A cor só pode ser revertida dissipando o encantamento.</p><p>A interação física com o objeto revela que o objeto manteve sua textura e material originais, mas sua cor realmente mudou.</p>"
+    },
+    "Appare Vestigium": {
+      "name": "Appare Vestigium",
+      "description": "<p>Com um giro e um jato de névoa dourada, atividade mágica recente é revelada e iluminada através de imagens fantasmagóricas suspensas no ar, recriando os seres mágicos, criaturas mágicas ou eventos mágicos que estiveram na área nos últimos 10 minutos. Pegadas e marcas de rastros mágicos também são destacadas no chão. Qualquer um dos efeitos pode ser ocultado, destacado ou expandido pela duração.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de nível superior, a janela histórica se estende para 1 hora (5º nível), 24 horas (6º nível) ou uma semana (7º nível).</p>"
+    },
+    "Geminio": {
+      "name": "Geminio",
+      "description": "<p>Você toca um objeto que cabe em um cubo de 1 pé com sua varinha e uma duplicata perfeita dele surge do objeto. A duplicata é indistinguível do objeto por meios normais, mas não compartilha nenhuma de suas qualidades ou funções mágicas. A duplicata tem um quarto dos pontos de vida do objeto original e desaparece ao final da duração da magia.</p><p>Para detectar a inautenticidade da duplicata, uma criatura a até 5 pés dela pode usar uma ação para fazer um teste de Inteligência (Investigação) contra sua CD de resistência de magia. Em um sucesso, ela percebe falhas sutis e entende que é uma falsificação. 5 dias após conjurar esta magia, a duplicata começa a mostrar sinais significativos de degradação, concedendo vantagem no teste de Investigação. Se @UUID[Compendium.wands.spells-wands.Item.DXr0kJP9lMFe1yjU]{Specialis Revelio} for conjurada na duplicata, o conjurador fica ciente de que o objeto é uma duplicata criada por esta magia.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o tamanho do cubo aumenta em 1 pé para cada nível de espaço acima do 2º.</p>"
+    },
+    "Arresto Momentum": {
+      "name": "Arresto Momentum",
+      "description": "<p>Escolha até cinco criaturas em queda dentro do alcance. A taxa de descida de uma criatura em queda diminui para 60 pés por rodada até a magia terminar. Se a criatura pousar antes da magia terminar, ela não sofre dano de queda e pode pousar de pé, e a magia termina para aquela criatura.</p>"
+    },
+    "Avada Kedavra": {
+      "name": "Avada Kedavra",
+      "description": "<p>A mais perigosa das Imperdoáveis, Avada Kedavra canaliza o ódio puro do conjurador em uma magia imbloqueável que mata tudo que atinge. Faça uma jogada de ataque à distância com magia contra um alvo dentro do alcance. Em um acerto e se o alvo tiver 100 pontos de vida ou menos, ele morre ou é destruído. Caso contrário, a magia não tem efeito. Magias defensivas não têm efeito contra esta magia e ela só pode ser bloqueada por objetos físicos.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 9º nível, não há restrição de pontos de vida.</p>"
+    },
+    "Illegibilus": {
+      "name": "Illegibilus",
+      "description": "<p>Pela duração, ninguém pode entender qualquer linguagem escrita sobre a qual a magia é conjurada. As partes de todas as letras são separadas e embaralhadas, tornando impossível tentar decodificar.</p>"
+    },
+    "Ignis Laqueis": {
+      "name": "Ignis Laqueis",
+      "description": "<p>Você cria um longo chicote sinuoso de fogo da ponta da sua varinha, chicoteando e enrolando ao redor de uma criatura no alcance. Faça uma jogada de ataque corpo a corpo com magia contra o alvo. Em um acerto, a criatura sofre 4d10 de dano de fogo e fica agarrada pela duração. Como uma ação, o alvo pode fazer um teste de resistência de Força ou Destreza para encerrar os efeitos da magia.</p><p>Em cada um dos seus turnos seguintes gastos mantendo dedicação, o chicote aperta e você causa 4d10 de dano de fogo ao alvo automaticamente. Se a criatura for Grande ou menor, você pode usar uma ação bônus para puxar a criatura até 10 pés para mais perto de você.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano inicial e o dano de turnos subsequentes aumentam em 1d10 para cada nível de espaço acima do 3º.</p>"
+    },
+    "Rictusempra": {
+      "name": "Rictusempra",
+      "description": "<p>Esta magia de duelo de baixo nível causa ao alvo uma sensação intensa de cócegas. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, o alvo se dobrará de rir e ficará incapacitado com seu deslocamento reduzido pela metade até o início do seu próximo turno.</p>"
+    },
+    "Draconifors": {
+      "name": "Draconifors",
+      "description": "<p>Uma demonstração particularmente intimidadora de transfiguração, esta magia transforma um objeto do tamanho de uma escrivaninha em uma versão miniatura de um dragão adulto. Escolha um ou dois objetos inanimados e não mágicos que você pode ver dentro do alcance que preencham um cubo de 5 pés cada e escolha uma das seguintes opções:</p><ul><li>Um filhote de dragão de nível de desafio 4 ou inferior</li></ul><ul><li>Dois filhotes de dragão de nível de desafio 2 ou inferior</li></ul><p>O objeto se torna um construto de dragão de tamanho Médio com as estatísticas do filhote escolhido, que é destransfigurado quando cai a 0 pontos de vida ou quando a magia termina.</p><p>O construto de dragão é amigável com você e seus companheiros pela duração. Role iniciativa para o construto de dragão, que tem seus próprios turnos. Ele obedece a quaisquer comandos verbais que você emita (nenhuma ação requerida por você). Se você não emitir comandos, ele se defende de criaturas hostis, mas de outra forma não realiza ações.</p><p>Se sua concentração for quebrada, o construto de dragão não desaparece. Em vez disso, você perde o controle do construto, ele se torna hostil a você e seus companheiros, e pode atacar. Um construto de dragão descontrolado não pode ser dispensado por você, e é destransfigurado 10 minutos após você o ter transfigurado.</p><p>Filhotes ND 2: @UUID[Compendium.wands.monsters-wands.Actor.pxAu9pdOAxHgm7tf]{Antipodean Opaleye Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.UVVhSzfjdzFJud3L]{Common Welsh Green Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.HpxUrgC3zqQJox5Q]{Peruvian Vipertooth Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.hc620tyUeFJ8NCEr]{Swedish Shortsnout Wyrmling}</p><p>Filhotes ND 3: @UUID[Compendium.wands.monsters-wands.Actor.S1LpzSydo8c3PrPt]{Chinese Fireball Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.KjA6hvNlmza3eUkJ]{Hebridean Black Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.jJUgWHxEDWShLsbc]{Norwegian Ridgeback Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.TcU3ubJiRtAKePXw]{Romanian Longhorn Wyrmling}</p><p>Filhotes ND 4: @UUID[Compendium.wands.monsters-wands.Actor.eXwrILf98YSUHbIz]{Hungarian Horntail Wyrmling} @UUID[Compendium.wands.monsters-wands.Actor.bYN9AzowMNmq9QkL]{Ukrainian Ironbelly Wyrmling}</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 7º nível, escolha uma das seguintes opções:</p><ul><li>Dois filhotes de dragão de nível de desafio 3 ou inferior</li></ul><ul><li>Três filhotes de dragão de nível de desafio 2 ou inferior</li></ul><p>Quando você conjura esta magia usando um espaço de magia de 9º nível, escolha uma das seguintes opções:</p><ul><li>Dois filhotes de dragão de nível de desafio 4 ou inferior</li></ul><ul><li>Quatro filhotes de dragão de nível de desafio 2 ou inferior</li></ul>"
+    },
+    "Vigilatus": {
+      "name": "Vigilatus",
+      "description": "<p>Você configura um alarme mental contra intrusão indesejada. Escolha uma porta, uma janela ou uma área dentro do alcance que não seja maior que um cubo de 20 pés. Até a magia terminar, um alerta mental o avisa sempre que uma criatura Minúscula ou maior tocar ou entrar na área protegida, se você estiver a até 1 milha da área protegida. Este alerta o acorda se estiver dormindo.</p><p>Quando você conjura a magia, pode designar criaturas que não ativarão o alarme.</p>"
+    },
+    "Ignis Furore": {
+      "name": "Ignis Furore",
+      "description": "<p>Você cria uma parede anular de fogo dentro do alcance com até 20 pés de diâmetro, 20 pés de altura e 10 pés de espessura, escolhendo se está tocando o chão ou no ar. A parede é opaca e dura pela duração.</p><p>Quando a parede aparece, cada criatura dentro de sua área deve fazer um teste de resistência de Destreza. Em uma falha, uma criatura sofre 4d8 de dano de fogo, ou metade do dano em um sucesso. Uma criatura sofre o mesmo dano quando entra na parede pela primeira vez em um turno ou termina seu turno lá.</p><p>Como uma ação, você pode enviar um tentáculo de chamas chicoteando qualquer ponto a até 60 pés do centro do anel. Cada criatura a até 5 pés daquele ponto deve fazer um teste de resistência de Destreza. Uma criatura sofre 4d8 de dano de fogo em uma falha, ou metade do dano em um sucesso. Uma criatura na área da parede e da explosão flamejante é afetada apenas uma vez.</p><p>A magia danifica objetos na área e incendeia objetos inflamáveis que não estão sendo vestidos ou carregados.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 7º nível ou superior, o dano aumenta em 1d8 e o raio do anel aumenta em 5 pés para cada nível de espaço acima do 6º.</p>"
+    },
+    "Saggitario": {
+      "name": "Saggitario",
+      "description": "<p>Uma flecha conjurada dispara em direção a um alvo designado. Faça uma jogada de ataque à distância com magia contra um alvo dentro do alcance. Em um acerto, o alvo sofre dano perfurante igual a 1d8 + seu modificador de habilidade de conjuração.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, você conjura uma flecha adicional para cada nível de espaço acima do 1º. Você pode direcionar as flechas ao mesmo alvo ou a alvos diferentes. Faça uma jogada de ataque separada para cada flecha.</p>"
+    },
+    "Orchideous": {
+      "name": "Orchideous",
+      "description": "<p>Você conjura uma flor desabrochando, buquê ou guirlanda no local desejado dentro do alcance.</p>"
+    },
+    "Crucio": {
+      "name": "Crucio",
+      "description": "<p>Com uma única palavra e um coração cheio de ódio, ondas de dor intensa assaltam uma criatura que você pode ver dentro do alcance. Se o alvo tiver 100 pontos de vida ou menos, ele é sujeito a dor incapacitante. Caso contrário, a magia não tem efeito sobre ele.</p><p>Enquanto o alvo é afetado por dor incapacitante, qualquer deslocamento que ele tenha não pode ser superior a 10 pés. O alvo também tem desvantagem em jogadas de ataque, testes de habilidade e testes de resistência, exceto testes de resistência de Constituição. Finalmente, se o alvo tentar conjurar uma magia, ele deve primeiro ser bem-sucedido em um teste de resistência de Constituição, ou a conjuração falha e a magia é desperdiçada.</p><p>Um alvo sofrendo esta dor deve fazer um teste de resistência de Constituição no final de cada um de seus turnos. Em uma falha, o alvo ganha um nível de exaustão.</p>"
+    },
+    "Protego Totalum": {
+      "name": "Protego Totalum",
+      "description": "<p>Uma barreira imóvel e fracamente cintilante surge em um raio de 10 pés ao seu redor e permanece pela duração.</p><p>Qualquer ataque ou magia de 5º nível ou inferior conjurada de fora da barreira não pode afetar criaturas ou objetos dentro dela, mesmo se a magia for conjurada usando um espaço de magia de nível superior. Tal magia pode alvejar criaturas e objetos dentro da barreira, mas a magia não tem efeito sobre eles. Da mesma forma, a área dentro da barreira é excluída das áreas afetadas por tais magias.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 7º nível ou superior, a barreira bloqueia magias de um nível superior para cada nível de espaço acima do 6º.</p>"
+    },
+    "Lumos / Nox": {
+      "name": "Lumos / Nox",
+      "description": "<p>Ao murmurar a encantação, a ponta da sua varinha emite luz plena em um cone estreito de 15 pés e luz fraca por mais 15 pés, muito como uma lanterna. A luz é branca brilhante com um leve tom azulado. Cobrir completamente a ponta da sua varinha com algo opaco bloqueia a luz. A magia termina se você a dissipar com a encantação nox, como uma ação bônus.</p>"
+    },
+    "Slugulus Eructo": {
+      "name": "Slugulus Eructo",
+      "description": "<p>Esta azaração particularmente desagradável faz a vítima cuspir lesmas pela duração. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, ela sofre 3d8 de dano psíquico e ganha um nível de exaustão. Esta magia não pode fazer com que ela atinja mais de 5 níveis de exaustão. Se tentar conjurar uma magia verbalmente antes do final do seu próximo turno, deve primeiro ser bem-sucedida em um teste de resistência de Constituição, ou a conjuração falha e a magia é desperdiçada.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em 1d8 para cada nível de espaço acima do 2º.</p>"
+    },
+    "Flipendo": {
+      "name": "Flipendo",
+      "description": "<p>A magia parece um golpe muito pesado, derrubando bruscamente uma criatura de sua posição em pé ao chão. Escolha um ser que você possa ver dentro do alcance para fazer um teste de resistência de Força. Em uma falha, uma criatura sofre 1d10 de dano de concussão, é empurrada para trás um número de pés igual a cinco vezes seu modificador de habilidade de conjuração e é derrubada prostrada. Em um sucesso, a criatura sofre metade do dano, é empurrada 5 pés e não é derrubada prostrada.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano aumenta em 1d10 e o recuo em uma falha aumenta em 5 pés para cada nível de espaço acima do 1º.</p>"
+    },
+    "Locomotor Mortis": {
+      "name": "Locomotor Mortis",
+      "description": "<p>Uma ferramenta comum entre valentões, esta \"maldição\" prende as pernas de uma criatura como se estivessem amarradas com corda. Uma criatura que você pode ver dentro do alcance deve ser bem-sucedida em um teste de resistência de Sabedoria ou ter seu deslocamento reduzido pela metade e sofrer desvantagem em testes de resistência de Destreza. Além disso, cada vez que se mover durante a duração, deve ser bem-sucedida em um teste de resistência de Destreza sem desvantagem desta magia, ou ser derrubada prostrada e sofrer 2d4 de dano de concussão.</p>"
+    },
+    "Devicto": {
+      "name": "Devicto",
+      "description": "<p>Esta azaração fraca é uma magia clássica de treino entre duelistas, uma picada surpreendente no impacto. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, ela sofre 1d6 de dano de força, e não pode realizar reações até o início do seu próximo turno.</p><p>O dano da magia aumenta em 1d6 quando você atinge o 5º nível (2d6), 11º nível (3d6) e 17º nível (4d6).</p>"
+    },
+    "Finite Incantatem": {
+      "name": "Finite Incantatem",
+      "description": "<p>Escolha qualquer criatura, objeto ou efeito mágico dentro do alcance. Uma magia que não seja de Transfiguração de 2º nível ou inferior sobre o alvo termina. Se você estiver ciente de pelo menos uma magia afetando o alvo, pode especificar aquela magia em sua mente. Se não estiver ciente de quais magias estão afetando o alvo, uma magia selecionada aleatoriamente termina. Para uma magia de nível superior sobre o alvo, faça um teste de habilidade usando sua habilidade de conjuração. A CD é igual a 10 + o nível da magia. Em um teste bem-sucedido, a magia termina.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você automaticamente encerra os efeitos de uma magia que não seja de Transfiguração sobre o alvo se o nível da magia for igual ou menor que o nível do espaço de magia que você usou.</p>"
+    },
+    "Azreth": {
+      "name": "Azreth",
+      "description": "<p>Grandes plumas de fogo amaldiçoado jorram da ponta da sua varinha, irrompendo em formas de bestas e incinerando tudo em seu caminho. Ao conjurar, a área do fogomaldito é um cubo de 10 pés, com o número de cubos de 10 pés dobrando no início de cada um dos seus turnos. Enquanto a concentração for mantida, você pode arranjar quaisquer cubos recém-adicionados como desejar. Cada cubo deve ter pelo menos uma face adjacente à face de outro cubo. Cada criatura na área deve fazer um teste de resistência de Destreza. Ela sofre 7d10 de dano de fogo em uma falha, ou metade do dano em um sucesso. Uma criatura sofre o mesmo dano quando entra na área pela primeira vez em um turno ou termina seu turno lá.</p><p>Ao atingir 8 cubos, você deve fazer um teste de resistência de Constituição CD15 para manter a concentração no início de cada um dos seus turnos. Se sua concentração for quebrada após 4 cubos de fogomaldito estarem ativos, a magia não termina e se descontrola. O fogomaldito continuará a dobrar no início de cada rodada, até o fim de sua duração. Se você decidir encerrar a magia enquanto ainda tem concentração, a magia termina normalmente e todo o fogomaldito desaparece.</p><p>O fogomaldito danifica objetos na área e incendeia objetos inflamáveis que não estão sendo vestidos ou carregados. Mesmo objetos e defesas mágicas são danificados ou destruídos por esta magia.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 8º nível ou superior, o dano aumenta em 2d10 e a CD de concentração aumenta em 1 para cada nível de espaço acima do 7º.</p>"
+    },
+    "Fortissimum": {
+      "name": "Fortissimum",
+      "description": "<p>Um objeto de sua escolha que você pode ver dentro do alcance e que cabe em um cubo de 1 pé é tornado completamente invulnerável à destruição física. Isso o torna imune a qualquer dano, mágico ou mundano, mas ainda pode ser afetado por magias que mudam diretamente o objeto, como @UUID[Compendium.wands.spells-wands.Item.X4ct8APuWOXfHlX7]{Vera Verto} ou @UUID[Compendium.wands.spells-wands.Item.ao0uAYz0vhGJM2va]{Evanesco}.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o tamanho do cubo aumenta em 1 pé para cada nível de espaço acima do 3º.</p>"
+    },
+    "Piertotum Locomotor": {
+      "name": "Piertotum Locomotor",
+      "description": "<p>Objetos ganham vida ao seu comando. Escolha até cinco objetos não mágicos dentro do alcance que não estejam sendo vestidos ou carregados. Alvos Médios contam como um objeto, alvos Grandes contam como dois objetos, alvos Enormes contam como quatro objetos. Você não pode animar nenhum objeto maior que Enorme. Cada alvo se anima e se torna uma criatura sob seu controle até a magia terminar ou até ser reduzida a 0 pontos de vida.</p><p>Como uma ação bônus, você pode comandar mentalmente qualquer criatura que tenha feito com esta magia se a criatura estiver a até 500 pés de você (se controlar múltiplas criaturas, pode comandar qualquer uma ou todas ao mesmo tempo, emitindo o mesmo comando a cada uma). Você decide qual ação a criatura tomará e para onde se moverá durante seu próximo turno, ou pode emitir um comando geral, como guardar uma câmara ou corredor específico. Se você não emitir comandos, a criatura apenas se defende contra criaturas hostis. Uma vez que receba uma ordem, a criatura continua a segui-la até que sua tarefa esteja completa.</p><h3><strong>Estatísticas de Objeto Animado</strong></h3><table><thead><tr><td><strong>Tamanho</strong></td><td><strong>PV</strong></td><td><strong>CA</strong></td><td><strong>Ataque</strong></td><td><strong>For</strong></td><td><strong>Des</strong></td></tr></thead><tbody><tr><td>Médio</td><td>40</td><td>13</td><td>+5 para acertar, 2d6 + 1 de dano</td><td>10</td><td>12</td></tr><tr><td>Grande</td><td>50</td><td>10</td><td>+6 para acertar, 2d10 + 2 de dano</td><td>14</td><td>10</td></tr><tr><td>Enorme</td><td>80</td><td>10</td><td>+8 para acertar, 2d12 + 4 de dano</td><td>18</td><td>6</td></tr></tbody></table><p>Um objeto animado é um construto com CA, pontos de vida, ataques, Força e Destreza determinados pelo seu tamanho. Sua Constituição é 10 e sua Inteligência e Sabedoria são 3, e seu Carisma é 1. Seu deslocamento é 30 pés; se o objeto não tiver pernas ou outros apêndices que possa usar para locomoção, ele tem um deslocamento de voo de 30 pés e pode pairar. Se o objeto estiver firmemente preso a uma superfície ou objeto maior, como uma corrente parafusada a uma parede, seu deslocamento é 0. Ele tem visão cega com raio de 30 pés e é cego além dessa distância. Quando o objeto animado cai a 0 pontos de vida, ele é destruído.</p><p>Se você comandar um objeto a atacar, ele pode fazer um único ataque corpo a corpo contra uma criatura a até 5 pés dele. Ele faz um ataque de pancada com um bônus de ataque e dano de concussão determinados pelo seu tamanho. O MJ pode determinar que um objeto específico inflige dano cortante ou perfurante baseado em sua forma.</p><p><strong>Em Níveis Superiores.</strong> Se você conjurar esta magia usando um espaço de magia de 6º nível ou superior, pode animar um objeto adicional para cada nível de espaço acima do 5º.</p>"
+    },
+    "Ferula": {
+      "name": "Ferula",
+      "description": "<p>Bandagens e talas são conjuradas sobre um ser que você pode ver dentro do alcance, com não mais que metade de seu máximo de pontos de vida, e ele ganha pontos de vida iguais a duas vezes seu modificador de habilidade de conjuração. Além disso, quaisquer testes de Sabedoria (Medicina) para estabilizar aquele alvo dentro da duração são feitos com vantagem, e se o alvo for estabilizado com sucesso, ele recupera 1 ponto de vida.</p>"
+    },
+    "Ne Ustio": {
+      "name": "Ne Ustio",
+      "description": "<p>Pela duração, a criatura que você tocar ou você mesmo tem imunidade a dano de fogo, excluindo fogo de dragão e a magia azreth (Fogomaldito).</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, a duração é dobrada para cada nível de espaço acima do 5º. Quando você usa um espaço de magia de 8º nível ou superior, concentração não é mais necessária e seu efeito se aplica a fogo de dragão.</p>"
+    },
+    "Glisseo": {
+      "name": "Glisseo",
+      "description": "<p>Famosamente usada para proteger os dormitórios femininos de Hogwarts contra intrusos, esta magia muda o ângulo de todos os degraus conectados em um único lance de escadas dentro do alcance. Eles se inclinam para baixo, transformando-se em uma rampa anormalmente escorregadia.</p>"
+    },
+    "Petrificus Totalus": {
+      "name": "Petrificus Totalus",
+      "description": "<p>Esta magia faz os braços e pernas de um ser se juntarem repentinamente, e ele cairá, rígido como uma tábua. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, o alvo é derrubado prostrado e fica paralisado pela duração.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você pode alvejar uma besta em vez de um ser.</p>"
+    },
+    "Omnifracto": {
+      "name": "Omnifracto",
+      "description": "<p>Um feixe perfurante de luz dispara da ponta da sua varinha, despedaçando qualquer magia defensiva por onde passa. Escolha um alvo dentro do alcance. Todas as magias defensivas que estão melhorando a CA daquela criatura ou concedendo pontos de vida temporários são dissipadas.</p>"
+    },
+    "Episkey": {
+      "name": "Episkey",
+      "description": "<p>Um ser de sua escolha que você pode ver dentro do alcance recupera pontos de vida iguais a 2d4 + seu modificador de habilidade de conjuração. Esta magia não tem efeito em mortos-vivos ou construtos.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, a cura aumenta em 1d4 para cada nível de espaço acima do 1º.</p>"
+    },
+    "Vera Verto": {
+      "name": "Vera Verto",
+      "description": "<p>Esta encantação universal é ensinada aos alunos de Hogwarts em sua primeira aula de Transfiguração. Você transfigura um objeto não mágico que pode ver dentro do alcance e que cabe em um cubo de 1 pé em outro objeto não mágico de tamanho e massa semelhantes e de valor igual ou menor.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 1º nível ou superior, você pode selecionar ou acumular um dos seguintes efeitos para cada nível de espaço acima do 0.</p><ul><li>Aumentar o tamanho do cubo em 2 pés.</li></ul><ul><li>Alvejar uma Besta viva (se relutante, deve ser bem-sucedida em um teste de resistência de Sabedoria para evitar o efeito).</li></ul><ul><li>Transfigurar em um construto (Duração: Concentração, até 1 minuto).</li></ul>"
+    },
+    "Obliviate": {
+      "name": "Obliviate",
+      "description": "<p>Você tenta remodelar as memórias de outro ser. Um ser que você pode ver dentro do alcance deve fazer um teste de resistência de Sabedoria. Se você estiver lutando contra a criatura, ela tem vantagem no teste de resistência. Em uma falha, o alvo fica encantado por você pela duração. O alvo encantado fica incapacitado e inconsciente de seus arredores, embora ainda possa ouvi-lo. Se sofrer qualquer dano ou for alvo de outra magia, esta magia termina e nenhuma das memórias do alvo é modificada.</p><p>Você pode eliminar a memória do alvo de um evento ou detalhe (ou qualquer aspecto individual daquele evento ou detalhe) que ele vivenciou ou percebeu nas últimas 24 horas e que não durou mais de 10 minutos.</p><p>Você deve descrever mentalmente ou visualizar como as memórias são afetadas. A mente do ser preenche quaisquer lacunas nos detalhes da sua descrição. Se a magia terminar antes de você ter terminado de descrever ou visualizar as memórias modificadas, a memória do alvo não é alterada. Caso contrário, as memórias modificadas se consolidam quando a magia termina.</p><p>Uma memória modificada não necessariamente afeta como um ser se comporta, particularmente se a memória contradizer as inclinações naturais, alinhamento ou crenças da criatura. Uma memória modificada ilógica, como apagar toda memória de como foi transportada de e para um local, é descartada pelo alvo, talvez como um sonho ruim. O MJ pode considerar uma memória modificada absurda demais para afetar um ser de forma significativa.</p><p>Uma magia vulnera sanentur ou obliviate conjurada sobre o alvo restaura a memória verdadeira da criatura.</p><p><strong>Em Níveis Superiores.</strong> Se você conjurar esta magia usando um espaço de magia de 6º nível ou superior, pode eliminar as memórias do alvo de um evento que ocorreu há até 7 dias (6º nível), 30 dias (7º nível), 1 ano (8º nível) ou qualquer momento no passado da criatura (9º nível). Alternativamente, pode eliminar um detalhe ou tópico em todas as memórias nos mesmos períodos de tempo.</p>"
+    },
+    "Revelio": {
+      "name": "Revelio",
+      "description": "<p>Com um giro da sua varinha, a verdadeira aparência de uma criatura ou objeto é revelada. Um alvo disfarçado, oculto, invisível ou de outra forma magicamente escondido se torna visível, dissipando qualquer magia que produza tais efeitos e removendo magicamente alterações físicas. Sua varinha deve estar apontada para o alvo para que esta magia faça efeito.</p>"
+    },
+    "Protego Maxima": {
+      "name": "Protego Maxima",
+      "description": "<p>Você conjura um protego totalmente envolvente ao redor de si, sacrificando durabilidade por cobertura. Pela duração, você tem um bônus de +3 à CA, incluindo contra o ataque desencadeador. Se você for submetido a um efeito que permita fazer um teste de resistência de Força ou Destreza para sofrer apenas metade do dano, você não sofre nenhum dano se for bem-sucedido no teste de resistência e apenas metade do dano se falhar.</p>"
+    },
+    "Epoximise": {
+      "name": "Epoximise",
+      "description": "<p>Esta magia transfigura a superfície de um objeto para se tornar extremamente pegajosa. Um objeto de sua escolha que você pode ver dentro do alcance e que cabe em um cubo de 1 pé adere a qualquer coisa que tocar pela duração. Se uma criatura quiser superar o efeito de aderência, ela pode usar sua ação para fazer um teste de Força contra sua CD de resistência de magia. Em um sucesso, ela pode puxar o objeto alvo ou remover uma coisa da superfície do objeto alvo.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 1º nível ou superior, o tamanho do cubo aumenta em 1 pé para cada nível de espaço acima do 0.</p>"
+    },
+    "Confringo": {
+      "name": "Confringo",
+      "description": "<p>Uma pequena bola de fogo dispara da sua varinha para um ponto que você escolher dentro do alcance e então explode em uma explosão flamejante no impacto. Cada criatura em uma esfera de 10 pés de raio centrada naquele ponto deve fazer um teste de resistência de Destreza. Um alvo sofre 8d6 de dano de fogo em uma falha, ou metade do dano em um sucesso. O fogo se espalha ao redor de cantos. Ele incendeia objetos inflamáveis na área que não estão sendo vestidos ou carregados.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano aumenta em 1d6 e o raio aumenta em 5 pés para cada nível de espaço acima do 3º.</p>"
+    },
+    "Legilimens": {
+      "name": "Legilimens",
+      "description": "<p>Com legilimência, os olhos de um ser se tornam janelas para sua mente, mostrando-lhe uma visão de seus pensamentos. Pela duração, você pode ler os pensamentos de um ser que pode ver dentro do alcance, assim que o contato visual puder ser feito. Após os efeitos da magia começarem, o contato visual não precisa ser mantido.</p><p>Você inicialmente aprende os pensamentos superficiais do ser - o que está mais em sua mente naquele momento. Como uma ação, você pode tentar sondar mais profundamente sua mente. Se sondar mais fundo, o alvo deve fazer um teste de resistência de Sabedoria. Se falhar, você obtém percepção sobre seu raciocínio (se houver), seu estado emocional e algo que ocupa grande parte de sua mente (como algo com que se preocupa, ama ou odeia). Se for bem-sucedido, a magia termina. Você pode sondar mais fundo uma segunda vez, puxando forçosamente memórias da mente do ser se ele falhar no segundo teste de resistência de Sabedoria.</p><p>Perguntas direcionadas verbalmente ao alvo naturalmente moldam o curso de seus pensamentos, então esta magia é particularmente eficaz como parte de um interrogatório. Se você conjurar a magia verbalmente e o alvo puder ouvi-lo, ele sabe que você está sondando sua mente e a criatura pode usar sua ação em seu turno para fazer um teste de Inteligência contestado pelo seu teste de Inteligência. Se for bem-sucedido, a magia termina.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, a CD dos testes de resistência de Sabedoria aumenta em 1 para cada nível de espaço acima do 3º.</p>"
+    },
+    "Fianto Duri": {
+      "name": "Fianto Duri",
+      "description": "<p>Sempre que você conjura esta magia sobre uma magia defensiva ativa que melhora a CA de uma criatura ou concede pontos de vida temporários, cada criatura afetada pela magia alvo ganha pontos de vida temporários iguais a duas vezes seu nível de conjurador + seu modificador de habilidade de conjuração. Quando a magia alvo terminar ou uma criatura afetada não for mais afetada por ela, a criatura perde quaisquer pontos de vida temporários restantes desta magia.</p><p>Se você estiver mantendo concentração ou dedicação em uma magia defensiva, esta magia pode ser conjurada de forma única naquela magia defensiva ativa sem encerrar aquela magia ou quebrar sua concentração ou dedicação.</p>"
+    },
+    "Point Me": {
+      "name": "Point Me",
+      "description": "<p>Colocando sua varinha na palma aberta, esta magia levanta a varinha e aponta para o norte, muito como uma bússola. A utilidade da magia é situacional, mas frequentemente concede vantagem em testes de Sabedoria (Sobrevivência) para não se perder ao ar livre.</p>"
+    },
+    "Inanimatus Conjurus": {
+      "name": "Inanimatus Conjurus",
+      "description": "<p>Você conjura um objeto inanimado em sua mão ou em um espaço desocupado dentro do alcance que pode ver. Este objeto não pode ter mais de 2 pés de lado e pesar não mais que 10 libras, e sua forma deve ser a de um objeto não mágico que você já tenha visto.</p><p>O objeto desaparece ao final da duração da magia ou se sofrer qualquer dano.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, você pode selecionar ou acumular um dos seguintes efeitos para cada nível de espaço acima do 1º.</p><ul><li>Aumentar o comprimento do lado em 2 pés.</li></ul><ul><li>Aumentar o limite de peso em 10 libras.</li></ul>"
+    },
+    "Mobilicorpus": {
+      "name": "Mobilicorpus",
+      "description": "<p>Um ser voluntário, paralisado, petrificado, impedido, atordoado ou inconsciente de sua escolha que você pode ver dentro do alcance sobe 3 pés do chão e permanece suspenso lá pela duração, como se estivesse sustentado por cordas invisíveis sob seus braços. A magia pode levitar um alvo que pese até 500 libras. Se mais peso que o limite for colocado sobre o ser, a magia termina e ele cai no chão.</p><p>O ser fica imóvel enquanto você estiver a até 20 pés dele. Se você se mover mais de 20 pés dele, o ser o segue para permanecer a até 20 pés de você. Ele pode se mover por terreno irregular, subir ou descer escadas, encostas e semelhantes, mas não pode cruzar uma mudança de elevação de 10 pés ou mais. Por exemplo, o ser não pode cruzar um poço de 10 pés de profundidade, nem poderia sair de tal poço se fosse criado no fundo.</p><p>Se você se mover mais de 100 pés do ser (tipicamente porque ele não pode contornar um obstáculo para segui-lo), a magia termina.</p>"
+    },
+    "Duro": {
+      "name": "Duro",
+      "description": "<p>Um objeto que você pode ver dentro do alcance se torna tão duro e resistente quanto pedra. Ele ganha resistência a todos os tipos de dano.</p>"
+    },
+    "Evanesco": {
+      "name": "Evanesco",
+      "description": "<p>Um objeto não mágico ou construto mágico de sua escolha que você pode ver dentro do alcance e que cabe em um cubo de 1 pé é desvanecido. Objetos desvanecidos foram descritos como sendo transfigurados para ir \"ao não-ser, ou seja, a tudo.\" O desvanecimento é frequentemente visto como o inverso mágico da conjuração.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o tamanho do cubo aumenta em 1 pé para cada nível de espaço acima do 3º.</p>"
+    },
+    "Defodio": {
+      "name": "Defodio",
+      "description": "<p>Você escolhe uma porção de terra ou pedra que pode ver dentro do alcance e que cabe em um cubo de 5 pés. Você a manipula de uma das seguintes formas:</p><ul><li>Se você alvejar uma área de pedra ou terra, pode instantaneamente escavá-la, movê-la ao longo do chão e depositá-la a até 5 pés de distância. Este movimento não tem força suficiente para causar dano.</li></ul><ul><li>Se a terra ou pedra que você alvejar estiver no chão, você a transforma em terreno difícil. Alternativamente, pode transformar o terreno em terreno normal se já for terreno difícil. Esta mudança dura 1 hora. Se conjurada múltiplas vezes, apenas dois deste efeito podem estar ativos ao mesmo tempo, e você pode dissipar tal efeito como uma ação bônus.</li></ul><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 1º nível ou superior, o tamanho do cubo e a distância que a terra pode ser movida aumentam em 5 pés cada e o número de efeitos ativos de terreno normal/difícil aumenta em 1 para cada nível de espaço acima do 0.</p>"
+    },
+    "Impervius": {
+      "name": "Impervius",
+      "description": "<p>Pela duração, um objeto alvo que você pode ver dentro do alcance fica impermeável e completamente protegido contra qualquer gás. É como se qualquer líquido ou gás encontrasse um campo magnético ao redor do objeto pelo qual é repelido, mas a magia não tem efeito contra sólidos impactando o objeto alvo.</p>"
+    },
+    "Rennervate": {
+      "name": "Rennervate",
+      "description": "<p>A contra-magia de stupefy, esta encantação é inestimável em combate prolongado ou duelos em equipe. A inconsciência induzida magicamente é encerrada para um ser de sua escolha que você pode ver dentro do alcance.</p>"
+    },
+    "Pellucidi Pellis": {
+      "name": "Pellucidi Pellis",
+      "description": "<p>Com um toque de varinha no topo da cabeça e uma sensação de ovo cru sendo quebrado onde a varinha tocou, uma criatura se torna invisível até a magia terminar. Qualquer coisa que o alvo esteja vestindo ou carregando fica invisível enquanto estiver na pessoa do alvo. A magia termina para um alvo que atacar ou conjurar uma magia.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você pode alvejar uma criatura adicional para cada nível de espaço acima do 2º. Os alvos devem estar a até 5 pés uns dos outros quando você os alveja.</p>"
+    },
+    "Expecto Patronum": {
+      "name": "Expecto Patronum",
+      "description": "<p>Um Feitiço do Patrono é uma magia especial que requer que um bruxo visualize uma de suas memórias mais felizes ao conjurar a magia. O sentimento de felicidade deve ser genuíno ou forte o suficiente para produzir uma besta radiante e etérea, a personificação das emoções positivas daquele bruxo que serve como seu protetor.</p><p>Quando você conjura esta magia, pode escolher conjurar um patrono incorpóreo ou corpóreo. Se tentar conjurar esta magia enquanto amedrontado ou a até 60 pés de um dementador, você deve fazer um teste de habilidade usando sua habilidade de conjuração. A CD é igual a 10 + o número de dementadores a até 60 pés de você. Uma rolagem de 19-20 no dado é automaticamente bem-sucedida.</p><p>Em um sucesso, você conjura a magia. Em uma falha, você só pode conjurar um patrono incorpóreo, mas se falhar no teste por 5 ou mais, a magia falha completamente.</p><p>No final do seu turno, se você estiver amedrontado ou houver um ou mais dementadores a até 60 pés de você enquanto se concentra nesta magia, você deve repetir o teste de habilidade. Em uma falha, seu patrono desaparece e a magia termina.</p><p>Um patrono emite luz em um raio ao seu redor. Você e criaturas aliadas não podem ficar amedrontados enquanto estiverem na luz do seu patrono. Um dementador que iniciar seu turno dentro desta luz ou entrar na luz pela primeira vez em um turno deve ser bem-sucedido em um teste de resistência de Sabedoria ou ficar amedrontado pelo patrono até o início do seu próximo turno (este medo ignora qualquer imunidade à condição amedrontado). Enquanto amedrontado, o dementador deve realizar a ação de Disparada em seu turno e se afastar do patrono pela rota mais segura disponível até sair da luz.</p><p><strong>Patrono Incorpóreo.</strong> Seu patrono toma a forma de uma explosão de 5 pés de névoa brilhante em um espaço desocupado adjacente a você. O patrono não preenche seu espaço. Ele emite luz plena em seu espaço e luz fraca em um raio de 5 pés.</p><p>Em turnos subsequentes, você pode mover o patrono para outro espaço adjacente a você como uma ação bônus. Além disso, pode movê-lo como uma reação a um dementador se movendo a até 10 pés de você.</p><p><strong>Patrono Corpóreo.</strong> Seu patrono toma a forma de um animal prateado e vaporoso em um espaço desocupado que você pode ver dentro do alcance. O patrono não preenche seu espaço. Ele não tem pontos de vida e é imune a todo dano, mas pode ser alvo de outra magia que afete magia, como @UUID[Compendium.wands.spells-wands.Item.SQnurPdikw1UbJ3p]{Finite Incantatem}. O patrono emite luz plena em um raio de 10 pés e luz fraca por mais 10 pés.</p><p>Quando você conjura a magia e como uma ação bônus em turnos subsequentes, você pode mover o patrono. A distância que pode movê-lo depende do tamanho do patrono. Um patrono Médio ou menor pode se mover 60 pés, um patrono Grande pode se mover 45 pés e um patrono Enorme pode se mover 30 pés. Um patrono ignora objetos e terreno. Além disso, o patrono pode entrar no espaço de uma criatura e parar lá.</p><p>A qualquer momento durante o movimento do patrono, você pode direcionar o patrono para investir contra um dementador a até 5 pés dele. Faça uma jogada de ataque corpo a corpo com magia para o patrono usando seu modificador de ataque com magia. Em um acerto, o alvo sofre 5d10 de dano radiante e o patrono empurra o alvo até 5 pés mais um número de pés igual a cinco vezes o seu modificador de habilidade de conjuração. O patrono se move com o alvo para permanecer a até 5 pés dele e não usa nenhum movimento para fazê-lo.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano aumenta em 1d10 e o raio da luz fraca aumenta em 5 pés para cada nível de espaço acima do 3º.</p>"
+    },
+    "Reparifarge": {
+      "name": "Reparifarge",
+      "description": "<p>Escolha qualquer criatura, objeto ou efeito mágico dentro do alcance. Uma magia de Transfiguração de 2º nível ou inferior sobre o alvo termina. Se você estiver ciente de pelo menos uma magia afetando o alvo, pode especificar aquela magia em sua mente. Se não estiver ciente de quais magias estão afetando o alvo, uma magia selecionada aleatoriamente termina. Para uma magia de nível superior sobre o alvo, faça um teste de habilidade usando sua habilidade de conjuração. A CD é igual a 10 + o nível da magia. Em um teste bem-sucedido, a magia termina.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você automaticamente encerra os efeitos de uma magia de Transfiguração sobre o alvo se o nível da magia for igual ou menor que o nível do espaço de magia que você usou.</p>"
+    },
+    "Locomotor": {
+      "name": "Locomotor",
+      "description": "<p>Um objeto que não está sendo vestido ou carregado de sua escolha que você pode ver dentro do alcance sobe 3 pés do chão e permanece suspenso lá pela duração. A magia pode levitar um alvo que pese até 500 libras. Se mais peso que o limite for colocado sobre o objeto, a magia termina e ele cai no chão.</p><p>O objeto fica imóvel enquanto você estiver a até 20 pés dele. Se você se mover mais de 20 pés dele, o objeto o segue para permanecer a até 20 pés de você. Ele pode se mover por terreno irregular, subir ou descer escadas, encostas e semelhantes, mas não pode cruzar uma mudança de elevação de 10 pés ou mais. Por exemplo, o objeto não pode cruzar um poço de 10 pés de profundidade, nem poderia sair de tal poço se fosse criado no fundo.</p><p>Se você se mover mais de 100 pés do objeto (tipicamente porque ele não pode contornar um obstáculo para segui-lo), a magia termina.</p>"
+    },
+    "Reducio": {
+      "name": "Reducio",
+      "description": "<p>Você faz um objeto que não está sendo vestido ou carregado e que pode ver dentro do alcance encolher de tamanho pela duração. O tamanho do alvo é reduzido pela metade em todas as dimensões, e seu peso é reduzido a um oitavo do normal. Esta redução diminui seu tamanho em uma categoria – de Médio para Pequeno, por exemplo.</p>"
+    },
+    "Herbivicus": {
+      "name": "Herbivicus",
+      "description": "<p>Esta magia canaliza vitalidade para plantas dentro de uma área específica. Há dois usos possíveis para a magia, concedendo benefícios imediatos ou de longo prazo.</p><ul><li>Se você conjurar esta magia usando 1 ação, escolha um ponto dentro do alcance. Todas as plantas não mágicas em um raio de 60 pés centrado naquele ponto se tornam espessas e frondosas por 1 hora, transformando a área em terreno difícil. Estas plantas não podem ser usadas em poções, por terem sido magicamente manipuladas.</li></ul><ul><li>Se você conjurar esta magia ao longo de 1 minuto, você acelera o crescimento de uma única planta jovem que pode ver dentro do alcance, mágica ou mundana. A planta alcança instantaneamente a maturidade, mas não excede um tamanho \"adulto\" saudável.</li></ul>"
+    },
+    "Obscuro": {
+      "name": "Obscuro",
+      "description": "<p>Você pode conjurar uma venda preta que se enrola magicamente ao redor da cabeça de um inimigo. Escolha uma criatura que você pode ver dentro do alcance para fazer um teste de resistência de Destreza. Se falhar, o alvo fica cego pela duração. A criatura pode remover a venda como uma ação.</p>"
+    },
+    "Abscondi": {
+      "name": "Abscondi",
+      "description": "<p>Uma aura mágica torna seu impacto no ambiente invisível, mascarando você e seus companheiros contra detecção. Pela duração, cada criatura que você escolher dentro de 30 pés de você (incluindo você) tem um bônus de +10 em testes de Destreza (Furtividade) e não pode ser rastreada exceto por meios mágicos. Uma criatura que recebe este bônus não deixa rastros ou outros vestígios de sua passagem.</p>"
+    },
+    "Sectumsempra": {
+      "name": "Sectumsempra",
+      "description": "<p>Faça uma jogada de ataque à distância com magia contra um alvo dentro do alcance. Em um acerto, o alvo deve fazer um teste de resistência de Constituição. Em uma falha, uma criatura sofre 10d6 de dano cortante e mais 5d6 de dano cortante no final do seu próximo turno. Em um sucesso, uma criatura sofre metade do dano inicial e metade do dano no final do seu próximo turno.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, o dano inicial aumenta em 2d6 para cada nível de espaço acima do 4º.</p>"
+    },
+    "Fidelius Mysteria Celare": {
+      "name": "Fidelius Mysteria Celare",
+      "description": "<p>Quando conjurada sobre uma única habitação que cabe dentro do alcance, ela se torna um segredo, infalivelmente invisível e inacessível por qualquer outra pessoa. Este efeito se estende até os limites da propriedade da habitação, ou se nenhum limite de propriedade estiver definido, a borda da hemiesfera centrada no conjurador no momento da conjuração.</p><p>Você escolhe a si mesmo ou uma pessoa dentro da área da magia para ser o Guardião do Segredo. Se o Guardião do Segredo contar a alguém o segredo (a localização da habitação) verbalmente ou por escrito, aquela pessoa pode ver o segredo como o Guardião do Segredo e entrar na propriedade. É impossível para qualquer pessoa além do Guardião do Segredo compartilhar o segredo. Se o Guardião do Segredo morrer, todos que conhecem o segredo se tornam Guardiões do Segredo e podem compartilhar o segredo com outros.</p><p>O espaço tridimensional é distorcido ao redor do segredo, como se o espaço ocupado pelo segredo nunca tivesse existido. Se uma pessoa caminhar diretamente em direção ao segredo, ela aparecerá magicamente do outro lado. Nada permanecerá que indique ou dê pistas sobre a existência do segredo. Se alguém conhecia a localização do segredo antes da magia ser conjurada, essa pessoa esquece o endereço exato mas lembra a área geral onde o segredo está localizado.</p><p>Esta magia é completamente indetectável e a área não pode ser alvo de magias de adivinhação. Os efeitos da magia só terminarão se você a dissipar ou se todos os Guardiões do Segredo tiverem morrido.</p>"
+    },
+    "Lapifors": {
+      "name": "Lapifors",
+      "description": "<p>Esta magia transforma uma criatura com pelo menos 1 ponto de vida que você pode ver dentro do alcance na forma de um coelho. Uma criatura relutante deve fazer um teste de resistência de Sabedoria para evitar o efeito.</p><p>A transformação dura pela duração, ou até o alvo cair a 0 pontos de vida ou morrer. As estatísticas de jogo do alvo, incluindo valores de habilidade mentais, são substituídas pelas estatísticas de um coelho. Ele mantém seu alinhamento e personalidade. O MJ tem as estatísticas da criatura.</p><p>O alvo assume os pontos de vida de sua nova forma. Quando reverter à sua forma normal, a criatura retorna ao número de pontos de vida que tinha antes de se transformar. Se reverter como resultado de cair a 0 pontos de vida, qualquer dano excedente é transferido para sua forma normal. Desde que o dano excedente não reduza a forma normal da criatura a 0 pontos de vida, ela não fica inconsciente.</p><p>A criatura é limitada nas ações que pode realizar pela natureza de sua nova forma, e não pode falar, conjurar magias ou realizar qualquer outra ação que requeira mãos ou fala.</p><p>O equipamento do alvo se funde à nova forma. A criatura não pode ativar, usar, empunhar ou de outra forma se beneficiar de qualquer de seus equipamentos.</p>"
+    },
+    "Transmogrify": {
+      "name": "Transmogrify",
+      "description": "<p>Um propósito sombrio para a transfiguração, esta magia torturante lentamente reorganiza e dissolve os órgãos internos de uma criatura. Uma criatura que você pode ver dentro do alcance deve fazer um teste de resistência de Constituição. Em uma falha, ela sofre 2d12 de dano ácido no início de cada um de seus turnos e é sujeita a dor incapacitante. Em um sucesso, a magia não tem efeito.</p><p>Enquanto o alvo é afetado por dor incapacitante, qualquer deslocamento que ele tenha não pode ser superior a 10 pés. O alvo também tem desvantagem em jogadas de ataque e testes de habilidade. Finalmente, se o alvo tentar conjurar uma magia, ele deve primeiro ser bem-sucedido em um teste de resistência de Constituição, ou a conjuração falha e a magia é desperdiçada.</p><p>Um alvo sofrendo desta magia pode fazer um teste de resistência de Constituição no final de cada um de seus turnos. Em um sucesso, a magia termina.</p><p>Em Níveis Superiores. Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, o dano aumenta em 1d12 para cada nível de espaço acima do 5º.</p>"
+    },
+    "Oppugno": {
+      "name": "Oppugno",
+      "description": "<p>Você conjura esta azaração sobre um grupo de objetos minúsculos ou um grupo de pássaros dentro do alcance. Os alvos começam a enxamear no ar em uma esfera de 5 pés de diâmetro em um espaço desocupado de sua escolha. Qualquer criatura que iniciar seu turno a até 5 pés do enxame ou entrar na área do enxame pela primeira vez em um turno deve fazer um teste de resistência de Destreza. A criatura sofre 4d4 de dano cortante em uma falha, ou metade do dano em um sucesso.</p><p>Como uma ação bônus, você pode mover a esfera até 30 pés. Enquanto o enxame compartilhar o mesmo espaço com uma criatura, aquela criatura tem desvantagem em jogadas de ataque. O espaço do enxame conta como terreno difícil.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em 1d4 para cada nível de espaço acima do 2º.</p>"
+    },
+    "Colloportus": {
+      "name": "Colloportus",
+      "description": "<p>Você toca uma porta, janela, portão, baú ou outra entrada fechada, e ela se torna trancada pela duração. É intransponível até ser arrombada ou a magia ser dissipada ou suprimida.</p><p>Enquanto afetado por esta magia, o objeto é mais difícil de arrombar ou forçar; a CD para arrombá-lo ou abrir quaisquer fechaduras nele aumenta em 10.</p>"
+    },
+    "Sonorus/Quietus": {
+      "name": "Sonorus/Quietus",
+      "description": "<p>Quando você segura a ponta da sua varinha no pescoço e conjura esta magia, sua voz ressoa até três vezes mais alto que o normal. Sua voz é alta o suficiente para encher um grande estádio, mas não causará nenhum dano auditivo. Conjurar quietus com sua varinha no pescoço é o contra-encantamento e encerra o efeito.</p>"
+    },
+    "Flagrate": {
+      "name": "Flagrate",
+      "description": "<p>Você traça sua varinha no ar ou sobre um objeto, deixando marcas flamejantes naquela posição. Você pode escrever quaisquer letras ou representar quaisquer formas, como se estivesse escrevendo com uma pena. Embora as letras brilhantes pareçam ser feitas de fogo, é apenas uma ilusão e não pode queimar nada.</p>"
+    },
+    "Digitus Wibbly": {
+      "name": "Digitus Wibbly",
+      "description": "<p>Uma magia de duelo popular entre jovens bruxos, esta azaração deixa os dedos de um ser dormentes e relaxados. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, o alvo tem desvantagem em jogadas de ataque pela duração. No início de cada um de seus turnos, o alvo pode fazer um teste de resistência de Destreza. Em um sucesso, a magia termina.</p>"
+    },
+    "Vulnera Sanentur": {
+      "name": "Vulnera Sanentur",
+      "description": "<p>Traçando sua varinha sobre os ferimentos de um ser, você tece uma contra-maldição complexa que desfaz o dano causado a um ser. O alvo recupera quatro vezes seu modificador de habilidade de conjuração + 4d8 pontos de vida instantaneamente, e então [[/r 4d4]] pontos de vida para cada turno seguinte pela duração da magia.</p><p>Se o alvo perdeu membros do corpo (dedos, pernas, e assim por diante) e a parte cortada for mantida em seu lugar por toda a duração da magia, a magia faz o membro curar-se de volta após 1 minuto de conjuração.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 7º nível ou superior, a cura instantânea aumenta em 1d8 e a cura subsequente aumenta em [[/r 3d4]] para cada nível de espaço acima do 6º.</p>"
+    },
+    "Exhilaro": {
+      "name": "Exhilaro",
+      "description": "<p>Uma criatura de sua escolha que você pode ver dentro do alcance fica bastante alegre. Pelos próximos 10 minutos, a criatura alvo tem vantagem em qualquer teste de resistência contra ficar amedrontada.</p><p>Se a concentração for mantida por uma rodada inteira, a criatura percebe tudo como hilariantemente engraçado e cai em ataques de riso se esta magia a afetar. O alvo deve ser bem-sucedido em um teste de resistência de Sabedoria ou cair prostrado, ficando incapacitado e incapaz de se levantar pela duração. Uma criatura com valor de Inteligência de 5 ou menos não é afetada.</p><p>No final de cada um de seus turnos, e cada vez que sofrer dano, o alvo pode fazer outro teste de resistência de Sabedoria. O alvo tem vantagem no teste de resistência se for desencadeado por dano. Em um sucesso, a magia termina.</p>"
+    },
+    "Confundo": {
+      "name": "Confundo",
+      "description": "<p>O Feitiço Confundus é um encantamento particularmente poderoso que deixa qualquer coisa confusa, esquecida e impressionável, frequentemente fazendo as pessoas vagarem distraídas. Se o alvo for um objeto que você pode ver dentro do alcance que opera ou funciona por conta própria, ele operará erradamente, funcionará mal ou desligará completamente. Esta magia não tem efeito em objetos completamente inanimados que dependem inteiramente de manipulação externa.</p><p>Se o alvo for uma criatura que você pode ver dentro do alcance, ela deve ser bem-sucedida em um teste de resistência de Sabedoria quando você conjurar esta magia ou ser afetada por ela. Um alvo afetado não pode realizar reações e, se não for distraído com algo, você rola um [[/r d10]]. Se você rolar 1-8, a criatura deve usar todo o seu movimento para se mover em uma direção aleatória. Para determinar a direção, atribua uma direção a cada número de 1-8. Se você rolar 9-10, a criatura não se move. Movendo-se ou não, a criatura não realiza uma ação neste turno.</p><p>Se desejar, você pode sugerir um curso de atividade (limitado a uma ou duas frases) no momento da conjuração e influenciar magicamente uma criatura que você pode ver dentro do alcance e que pode ouvi-lo e entendê-lo. Criaturas que não podem ser encantadas são imunes a este efeito. A sugestão deve ser formulada de modo a fazer o curso de ação parecer razoável. Pedir à criatura que se machuque diretamente ou machuque seus aliados não terá efeito. O curso de ação sugerido pode continuar pela duração inteira. Você também pode especificar condições que desencadearão uma atividade especial durante a duração. Por exemplo, você pode sugerir que um bruxo abrace o próximo explosivim que vir. Se a condição não for atendida antes da magia expirar, a atividade não é realizada.</p><p>No final de cada um de seus turnos, um alvo afetado pode fazer um teste de resistência de Sabedoria. Se for bem-sucedido, os efeitos da magia terminam para aquele alvo.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, você pode alvejar um alvo adicional para cada nível de espaço acima do 4º. Os alvos devem estar a até 30 pés uns dos outros quando você os alveja.</p>"
+    },
+    "Repello Inimicum": {
+      "name": "Repello Inimicum",
+      "description": "<p>Você cria uma hemiesfera de energia mágica com raio de 20 pés para protegê-lo de um ou mais dos seguintes: Bruxos das Trevas, outros seres das Trevas ou bestas das Trevas. O círculo afeta criaturas do(s) tipo(s) escolhido(s) das seguintes formas.</p><ul><li>As criaturas afetadas não podem entrar voluntariamente na hemiesfera por meios não mágicos. Se a criatura tentar usar aparatação/desaparatação para fazê-lo, deve primeiro ser bem-sucedida em um teste de resistência de Carisma.</li></ul><ul><li>As criaturas afetadas têm desvantagem em jogadas de ataque contra alvos dentro da hemiesfera.</li></ul><ul><li>Alvos dentro da hemiesfera não podem ser encantados ou amedrontados por criaturas afetadas.</li></ul><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, a duração aumenta em 1 hora para cada nível de espaço acima do 3º.</p>"
+    },
+    "Tarantallegra": {
+      "name": "Tarantallegra",
+      "description": "<p>Esta azaração divertida força sua vítima a fazer uma dança cômica no lugar: arrastando os pés, batendo os pés e saltitando. Faça uma jogada de ataque à distância com magia contra um alvo dentro do alcance. Em um acerto, uma criatura dançante deve usar todo o seu movimento para dançar sem sair de seu espaço até o final do seu próximo turno. Enquanto a criatura for afetada por esta magia, ela tem desvantagem em testes de resistência de Destreza e jogadas de ataque e outras criaturas têm vantagem em jogadas de ataque contra ela. Como uma ação, uma criatura dançante faz um teste de resistência de Sabedoria para recuperar o controle de si mesma. Em um sucesso, a magia termina.</p>"
+    },
+    "Muco Volatilis": {
+      "name": "Muco Volatilis",
+      "description": "<p>Esta magia aterrorizante transforma as melecas da vítima em morcegos verdes nojentos que rastejam para fora do nariz e atacam. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, o alvo e quaisquer criaturas hostis a até 5 pés do alvo sofrem 6d4 de dano cortante. No início do turno do alvo e quando qualquer criatura hostil iniciar seu turno a até 5 pés do alvo, ela sofre 3d4 de dano cortante. Se qualquer criatura tiver que fazer um teste de resistência para manter concentração por causa do dano desta magia, o teste de resistência é feito com desvantagem.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, o dano inicial aumenta em 2d4 para cada nível de espaço acima do 4º.</p>"
+    },
+    "Conjunctivia": {
+      "name": "Conjunctivia",
+      "description": "<p>Quando atingida por esta maldição, os olhos de uma criatura ficam irritados e doloridos, inchando até fechar. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, o alvo sofre 4d8 de dano necrótico e fica cego pela duração. No final de cada um de seus turnos, o alvo pode fazer um teste de resistência de Constituição. Em um sucesso, a magia termina. Criaturas que são normalmente magicamente resistentes são vulneráveis a esta magia.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano aumenta em 1d8 para cada nível de espaço acima do 3º.</p>"
+    },
+    "Diffindo": {
+      "name": "Diffindo",
+      "description": "<p>Um objeto é precisamente rasgado ou cortado, como se uma lâmina mágica se estendesse da ponta da sua varinha. Esta magia não foi projetada para ser usada em criaturas e faz apenas cortes muito superficiais. Escolha um alvo que você possa ver dentro do alcance que caiba em um cubo de 5 pés. Se o alvo for uma criatura, ela deve fazer um teste de resistência de Destreza. Ela sofre 4d4 de dano cortante em uma falha ou metade do dano em um sucesso. Esta é a contra-magia de @UUID[Compendium.wands.spells-wands.Item.uCE4cTdb8hT2hvzB]{Incarcerous}, encerrando imediatamente os efeitos daquela magia.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, você pode alvejar uma criatura adicional ou o tamanho do cubo aumenta em 5 pés para cada nível de espaço acima do 1º. Se alvejar criaturas adicionais, os alvos devem estar a até 10 pés uns dos outros quando você os alveja.</p>"
+    },
+    "Genu Recurvatum": {
+      "name": "Genu Recurvatum",
+      "description": "<p>Esta azaração inverte os joelhos de uma besta ou ser, forçando-o a dar passos desajeitados e descoordenados. Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, o deslocamento do alvo é reduzido pela metade pela duração da magia.</p>"
+    },
+    "Depulso": {
+      "name": "Depulso",
+      "description": "<p>Um alvo dentro do alcance é empurrado diretamente para longe do conjurador como se empurrado por uma mão invisível, sendo arremessado 5 pés mais um número de pés igual a cinco vezes o seu modificador de habilidade de conjuração. O alvo é selecionado pelo conjurador apontando para ele com sua varinha.</p><p>Se alvejar uma criatura ou objeto que está sendo vestido ou carregado, faça um teste com Força 26 (+8) contestado pelo teste de Força (Atletismo) da criatura alvo. Se o alvo for Médio ou menor, você tem vantagem no teste. Se for bem-sucedido, o alvo é arremessado a mesma distância.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, a distância de empurrão aumenta em 10 pés para cada nível de espaço acima do 3º.</p>"
+    },
+    "Carpe Retractum": {
+      "name": "Carpe Retractum",
+      "description": "<p>Um laço de luz dispara do conjurador e se prende a qualquer coisa que você possa ver dentro do alcance, e então se retrai, puxando o conjurador e o alvo 10 pés mais perto um do outro. Se o conjurador ou o alvo não se mover ou facilmente resistir à força do outro sendo puxado, o outro se move 20 pés. Se o alvo for uma criatura relutante que pode ser movida, ela deve fazer um teste de resistência de Força para resistir a ser movida. O laço de luz mantém o conjurador e o alvo conectados pela duração.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 1º nível ou superior, o alcance e o efeito de puxar aumentam em 5 pés para cada nível de espaço acima do Truque.</p>"
+    },
+    "Brackium Emendo": {
+      "name": "Brackium Emendo",
+      "description": "<p>Esta magia cura os ossos quebrados de um ser imediatamente, embora o processo seja bastante doloroso. Um ser que você pode ver e que você toca com sua varinha recupera um número de pontos de vida igual a 5d10 + seu modificador de habilidade de conjuração, e ganha um nível de exaustão.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 5º nível ou superior, a cura aumenta em 1d10 para cada nível de espaço acima do 4º.</p>"
+    },
+    "Partis Temporus": {
+      "name": "Partis Temporus",
+      "description": "<p>Este encantamento único redireciona efeitos mágicos para criar uma abertura. Em qualquer magia de área de 3º nível ou inferior que forme uma linha, parede ou perímetro, uma abertura aparece no efeito da magia em um ponto de sua escolha que você pode ver dentro do alcance e dura pela duração. Você escolhe as dimensões da abertura: até 5 pés de largura e 8 pés de altura. Para uma magia de 4º nível ou superior sobre o alvo, faça um teste de habilidade usando sua habilidade de conjuração. A CD é igual a 10 + o nível da magia. Em um teste bem-sucedido, a abertura é criada. A abertura pode ser dissipada à vontade.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você automaticamente cria uma abertura na magia se o nível da magia for um nível superior, igual ou menor que o nível do espaço de magia que você usou.</p>"
+    },
+    "Cantis": {
+      "name": "Cantis",
+      "description": "<p>Quando atingido por esta magia, um ser não consegue evitar cantar algumas linhas da primeira música que lhe vem à mente. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, o alvo deve conjurar todas as outras magias de forma não verbal até o fim do seu próximo turno. Se tentar conjurar uma magia verbalmente, deve primeiro ser bem-sucedido em um teste de resistência de Inteligência, ou a conjuração falha e a magia é desperdiçada.</p>"
+    },
+    "Imperio": {
+      "name": "Imperio",
+      "description": "<p>Quando esta Maldição Imperdoável é conjurada, uma sensação incrivelmente maravilhosa e flutuante toma a vítima, concedendo-lhe uma sensação de \"felicidade irrastreável\" e paz. Neste estado, a vontade da pessoa é completamente sobreposta pelo conjurador e ela seguirá qualquer comando. Um ser de sua escolha dentro do alcance deve ser bem-sucedido em um teste de resistência de Carisma com desvantagem ou ficar encantado por você pela duração.</p><p>Enquanto o alvo está encantado, você tem um vínculo telepático com ele. Você pode usar este vínculo telepático para emitir comandos à criatura enquanto estiver consciente (nenhuma ação necessária), que ela fará o possível para obedecer. Você pode especificar um curso de ação simples e geral, como \"Ataque aquela criatura\", \"Corra até lá\" ou \"Busque aquele objeto\". Se a criatura completar a ordem e não receber mais instruções suas, ela se defende e se preserva da melhor forma possível.</p><p>Você pode usar sua ação para assumir controle total e preciso do alvo. Até o final do seu próximo turno, a criatura realiza apenas as ações que você escolher, e não faz nada que você não permita. Durante este tempo, você também pode fazer a criatura usar uma reação, mas isso requer que você use sua própria reação também.</p><p>Cada vez que o alvo sofrer dano, ele faz um novo teste de resistência de Carisma com desvantagem contra a magia. Se o teste for bem-sucedido, a magia termina.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de nível superior, a duração é concentração, até 10 minutos (6º nível), até 1 hora (7º nível), até 8 horas (8º nível), ou até ser dissipada sem concentração (9º nível).</p>"
+    },
+    "Reparo": {
+      "name": "Reparo",
+      "description": "<p>Esta magia reverte magicamente qualquer dano feito a quaisquer objetos ou estruturas dentro de um cubo de 5 pés, coletando todas as peças ou componentes e remontando-os. Qualquer coisa anteriormente contida pelo alvo quebrado, como um líquido derramado, não é colocada de volta dentro dele. Qualquer coisa afetada pela quebra do alvo, como uma pessoa que caiu através de uma plataforma quebrada, não é desfeita. Não há efeito sobre qualquer coisa dentro da área que não esteja danificada, nem sobre qualquer coisa danificada pelo tempo ou deterioração.</p><p>Esta magia pode reparar fisicamente um item mágico, mas a magia não pode restaurar a magia de tal objeto.</p><p><strong>Em Níveis Superiores. </strong>Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o tamanho do cubo aumenta em 10 pés para cada nível de espaço acima do 2º.</p>"
+    },
+    "Lumos Maxima": {
+      "name": "Lumos Maxima",
+      "description": "<p>Uma esfera de luz com raio de 60 pés se espalha a partir de uma pequena bola de luz flutuante que paira no lugar. A esfera é luz plena e emite luz fraca por mais 60 pés. Como uma ação bônus, você pode direcionar a bola de luz para uma nova posição dentro do alcance.</p>"
+    },
+    "Reducto": {
+      "name": "Reducto",
+      "description": "<p>Esta magia desintegra um objeto não mágico Grande ou menor ou construto transfigurado/conjurado que você pode ver dentro do alcance. Se o alvo for um objeto ou construto Enorme ou maior, esta magia desintegra uma porção de cubo de 10 pés dele.</p>"
+    },
+    "Incendio Glacia": {
+      "name": "Incendio Glacia",
+      "description": "<p>Uma chama azul trêmula flui da ponta da sua varinha, condensando-se sobre um objeto, em um recipiente ou em sua mão. A chama permanece lá pela duração e apenas emana calor diretamente para cima. Ela não danifica nada abaixo ou ao redor, e parece pairar ligeiramente acima de qualquer coisa em que esteja apoiada. Se colocada sob um objeto inflamável, um fogo natural pode ser iniciado a partir do calor.</p><p>A chama emite luz plena em um raio de 10 pés e luz fraca por mais 10 pés. A magia termina se você a dissipar como uma ação bônus.</p>"
+    },
+    "Expelliarmus": {
+      "name": "Expelliarmus",
+      "description": "<p>Famosa por ser a magia que finalmente derrotou um infame Bruxo das Trevas na Segunda Grande Guerra Bruxa, esta magia pode inofensivamente encerrar duelos desarmando um bruxo de sua varinha. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, você desarma o alvo, forçando-o a soltar um item de sua escolha que esteja segurando. O objeto cai a 10 pés dele em uma direção aleatória.</p><p><em><strong>Em Níveis Superiores</strong></em>. Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, você pode escolher a direção que o objeto viaja e a distância do objeto aumenta em 10 pés para cada nível de espaço acima do 2º.</p>"
+    },
+    "Dissonus Ululatus": {
+      "name": "Dissonus Ululatus",
+      "description": "<p>Você configura um alarme para emitir um grito perfurante quando uma pessoa não autorizada entra na área. Até a magia terminar, um alarme soa sempre que uma criatura minúscula ou maior tocar ou entrar na área protegida. Quando você conjura a magia, pode designar criaturas ou áreas dentro da hemiesfera que não ativarão o alarme. O alarme produz um som de grito desagradável enquanto a criatura intrusa estiver na área da magia, audível a até 300 pés de distância.</p>"
+    },
+    "Impedimenta": {
+      "name": "Impedimenta",
+      "description": "<p>Uma poderosa magia de duelo, esta azaração altera o tempo ao redor de uma criatura que você pode ver dentro do alcance, inibindo severamente sua capacidade em combate. O alvo deve ser bem-sucedido em um teste de resistência de Sabedoria ou ser afetado por esta magia pela duração.</p><p>O deslocamento de um alvo afetado é reduzido pela metade, ele recebe uma penalidade de -2 à CA e testes de resistência de Destreza, e não pode usar reações. Em seu turno, pode usar uma ação ou uma ação bônus, não ambas. Independentemente das habilidades ou itens mágicos da criatura, ela não pode fazer mais de um ataque corpo a corpo ou à distância durante seu turno.</p><p>Se a criatura tentar conjurar uma magia com tempo de conjuração de 1 ação, role um [[/r d20]]. Em 11 ou mais, a magia não faz efeito até o próximo turno da criatura, e a criatura deve usar sua ação naquele turno para completar a magia. Se não puder, a magia é desperdiçada.</p><p>Uma criatura afetada por esta magia faz outro teste de resistência de Sabedoria no final do seu turno. Em um sucesso, o efeito termina para ela.</p>"
+    },
+    "Engorgio": {
+      "name": "Engorgio",
+      "description": "<p>Você faz uma criatura ou objeto que pode ver dentro do alcance crescer ou encolher pela duração. Escolha uma criatura ou um objeto que não esteja sendo vestido nem carregado. Se o alvo não quiser, ele pode fazer um teste de resistência de Constituição. Em um sucesso, a magia não tem efeito.</p><p>O tamanho do alvo dobra em todas as dimensões, e seu peso é multiplicado por oito. Este crescimento aumenta seu tamanho em uma categoria - de Médio para Grande, por exemplo. Se não houver espaço suficiente para o alvo dobrar de tamanho, a criatura ou objeto atinge o tamanho máximo possível no espaço disponível. Até a magia terminar, o alvo também tem vantagem em testes de Força e testes de resistência de Força. Os itens e equipamentos do alvo também crescem para corresponder ao seu novo tamanho. Enquanto ampliado, o alvo causa 1d4 de dano extra.</p>"
+    },
+    "Arania Exumai": {
+      "name": "Arania Exumai",
+      "description": "<p>Esta magia expulsa aranhas, Acromântulas ou aracnídeos com um cone de luz escaldante e brilhante. Cada criatura aracnídea em um cone de 30 pés deve fazer um teste de resistência de Constituição. Em uma falha, uma criatura sofre 4d6 de dano radiante e é empurrada 5 pés mais um número de pés igual a cinco vezes o seu modificador de habilidade de conjuração. Em um sucesso, ela sofre metade do dano e não é empurrada.</p><p>Quaisquer criaturas não aracnídeas dentro da área da magia não são afetadas.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em 1d6 e a distância de empurrão aumenta em 10 pés para cada nível de espaço acima do 2º.</p>"
+    },
+    "Fumos": {
+      "name": "Fumos",
+      "description": "<p>Um jato espesso de fumaça jorra da sua varinha, preenchendo um cubo de 15 pés originando de você. Esta fumaça se espalha ao redor de cantos. Ela dura pela duração ou até que um vento forte disperse a fumaça, encerrando a magia. Sua área é densamente obscurecida.</p><p>Quando uma criatura entra na área da magia pela primeira vez em um turno ou inicia seu turno lá, aquela criatura deve fazer um teste de resistência de Constituição. A criatura sofre 3d6 de dano de veneno em uma falha, ou metade do dano em um sucesso. Construtos e mortos-vivos são imunes a este dano.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 3º nível ou superior, o dano aumenta em 2d6 e a área aumenta em 5 pés para cada nível de espaço acima do 2º.</p>"
+    },
+    "Periculum/Verdimillious": {
+      "name": "Periculum/Verdimillious",
+      "description": "<p>Esta magia envia faíscas vermelhas (periculum) ou verdes (verdimillious) disparando da varinha do conjurador para fins de sinalização. Ela também pode aparecer como um sinalizador, viajando uma distância desejada antes de explodir em luz e pairar no ar.</p>"
+    },
+    "Cistem Aperio": {
+      "name": "Cistem Aperio",
+      "description": "<p>Escolha uma caixa, baú ou outro recipiente que você possa ver dentro do alcance que use meios mundanos ou mágicos para impedir o acesso.</p><p>Um alvo que está trancado por uma fechadura mundana ou que está preso ou acorrentado se torna destrancado, solto ou desacorrentado. Se o objeto tiver múltiplas fechaduras, apenas uma delas é destrancada.</p><p>Se você escolher um alvo que está trancado com Colloportus, aquela magia é dissipada.</p><p>Quando você conjura a magia, o mecanismo gira ruidosamente e destranca. Este ruído emana do objeto alvo e é audível a até 100 pés de distância.</p>"
+    },
+    "Avis": {
+      "name": "Avis",
+      "description": "<p>Você conjura um Enxame de Pássaros Pequenos ou dois Enxame de Pássaros Minúsculos de uma espécie à sua escolha. O enxame desaparece quando cai a 0 pontos de vida ou quando a magia termina.</p><p>Os pássaros conjurados são amigáveis com você e seus companheiros. Role iniciativa para os enxames convocados como um grupo, que tem seus próprios turnos. Eles obedecem a quaisquer comandos verbais que você emita (nenhuma ação requerida por você). Se você não emitir comandos, eles se defendem de criaturas hostis, mas de outra forma não realizam ações.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando certos espaços de magia de nível superior, mais criaturas aparecem - o dobro com um espaço de 5º nível, o triplo com um espaço de 7º nível e o quádruplo com um espaço de 9º nível.</p>"
+    },
+    "Intus Sunt": {
+      "name": "Intus Sunt",
+      "description": "<p>Inventada por Urquhart Rackharrow, este remédio medieval faz o recipiente purgar e sentir grande dor abdominal. Escolha um ser que você pode ver dentro do alcance para fazer um teste de resistência de Constituição. Se falhar, a exaustão do alvo é definida como 2 níveis pela duração. No final de cada um de seus turnos, o alvo pode fazer um teste de resistência de Constituição, sem desvantagem da exaustão. Em um sucesso, a magia termina. Se o alvo tiver níveis de exaustão mais altos que o efeito da magia, a magia não altera seus níveis de exaustão. Se o alvo ganhar quaisquer níveis de exaustão dentro da duração desta magia, eles se acumulam com o efeito desta magia.</p><p>Além disso, se o alvo estiver sofrendo qualquer condição ou efeitos negativos de algo que ingeriu, como beber um veneno, esta magia encerra esses efeitos.</p><p><strong>Em Níveis Superiores.</strong> Se você conjurar esta magia usando um espaço de magia de 6º nível ou superior, a exaustão do alvo é definida como 3 níveis (6º nível), 4 níveis (7º nível) ou 5 níveis (8º nível).</p>"
+    },
+    "Levicorpus/Liberacorpus": {
+      "name": "Levicorpus/Liberacorpus",
+      "description": "<p>Uma das poucas magias que são não verbais por natureza, esta azaração puxa os pés de um ser debaixo dele e o suspende no ar, pendurado pelo tornozelo. Esta magia sempre é conjurada com os efeitos da metamagia Magia Sutil, sem custo de pontos de feitiçaria e independentemente de você ter Magia Sutil ou não.</p><p>Uma criatura que você pode ver dentro do alcance deve fazer um teste de resistência de Sabedoria ou sofrer 3d10 de dano psíquico e ficar impedida. Além disso, se o alvo tentar conjurar uma magia, deve primeiro ser bem-sucedido em um teste de resistência de Sabedoria, ou a conjuração falha e a magia é desperdiçada.</p>"
+    },
+    "Incarcerous": {
+      "name": "Incarcerous",
+      "description": "<p>Cordas e amarras negras são conjuradas e se enrolam forçosamente ao redor de um alvo que você pode ver dentro do alcance. Se o alvo for uma criatura relutante, ela deve fazer um teste de resistência de Força. Em uma falha, a criatura fica impedida pela duração. Ao conjurar, você pode escolher ancorar as cordas ao chão, impedindo que o alvo seja movido por forças externas.</p><p>A criatura impedida ou outra pessoa que possa alcançá-la pode usar uma ação para fazer um teste de Força contra sua CD de resistência de magia. Em um sucesso, o efeito impedido termina.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, a criatura também fica incapacitada, tornando-a incapaz de fazer um teste de Força para escapar.</p>"
+    },
+    "Homenum Revelio": {
+      "name": "Homenum Revelio",
+      "description": "<p>Você percebe a presença e direção geral de cada humano ou ser mágico dentro do alcance. Se algum ser estiver se movendo, você sabe sua direção. Se o ser estiver transfigurado em uma besta ou objeto, esta magia não detectará aquele ser.</p><p>Um ser é alertado sobre ser detectado por esta magia, pois a magia produz uma sensação estranha de algo parado logo atrás ou acima de você.</p>"
+    },
+    "Perfusorius": {
+      "name": "Perfusorius",
+      "description": "<p>Esta magia altera um objeto de até 500 libras, mudando seu peso para ser apenas ligeiramente mais pesado que a atmosfera ao seu redor. A menor força é necessária para mover, pegar ou carregar este objeto pela duração. Ele pode ser facilmente arremessado também.</p>"
+    },
+    "Glacius": {
+      "name": "Glacius",
+      "description": "<p>Você congela uma área de água que pode ver dentro do alcance e que cabe em um cubo de 5 pés. A área se torna terreno difícil pela duração. Cada criatura Média ou menor que estiver coberta, submersa ou parcialmente submersa na água afetada tem seu deslocamento reduzido pela metade e deve fazer um teste de resistência de Constituição. Em uma falha, uma criatura sofre 3d8 de dano de frio, ou metade do dano em um sucesso.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 2º nível ou superior, o dano aumenta em 1d8 e o tamanho do cubo aumenta em 5 pés para cada nível de espaço acima do 1º. Se uma criatura de qualquer tamanho couber dentro do cubo maior, ela pode ser afetada por esta magia.</p>"
+    },
+    "Bombarda": {
+      "name": "Bombarda",
+      "description": "<p>A magia explode tudo que atinge, criando uma explosão concussiva localizada no impacto. Faça uma jogada de ataque à distância com magia contra um alvo dentro do alcance. Em um acerto, o alvo sofre 1d10 de dano de concussão.</p><p>O dano desta magia aumenta em 1d10 quando você atinge o 5º nível (2d10), 11º nível (3d10) e 17º nível (4d10).</p>"
+    },
+    "Muffliato": {
+      "name": "Muffliato",
+      "description": "<p>Pela duração, cada criatura que você escolher dentro de 30 pés de você (incluindo você) pode conversar entre si sem que ninguém ou nada mais ouça. Em vez das vozes, criaturas próximas ouvem um zumbido fraco, como ruído branco. Se uma criatura estiver a até 15 pés de você e vir sua boca se mover quando você fala, ela percebe que sua voz está sendo magicamente mascarada.</p>"
+    },
+    "Deprimo": {
+      "name": "Deprimo",
+      "description": "<p>Você exerce imensa pressão descendente sobre um alvo que pode ver dentro do alcance. Se o alvo for uma criatura, ela deve fazer um teste de resistência de Força. Em uma falha, uma criatura sofre 5d8 de dano de concussão e é derrubada prostrada. Em um sucesso, a criatura sofre metade do dano e não é derrubada prostrada. Se o alvo for uma superfície plana, isso criará uma cratera ou colapsará a superfície.</p><p><strong>Em Níveis Superiores.</strong> Quando você conjura esta magia usando um espaço de magia de 4º nível ou superior, o dano aumenta em 1d8 para cada nível de espaço acima do 3º.</p>"
+    },
+    "Aguamenti": {
+      "name": "Aguamenti",
+      "description": "<p>Um cone de água límpida e pura jorra da ponta da varinha do conjurador com a força desejada. A água não estraga e extingue chamas expostas na área.</p>"
+    },
+    "Nullum Effugium": {
+      "name": "Nullum Effugium",
+      "description": "<p>Comumente usada pelo Departamento de Aplicação da Lei Mágica Britânico, esta magia protege uma área contra aparatação ou desaparatação. Ninguém pode chegar na área protegida via aparatação/desaparatação, nem quaisquer criaturas dentro da área protegida podem conjurar a magia. Qualquer tentativa de fazê-lo resulta no efeito típico de aparatação/desaparatação, exceto que a criatura permanece exatamente onde está.</p><p>Em Níveis Superiores. Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, o raio da esfera aumenta em 60 pés para cada nível de espaço acima do 5º.</p>"
+    },
+    "Silencio": {
+      "name": "Silencio",
+      "description": "<p>Este encantamento é extremamente eficaz contra bruxos não praticados em magia não verbal. Escolha um alvo que você pode ver dentro do alcance. Se for uma criatura, ela deve fazer um teste de resistência de Sabedoria. Se falhar ou se for um objeto, todo som criado pelo alvo se torna completamente silencioso. Conjurar uma magia que inclua um componente verbal é impossível enquanto sob o efeito desta magia.</p>"
+    },
+    "Mimblewimble": {
+      "name": "Mimblewimble",
+      "description": "<p>Se você for atingido por esta magia, ela produz a estranha sensação de sua língua se enrolando para trás na boca. Escolha um ser que você pode ver dentro do alcance. Se ele tentar conjurar uma magia verbalmente antes do fim do seu próximo turno, deve primeiro ser bem-sucedido em um teste de resistência de Destreza, ou a conjuração falha e a magia é desperdiçada.</p>"
+    },
+    "Cave Inimicum": {
+      "name": "Cave Inimicum",
+      "description": "<p>Uma cúpula semelhante a um campo de força forma um perímetro ao redor do conjurador que filtra a visão de qualquer coisa ou pessoa designada pelo conjurador, tornando esses objetos infalivelmente invisíveis. A cúpula é indetectável do lado de fora, mas levemente visível do lado de dentro, como uma barreira ondulante de vidro. Qualquer pessoa pode se mover através do campo livremente para ver o conteúdo oculto.</p><p><em><strong>Em Níveis Superiores.</strong></em> Quando você conjura esta magia usando um espaço de magia de 6º nível ou superior, você pode selecionar ou acumular um dos seguintes efeitos para cada nível de espaço acima do 5º.</p><ul><li>Aumentar o raio da magia em 20 pés.</li></ul><ul><li>Aumentar a duração para 8 horas.</li></ul><ul><li>Adicionar a capacidade de bloquear sons completamente.</li></ul><ul><li>Adicionar a capacidade de bloquear cheiros completamente.</li></ul>"
+    },
+    "Apparition": {
+      "name": "Aparatação",
+      "description": "<p>Como uma ação, você gira no lugar, tentando desaparatar no nada e aparecer no destino imaginado. Com base na distância até seu destino, você gasta o espaço de magia apropriado. Faça um teste de habilidade usando sua habilidade de conjuração (Other Formula).</p><p>Use a seguinte tabela de rolagem para determinar o resultado:</p><table><thead><tr><td><strong>Teste de Habilidade</strong></td><td><strong>Resultado da Aparatação</strong></td></tr></thead><tbody><tr><td>15 ou mais</td><td>Você desaparata corretamente e chega em segurança.</td></tr><tr><td>11-14</td><td>Você desaparata mas chega fora do alvo ([[/r d20]]).</td></tr><tr><td>7-10</td><td>A desaparatação parece errada e você se detém. Nada acontece.</td></tr><tr><td>5-6</td><td>Você sofre uma Cisão Menor e chega fora do alvo.</td></tr><tr><td>4 ou menos</td><td>Você sofre uma Cisão Maior e chega fora do alvo.</td></tr></tbody></table>"
+    },
+    "Repello Muggletum": {
+      "name": "Repello Muggletum",
+      "description": "<p>Frequentemente usada ao redor de áreas bruxas, este encantamento mantém trouxas longe de situações perigosas ou locais abertamente mágicos. Você encanta uma área para sugerir um curso de atividade e influenciar magicamente um humano não mágico. Ao entrar na área protegida, o sujeito deve fazer um teste de resistência de Sabedoria com desvantagem. Em uma falha, ele segue um curso de ação que o leva para longe da área da magia.</p><p>A mente do sujeito naturalmente pensa no melhor motivo para se convencer de que deve partir, ou na falta de um motivo real, inventa uma emergência arbitrária que exige sua atenção em outro lugar. O efeito da magia termina quando o sujeito tiver atendido ao assunto em que pensou ou quando tiver decidido seguir outro curso de ação que não envolva entrar na área da magia.</p>"
+    },
+    "Salvio Hexia": {
+      "name": "Salvio Hexia",
+      "description": "<p>Cada criatura dentro da área da magia ganha pontos de vida temporários iguais ao seu modificador de conjuração no início de seu turno e vantagem em todos os testes de resistência contra magias.</p>"
+    },
+    "Finestra": {
+      "name": "Finestra",
+      "description": "<p>Um painel de vidro que você pode ver dentro do alcance se transforma em pó, discretamente o transformando em uma passagem aberta.</p>"
+    },
+    "Diminuendo": {
+      "name": "Diminuendo",
+      "description": "<p>Faça uma jogada de ataque à distância com magia contra uma criatura dentro do alcance. Em um acerto, o tamanho do ser ou besta é reduzido pela metade em todas as dimensões, e seu peso é reduzido a um oitavo do normal. Esta redução diminui seu tamanho em uma categoria - de Médio para Pequeno, por exemplo.</p><p>Até a magia terminar, o alvo também tem desvantagem em testes de Força e testes de resistência de Força. Os itens ou equipamentos do alvo também encolhem para corresponder ao seu novo tamanho, mas qualquer item largado por uma criatura afetada retorna ao tamanho normal imediatamente. O alvo causa 1d4 a menos de dano (isso não pode reduzir o dano abaixo de 1).</p>"
+    },
+    "Molliare": {
+      "name": "Molliare",
+      "description": "<p>Este encantamento confortável é mais comumente encontrado em uma vassoura. Um objeto que você toca com sua varinha é envolvido em um efeito de amortecimento invisível pela duração, quase como dois ímãs se repelindo.</p>"
+    },
+    "Locomotor Wibbly": {
+      "name": "Locomotor Wibbly",
+      "description": "<p>Isso tornará as pernas de uma pessoa tão instáveis e fracas que ela não consegue manter o equilíbrio. Faça uma jogada de ataque à distância com magia contra um ser dentro do alcance. Em um acerto, o alvo é derrubado prostrado.</p>"
+    }
+  }
+}

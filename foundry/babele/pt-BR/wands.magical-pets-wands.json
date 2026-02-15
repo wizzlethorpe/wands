@@ -1,0 +1,107 @@
+{
+  "label": "Magical Pets (WANDS)",
+  "entries": {
+    "Pet Goliath Tarantula": {
+      "name": "Tarântula Golias de Estimação"
+    },
+    "Pet Cat": {
+      "name": "Gato de Estimação"
+    },
+    "Pet Owl": {
+      "name": "Coruja de Estimação"
+    },
+    "Pet Rat": {
+      "name": "Rato de Estimação"
+    },
+    "Pet Bat": {
+      "name": "Morcego de Estimação"
+    },
+    "Pet Puffskein": {
+      "name": "Pelúcio de Estimação"
+    },
+    "Pet Snake": {
+      "name": "Serpente de Estimação"
+    },
+    "Pet Adder": {
+      "name": "Víbora de Estimação"
+    },
+    "Pet Miniature Firecrab": {
+      "name": "Caranguejo-de-Fogo Miniatura de Estimação"
+    },
+    "Pet Toad": {
+      "name": "Sapo de Estimação"
+    },
+    "Bite": {
+      "name": "Mordida",
+      "description": "<p>A víbora ataca com sua Mordida.</p>"
+    },
+    "Web Walker": {
+      "name": "Andar em Teias",
+      "description": "<p>A tarântula golias ignora restrições de movimento causadas por teias.</p>"
+    },
+    "Spider Climb": {
+      "name": "Escalada de Aranha",
+      "description": "<p>A tarântula golias pode escalar superfícies difíceis, incluindo de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>"
+    },
+    "Web Sense": {
+      "name": "Sentido de Teia",
+      "description": "<p>Enquanto estiver em contato com uma teia, a tarântula golias sabe a localização exata de qualquer outra criatura em contato com a mesma teia.</p>"
+    },
+    "Claw": {
+      "name": "Garra",
+      "description": "<p>O caranguejo-de-fogo faz um ataque com suas garras.</p>"
+    },
+    "Hunting Instincts": {
+      "name": "Instintos de Caça",
+      "description": "<p>O gato pode seguir ou patrulhar em busca de um alvo específico. Ao fazer isso, ele tem vantagem em testes de Destreza (Furtividade).</p>"
+    },
+    "Keen Smell": {
+      "name": "Olfato Apurado",
+      "description": "<p>O rato tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de olfato.</p>"
+    },
+    "Magical Post": {
+      "name": "Correio Mágico",
+      "description": "<p>Quando recebe um bilhete, carta ou pacote, a coruja magicamente sabe a localização do destinatário e voa para entregar a carta.</p>"
+    },
+    "Keen Hearing and Sight": {
+      "name": "Audição e Visão Aguçadas",
+      "description": "<p>A coruja tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de visão ou audição.</p>"
+    },
+    "Flyby": {
+      "name": "Voo Rasante",
+      "description": "<p>O morcego não provoca ataques de oportunidade quando voa para fora do alcance de um inimigo.</p>"
+    },
+    "Echolocation": {
+      "name": "Ecolocalização",
+      "description": "<p>O morcego não pode usar sua visão cega enquanto estiver surdo.</p>"
+    },
+    "Keen Hearing": {
+      "name": "Audição Aguçada",
+      "description": "<p>O morcego tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de audição.</p>"
+    },
+    "Prehensile Tongue": {
+      "name": "Língua Preênsil",
+      "description": "<p>O pelúcio tem uma língua desproporcionalmente longa que pode usar para agarrar ou manipular pequenos objetos.</p>"
+    },
+    "Fluffy": {
+      "name": "Fofinho",
+      "description": "<p>O pelúcio parece ser uma bola de pelos viva; sua fofura pode distrair alguns, como carregar um gatinho adorável por aí.</p>"
+    },
+    "Blast-Ended": {
+      "name": "Explosão Traseira",
+      "description": "<p>Uma pequena explosão de fogo pode sair da parte traseira do caranguejo-de-fogo, que incendeia objetos inflamáveis que não estejam sendo vestidos ou carregados.</p>"
+    },
+    "Hold Breath": {
+      "name": "Prender Respiração",
+      "description": "<p>O caranguejo-de-fogo pode prender a respiração por <strong>1 hora</strong>.</p>"
+    },
+    "Standing Leap": {
+      "name": "Salto Parado",
+      "description": "<p>O salto em distância do sapo é de até <strong>3 m</strong> e seu salto em altura é de até <strong>1,5 m</strong>, com ou sem corrida.</p>"
+    },
+    "Amphibious": {
+      "name": "Anfíbio",
+      "description": "<p>O sapo pode respirar tanto ar quanto debaixo d'água.</p>"
+    }
+  }
+}

@@ -2,6 +2,30 @@
 
 A Harry Potter 5e adaptation for Foundry VTT, with a companion reference website.
 
+## Installation
+
+Install the module in Foundry VTT (v13+) with the D&D 5e system (v3+):
+
+1. Open Foundry VTT and go to **Add-on Modules** → **Install Module**
+2. Paste the following manifest URL and click **Install**:
+   ```
+   https://github.com/wizzlethorpe/wands/releases/latest/download/module.json
+   ```
+3. Enable the module in your world under **Game Settings** → **Manage Modules**
+
+### Compendium Translations (Optional)
+
+W.A.N.D.S. supports compendium translations via [Babele](https://foundryvtt.com/packages/babele/). To see translated spell names, item descriptions, etc.:
+
+1. Install and enable the **Babele** module
+2. Set your preferred language in **Game Settings** → **Configure Settings** → **Language**
+
+Currently supported: **English**, **Português (Brasil)**
+
+---
+
+## Project Overview
+
 This monorepo contains three projects:
 
 - **`data/`** — TypeScript + Zod content definitions (spells, items, creatures, etc.) and build scripts
@@ -94,60 +118,65 @@ wands/
 
 ## Contributing Translations
 
-Translations live in `data/src/locales/`. Each locale has JSON files organized by content type.
+We welcome community translations! There are two types of translatable content:
 
-### Adding a new language
+### Compendium content (spells, items, creatures, etc.)
+
+Compendium translations live in `data/src/locales/<locale>/` and are served at runtime via [Babele](https://foundryvtt.com/packages/babele/). Each locale folder has 10 JSON files — one per compendium pack.
+
+**To add a new language:**
 
 1. Copy the English locale as a starting point:
    ```bash
-   cp -r data/src/locales/en data/src/locales/your-locale
+   cp -r data/src/locales/en data/src/locales/<locale>
    ```
    Use standard locale codes: `pt-BR`, `es`, `fr`, `de`, `ja`, etc.
 
-2. Translate the strings in each JSON file. The format is:
+2. Translate the values (not the keys) in each JSON file:
    ```json
    {
      "accio.name": "Accio",
      "accio.description": "A target object is pulled directly to the caster..."
    }
    ```
-   Translate the values, not the keys.
 
-3. You don't need to translate every string. Missing translations automatically fall back to English.
+3. You don't need to translate everything at once — missing translations automatically fall back to English. Start with whichever file you like and expand over time.
 
-4. Test your translations:
-   ```bash
-   cd data
-   npm run build -- --locale=your-locale
-   npm run validate
+4. Register the locale in `foundry/module.json` by adding an entry to the `languages` array:
+   ```json
+   { "lang": "fr", "name": "Français", "path": "lang/fr.json" }
    ```
 
-5. Open a pull request with your new locale directory.
+5. Add a UI strings file at `foundry/lang/<locale>.json` for skill names, spell school names, and sheet labels. Use `foundry/lang/en.json` as a reference.
 
-### Translation files
+6. Build and verify:
+   ```bash
+   npm run build        # generates Babele translation files
+   npm run validate     # checks translation coverage
+   ```
 
-| File | Content |
-|------|---------|
-| `spells.json` | Spell names and descriptions |
-| `items.json` | Item names and descriptions |
-| `creatures.json` | Creature names and descriptions |
-| `features.json` | Class/race feature names and descriptions |
-| `backgrounds.json` | Background names and descriptions |
-| `houses.json` | House names and descriptions |
-| `casting-styles.json` | Casting style names and descriptions |
-| `animagus-forms.json` | Animagus form names and descriptions |
-| `magical-pets.json` | Magical pet names and descriptions |
-| `roll-tables.json` | Roll table names, descriptions, and result text |
+7. Open a pull request with your changes.
 
-## Foundry VTT Installation
+**Compendium translation files:**
 
-Install the module in Foundry VTT using the manifest URL:
+| File | Content | Entries |
+|------|---------|---------|
+| `spells.json` | Spell names and descriptions | 145 |
+| `items.json` | Item names and descriptions | 162 |
+| `creatures.json` | Creature names and descriptions | 581 |
+| `features.json` | Class/race feature names and descriptions | 153 |
+| `backgrounds.json` | Background names and descriptions | 28 |
+| `houses.json` | House names and descriptions | 10 |
+| `casting-styles.json` | Casting style names and descriptions | 9 |
+| `animagus-forms.json` | Animagus form names and descriptions | 20 |
+| `magical-pets.json` | Magical pet names and descriptions | 35 |
+| `roll-tables.json` | Roll table names, descriptions, and result text | 58 |
 
-```
-https://github.com/wizzlethorpe/wands/releases/latest/download/module.json
-```
+### UI strings (skill names, spell schools, sheet labels)
 
-Requires Foundry VTT v13+ and the D&D 5e system v3+.
+UI translations live in `foundry/lang/<locale>.json` and are loaded by Foundry's built-in localization system (no Babele needed). These cover renamed skills, custom spell schools, and character sheet labels.
+
+See `foundry/lang/en.json` for the full set of translatable keys.
 
 ## License
 

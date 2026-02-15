@@ -81,6 +81,7 @@ cp -r "$FOUNDRY_DIR/styles" "$MODULE_DIR/"
 cp -r "$FOUNDRY_DIR/assets" "$MODULE_DIR/"
 cp -r "$FOUNDRY_DIR/lang" "$MODULE_DIR/"
 cp -r "$FOUNDRY_DIR/packs" "$MODULE_DIR/"
+[ -d "$FOUNDRY_DIR/babele" ] && cp -r "$FOUNDRY_DIR/babele" "$MODULE_DIR/"
 [ -f "$FOUNDRY_DIR/README.md" ] && cp "$FOUNDRY_DIR/README.md" "$MODULE_DIR/"
 
 cd "$BUILD_DIR"

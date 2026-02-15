@@ -1,4 +1,14 @@
 Hooks.once("init", function () {
+  // ==== Babele compendium translation support ====
+  if (typeof Babele !== "undefined") {
+    // Register each locale that has Babele translation files
+    // dir is relative to modules/wands/
+    for (const { lang } of game.modules.get("wands")?.languages ?? []) {
+      if (lang === "en") continue;
+      game.babele.register({ module: "wands", lang, dir: `babele/${lang}` });
+    }
+  }
+
   // ==== W&W config tweaks ====
 
   // Rename/add skills

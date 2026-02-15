@@ -7,6 +7,7 @@
  */
 import { buildFoundry } from "./build-foundry.js";
 import { buildQuartz } from "./build-quartz.js";
+import { buildBabele } from "./build-babele.js";
 import { all as spells } from "../data/spells/index.js";
 import { all as items } from "../data/items/index.js";
 import { all as creatures } from "../data/creatures/index.js";
@@ -47,5 +48,7 @@ console.log(`[link-resolver] ${entityRefs.length} entities indexed for @UUID res
 buildFoundry({ ...data, linkResolver });
 console.log();
 buildQuartz(data);
+console.log();
+buildBabele({ ...data, linkResolver });
 
 console.log("\nDone.");
