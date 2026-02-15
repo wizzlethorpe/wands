@@ -144,7 +144,7 @@ Translations live in `data/src/locales/`. Each locale has JSON files organized b
 Install the module in Foundry VTT using the manifest URL:
 
 ```
-https://github.com/kubishi/wands/releases/latest/download/module.json
+https://github.com/wizzlethorpe/wands/releases/latest/download/module.json
 ```
 
 Requires Foundry VTT v13+ and the D&D 5e system v3+.
