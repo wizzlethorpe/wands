@@ -3,25 +3,40 @@
   "title": "Wands & Wizards WANDS Rulebook",
   "description": "Compendium packs for all things Wands & Wizards",
   "authors": [
-    { "name": "MadManNBlueBox" },
-    { "name": "jaredraycoleman" }
+    {
+      "name": "MadManNBlueBox"
+    },
+    {
+      "name": "jaredraycoleman"
+    }
   ],
   "url": "https://github.com/wizzlethorpe/wands",
   "readme": "https://github.com/wizzlethorpe/wands/blob/main/README.md",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13.347"
   },
   "relationships": {
     "requires": [
-      { "id": "dnd5e", "type": "system", "compatibility": { "minimum": "3" } }
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "3"
+        }
+      }
     ],
     "optional": [
-      { "id": "babele", "type": "module" }
+      {
+        "id": "babele",
+        "type": "module"
+      }
     ]
   },
-  "esmodules": ["src/wandsandwizards.js"],
+  "esmodules": [
+    "src/wandsandwizards.js"
+  ],
   "styles": [
     "styles/waw.css",
     "styles/badger.css",
@@ -33,34 +48,141 @@
     "styles/durmstrang.css"
   ],
   "languages": [
-    { "lang": "en", "name": "English", "path": "lang/en.json" },
-    { "lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json" }
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
   ],
   "packs": [
-    { "name": "features-wands", "label": "Features (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/features-wands", "type": "Item" },
-    { "name": "backgrounds-wands", "label": "Backgrounds (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/backgrounds-wands", "type": "Item" },
-    { "name": "casting-styles-and-schools-of-magic-wands", "label": "Casting Styles and Schools of Magic (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/casting-styles-and-schools-of-magic-wands", "type": "Item" },
-    { "name": "houses-wands", "label": "Houses (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/houses-wands", "type": "Item" },
-    { "name": "items-wands", "label": "Items (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/items-wands", "type": "Item" },
-    { "name": "magical-pets-wands", "label": "Magical Pets (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/magical-pets-wands", "type": "Actor" },
-    { "name": "monsters-wands", "label": "Monsters (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/monsters-wands", "type": "Actor" },
-    { "name": "spells-wands", "label": "Spells (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/spells-wands", "type": "Item" },
-    { "name": "animagus-form-wands", "label": "Animagus Form (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/animagus-form-wands", "type": "Actor" },
-    { "name": "wands-roll-tables", "label": "WANDS Roll Tables (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/wands-roll-tables", "type": "RollTable" }
+    {
+      "name": "features-wands",
+      "label": "Features (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/features-wands",
+      "type": "Item"
+    },
+    {
+      "name": "backgrounds-wands",
+      "label": "Backgrounds (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/backgrounds-wands",
+      "type": "Item"
+    },
+    {
+      "name": "casting-styles-and-schools-of-magic-wands",
+      "label": "Casting Styles and Schools of Magic (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/casting-styles-and-schools-of-magic-wands",
+      "type": "Item"
+    },
+    {
+      "name": "houses-wands",
+      "label": "Houses (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/houses-wands",
+      "type": "Item"
+    },
+    {
+      "name": "items-wands",
+      "label": "Items (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/items-wands",
+      "type": "Item"
+    },
+    {
+      "name": "magical-pets-wands",
+      "label": "Magical Pets (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/magical-pets-wands",
+      "type": "Actor"
+    },
+    {
+      "name": "monsters-wands",
+      "label": "Monsters (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/monsters-wands",
+      "type": "Actor"
+    },
+    {
+      "name": "spells-wands",
+      "label": "Spells (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/spells-wands",
+      "type": "Item"
+    },
+    {
+      "name": "animagus-form-wands",
+      "label": "Animagus Form (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/animagus-form-wands",
+      "type": "Actor"
+    },
+    {
+      "name": "wands-roll-tables",
+      "label": "WANDS Roll Tables (WANDS)",
+      "banner": "modules/wands/assets/wandsbanner.webp",
+      "system": "dnd5e",
+      "path": "packs/wands-roll-tables",
+      "type": "RollTable"
+    }
   ],
   "packFolders": [
     {
       "name": "WANDS",
       "sorting": "m",
       "color": "#000475",
-      "packs": ["wands-roll-tables"],
+      "packs": [
+        "wands-roll-tables"
+      ],
       "folders": [
-        { "name": "Wizard Features", "sorting": "m", "color": "#000599", "packs": ["casting-styles-and-schools-of-magic-wands", "features-wands", "backgrounds-wands", "houses-wands"] },
-        { "name": "Items & Spells", "sorting": "m", "color": "#0107b7", "packs": ["items-wands", "spells-wands"] },
-        { "name": "Magical Creatures", "sorting": "m", "color": "#0006c2", "packs": ["magical-pets-wands", "monsters-wands", "animagus-form-wands"] }
+        {
+          "name": "Wizard Features",
+          "sorting": "m",
+          "color": "#000599",
+          "packs": [
+            "casting-styles-and-schools-of-magic-wands",
+            "features-wands",
+            "backgrounds-wands",
+            "houses-wands"
+          ]
+        },
+        {
+          "name": "Items & Spells",
+          "sorting": "m",
+          "color": "#0107b7",
+          "packs": [
+            "items-wands",
+            "spells-wands"
+          ]
+        },
+        {
+          "name": "Magical Creatures",
+          "sorting": "m",
+          "color": "#0006c2",
+          "packs": [
+            "magical-pets-wands",
+            "monsters-wands",
+            "animagus-form-wands"
+          ]
+        }
       ]
     }
   ],
   "manifest": "https://github.com/wizzlethorpe/wands/releases/latest/download/module.json",
-  "download": "https://github.com/wizzlethorpe/wands/releases/download/0.12.0/module.zip"
+  "download": "https://github.com/wizzlethorpe/wands/releases/latest/download/module.zip"
 }
