@@ -3675,5 +3675,258 @@
       "duplicateSource": null,
       "exportSource": null
     }
+  },
+  "cca03605386870b8": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/perception/eye-tendrils-web-purple.webp"
+  },
+  "825e2312e9f31d68": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/energy-stream-link-blue.webp"
+  },
+  "e3426987248648d7": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/perception/orb-crystal-ball-scrying.webp"
+  },
+  "95d52d3cb4859d75": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/energy-stream-link-spiral-blue.webp"
+  },
+  "941b8dca441f14e5": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/light/explosion-star-glow-blue.webp"
+  },
+  "5e2807f8e42f24dd": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/control-influence-puppet.webp"
+  },
+  "7ccbb01fdeaebb9b": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/perception/third-eye-blue-red.webp"
+  },
+  "f93b4a11b0e83174": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/control-influence-rally-purple.webp"
+  },
+  "7b3475a96135eaf9": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/light/projectile-flare-blue.webp"
+  },
+  "d6c5dbd4c1b54a27": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/perception/hand-eye-pink.webp"
+  },
+  "c1be4a813aace087": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/life/heart-cross-strong-flame-green.webp"
+  },
+  "4e0a6084f660ef54": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/creatures/mammals/elk-moose-marked-green.webp"
+  },
+  "d12406e5c38b3455": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/creatures/mammals/dog-husky-white-blue.webp"
+  },
+  "2e55ffe717be6328": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/skills/targeting/crosshair-triple-strike-orange.webp"
+  },
+  "c22845c7856f75a2": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/life/heart-cross-strong-green.webp"
+  },
+  "40cb9a5edebce3dc": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/skills/targeting/crosshair-scope-sniper-green.webp"
+  },
+  "ff801714962fa1b2": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/creatures/mammals/wolf-howl-moon-black.webp"
+  },
+  "d3ebeb2d827fab13": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/skills/melee/strike-slashes-red.webp"
+  },
+  "3b9e22f702bd45d6": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/buff-flight-wings-runes-red-yellow.webp"
+  },
+  "4a597302f2a4487a": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/creatures/mammals/cat-hunched-glowing-red.webp"
+  },
+  "d1e1c3f951d08678": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/silhouette-hold-change-blue.webp"
+  },
+  "b5afec42331ed2df": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/silhouette-hold-change-blue.webp"
+  },
+  "e38945005bc4f458": {
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+      "default": 0
+    },
+    "flags": {
+      "core": {}
+    },
+    "img": "icons/magic/control/silhouette-hold-change-blue.webp"
   }
 }

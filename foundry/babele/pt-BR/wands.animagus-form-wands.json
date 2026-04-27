@@ -1,11 +1,8 @@
 {
   "label": "Animagus Form (WANDS)",
   "entries": {
-    "Evasion Animagus (Water)": {
-      "name": "Animago de Evasão (Água)"
-    },
-    "Evasion Animagus (Land)": {
-      "name": "Animago de Evasão (Terra)"
+    "Combat Animagus (Land)": {
+      "name": "Animago de Combate (Terra)"
     },
     "Combat Animagus (Water)": {
       "name": "Animago de Combate (Água)"
@@ -13,40 +10,11 @@
     "Evasion Animagus (Air)": {
       "name": "Animago de Evasão (Ar)"
     },
-    "Combat Animagus (Land)": {
-      "name": "Animago de Combate (Terra)"
+    "Evasion Animagus (Land)": {
+      "name": "Animago de Evasão (Terra)"
     },
-    "Rake": {
-      "name": "Patada",
-      "description": "<p>O {evasion animagus} ataca com sua Patada.</p>"
-    },
-    "Cunning Action": {
-      "name": "Ação Astúta",
-      "description": "<p>Em cada um de seus turnos, o {evasion animagus} pode usar uma ação bônus para realizar a ação de correr, desengajar ou esconder.</p>"
-    },
-    "Water Breathing": {
-      "name": "Respiração Aquática",
-      "description": "<p>O {combat animagus} pode respirar apenas embaixo d'água.</p>"
-    },
-    "Keen Senses": {
-      "name": "Sentidos Aguçados",
-      "description": "<p>O {evasion animagus} tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de visão, audição ou olfato.</p>"
-    },
-    "Maul": {
-      "name": "Investida",
-      "description": "<p>O {combat animagus} ataca com sua Investida.</p>"
-    },
-    "Blood Frenzy": {
-      "name": "Frenesi Sanguíneo",
-      "description": "<p>O {combat animagus} tem<strong> vantagem </strong>em jogadas de ataque corpo a corpo contra qualquer criatura que não tenha todos os seus<strong> pontos de vida</strong>.</p>"
-    },
-    "Keen Smell": {
-      "name": "Olfato Aguçado",
-      "description": "<p>O {combat animagus} tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de olfato.</p>"
-    },
-    "Pack Tactics": {
-      "name": "Táticas de Bando",
-      "description": "<p>O {combat animagus} tem<strong> vantagem </strong>em uma jogada de ataque contra uma criatura se pelo menos um dos aliados do {combat animagus} estiver a <strong>1,5 m</strong> da criatura e o aliado não estiver incapacitado.</p>"
+    "Evasion Animagus (Water)": {
+      "name": "Animago de Evasão (Água)"
     }
   }
 }

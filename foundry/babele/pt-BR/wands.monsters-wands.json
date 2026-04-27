@@ -1,689 +1,254 @@
 {
   "label": "Monsters (WANDS)",
   "entries": {
+    "Abraxan Winged Horse": {
+      "name": "Cavalo Alado Abraxano"
+    },
     "Adult Acromantula": {
       "name": "Acromântula Adulta"
-    },
-    "Swarm of Tiny Birds": {
-      "name": "Enxame de Pássaros Minúsculos"
-    },
-    "Inferi Horde": {
-      "name": "Horda de Inferi"
-    },
-    "Young Yeti": {
-      "name": "Yeti Jovem"
-    },
-    "Young Polar Bear": {
-      "name": "Urso-Polar Jovem"
-    },
-    "Alpha Wolf": {
-      "name": "Lobo Alfa"
-    },
-    "Goblin Banker": {
-      "name": "Goblin Banqueiro"
-    },
-    "Spectre Bat": {
-      "name": "Morcego Espectral"
-    },
-    "Adult Chinese Fireball": {
-      "name": "Bola-de-Fogo Chinês Adulto"
-    },
-    "Adult Brown Bear": {
-      "name": "Urso-Pardo Adulto"
-    },
-    "Adult Basilisk": {
-      "name": "Basilisco Adulto"
-    },
-    "Swarm of Spectre Bats": {
-      "name": "Enxame de Morcegos Espectrais"
-    },
-    "Adult Swedish Shortsnout": {
-      "name": "Focinho-Curto Sueco Adulto"
-    },
-    "Adult Wolf": {
-      "name": "Lobo Adulto"
     },
     "Adult Antipodean Opaleye": {
       "name": "Olho-de-Opala Antípoda Adulto"
     },
-    "Infant Acromantula": {
-      "name": "Acromântula Infantil"
-    },
-    "Mortis Bat": {
-      "name": "Morcego Mortis"
-    },
-    "Bowtruckle": {
-      "name": "Tronquilho"
-    },
-    "Young Romanian Longhorn": {
-      "name": "Chifre-Longo Romeno Jovem"
-    },
-    "Ancient Basilisk": {
-      "name": "Basilisco Ancião"
-    },
-    "Young Ukrainian Ironbelly": {
-      "name": "Barriga-de-Ferro Ucraniano Jovem"
-    },
-    "Adult Nundu": {
-      "name": "Nundu Adulto"
-    },
-    "Dementor": {
-      "name": "Dementador"
-    },
-    "Wolf Pup": {
-      "name": "Filhote de Lobo"
-    },
-    "Swarm of Mortis Bats": {
-      "name": "Enxame de Morcegos Mortis"
-    },
-    "Deer (Buck)": {
-      "name": "Cervo (Macho)"
-    },
-    "Peruvian Vipertooth Wyrmling": {
-      "name": "Filhote de Dente-de-Víbora Peruano"
-    },
-    "Young Swedish Shortsnout": {
-      "name": "Focinho-Curto Sueco Jovem"
-    },
-    "Young Peruvian Vipertooth": {
-      "name": "Dente-de-Víbora Peruano Jovem"
-    },
-    "Adult Hungarian Horntail": {
-      "name": "Rabo-Córneo Húngaro Adulto"
-    },
-    "Granian Winged Horse": {
-      "name": "Cavalo Alado Graniano"
-    },
     "Adult Ape": {
       "name": "Macaco Adulto"
     },
-    "Hebridean Black Wyrmling": {
-      "name": "Filhote de Negro das Hébridas"
+    "Adult Basilisk": {
+      "name": "Basilisco Adulto"
     },
     "Adult Black Bear": {
       "name": "Urso-Negro Adulto"
     },
+    "Adult Brown Bear": {
+      "name": "Urso-Pardo Adulto"
+    },
     "Adult Cerberus": {
       "name": "Cérbero Adulto"
     },
-    "Adult Ukrainian Ironbelly": {
-      "name": "Barriga-de-Ferro Ucraniano Adulto"
-    },
-    "Young Ape": {
-      "name": "Macaco Jovem"
-    },
-    "Adult Polar Bear": {
-      "name": "Urso-Polar Adulto"
-    },
-    "Young Hungarian Horntail": {
-      "name": "Rabo-Córneo Húngaro Jovem"
-    },
-    "Pit Viper": {
-      "name": "Víbora"
-    },
-    "Adult Hebridean Black": {
-      "name": "Negro das Hébridas Adulto"
-    },
-    "Inferi Swarm": {
-      "name": "Enxame de Inferi"
-    },
-    "Deer (Doe)": {
-      "name": "Cervo (Fêmea)"
-    },
-    "Goblin Warrior": {
-      "name": "Goblin Guerreiro"
-    },
-    "Giant Plague Rat": {
-      "name": "Rato Pestilento Gigante"
-    },
-    "Chinese Fireball Wyrmling": {
-      "name": "Filhote de Bola-de-Fogo Chinês"
-    },
-    "Adult Yeti": {
-      "name": "Yeti Adulto"
-    },
-    "Goblin Guard": {
-      "name": "Goblin Guarda"
-    },
-    "Romanian Longhorn Wyrmling": {
-      "name": "Filhote de Chifre-Longo Romeno"
+    "Adult Chinese Fireball": {
+      "name": "Bola-de-Fogo Chinês Adulto"
     },
     "Adult Common Welsh Green": {
       "name": "Verde-Galês Comum Adulto"
     },
-    "Common Welsh Green Wyrmling": {
-      "name": "Filhote de Verde-Galês Comum"
-    },
-    "Young Acromantula": {
-      "name": "Acromântula Jovem"
-    },
-    "Winged Foal": {
-      "name": "Potro Alado"
-    },
     "Adult Diricawl": {
       "name": "Diricawl Adulto"
     },
-    "Rat": {
-      "name": "Rato"
+    "Adult Hebridean Black": {
+      "name": "Negro das Hébridas Adulto"
     },
-    "Young Hebridean Black": {
-      "name": "Negro das Hébridas Jovem"
-    },
-    "Phoenix": {
-      "name": "Fênix"
-    },
-    "Ukrainian Ironbelly Wyrmling": {
-      "name": "Filhote de Barriga-de-Ferro Ucraniano"
-    },
-    "Aethonan Winged Horse": {
-      "name": "Cavalo Alado Etônio"
-    },
-    "Young Common Welsh Green": {
-      "name": "Verde-Galês Comum Jovem"
-    },
-    "Abraxan Winged Horse": {
-      "name": "Cavalo Alado Abraxano"
-    },
-    "Hungarian Horntail Wyrmling": {
-      "name": "Filhote de Rabo-Córneo Húngaro"
-    },
-    "Swarm of Grindylow": {
-      "name": "Enxame de Grindylows"
-    },
-    "Thestral": {
-      "name": "Testrálio"
-    },
-    "Young Cerberus": {
-      "name": "Cérbero Jovem"
-    },
-    "Swedish Shortsnout Wyrmling": {
-      "name": "Filhote de Focinho-Curto Sueco"
-    },
-    "Alpha Acromantula": {
-      "name": "Acromântula Alfa"
-    },
-    "Young Antipodean Opaleye": {
-      "name": "Olho-de-Opala Antípoda Jovem"
-    },
-    "Norwegian Ridgeback Wyrmling": {
-      "name": "Filhote de Dorso-de-Crista Norueguês"
-    },
-    "Billywig Swarm": {
-      "name": "Enxame de Billywigs"
-    },
-    "Young Diricawl": {
-      "name": "Diricawl Jovem"
-    },
-    "Young Chinese Fireball": {
-      "name": "Bola-de-Fogo Chinês Jovem"
-    },
-    "Young Nundu": {
-      "name": "Nundu Jovem"
-    },
-    "Young Norwegian Ridgeback": {
-      "name": "Dorso-de-Crista Norueguês Jovem"
-    },
-    "Antipodean Opaleye Wyrmling": {
-      "name": "Filhote de Olho-de-Opala Antípoda"
-    },
-    "Deer (Fawn)": {
-      "name": "Cervo (Filhote)"
-    },
-    "Swarm of Small Birds": {
-      "name": "Enxame de Pássaros Pequenos"
-    },
-    "Plague Rat": {
-      "name": "Rato Pestilento"
-    },
-    "Adult Peruvian Vipertooth": {
-      "name": "Dente-de-Víbora Peruano Adulto"
-    },
-    "Adult Romanian Longhorn": {
-      "name": "Chifre-Longo Romeno Adulto"
-    },
-    "Bear Cub": {
-      "name": "Filhote de Urso"
+    "Adult Hungarian Horntail": {
+      "name": "Rabo-Córneo Húngaro Adulto"
     },
     "Adult Norwegian Ridgeback": {
       "name": "Dorso-de-Crista Norueguês Adulto"
     },
+    "Adult Nundu": {
+      "name": "Nundu Adulto"
+    },
+    "Adult Peruvian Vipertooth": {
+      "name": "Dente-de-Víbora Peruano Adulto"
+    },
+    "Adult Polar Bear": {
+      "name": "Urso-Polar Adulto"
+    },
+    "Adult Romanian Longhorn": {
+      "name": "Chifre-Longo Romeno Adulto"
+    },
+    "Adult Swedish Shortsnout": {
+      "name": "Focinho-Curto Sueco Adulto"
+    },
+    "Adult Ukrainian Ironbelly": {
+      "name": "Barriga-de-Ferro Ucraniano Adulto"
+    },
+    "Adult Wolf": {
+      "name": "Lobo Adulto"
+    },
+    "Adult Yeti": {
+      "name": "Yeti Adulto"
+    },
+    "Aethonan Winged Horse": {
+      "name": "Cavalo Alado Etônio"
+    },
+    "Alpha Acromantula": {
+      "name": "Acromântula Alfa"
+    },
+    "Alpha Wolf": {
+      "name": "Lobo Alfa"
+    },
+    "Ancient Basilisk": {
+      "name": "Basilisco Ancião"
+    },
+    "Antipodean Opaleye Wyrmling": {
+      "name": "Filhote de Olho-de-Opala Antípoda"
+    },
+    "Bear Cub": {
+      "name": "Filhote de Urso"
+    },
+    "Billywig Swarm": {
+      "name": "Enxame de Billywigs"
+    },
+    "Bowtruckle": {
+      "name": "Tronquilho"
+    },
+    "Chinese Fireball Wyrmling": {
+      "name": "Filhote de Bola-de-Fogo Chinês"
+    },
+    "Common Welsh Green Wyrmling": {
+      "name": "Filhote de Verde-Galês Comum"
+    },
+    "Deer (Buck)": {
+      "name": "Cervo (Macho)"
+    },
+    "Deer (Doe)": {
+      "name": "Cervo (Fêmea)"
+    },
+    "Deer (Fawn)": {
+      "name": "Cervo (Filhote)"
+    },
+    "Dementor": {
+      "name": "Dementador"
+    },
+    "Giant Plague Rat": {
+      "name": "Rato Pestilento Gigante"
+    },
     "Giant Rat": {
       "name": "Rato Gigante"
     },
-    "Spell Resistant": {
-      "name": "Resistente a Magias",
-      "description": "<p>Sempre que a acromântula for alvo de uma magia que requer uma jogada de ataque à distância, a acromântula não é afetada.</p>"
-    },
-    "Pounce": {
-      "name": "Bote",
-      "description": "<p>Se o nundu se mover pelo menos <strong>20 pés</strong> em linha reta na direção de uma criatura e então acertá-la com um ataque de garra no mesmo turno, o alvo deve fazer um teste de resistência de <strong>Força</strong>.</p>"
-    },
-    "Soft Underbelly": {
-      "name": "Ventre Mole",
-      "description": "<p>O traço Resistente a Magias não se aplica a magias que atinjam a parte inferior da acromântula.</p>"
-    },
-    "Frightful Presence": {
-      "name": "Presença Aterrorizante",
-      "description": "<p>Cada criatura escolhida pelo dragão que esteja <strong>a até 120 pés</strong> do dragão e ciente dele deve ser bem-sucedida em um teste de resistência de Sabedoria. Uma criatura pode repetir o teste de resistência no final de cada um de seus turnos.</p>"
-    },
-    "Spider Climb": {
-      "name": "Escalada Aracnídea",
-      "description": "<p>A acromântula pode escalar superfícies difíceis, incluindo de cabeça para baixo em tetos, sem precisar fazer um teste de habilidade.</p>"
-    },
-    "Lunging Bite": {
-      "name": "Mordida Avançada",
-      "description": "<p>A acromântula faz um ataque com sua mordida.</p>"
-    },
-    "Standing Leap": {
-      "name": "Salto Parado",
-      "description": "<p>O salto em distância da acromântula é de até <strong>20 pés</strong> e seu salto em altura é de até <strong>10 pés</strong>, com ou sem corrida prévia.</p>"
-    },
-    "Deadly leap": {
-      "name": "Salto Mortal",
-      "description": "<p>Se a acromântula saltar pelo menos 15 pés como parte de seu movimento, ela pode então usar esta ação para aterrissar de pé em um espaço que contenha uma ou mais outras criaturas. Cada uma dessas criaturas deve fazer um teste de resistência de Força ou Destreza (escolha do alvo) ou ser derrubada.</p>"
-    },
-    "Web Sense": {
-      "name": "Sentido de Teia",
-      "description": "<p>Enquanto em contato com uma teia, a acromântula sabe a localização exata de qualquer outra criatura em contato com a mesma teia.</p>"
-    },
-    "Web": {
-      "name": "Teia",
-      "description": "<p>A criatura está presa por teias. Como uma ação, a criatura presa pode fazer um teste de Força, escapando das teias em caso de sucesso.</p>"
-    },
-    "Web Walker": {
-      "name": "Andarilho de Teia",
-      "description": "<p>A acromântula ignora restrições de movimento causadas por teias.</p>"
-    },
-    "Swarm": {
-      "name": "Enxame",
-      "description": "<p>O enxame pode ocupar o espaço de outra criatura e vice-versa, e o enxame pode se mover através de qualquer abertura grande o suficiente para um pássaro Pequeno. O enxame não pode recuperar<strong> pontos de vida</strong> ou ganhar<strong> pontos de vida</strong> temporários.</p>"
-    },
-    "Beaks": {
-      "name": "Bicos",
-      "description": "<p>O enxame de pássaros faz ataques com seus bicos.</p>"
-    },
-    "Legendary Actions": {
-      "name": "Ações Lendárias",
-      "description": "<p>O dragão pode realizar 3 ações lendárias.</p>"
-    },
-    "Multiattack": {
-      "name": "Multiataque",
-      "description": "<p>O dragão pode usar sua Presença Aterrorizante. Em seguida, ele faz três ataques: um com sua mordida e dois com suas garras.</p>"
-    },
-    "Move (legendary)": {
-      "name": "Mover (Lendário)",
-      "description": "<p>O cérbero se move até metade de seu deslocamento.</p>"
-    },
-    "Detect (Legendary)": {
-      "name": "Detectar (Lendário)",
-      "description": "<p>O dragão faz um teste de Sabedoria (Percepção).</p>"
-    },
-    "Fist Attack (Legendary)": {
-      "name": "Ataque de Punho (Lendário)",
-      "description": "<p>O enxame de inferi faz um ataque de punho.</p>"
-    },
-    "Engulf (Legendary)": {
-      "name": "Engolir (Lendário)",
-      "description": "<p>Se o enxame de inferi estiver atualmente agarrando uma criatura, o enxame de inferi puxa a criatura agarrada para um de seus espaços e a criatura é derrubada.</p>"
-    },
-    "Clutching Hands": {
-      "name": "Mãos Agarradoras",
-      "description": "<p>O enxame de inferi faz ataques com suas mãos agarradoras.</p>"
-    },
-    "Fist": {
-      "name": "Punho",
-      "description": "<p>Os inferi fazem ataques com seus punhos.</p>"
-    },
-    "Split": {
-      "name": "Dividir",
-      "description": "<p>O enxame de inferi se divide em dois ou três Inferi individuais.</p>"
-    },
-    "Claw": {
-      "name": "Garra",
-      "description": "<p>O dragão faz um ataque com suas garras.</p>"
-    },
-    "Snow Camouflage": {
-      "name": "Camuflagem na Neve",
-      "description": "<p>O yeti tem<strong> vantagem </strong>em testes de Destreza (Furtividade) feitos para se esconder em terreno nevado.</p>"
-    },
-    "Resistant Hide": {
-      "name": "Couro Resistente",
-      "description": "<p>Sempre que o yeti for alvo de uma magia que requer uma jogada de ataque à distância e aplicaria uma condição, role um d6. Em um resultado de 1 a 5, o yeti não é afetado pela condição da magia. Em um 6, o yeti é afetado pela condição da magia.</p>"
-    },
-    "Keen Smell": {
-      "name": "Faro Aguçado",
-      "description": "<p>O rato tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de faro.</p>"
-    },
-    "Fear of Fire": {
-      "name": "Medo de Fogo",
-      "description": "<p>Se o yeti sofrer dano de fogo, ele tem desvantagem em jogadas de ataque e testes de habilidade até o final de seu próximo turno.</p>"
-    },
-    "Chilling Gaze": {
-      "name": "Olhar Gélido",
-      "description": "<p>O yeti mira em uma criatura que possa ver a até 30 pés dele. Se o alvo puder ver o yeti, o alvo deve ser bem-sucedido em um teste de resistência de <strong>Constituição</strong>.</p>"
-    },
-    "Bite": {
-      "name": "Mordida",
-      "description": "<p>O Rato Gigante ataca com sua Mordida.</p>"
-    },
-    "Claws": {
-      "name": "Garras",
-      "description": "<p>O Urso-Negro ataca com suas Garras.</p>"
-    },
-    "Pack Tactics": {
-      "name": "Táticas de Bando",
-      "description": "<p>O rato tem<strong> vantagem </strong>em uma jogada de ataque contra uma criatura se pelo menos um dos aliados do rato estiver a <strong>5 pés</strong> da criatura e o aliado não estiver incapacitado.</p>"
-    },
-    "Keen Hearing and Smell": {
-      "name": "Audição e Faro Aguçados",
-      "description": "<p>O lobo tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de audição ou faro.</p>"
-    },
-    "Goblin Cunning": {
-      "name": "Astúcia Goblin",
-      "description": "<p>O goblin tem vantagem em todos os testes de resistência de Inteligência e Sabedoria contra magia.</p>"
-    },
-    "Nimble Escape": {
-      "name": "Fuga Ágil",
-      "description": "<p>O goblin pode realizar a ação Desengajar ou Esconder como uma ação bônus em cada um de seus turnos.</p>"
-    },
-    "Echolocation": {
-      "name": "Ecolocalização",
-      "description": "<p>O enxame não pode usar sua visão às cegas enquanto estiver surdo.</p>"
-    },
-    "Incorporeal Movement": {
-      "name": "Movimento Incorpóreo",
-      "description": "<p>O enxame pode se mover através de outras criaturas e objetos como se fossem terreno difícil.</p>"
-    },
-    "Life Drain Bite": {
-      "name": "Mordida Drenar Vida",
-      "description": "<p>O enxame ataca com sua Mordida.</p>"
-    },
-    "Sunlight Sensitivity": {
-      "name": "Sensibilidade à Luz Solar",
-      "description": "<p>Enquanto estiver sob luz solar, o dementador tem<strong> desvantagem </strong>em jogadas de ataque, assim como em testes de Sabedoria (Percepção) que dependam de visão.</p>"
-    },
-    "Keen Hearing": {
-      "name": "Audição Aguçada",
-      "description": "<p>O enxame tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de audição.</p>"
-    },
-    "Tail Attack (Legendary)": {
-      "name": "Ataque de Cauda (Lendário)",
-      "description": "<p>O dragão faz um ataque com sua cauda.</p>"
-    },
-    "Tail": {
-      "name": "Cauda",
-      "description": "<p>O dragão faz um ataque com sua cauda.</p>"
-    },
-    "Fire Ball": {
-      "name": "Bola de Fogo",
-      "description": "<p>O dragão lança uma pequena bola de fogo em direção a qualquer ponto. Cada criatura dentro de uma esfera de 20 pés de raio centrada nesse ponto deve fazer um teste de resistência de Destreza.</p>"
-    },
-    "Fire Breath": {
-      "name": "Sopro de Fogo",
-      "description": "<p>O dragão exala fogo em um cone de 60 pés. Cada criatura nesse cone deve fazer um teste de resistência de <strong>Destreza</strong>.</p>"
-    },
-    "Breath Weapons": {
-      "name": "Armas de Sopro",
-      "description": "<p>O dragão inspira!</p>"
-    },
-    "Legendary Resistance": {
-      "name": "Resistência Lendária",
-      "description": "<p>Se o dragão falhar em um teste de resistência, ele pode escolher ser bem-sucedido no lugar.</p>"
-    },
-    "Wing Attack (Legendary)": {
-      "name": "Ataque de Asa (Lendário)",
-      "description": "<p>O dragão bate suas asas. Cada criatura a até 20 pés do dragão deve fazer um teste de resistência de Destreza.</p>"
-    },
-    "Reflective Hide": {
-      "name": "Couro Reflexivo",
-      "description": "<p>O dragão não é afetado, e o efeito é refletido de volta ao conjurador como se tivesse se originado do dragão, transformando o conjurador no alvo.</p>"
-    },
-    "Fire Ball Attack (Legendary)": {
-      "name": "Ataque de Bola de Fogo (Lendário)",
-      "description": "<p>O dragão usa sua arma de sopro Bola de Fogo, independentemente de a habilidade estar recarregada ou não. Após este ataque, ela deve ser recarregada normalmente.</p>"
-    },
-    "Death Gaze": {
-      "name": "Olhar da Morte",
-      "description": "<p>Se uma criatura iniciar seu turno a até 60 pés do basilisco e ambos puderem se ver, a criatura deve fazer um teste de resistência de Destreza.</p>"
-    },
-    "Hold Breath": {
-      "name": "Prender Respiração",
-      "description": "<p>O basilisco pode prender a respiração por <strong>1 hora</strong>.</p>"
-    },
-    "Fear of Roosters": {
-      "name": "Medo de Galos",
-      "description": "<p>Um basilisco que inicia seu turno a até 120 pés de um galo deve fazer um teste de resistência de Sabedoria.</p>"
-    },
-    "Serpent's Eyes": {
-      "name": "Olhos da Serpente",
-      "description": "<p>O basilisco tem dois olhos amarelos reluzentes. Uma criatura pode mirar nos olhos com qualquer ataque que requer uma jogada de ataque, impondo desvantagem na jogada feita para acertar o basilisco.</p>"
-    },
-    "Invisibility": {
-      "name": "Invisibilidade",
-      "description": "<p>O dragão se torna magicamente invisível. Qualquer equipamento que o dragão vista ou carregue fica invisível com ele.</p>"
-    },
-    "Invisible Flight (Legendary)": {
-      "name": "Voo Invisível (Lendário)",
-      "description": "<p>O dragão usa sua Invisibilidade e pode então voar até metade de seu deslocamento de voo.</p>"
-    },
-    "Escape Artist": {
-      "name": "Artista da Fuga",
-      "description": "<p>O tronquilho tem vantagem em testes de Destreza (Prestidigitação) ao abrir uma fechadura.</p>"
-    },
-    "False Appearance": {
-      "name": "Aparência Falsa",
-      "description": "<p>Enquanto o tronquilho permanecer imóvel, ele é indistinguível de outro galho em uma árvore.</p>"
-    },
-    "Natural Alarm": {
-      "name": "Alarme Natural",
-      "description": "<p>Quando há um trouxa ou criatura hostil a até 50 pés do clabbert, a pústula na testa do clabbert brilha em vermelho para sinalizar perigo. Se isso se ativar, o clabbert e criaturas aliadas que possam ver o clabbert não podem ser surpreendidos.</p>"
-    },
-    "Undead Fortitude": {
-      "name": "Fortitude Morta-Viva",
-      "description": "<p>Se o dano reduzir o inferius a <strong>0 pontos de vida</strong>, ele deve fazer um teste de resistência de <strong>Constituição</strong>.</p>"
-    },
-    "Swooping Charge": {
-      "name": "Investida Rasante",
-      "description": "<p>O dragão se move até seu deslocamento de voo em linha reta e através do espaço de qualquer criatura Grande ou menor, mirando cada criatura pela qual passa. Uma criatura cujo espaço o dragão entre durante este movimento é derrubada e deve fazer um teste de resistência de <strong>Destreza</strong>.</p>"
-    },
-    "Wing": {
-      "name": "Asa",
-      "description": "<p>O dragão faz um ataque com sua asa.</p>"
-    },
-    "Swallow": {
-      "name": "Engolir",
-      "description": "<p>O dragão ataca com seu Engolir.</p>"
-    },
-    "Running Leap": {
-      "name": "Salto com Corrida",
-      "description": "<p>Com uma corrida de 10 pés, o nundu pode saltar em distância até <strong>30 pés</strong>.</p>"
-    },
-    "Keen Sight and Smell": {
-      "name": "Visão e Faro Aguçados",
-      "description": "<p>O nundu tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de visão ou faro.</p>"
-    },
-    "Toxic Breath": {
-      "name": "Sopro Tóxico",
-      "description": "<p>O nundu exala ácido em um cone de 30 pés. Cada criatura nesse  cone deve fazer um teste de resistência de <strong>Constituição</strong>.</p>"
-    },
-    "Toxic Spines": {
-      "name": "Espinhos Tóxicos",
-      "description": "<p>Quando uma criatura a até 10 pés do nundu o acerta com um ataque corpo a corpo, o atacante sofre dano de veneno.</p>"
-    },
-    "Drain Emotion": {
-      "name": "Drenar Emoção",
-      "description": "<p>O dementador mira em um ser que ele possa ver a até 10 pés dele. O alvo deve fazer um teste de resistência de Carisma, com desvantagem se o alvo estiver amedrontado.</p>"
-    },
-    "Despair Aura": {
-      "name": "Aura de Desespero",
-      "description": "<p>Qualquer ser que entre a até 60 pés de um dementador pela primeira vez em um turno ou inicie seu turno lá deve ser bem-sucedido em um teste de resistência de <strong>Sabedoria</strong> ou revive suas piores memórias.</p>"
-    },
-    "Sense Emotions": {
-      "name": "Sentir Emoções",
-      "description": "<p>A visão às cegas do dementador permite que ele sinta a emoção de qualquer ser dentro de seu alcance. Qualquer tentativa de um ser de se Esconder de um dementador enquanto estiver dentro do raio de sua visão às cegas falha automaticamente.</p>"
-    },
-    "Kiss": {
-      "name": "Beijo",
-      "description": "<p>O dementador tenta agarrar um ser que ele possa ver a até 5 pés dele. O alvo deve ser bem-sucedido em um teste de resistência de <strong>Força ou Destreza</strong> (escolha do alvo).</p>"
-    },
-    "Ram": {
-      "name": "Chifrada",
-      "description": "<p>O cervo ataca com sua Chifrada.</p>"
-    },
-    "Charge": {
-      "name": "Investida",
-      "description": "<p>Se o cervo se mover pelo menos 20 pés em linha reta na direção de um alvo e então acertá-lo com um ataque de chifrada no mesmo turno, o alvo sofre dano extra. Se o alvo for uma criatura, ele deve fazer um teste de resistência de <strong>Força</strong> ou ser derrubado.</p>"
-    },
-    "Tough Hide": {
-      "name": "Couro Resistente",
-      "description": "<p>Sempre que o dragão for alvo de uma magia que requer uma jogada de ataque à distância, role um d6. Em um resultado de 3 a 6, o dragão não é afetado.</p>"
-    },
-    "Hooves": {
-      "name": "Cascos",
-      "description": "<p>O cavalo alado faz um ataque com seus cascos.</p>"
-    },
-    "Rock": {
-      "name": "Pedra",
-      "description": "<p>O Macaco ataca com sua Pedra.</p>"
-    },
-    "Three Heads": {
-      "name": "Três Cabeças",
-      "description": "<p>O cérbero não pode ser surpreendido e tem <strong>vantagem</strong> em testes de resistência contra ficar cego, enfeitiçado, surdo, amedrontado, atordoado e inconsciente.</p>"
-    },
-    "Bite Attack (Legendary)": {
-      "name": "Ataque de Mordida (Lendário)",
-      "description": "<p>O cérbero faz um ataque de mordida.</p>"
-    },
-    "Swallow Attack (Legendary)": {
-      "name": "Ataque de Engolir (Lendário)",
-      "description": "<p>O dragão faz um ataque de engolir se houver uma criatura atualmente agarrada.</p>"
-    },
-    "Destructive Breath": {
-      "name": "Sopro Destrutivo",
-      "description": "<p>O dragão exala fogo e gás quente em um cone de 30 pés. Cada criatura nesse cone deve fazer um teste de resistência de <strong>Destreza</strong>.</p>"
+    "Goblin Banker": {
+      "name": "Goblin Banqueiro"
     },
-    "Hoof": {
-      "name": "Casco",
-      "description": "<p>O cervo ataca com seu casco.</p>"
+    "Goblin Guard": {
+      "name": "Goblin Guarda"
     },
-    "Chain Shirt": {
-      "name": "Cota de Malha",
-      "description": "<p>Feita de anéis de metal entrelaçados, a cota de malha é usada entre camadas de roupa ou couro. Esta armadura oferece proteção modesta ao tronco do usuário e permite que o som dos anéis se esfregando seja abafado pelas camadas externas.</p>"
+    "Goblin Warrior": {
+      "name": "Goblin Guerreiro"
     },
-    "Shortsword": {
-      "name": "Espada Curta",
-      "description": "<p>O goblin faz um ataque com uma espada curta.</p><p>Uma lâmina de tamanho médio com um guarda-mão firme e um cabo envolto em couro. Uma arma versátil que compensa em versatilidade o que lhe falta em alcance.</p>"
+    "Granian Winged Horse": {
+      "name": "Cavalo Alado Graniano"
     },
-    "Javelin": {
-      "name": "Dardo",
-      "description": "<p>O goblin faz um ataque com um Dardo.</p><p>Esta lança leve e flexível é projetada para arremesso, mas é versátil o suficiente para ser usada em combate corpo a corpo também.</p>"
+    "Hebridean Black Wyrmling": {
+      "name": "Filhote de Negro das Hébridas"
     },
-    "Evasion": {
-      "name": "Evasão",
-      "description": "<p>Se o rato for submetido a um efeito que lhe permita fazer um teste de resistência de <strong>Destreza</strong> para sofrer apenas metade do dano, o rato não sofre dano algum se for bem-sucedido no teste de resistência, e apenas metade do dano se falhar.</p>"
+    "Hungarian Horntail Wyrmling": {
+      "name": "Filhote de Rabo-Córneo Húngaro"
     },
-    "Grapple (Legendary)": {
-      "name": "Agarrão (Lendário)",
-      "description": "<p>O yeti faz uma tentativa de agarrão.</p>"
-    },
-    "Claw Attack (Legendary)": {
-      "name": "Ataque de Garra (Lendário)",
-      "description": "<p>O yeti faz um ataque de garra.</p>"
-    },
-    "Leap (legendary)": {
-      "name": "Salto (Lendário)",
-      "description": "<p>O yeti salta até 10 pés.</p>"
-    },
-    "Studded Leather Armor": {
-      "name": "Couraça de Couro Batido",
-      "description": "<p>Feita de couro resistente mas flexível, a couraça de couro batido é reforçada com rebites ou espigões bem próximos.</p>"
-    },
-    "Spear": {
-      "name": "Lança",
-      "description": "<p>O goblin usa a lança com as duas mãos para atacar.</p><p>Uma ponta de aço reluzente montada sobre uma haste de madeira robusta, a lança pode ser empunhada com uma ou duas mãos e pode perfurar as armaduras mais pesadas com força mortal.</p>"
-    },
-    "Teleport": {
-      "name": "Teleporte",
-      "description": "<p>O diricawl se teleporta magicamente, junto com qualquer equipamento que esteja vestindo ou carregando, até 40 pés para um espaço desocupado que possa ver. Antes ou depois de se teleportar, o diricawl pode fazer um ataque de bico.</p>"
-    },
-    "Beak": {
-      "name": "Bico",
-      "description": "<p>O diricawl faz um ataque com seu bico.</p>"
-    },
-    "Talons": {
-      "name": "Garras",
-      "description": "<p>A fênix faz um ataque com suas garras.</p>"
-    },
-    "Flyby": {
-      "name": "Voo Rasante",
-      "description": "<p>A fênix não provoca ataques de oportunidade quando voa para fora do alcance de um inimigo.</p>"
-    },
-    "Powerful Build": {
-      "name": "Compleição Poderosa",
-      "description": "<p>A fênix é considerada uma criatura Grande para fins de determinar sua capacidade de carga e o peso que pode empurrar, arrastar ou erguer.</p>"
-    },
-    "Keen Sight and Hearing": {
-      "name": "Visão e Audição Aguçadas",
-      "description": "<p>A fênix tem<strong> vantagem </strong>em testes de Sabedoria (Percepção) que dependam de visão ou audição.</p>"
-    },
-    "Burning Day": {
-      "name": "Dia da Chama",
-      "description": "<p>A fênix é imune a qualquer efeito que a mataria instantaneamente, como o Olhar da Morte de um basilisco. Se a fênix for reduzida a 0 pontos de vida, seu corpo irrompe em chamas e ela se transforma em um filhote de fênix. Qualquer criatura a até 5 pés da fênix deve fazer um teste de resistência de Destreza CD 12, sofrendo 3 (1d6) de dano de fogo em uma falha, ou metade em um sucesso.</p>"
-    },
-    "Fiery Apparition": {
-      "name": "Aparição Flamejante",
-      "description": "<p>A fênix se teleporta junto com qualquer número de criaturas com as quais esteja em contato físico para qualquer local que a fênix conheça.</p>"
-    },
-    "Phoenix Song": {
-      "name": "Canto da Fênix",
-      "description": "<p>A fênix começa a cantar enquanto estiver concentrada (como se estivesse se concentrando em uma magia). Qualquer criatura escolhida pela fênix que possa ouvi-la é imune a ficar amedrontada enquanto puder ouvir o canto.</p>"
-    },
-    "Glow": {
-      "name": "Brilho",
-      "description": "<p>Uma fênix emite luz tênue em um raio de 5 pés.</p>"
-    },
-    "Trampling Charge": {
-      "name": "Investida Esmagadora",
-      "description": "<p>Se o cavalo alado se mover pelo menos <strong>20 pés</strong> em linha reta na direção de uma criatura e então acertá-la com um ataque de casco no mesmo turno, o alvo deve ser bem-sucedido em um teste de resistência de Força.</p>"
-    },
-    "Brittle Bones": {
-      "name": "Ossos Frágeis",
-      "description": "<p>Quando uma criatura é bem-sucedida em seu teste de agarrão contra o grindylow, as mãos do grindylow são quebradas e ele não pode mais agarrar.</p>"
-    },
-    "Bites": {
-      "name": "Mordidas",
-      "description": "<p>O enxame de grindylows ataca com suas Mordidas.</p>"
-    },
-    "Water Breathing": {
-      "name": "Respiração Aquática",
-      "description": "<p>O grindylow pode respirar apenas debaixo d'água.</p>"
-    },
-    "Strangle": {
-      "name": "Estrangular"
-    },
-    "Deadly leap Attack (Legendary)": {
-      "name": "Ataque de Salto Mortal (Lendário)",
-      "description": "<p>A acromântula salta até 30 pés para aterrissar em um espaço que contenha uma ou mais outras criaturas, e usa o ataque Salto Mortal. O traço Bote se aplica.</p>"
-    },
-    "Web Attack (Legendary)": {
-      "name": "Ataque de Teia (Lendário)",
-      "description": "<p>A acromântula faz um ataque de teia.</p>"
-    },
-    "Leg Swipe": {
-      "name": "Rasteira",
-      "description": "<p>A acromântula desfere uma rasteira contra sua presa!</p>"
-    },
-    "Leg Swipe Attack (Legendary)": {
-      "name": "Ataque de Rasteira (Lendário)",
-      "description": "<p>A acromântula faz um ataque de rasteira.</p>"
-    },
-    "Stings": {
-      "name": "Ferrões",
-      "description": "<p>O enxame de billywigs faz um ataque com seus ferrões.</p>"
-    },
-    "Sting": {
-      "name": "Ferrão",
-      "description": "<p>O billywig faz um ataque com seu ferrão.</p>"
+    "Infant Acromantula": {
+      "name": "Acromântula Infantil"
+    },
+    "Inferi Horde": {
+      "name": "Horda de Inferi"
+    },
+    "Inferi Swarm": {
+      "name": "Enxame de Inferi"
+    },
+    "Mortis Bat": {
+      "name": "Morcego Mortis"
+    },
+    "Norwegian Ridgeback Wyrmling": {
+      "name": "Filhote de Dorso-de-Crista Norueguês"
+    },
+    "Peruvian Vipertooth Wyrmling": {
+      "name": "Filhote de Dente-de-Víbora Peruano"
+    },
+    "Phoenix": {
+      "name": "Fênix"
+    },
+    "Pit Viper": {
+      "name": "Víbora"
+    },
+    "Plague Rat": {
+      "name": "Rato Pestilento"
+    },
+    "Rat": {
+      "name": "Rato"
+    },
+    "Romanian Longhorn Wyrmling": {
+      "name": "Filhote de Chifre-Longo Romeno"
+    },
+    "Spectre Bat": {
+      "name": "Morcego Espectral"
+    },
+    "Swarm of Grindylow": {
+      "name": "Enxame de Grindylows"
+    },
+    "Swarm of Mortis Bats": {
+      "name": "Enxame de Morcegos Mortis"
+    },
+    "Swarm of Small Birds": {
+      "name": "Enxame de Pássaros Pequenos"
+    },
+    "Swarm of Spectre Bats": {
+      "name": "Enxame de Morcegos Espectrais"
+    },
+    "Swarm of Tiny Birds": {
+      "name": "Enxame de Pássaros Minúsculos"
+    },
+    "Swedish Shortsnout Wyrmling": {
+      "name": "Filhote de Focinho-Curto Sueco"
+    },
+    "Thestral": {
+      "name": "Testrálio"
+    },
+    "Ukrainian Ironbelly Wyrmling": {
+      "name": "Filhote de Barriga-de-Ferro Ucraniano"
+    },
+    "Winged Foal": {
+      "name": "Potro Alado"
+    },
+    "Wolf Pup": {
+      "name": "Filhote de Lobo"
+    },
+    "Young Acromantula": {
+      "name": "Acromântula Jovem"
+    },
+    "Young Antipodean Opaleye": {
+      "name": "Olho-de-Opala Antípoda Jovem"
+    },
+    "Young Ape": {
+      "name": "Macaco Jovem"
+    },
+    "Young Cerberus": {
+      "name": "Cérbero Jovem"
+    },
+    "Young Chinese Fireball": {
+      "name": "Bola-de-Fogo Chinês Jovem"
+    },
+    "Young Common Welsh Green": {
+      "name": "Verde-Galês Comum Jovem"
+    },
+    "Young Diricawl": {
+      "name": "Diricawl Jovem"
+    },
+    "Young Hebridean Black": {
+      "name": "Negro das Hébridas Jovem"
+    },
+    "Young Hungarian Horntail": {
+      "name": "Rabo-Córneo Húngaro Jovem"
+    },
+    "Young Norwegian Ridgeback": {
+      "name": "Dorso-de-Crista Norueguês Jovem"
+    },
+    "Young Nundu": {
+      "name": "Nundu Jovem"
+    },
+    "Young Peruvian Vipertooth": {
+      "name": "Dente-de-Víbora Peruano Jovem"
+    },
+    "Young Polar Bear": {
+      "name": "Urso-Polar Jovem"
+    },
+    "Young Romanian Longhorn": {
+      "name": "Chifre-Longo Romeno Jovem"
+    },
+    "Young Swedish Shortsnout": {
+      "name": "Focinho-Curto Sueco Jovem"
+    },
+    "Young Ukrainian Ironbelly": {
+      "name": "Barriga-de-Ferro Ucraniano Jovem"
+    },
+    "Young Yeti": {
+      "name": "Yeti Jovem"
     }
   }
 }

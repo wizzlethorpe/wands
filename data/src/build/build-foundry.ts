@@ -32,6 +32,21 @@ function ensureDir(dir: string) {
   fs.mkdirSync(dir, { recursive: true });
 }
 
+/**
+ * Clear all .json files from a pack output directory before writing new ones.
+ *
+ * Without this, deleting a source data entry would leave its old dist JSON in
+ * place and `compile-packs.ts` would still pick it up — so stale entries would
+ * silently keep showing up in the LevelDB until someone manually cleaned dist.
+ * Called once per pack at the start of {@link buildFoundry}.
+ */
+function cleanPackDir(dir: string) {
+  if (!fs.existsSync(dir)) return;
+  for (const entry of fs.readdirSync(dir)) {
+    if (entry.endsWith(".json")) fs.rmSync(path.join(dir, entry));
+  }
+}
+
 function writeJson(dir: string, id: string, data: unknown) {
   ensureDir(dir);
   fs.writeFileSync(path.join(dir, `${id}.json`), JSON.stringify(data, null, 2), "utf-8");
@@ -871,12 +886,17 @@ export function buildFoundry(opts: BuildFoundryOptions) {
 
   for (const pack of packs) {
     const overlay = loadOverlay(pack.name);
+    const packDir = path.join(DIST, pack.name);
+
+    // Drop any prior JSON output for this pack so deletions in the source data
+    // don't leave stale entries behind for compile-packs.ts to pick up.
+    cleanPackDir(packDir);
 
     // Write entity documents
     for (const entry of pack.items) {
       const id = pack.getId(entry);
       const result = pack.convert(entry, overlay);
-      writeJson(path.join(DIST, pack.name), id, result);
+      writeJson(packDir, id, result);
     }
     counts[pack.name] = pack.items.length;
 
