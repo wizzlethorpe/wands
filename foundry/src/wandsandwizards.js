@@ -11,29 +11,38 @@ Hooks.once("init", function () {
 
   // ==== W&W config tweaks ====
 
-  // Rename/add skills
-  CONFIG.DND5E.skills["ani"] = { label: "WANDS.SkillAnimal", ability: "wis" };     // Magical Creatures
-  CONFIG.DND5E.skills["arc"] = { label: "WANDS.SkillArcana", ability: "int" };     // Magical Theory
-  CONFIG.DND5E.skills["his"] = { label: "WANDS.SkillHistory", ability: "int" };    // Muggle Studies
-  CONFIG.DND5E.skills["nat"] = { label: "WANDS.SkillHerbology", ability: "int" };  // Herbology
-  CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" };     // Potion Making
+  // Rename/add skills. Merge so we keep dnd5e's icon/fullKey/reference fields.
+  const skillOverrides = {
+    ani: { label: "WANDS.SkillAnimal", ability: "wis" },     // Magical Creatures
+    arc: { label: "WANDS.SkillArcana", ability: "int" },     // Magical Theory
+    his: { label: "WANDS.SkillHistory", ability: "int" },    // Muggle Studies
+    nat: { label: "WANDS.SkillHerbology", ability: "int" },  // Herbology
+    ptn: { label: "WANDS.SkillPotion", ability: "wis" }      // Potion Making (new)
+  };
+  for (const [key, patch] of Object.entries(skillOverrides)) {
+    CONFIG.DND5E.skills[key] = foundry.utils.mergeObject(CONFIG.DND5E.skills[key] ?? {}, patch);
+  }
 
-  // Custom spell schools (dnd5e v3 requires icon field)
+  // Custom spell schools
   CONFIG.DND5E.spellSchools["cha"] = {
     label: "WANDS.SchoolCharms",
-    icon: "icons/magic/light/explosion-star-glow-silhouette.webp"
+    icon: "icons/magic/light/explosion-star-glow-silhouette.webp",
+    fullKey: "charms"
   };
   CONFIG.DND5E.spellSchools["jhc"] = {
     label: "WANDS.SchoolJHC",
-    icon: "icons/magic/unholy/strike-beam-blood-red-purple.webp"
+    icon: "icons/magic/unholy/strike-beam-blood-red-purple.webp",
+    fullKey: "jinxesHexesCurses"
   };
   CONFIG.DND5E.spellSchools["trf"] = {
     label: "WANDS.SchoolTransfig",
-    icon: "icons/magic/control/silhouette-hold-change-blue.webp"
+    icon: "icons/magic/control/silhouette-hold-change-blue.webp",
+    fullKey: "transfiguration"
   };
   CONFIG.DND5E.spellSchools["hea"] = {
     label: "WANDS.SchoolHealing",
-    icon: "icons/magic/life/heart-cross-strong-flame-green.webp"
+    icon: "icons/magic/life/heart-cross-strong-flame-green.webp",
+    fullKey: "healing"
   };
 
   // Wizarding currency names
@@ -42,36 +51,36 @@ Hooks.once("init", function () {
   CONFIG.DND5E.currencies.sp.label = "Sickle";
   CONFIG.DND5E.currencies.cp.label = "Knut";
 
-  // ==== Custom character sheets (Foundry v13 / AppV2) ====
-  const Base = dnd5e?.applications?.actor?.ActorSheet5eCharacter2;
+  // ==== Custom character sheets (Foundry v14 / dnd5e v5 AppV2) ====
+  const Base = dnd5e?.applications?.actor?.CharacterActorSheet;
   if (!Base) {
-    console.warn("WANDS: could not locate D&D5e ActorSheet5eCharacter2.");
+    console.warn("WANDS: could not locate dnd5e CharacterActorSheet — sheet themes not registered.");
     return;
   }
 
-  // Creates a named sheet subclass that adds a CSS theme class.
-  // eval is needed so each class gets a unique constructor name for Foundry's sheet registry.
-  function makeSheet(className, theme) {
-    // eslint-disable-next-line no-eval
-    return eval(`(class ${className} extends Base {
-      static DEFAULT_OPTIONS = foundry.utils.mergeObject(Base.DEFAULT_OPTIONS, {
-        classes: ["${theme}"]
-      }, { inplace: false });
-    })`);
-  }
+  // ApplicationV2 auto-merges DEFAULT_OPTIONS with the parent class (arrays concat,
+  // objects merge), so subclasses only need to declare their diff.
+  class WandsBadgerSheet      extends Base { static DEFAULT_OPTIONS = { classes: ["badger"] }; }
+  class WandsEagleSheet       extends Base { static DEFAULT_OPTIONS = { classes: ["eagle"] }; }
+  class WandsLionSheet        extends Base { static DEFAULT_OPTIONS = { classes: ["lion"] }; }
+  class WandsSnakeSheet       extends Base { static DEFAULT_OPTIONS = { classes: ["snake"] }; }
+  class WandsBeauxbatonsSheet extends Base { static DEFAULT_OPTIONS = { classes: ["beauxbatons"] }; }
+  class WandsIlvermornySheet  extends Base { static DEFAULT_OPTIONS = { classes: ["ilvermorny"] }; }
+  class WandsDurmstrangSheet  extends Base { static DEFAULT_OPTIONS = { classes: ["durmstrang"] }; }
 
   const sheets = [
-    ["WandsBadgerSheet",      "badger",      "WANDS.Sheets.Badger"],
-    ["WandsEagleSheet",       "eagle",       "WANDS.Sheets.Eagle"],
-    ["WandsLionSheet",        "lion",        "WANDS.Sheets.Lion"],
-    ["WandsSnakeSheet",       "snake",       "WANDS.Sheets.Snake"],
-    ["WandsBeauxbatonsSheet", "beauxbatons", "WANDS.Sheets.Beauxbatons"],
-    ["WandsIlvermornySheet",  "ilvermorny",  "WANDS.Sheets.Ilvermorny"],
-    ["WandsDurmstrangSheet",  "durmstrang",  "WANDS.Sheets.Durmstrang"],
+    [WandsBadgerSheet,      "WANDS.Sheets.Badger"],
+    [WandsEagleSheet,       "WANDS.Sheets.Eagle"],
+    [WandsLionSheet,        "WANDS.Sheets.Lion"],
+    [WandsSnakeSheet,       "WANDS.Sheets.Snake"],
+    [WandsBeauxbatonsSheet, "WANDS.Sheets.Beauxbatons"],
+    [WandsIlvermornySheet,  "WANDS.Sheets.Ilvermorny"],
+    [WandsDurmstrangSheet,  "WANDS.Sheets.Durmstrang"]
   ];
 
-  for (const [className, theme, label] of sheets) {
-    Actors.registerSheet("dnd5e", makeSheet(className, theme), {
+  const Actors = foundry.documents.collections.Actors;
+  for (const [cls, label] of sheets) {
+    Actors.registerSheet("dnd5e", cls, {
       types: ["character"], makeDefault: false, label
     });
   }

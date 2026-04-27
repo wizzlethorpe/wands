@@ -6,3 +6,6 @@ site/public/
 site/.quartz-cache/
 site/tsconfig.tsbuildinfo
 .DS_Store
+TODO.md
+CLAUDE.md
+.claude
