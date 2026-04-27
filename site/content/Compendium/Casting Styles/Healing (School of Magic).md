@@ -2,13 +2,13 @@
 public: true
 name: Healing (School of Magic)
 foundry_id: OhycVSevKDIBxbE2
-type: feat
+type: subclass
 source: W&W p.22
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: healing
+class_identifier: ""
+spellcasting_ability: ""
+spellcasting_progression: none
+advancement: []
 ---
 
 # Healing (School of Magic)

@@ -2,13 +2,13 @@
 public: true
 name: Magizoology (School of Magic)
 foundry_id: "6Z6ChZqL42lSkjnH"
-type: feat
+type: subclass
 source: W&W p.25
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: magizoology
+class_identifier: ""
+spellcasting_ability: ""
+spellcasting_progression: none
+advancement: []
 ---
 
 # Magizoology (School of Magic)

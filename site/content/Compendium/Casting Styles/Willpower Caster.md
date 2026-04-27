@@ -2,13 +2,13 @@
 public: true
 name: Willpower Caster
 foundry_id: HRkzC0UTl2ZXhzzh
-type: feat
+type: class
 source: M&M p.11
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: willpower-caster
+class_identifier: ""
+spellcasting_ability: cha
+spellcasting_progression: full
+advancement: []
 ---
 
 # Willpower Caster

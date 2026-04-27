@@ -18,8 +18,8 @@ target_type: ""
 target_value: null
 target_units: ""
 uses_value: null
-uses_max: "@scale.casting-style.sorcery-points"
-uses_per: lr
+uses_max: null
+uses_per: null
 uses_recovery: ""
 recharge_value: null
 recharge_charged: false

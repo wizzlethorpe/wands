@@ -33,8 +33,8 @@ const data = {
   features,
   backgrounds,
   houses,
-  // These packs use Feature/Creature schemas in Foundry — cast to expected build types
-  castingStyles: castingStyles as any[],
+  castingStyles,
+  // animagus forms / magical pets still use Creature-like schemas internally
   animagusForms: animagusForms as any[],
   magicalPets: magicalPets as any[],
   rollTables,

@@ -2,13 +2,13 @@
 public: true
 name: Divination (School of Magic)
 foundry_id: vywxjPPtRgn5UDBd
-type: feat
+type: subclass
 source: W&W p.23
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: divination
+class_identifier: ""
+spellcasting_ability: ""
+spellcasting_progression: none
+advancement: []
 ---
 
 # Divination (School of Magic)

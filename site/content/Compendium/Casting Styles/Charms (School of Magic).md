@@ -2,13 +2,13 @@
 public: true
 name: Charms (School of Magic)
 foundry_id: n31KaJnrCwRtUyuR
-type: feat
-source: ""
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+type: subclass
+source: W&W
+identifier: charms
+class_identifier: ""
+spellcasting_ability: ""
+spellcasting_progression: none
+advancement: []
 ---
 
 # Charms (School of Magic)

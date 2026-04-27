@@ -10,5 +10,5 @@ export { transfigurationSchoolOfMagic } from "./transfiguration-school-of-magic.
 
 // All entries as an array
 import { magizoologySchoolOfMagic, willpowerCaster, healingSchoolOfMagic, jinxesHexesAndCursesSchoolOfMagic, intellectCaster, charmsSchoolOfMagic, divinationSchoolOfMagic, techniqueCaster, transfigurationSchoolOfMagic } from "./index.js";
-import type { Feature } from "../../schemas/index.js";
-export const all: Feature[] = [magizoologySchoolOfMagic, willpowerCaster, healingSchoolOfMagic, jinxesHexesAndCursesSchoolOfMagic, intellectCaster, charmsSchoolOfMagic, divinationSchoolOfMagic, techniqueCaster, transfigurationSchoolOfMagic];
+import type { CastingStyle } from "../../schemas/index.js";
+export const all: CastingStyle[] = [magizoologySchoolOfMagic, willpowerCaster, healingSchoolOfMagic, jinxesHexesAndCursesSchoolOfMagic, intellectCaster, charmsSchoolOfMagic, divinationSchoolOfMagic, techniqueCaster, transfigurationSchoolOfMagic];

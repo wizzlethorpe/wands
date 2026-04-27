@@ -2,13 +2,13 @@
 public: true
 name: Technique Caster
 foundry_id: yIqpcDpoUmFoJI3U
-type: feat
+type: class
 source: W&W p.13
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: technique-caster
+class_identifier: ""
+spellcasting_ability: wis
+spellcasting_progression: full
+advancement: []
 ---
 
 # Technique Caster

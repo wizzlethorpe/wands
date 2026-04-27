@@ -2,13 +2,13 @@
 public: true
 name: Transfiguration (School of Magic)
 foundry_id: zR5SEFVXzxkr4A5T
-type: feat
+type: subclass
 source: W&W p.19
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: transfiguration
+class_identifier: ""
+spellcasting_ability: ""
+spellcasting_progression: none
+advancement: []
 ---
 
 # Transfiguration (School of Magic)

@@ -2,13 +2,13 @@
 public: true
 name: Intellect Caster
 foundry_id: aY9MKttqjWxgO8aq
-type: feat
+type: class
 source: W&W p.15
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: intellect-caster
+class_identifier: ""
+spellcasting_ability: int
+spellcasting_progression: full
+advancement: []
 ---
 
 # Intellect Caster

@@ -8,6 +8,7 @@
  *
  * Output goes to dist/foundry/<pack-name>/<id>.json, then compiled to LevelDB.
  */
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import type { Spell } from "../schemas/spell.js";
@@ -38,8 +39,8 @@ function writeJson(dir: string, id: string, data: unknown) {
 
 const DEFAULT_STATS = {
   systemId: "dnd5e",
-  systemVersion: "3.0.3",
-  coreVersion: "13.347",
+  systemVersion: "5.3.0",
+  coreVersion: "14.359",
   createdTime: null,
   modifiedTime: null,
   lastModifiedBy: null,
@@ -72,6 +73,9 @@ function loadFolders(packName: string): Record<string, unknown>[] {
 /** Get overlay metadata for an entity, falling back to defaults */
 function getMeta(overlay: OverlayMap, id: string) {
   const meta = overlay.get(id) ?? {};
+  // Always emit current DEFAULT_STATS — overlays carry stale version stamps from
+  // the original v3-era extraction and we want every rebuild to advertise the
+  // version it was actually built against.
   return {
     img: (meta.img as string) ?? "icons/svg/d20-black.svg",
     folder: (meta.folder as string | null) ?? null,
@@ -79,7 +83,7 @@ function getMeta(overlay: OverlayMap, id: string) {
     ownership: (meta.ownership as Record<string, unknown>) ?? { default: 0 },
     flags: (meta.flags as Record<string, unknown>) ?? {},
     effects: (meta.effects as unknown[]) ?? [],
-    _stats: (meta._stats as Record<string, unknown>) ?? DEFAULT_STATS,
+    _stats: DEFAULT_STATS,
     // Actor-specific
     prototypeToken: meta.prototypeToken as Record<string, unknown> | undefined,
     items: meta.items as unknown[] | undefined,
@@ -310,17 +314,17 @@ function backgroundToFoundry(bg: Background, locale: string, overlay: OverlayMap
   return {
     _id: id,
     name,
-    type: "feat",
+    // dnd5e v4+: backgrounds are a first-class item type, not feat-with-subtype.
+    type: "background",
     img: m.img,
     system: {
       description: { value: desc, chat: "" },
-      source: { custom: bg.source },
-      type: { value: "background" },
-      requirements: bg.requirements,
-      activation: bg.activation ?? { type: "", cost: null, condition: "" },
-      duration: bg.duration ?? { value: null, units: "" },
-      uses: bg.uses ?? { value: null, max: null, per: null, recovery: "" },
+      identifier: bg.id,
+      source: { custom: bg.source, rules: "2024" },
       advancement: bg.advancement,
+      // StartingEquipmentTemplate fields — empty defaults are valid.
+      startingEquipment: [],
+      wealth: "",
     },
     effects: m.effects,
     folder: m.folder,
@@ -330,6 +334,64 @@ function backgroundToFoundry(bg: Background, locale: string, overlay: OverlayMap
     _stats: m._stats,
     _key: `!items!${id}`,
   };
+}
+
+// dnd5e uses 3-letter size codes (tiny/sm/med/lg/huge/grg). House schema authors
+// in long form ("medium") for readability; convert here.
+const SIZE_TO_DND5E_CODE: Record<string, string> = {
+  tiny: "tiny", small: "sm", medium: "med", large: "lg", huge: "huge", gargantuan: "grg",
+};
+const SIZE_LABEL: Record<string, string> = {
+  tiny: "Tiny", sm: "Small", med: "Medium", lg: "Large", huge: "Huge", grg: "Gargantuan",
+};
+
+/**
+ * Patch (or inject) the Size advancement on a house's advancement chain.
+ *
+ * dnd5e v5's `SizeFlow` template renders no body when the configured `sizes`
+ * array contains exactly one entry — the size auto-applies silently and the
+ * advancement step shows up as a visually-empty pane in the wizard. We work
+ * around this by populating the `hint` field with a one-liner stating the
+ * size, which the flow header renders via `advancement-flow-header.hbs`.
+ *
+ * If the data file already authors a Size advancement (every house currently
+ * does), we patch in the hint and ensure the `sizes` config matches the
+ * schema's `size` field. Otherwise we inject a new Size entry.
+ */
+function patchHouseSizeAdvancement(house: House): Record<string, unknown>[] {
+  const sizeCode = SIZE_TO_DND5E_CODE[house.size] ?? "med";
+  const hint = `<p>Your size is ${SIZE_LABEL[sizeCode] ?? "Medium"}.</p>`;
+  const sourceAdvancement = house.advancement as Record<string, unknown>[];
+
+  const out: Record<string, unknown>[] = [];
+  let sizePatched = false;
+  for (const entry of sourceAdvancement) {
+    if (entry.type === "Size") {
+      out.push({
+        ...entry,
+        configuration: { sizes: [sizeCode] },
+        hint,
+      });
+      sizePatched = true;
+    } else {
+      out.push(entry);
+    }
+  }
+  if (!sizePatched) {
+    out.unshift({
+      _id: stableId(`${house.id}:size`),
+      type: "Size",
+      configuration: { sizes: [sizeCode] },
+      value: {},
+      level: 0,
+      title: undefined,
+      hint,
+      icon: undefined,
+      classRestriction: undefined,
+      flags: {},
+    });
+  }
+  return out;
 }
 
 function houseToFoundry(house: House, locale: string, overlay: OverlayMap, lr: LinkResolver) {
@@ -350,7 +412,7 @@ function houseToFoundry(house: House, locale: string, overlay: OverlayMap, lr: L
       traits: house.traits,
       movement: house.movement ?? { walk: 30 },
       senses: house.senses ?? {},
-      advancement: house.advancement,
+      advancement: patchHouseSizeAdvancement(house),
     },
     effects: m.effects,
     folder: m.folder,
@@ -362,28 +424,254 @@ function houseToFoundry(house: House, locale: string, overlay: OverlayMap, lr: L
   };
 }
 
-function castingStyleToFoundry(cs: CastingStyle, locale: string, overlay: OverlayMap, lr: LinkResolver) {
+/**
+ * Deterministic 16-char hex ID derived from a seed string. Used to give
+ * generated advancement entries stable IDs across rebuilds (so the LevelDB diff
+ * stays minimal and existing actor instances keep referring to the same entry).
+ */
+function stableId(seed: string): string {
+  return crypto.createHash("sha1").update(seed).digest("hex").slice(0, 16);
+}
+
+/**
+ * Expand each subclass entry into one variant per casting-style class.
+ *
+ * dnd5e v5's Subclass advancement opens the compendium browser with a *locked*
+ * filter of `system.classIdentifier === <parent class identifier>`. WANDS
+ * schools of magic are explicitly orthogonal to casting style (any school
+ * works with any caster — see Chapter 2), so a single subclass entry with an
+ * empty classIdentifier matches no parent and "Browse" returns 0 results.
+ *
+ * The fix is to fan each school out at build time: one compendium entry per
+ * (school × caster) pair. Source data stays at one entry per school; the
+ * Foundry pack ends up with N_schools × N_casters entries. The original
+ * foundryId is preserved for the first caster's variant so existing world
+ * references survive; the other variants get deterministic synthetic IDs.
+ */
+function expandSubclassesPerCaster(items: CastingStyle[], overlay: OverlayMap): CastingStyle[] {
+  const casters = items.filter(i => i.type === "class").map(i => i.identifier).filter(Boolean);
+  if (casters.length === 0) return items;
+
+  const out: CastingStyle[] = [];
+  for (const item of items) {
+    if (item.type !== "subclass") {
+      out.push(item);
+      continue;
+    }
+    const sourceId = item.foundryId ?? item.id;
+    const sourceOverlay = overlay.get(sourceId);
+    casters.forEach((classId, idx) => {
+      const variantFoundryId = idx === 0
+        ? sourceId  // preserve original for first variant — minimizes world-data churn
+        : stableId(`${sourceId}:${classId}`);
+      // Mirror the source's folder / image / sort onto the synthetic variant by
+      // injecting an overlay entry under the new foundryId. Without this, the
+      // technique/intellect variants would land in the compendium root with the
+      // default placeholder image, which is what the user noticed visually.
+      if (sourceOverlay && variantFoundryId !== sourceId && !overlay.has(variantFoundryId)) {
+        overlay.set(variantFoundryId, { ...sourceOverlay });
+      }
+      out.push({
+        ...item,
+        // Keep `id` (i18n key) shared across variants so name/description lookups still resolve.
+        foundryId: variantFoundryId,
+        classIdentifier: classId,
+      });
+    });
+  }
+  return out;
+}
+
+/**
+ * Build a slug → Foundry compendium UUID lookup for features.
+ *
+ * Used by `buildClassAdvancement` to resolve `progression.grants` and
+ * `choices.pool` slugs into the `Compendium.wands.features-wands.Item.<id>`
+ * UUIDs that dnd5e's `ItemGrant` and `ItemChoice` advancements expect.
+ *
+ * Throws on lookup miss so a typo in a caster data file fails the build
+ * loudly rather than silently producing a broken advancement entry.
+ */
+function buildFeatureLookup(features: Feature[]): (slug: string) => string {
+  const map = new Map<string, string>();
+  for (const f of features) {
+    const fid = f.foundryId ?? f.id;
+    map.set(f.id, `Compendium.wands.features-wands.Item.${fid}`);
+  }
+  return (slug: string) => {
+    const uuid = map.get(slug);
+    if (!uuid) throw new Error(`[build-foundry] no feature found for slug "${slug}" — check data/src/data/features/ for the correct id`);
+    return uuid;
+  };
+}
+
+/**
+ * Construct the full dnd5e v5 advancement chain for a class item.
+ *
+ * The chain is composed of three layers:
+ *
+ *   1. **Implicit baseline** — added unconditionally so the level-up dialog
+ *      always functions. HitPoints (multiLevel), Subclass (L1), ASI (L4/8/12/16/19).
+ *
+ *   2. **Authored progression** — `cs.progression`, `cs.choices`, `cs.scaleValues`
+ *      from the caster data file. These mirror the chapter table directly:
+ *        - `progression[level].grants` → `ItemGrant` entries (one per level)
+ *        - `choices` → one `ItemChoice` entry per pool, with per-level pick counts
+ *        - `scaleValues` → one `ScaleValue` entry per identifier
+ *
+ *   3. **Free-form escape hatch** — `cs.advancement` entries are appended last
+ *      for cases the structured fields don't cover. Empty in normal use.
+ *
+ * Every advancement entry gets a deterministic `_id` derived from a seed
+ * unique to the (class, kind, level/identifier) tuple, so rebuilds produce
+ * stable output and existing actors keep referring to the same entries.
+ */
+function buildAdvancementChain(
+  cs: CastingStyle,
+  featureUuid: (slug: string) => string,
+): Record<string, unknown>[] {
+  const seed = cs.identifier || cs.id;
+  const entry = (kind: string, level: number, idSuffix: string, fields: Record<string, unknown> = {}) => ({
+    _id: stableId(`${seed}:${kind}:${idSuffix}`),
+    type: kind,
+    configuration: {},
+    value: {},
+    level,
+    title: undefined,
+    icon: undefined,
+    classRestriction: undefined,
+    flags: {},
+    ...fields,
+  });
+
+  const advancement: Record<string, unknown>[] = [];
+
+  // ---- Layer 1: implicit baseline (class items only) --------------------
+  // Subclasses don't roll HP, prompt for sub-subclasses, or grant ASI — those
+  // belong to the parent class.
+  if (cs.type === "class") {
+    // HitPoints is multiLevel — one entry handles every level. level=0 by convention.
+    advancement.push(entry("HitPoints", 0, "hp"));
+    // School of Magic is picked at level 1 in WANDS (Chapter 2).
+    advancement.push(entry("Subclass", 1, "subclass"));
+    // Modern (2024) ASI cadence: 4, 8, 12, 16, 19. Level 19 is the Epic Boon slot.
+    for (const level of [4, 8, 12, 16, 19]) {
+      advancement.push(entry("AbilityScoreImprovement", level, `asi-${level}`, {
+        configuration: { cap: 2, fixed: {}, locked: [], points: 2 }
+      }));
+    }
+  }
+
+  // ---- Layer 2a: per-level ItemGrants from progression -------------------
+  for (const [levelStr, level] of Object.entries(cs.progression)) {
+    const lvl = Number(levelStr);
+    if (level.grants.length === 0) continue;
+    advancement.push(entry("ItemGrant", lvl, `grant-${lvl}`, {
+      configuration: {
+        items: level.grants.map(slug => ({ uuid: featureUuid(slug), optional: false })),
+        optional: false,
+        spell: null,
+      }
+    }));
+  }
+
+  // ---- Layer 2b: ItemChoice pools (Metamagic for classes; per-level
+  // school feature picks like "Bewitching Studies" / "Combat-Ready" for subclasses).
+  for (const choice of cs.choices) {
+    advancement.push(entry("ItemChoice", 0, `choice-${choice.title.toLowerCase().replace(/\s+/g, "-")}`, {
+      title: choice.title,
+      configuration: {
+        allowDrops: true,
+        choices: Object.fromEntries(
+          Object.entries(choice.picksByLevel).map(([lvl, count]) => [
+            lvl, { count, replacement: choice.allowReplacement }
+          ])
+        ),
+        pool: choice.pool.map(slug => ({ uuid: featureUuid(slug) })),
+        restriction: { level: "", list: [], subtype: "", type: "" },
+        spell: null,
+        type: "feat",
+      },
+    }));
+  }
+
+  // ---- Layer 2c: ScaleValue advancements ---------------------------------
+  for (const sv of cs.scaleValues) {
+    advancement.push(entry("ScaleValue", 0, `scale-${sv.identifier}`, {
+      title: sv.title,
+      configuration: {
+        identifier: sv.identifier,
+        type: sv.type,
+        distance: { units: "" },
+        // Skip null entries — dnd5e treats unset levels as inheriting prior value.
+        // For levels where the feature isn't yet active (e.g. sorcery points
+        // before L2 Font of Magic), we omit the entry so it shows as blank.
+        scale: Object.fromEntries(
+          Object.entries(sv.values)
+            .filter(([, v]) => v !== null)
+            .map(([lvl, v]) => [lvl, { value: v }])
+        ),
+      },
+    }));
+  }
+
+  // ---- Layer 3: free-form escape hatch -----------------------------------
+  return advancement.concat(cs.advancement as Record<string, unknown>[]);
+}
+
+function castingStyleToFoundry(
+  cs: CastingStyle,
+  locale: string,
+  overlay: OverlayMap,
+  lr: LinkResolver,
+  featureUuid: (slug: string) => string,
+) {
   const name = t(`casting-styles.${cs.id}.name`, locale);
   const desc = markdownToHtml(t(`casting-styles.${cs.id}.description`, locale), lr);
   const id = cs.foundryId ?? cs.id;
   const m = getMeta(overlay, id);
+
+  // Common system fields shared between class and subclass items.
+  const baseSystem = {
+    description: { value: desc, chat: "" },
+    identifier: cs.identifier,
+    source: { custom: cs.source, rules: "2024" },
+    spellcasting: {
+      progression: cs.spellcastingProgression || "none",
+      ability: cs.spellcastingAbility,
+      preparation: { formula: "" },
+    },
+  };
+
+  // dnd5e v5 ClassData adds hd, levels, primaryAbility, properties, startingEquipment.
+  // Classes also need a baseline advancement chain or the level-up dialog will not open.
+  // dnd5e v5 SubclassData adds classIdentifier. Both share the same advancement
+  // builder — `buildAdvancementChain` includes the implicit baseline (HP, ASI,
+  // Subclass pick) only for classes.
+  const advancement = buildAdvancementChain(cs, featureUuid);
+  const system = cs.type === "class"
+    ? {
+        ...baseSystem,
+        hd: { additional: "", denomination: cs.hitDice || "d6", spent: 0 },
+        levels: 1,
+        primaryAbility: { value: cs.primaryAbility, all: cs.primaryAbility.length <= 1 },
+        properties: [],
+        startingEquipment: [],
+        wealth: "",
+        advancement,
+      }
+    : {
+        ...baseSystem,
+        classIdentifier: cs.classIdentifier,
+        advancement,
+      };
 
   return {
     _id: id,
     name,
     type: cs.type,
     img: m.img,
-    system: {
-      description: { value: desc, chat: "" },
-      source: { custom: cs.source },
-      identifier: cs.identifier,
-      classIdentifier: cs.classIdentifier,
-      spellcasting: {
-        ability: cs.spellcastingAbility,
-        progression: cs.spellcastingProgression,
-      },
-      advancement: cs.advancement,
-    },
+    system,
     effects: m.effects,
     folder: m.folder,
     sort: m.sort,
@@ -497,6 +785,7 @@ export interface BuildFoundryOptions {
 export function buildFoundry(opts: BuildFoundryOptions) {
   const locale = opts.locale ?? "en";
   const lr = opts.linkResolver;
+  const featureUuid = buildFeatureLookup(opts.features ?? []);
   const counts: Record<string, number> = {};
   let folderCount = 0;
 
@@ -543,12 +832,23 @@ export function buildFoundry(opts: BuildFoundryOptions) {
       convert: (h: House, ov) => houseToFoundry(h, locale, ov, lr),
       getId: (h: House) => h.foundryId ?? h.id,
     },
-    {
-      name: "casting-styles-and-schools-of-magic-wands",
-      items: opts.castingStyles ?? [],
-      convert: (cs: CastingStyle, ov) => castingStyleToFoundry(cs, locale, ov, lr),
-      getId: (cs: CastingStyle) => cs.foundryId ?? cs.id,
-    },
+    (() => {
+      // Build-time expansion: one subclass entry per (school × caster) pair so
+      // dnd5e's locked classIdentifier filter on the Subclass advancement browser
+      // returns matching options for every parent class. Loaded eagerly here
+      // (rather than inside the main loop) so the expansion can inject synthetic
+      // overlay entries for the variants' new foundryIds — keeping each variant
+      // in the same "Schools of Magic" folder and using the source school's icon.
+      const name = "casting-styles-and-schools-of-magic-wands";
+      const overlay = loadOverlay(name);
+      return {
+        name,
+        items: expandSubclassesPerCaster(opts.castingStyles ?? [], overlay),
+        convert: (cs: CastingStyle, _ov: OverlayMap) =>
+          castingStyleToFoundry(cs, locale, overlay, lr, featureUuid),
+        getId: (cs: CastingStyle) => cs.foundryId ?? cs.id,
+      };
+    })(),
     {
       name: "animagus-form-wands",
       items: opts.animagusForms ?? [],

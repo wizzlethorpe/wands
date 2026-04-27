@@ -2,13 +2,13 @@
 public: true
 name: Jinxes, Hexes, and Curses (School of Magic)
 foundry_id: VdxlU1YFkJGwlJSY
-type: feat
+type: subclass
 source: W&W p.18
-identifier: null
-class_identifier: null
-spellcasting_ability: null
-spellcasting_progression: null
-advancement: null
+identifier: jinxes-hexes-and-curses
+class_identifier: ""
+spellcasting_ability: ""
+spellcasting_progression: none
+advancement: []
 ---
 
 # Jinxes, Hexes, and Curses (School of Magic)
