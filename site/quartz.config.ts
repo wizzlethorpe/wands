@@ -10,14 +10,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Wands & Wizards",
-    pageTitleSuffix: " - W&W",
+    pageTitleSuffix: " — Harry Potter D&D 5e Rulebook",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "wands.example.com", // Update with your actual domain
+    baseUrl: "wands.wizzlethorpe.com",
     ignorePatterns: ["private", "templates", "Templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

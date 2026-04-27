@@ -1,6 +1,7 @@
 ---
 public: true
 title: "Wands & Wizards"
+description: "Wands & Wizards is a free Harry Potter 5e adaptation — a Dungeons & Dragons tabletop rulebook for running Wizarding World campaigns. Spells, creatures, items, houses, casting styles, and a Foundry VTT module."
 ---
 
 Welcome to the **W.A.N.D.S. (Wizarding Alternative for Novelty Dungeoneering Stories) Rulebook** — a comprehensive Harry Potter 5e adaptation that brings the magic of the Wizarding World to your tabletop.

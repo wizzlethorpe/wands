@@ -9,3 +9,4 @@ site/tsconfig.tsbuildinfo
 TODO.md
 CLAUDE.md
 .claude
+.wrangler/
