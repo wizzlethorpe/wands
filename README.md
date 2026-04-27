@@ -4,7 +4,7 @@ A Harry Potter 5e adaptation for Foundry VTT, with a companion reference website
 
 ## Installation
 
-Install the module in Foundry VTT (v13+) with the D&D 5e system (v3+):
+Install the module in Foundry VTT (v14+) with the D&D 5e system (v5+):
 
 1. Open Foundry VTT and go to **Add-on Modules** → **Install Module**
 2. Paste the following manifest URL and click **Install**:
@@ -29,7 +29,7 @@ Currently supported: **English**, **Português (Brasil)**
 This monorepo contains three projects:
 
 - **`data/`** — TypeScript + Zod content definitions (spells, items, creatures, etc.) and build scripts
-- **`foundry/`** — Foundry VTT v13 module with LevelDB compendium packs
+- **`foundry/`** — Foundry VTT v14 module with LevelDB compendium packs
 - **`site/`** — Quartz v4 documentation site
 
 Content is defined once in `data/` and built to both targets.
@@ -60,7 +60,7 @@ Run from the repo root:
 ## Build Process
 
 ```
-data/src/data/            TypeScript content definitions (1,201 entries)
+data/src/data/            TypeScript content definitions (~677 entries)
 data/src/locales/en/      English translations (names, descriptions)
 data/src/foundry-meta/    Foundry presentation metadata (images, folders, tokens)
         |
@@ -163,14 +163,14 @@ Compendium translations live in `data/src/locales/<locale>/` and are served at r
 |------|---------|---------|
 | `spells.json` | Spell names and descriptions | 145 |
 | `items.json` | Item names and descriptions | 162 |
-| `creatures.json` | Creature names and descriptions | 581 |
-| `features.json` | Class/race feature names and descriptions | 153 |
+| `creatures.json` | Creature names and descriptions | 88 |
+| `features.json` | Class/race feature names and descriptions | 176 |
 | `backgrounds.json` | Background names and descriptions | 28 |
 | `houses.json` | House names and descriptions | 10 |
 | `casting-styles.json` | Casting style names and descriptions | 9 |
-| `animagus-forms.json` | Animagus form names and descriptions | 20 |
-| `magical-pets.json` | Magical pet names and descriptions | 35 |
-| `roll-tables.json` | Roll table names, descriptions, and result text | 58 |
+| `animagus-forms.json` | Animagus form names and descriptions | 5 |
+| `magical-pets.json` | Magical pet names and descriptions | 10 |
+| `roll-tables.json` | Roll table names, descriptions, and result text | 44 |
 
 ### UI strings (skill names, spell schools, sheet labels)
 
