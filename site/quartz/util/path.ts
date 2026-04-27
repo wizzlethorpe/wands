@@ -241,7 +241,10 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
       const matchingFileNames = opts.allSlugs.filter((slug) => {
         const parts = slug.split("/")
         const fileName = parts.at(-1)
-        return targetCanonical === fileName
+        if (targetCanonical === fileName) return true
+        // also match folder index files: e.g. [[Spells]] -> Compendium/Spells/index
+        if (fileName === "index" && parts.at(-2) === targetCanonical) return true
+        return false
       })
 
       // only match, just use it

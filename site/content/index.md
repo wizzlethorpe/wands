@@ -7,7 +7,7 @@ Welcome to the **W.A.N.D.S. (Wizarding Alternative for Novelty Dungeoneering Sto
 
 > **Acknowledgements:** This site is an unofficial fan project based on the Wands & Wizards rulebook (v1.4) created by [u/Murphen44](https://www.reddit.com/user/Murphen44). The original content can be found on [r/WandsAndWizards](https://www.reddit.com/r/WandsAndWizards/), the [Discord Server](https://discord.gg/zcmbyMt), and the [GMBinder document](https://www.gmbinder.com/share/-M-WtrKeZNFdEXq0MKXw). Harry Potter and all related characters and elements are trademarks of Warner Bros. Entertainment Inc. This project is not affiliated with or endorsed by Warner Bros. or J.K. Rowling.
 
-> **Foundry VTT:** Looking to play in Foundry VTT? Install the [Wands & Wizards module](https://github.com/wizzlethorpe/wands.git) for all spells, items, creatures, and more. See the README for installation instructions.
+> **Foundry VTT:** Looking to play in Foundry VTT? Install the [Wands & Wizards module](https://github.com/wizzlethorpe/wands) for all spells, items, creatures, and more. See the README for installation instructions.
 
 ---
 

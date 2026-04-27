@@ -8,7 +8,7 @@
     "build:packs": "cd data && npm run build:packs",
     "build:site": "cd site && npx quartz build",
     "dev:site": "cd site && npx quartz build && npx wrangler pages dev public",
-    "deploy:site": "cd site && npx quartz build && npx wrangler pages deploy public --project-name wands-quartz",
+    "deploy:site": "cd site && npx quartz build && npx wrangler pages deploy --branch=main",
     "release:foundry": "./scripts/release-foundry.sh",
     "validate": "cd data && npm run validate",
     "install:all": "cd data && npm install && cd ../site && npm install"
