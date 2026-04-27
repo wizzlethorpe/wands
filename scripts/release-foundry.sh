@@ -56,12 +56,23 @@ echo ""
 if [ "$NEW_VERSION" != "$CURRENT_VERSION" ]; then
     echo -e "${YELLOW}Updating module.json version to $NEW_VERSION...${NC}"
     jq --arg v "$NEW_VERSION" '.version = $v' "$MODULE_JSON" > "$MODULE_JSON.tmp" && mv "$MODULE_JSON.tmp" "$MODULE_JSON"
+    git -C "$REPO_ROOT" add "$MODULE_JSON"
+    git -C "$REPO_ROOT" commit -m "Updated foundry module to version $NEW_VERSION"
 fi
 
-# Update manifest + download URLs for this release
-jq --arg v "$NEW_VERSION" --arg repo "$REPO_URL" \
-    '.manifest = $repo + "/releases/download/v" + $v + "/module.json" |
-     .download = $repo + "/releases/download/v" + $v + "/module.zip"' \
+# Pin manifest + download to GitHub's `releases/latest/download/` aliases.
+#
+# These URLs MUST stay unversioned in the shipped module.json. Foundry stores
+# whatever manifest URL the module is installed from and re-fetches that exact
+# URL on "Update Module". If we shipped versioned URLs (e.g. v0.16.0/module.json),
+# Foundry would pin the user to that specific release and never see future
+# versions — the update button would silently no-op.
+#
+# Version progression is communicated via the `.version` field plus the GitHub
+# tag, not the URL.
+jq --arg repo "$REPO_URL" \
+    '.manifest = $repo + "/releases/latest/download/module.json" |
+     .download = $repo + "/releases/latest/download/module.zip"' \
     "$MODULE_JSON" > "$MODULE_JSON.tmp" && mv "$MODULE_JSON.tmp" "$MODULE_JSON"
 
 # Build data + packs first
@@ -90,6 +101,12 @@ cd "$REPO_ROOT"
 cp "$BUILD_DIR/module.zip" "$REPO_ROOT/module.zip"
 echo -e "${GREEN}Created module.zip${NC}"
 
+# Read compatibility metadata for the release notes from module.json so the
+# notes never drift from what the manifest actually declares.
+COMPAT_MIN=$(jq -r '.compatibility.minimum' "$MODULE_JSON")
+COMPAT_VERIFIED=$(jq -r '.compatibility.verified' "$MODULE_JSON")
+DND5E_MIN=$(jq -r '.relationships.requires[] | select(.id=="dnd5e") | .compatibility.minimum' "$MODULE_JSON")
+
 # Create GitHub release
 RELEASE_NOTES="## W.A.N.D.S. v$NEW_VERSION
 
@@ -98,8 +115,8 @@ RELEASE_NOTES="## W.A.N.D.S. v$NEW_VERSION
 - **Direct Download:** \`$REPO_URL/releases/download/$TAG/module.zip\`
 
 ### Compatibility
-- Foundry VTT v13+
-- D&D 5e system v3+"
+- Foundry VTT v$COMPAT_MIN+ (verified v$COMPAT_VERIFIED)
+- D&D 5e system v$DND5E_MIN+"
 
 echo -e "${YELLOW}Creating GitHub release $TAG...${NC}"
 
@@ -117,16 +134,10 @@ gh release create "$TAG" \
 
 echo -e "${GREEN}GitHub release created!${NC}"
 
-# Reset URLs back to latest for development
-jq --arg repo "$REPO_URL" \
-    '.manifest = $repo + "/releases/latest/download/module.json" |
-     .download = $repo + "/releases/latest/download/module.zip"' \
-    "$MODULE_JSON" > "$MODULE_JSON.tmp" && mv "$MODULE_JSON.tmp" "$MODULE_JSON"
-
 # Cleanup
 rm -rf "$BUILD_DIR" "$REPO_ROOT/module.zip"
 
 echo ""
 echo -e "${GREEN}Release complete!${NC}"
-echo "Release URL: $REPO_URL/releases/tag/$TAG"
-echo "Manifest URL: $REPO_URL/releases/download/$TAG/module.json"
+echo "Release URL:  $REPO_URL/releases/tag/$TAG"
+echo "Manifest URL: $REPO_URL/releases/latest/download/module.json"
