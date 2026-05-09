@@ -1,0 +1,35 @@
+{
+  "label": "Magical Pets (WANDS)",
+  "entries": {
+    "Pet Adder": {
+      "name": "Домашня гадюка"
+    },
+    "Pet Bat": {
+      "name": "Домашній Кажан"
+    },
+    "Pet Cat": {
+      "name": "Домашній Кіт"
+    },
+    "Pet Goliath Tarantula": {
+      "name": "Домашній павук-голіаф"
+    },
+    "Pet Miniature Firecrab": {
+      "name": "Домашній мініатюрний вогняний краб"
+    },
+    "Pet Owl": {
+      "name": "Домашня Сова"
+    },
+    "Pet Puffskein": {
+      "name": "Домашній Паффскейн"
+    },
+    "Pet Rat": {
+      "name": "Домашній щур"
+    },
+    "Pet Snake": {
+      "name": "Домашня змія"
+    },
+    "Pet Toad": {
+      "name": "Домашня Жаба"
+    }
+  }
+}

@@ -4,12 +4,28 @@
   "description": "Compendium packs for all things Wands &amp; Wizards",
   "authors": [
     {
+      "name": "Sparkcity",
+      "flags": {
+        "contribution": "Original module creator"
+      }
+    },
+    {
       "name": "MadManNBlueBox",
-      "flags": {}
+      "flags": {
+        "contribution": "Original module creator"
+      }
     },
     {
       "name": "jaredraycoleman",
-      "flags": {}
+      "flags": {
+        "contribution": "v13/v14 port and current maintainer"
+      }
+    },
+    {
+      "name": "oynnet",
+      "flags": {
+        "contribution": "Ukrainian localization"
+      }
     }
   ],
   "url": "https://github.com/wizzlethorpe/wands",
@@ -76,6 +92,12 @@
       "lang": "pt-BR",
       "name": "Português (Brasil)",
       "path": "lang/pt-BR.json",
+      "flags": {}
+    },
+    {
+      "lang": "uk",
+      "name": "Українська",
+      "path": "lang/uk.json",
       "flags": {}
     }
   ],

@@ -10,3 +10,4 @@ TODO.md
 CLAUDE.md
 .claude
 .wrangler/
+.env
