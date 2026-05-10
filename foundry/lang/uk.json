@@ -1,2 +1,22 @@
 {
+	"WANDS": {
+		"SkillAnimal": "Магічні створіння",
+		"SkillArcana": "Магічна теорія",
+		"SkillHistory": "Вивчення маглів",
+		"SkillHerbology": "Гербологія",
+		"SkillPotion": "Зіллєваріння",
+		"SchoolCharms": "Чари",
+		"SchoolJHC": "Порчі, прокльони та злощастя",
+		"SchoolTransfig": "Трансфігурація",
+		"SchoolHealing": "зцілення",
+		"Sheets": {
+			"Badger": "Лист Борсука",
+			"Eagle": "Лист Орла",
+			"Lion": "Лист Лева",
+			"Snake": "Лист Змії",
+			"Beauxbatons": "Лист Боксбатону",
+			"Ilvermorny": "Лист Ільверморні",
+			"Durmstrang": "Лист Дурмстрангу"
+		}
+	}
 }
