@@ -18,10 +18,19 @@ FOUNDRY_DIR="$REPO_ROOT/foundry"
 MODULE_JSON="$FOUNDRY_DIR/module.json"
 
 # Pre-flight checks
-command -v jq >/dev/null 2>&1 || { echo -e "${RED}Error: jq is required.${NC}" >&2; exit 1; }
-command -v gh >/dev/null 2>&1 || { echo -e "${RED}Error: GitHub CLI (gh) is required.${NC}" >&2; exit 1; }
-command -v zip >/dev/null 2>&1 || { echo -e "${RED}Error: zip is required.${NC}" >&2; exit 1; }
-gh auth status >/dev/null 2>&1 || { echo -e "${RED}Error: GitHub CLI not authenticated. Run 'gh auth login'.${NC}" >&2; exit 1; }
+command -v jq >/dev/null 2>&1   || { echo -e "${RED}Error: jq is required.${NC}" >&2; exit 1; }
+command -v gh >/dev/null 2>&1   || { echo -e "${RED}Error: GitHub CLI (gh) is required.${NC}" >&2; exit 1; }
+command -v zip >/dev/null 2>&1  || { echo -e "${RED}Error: zip is required.${NC}" >&2; exit 1; }
+command -v curl >/dev/null 2>&1 || { echo -e "${RED}Error: curl is required.${NC}" >&2; exit 1; }
+gh auth status >/dev/null 2>&1  || { echo -e "${RED}Error: GitHub CLI not authenticated. Run 'gh auth login'.${NC}" >&2; exit 1; }
+
+# Read FOUNDRY_RELEASE_TOKEN literally — `source`-ing .env eats backslashes in
+# Windows paths like FOUNDRY_PATH, so we parse the one key we care about.
+FOUNDRY_TOKEN=""
+if [ -f "$REPO_ROOT/.env" ]; then
+    FOUNDRY_TOKEN="$(grep -E '^FOUNDRY_RELEASE_TOKEN=' "$REPO_ROOT/.env" | head -1 \
+        | sed -E 's/^FOUNDRY_RELEASE_TOKEN=//; s/^"(.*)"$/\1/; s/^'"'"'(.*)'"'"'$/\1/')"
+fi
 
 CURRENT_VERSION=$(jq -r '.version' "$MODULE_JSON")
 MODULE_ID=$(jq -r '.id' "$MODULE_JSON")
@@ -133,6 +142,40 @@ gh release create "$TAG" \
     "$MODULE_JSON"
 
 echo -e "${GREEN}GitHub release created!${NC}"
+
+# Publish to the FoundryVTT package registry. Uses the versioned tag URL so
+# the registry records this specific release rather than a moving /latest/
+# pointer. Skipped silently if no FOUNDRY_RELEASE_TOKEN is set.
+if [ -z "$FOUNDRY_TOKEN" ]; then
+    echo -e "${YELLOW}Skipping FoundryVTT publish (no FOUNDRY_RELEASE_TOKEN in .env)${NC}"
+else
+    echo -e "${YELLOW}Publishing to FoundryVTT Package Registry...${NC}"
+    MANIFEST_URL="$REPO_URL/releases/download/$TAG/module.json"
+    RESPONSE=$(curl -s -X POST \
+        "https://foundryvtt.com/_api/packages/release_version/" \
+        -H "Content-Type: application/json" \
+        -H "Authorization: $FOUNDRY_TOKEN" \
+        -d "{
+            \"id\": \"$MODULE_ID\",
+            \"dry-run\": false,
+            \"release\": {
+                \"version\": \"$NEW_VERSION\",
+                \"manifest\": \"$MANIFEST_URL\",
+                \"notes\": \"$REPO_URL/releases/tag/$TAG\",
+                \"compatibility\": {
+                    \"minimum\": \"$COMPAT_MIN\",
+                    \"verified\": \"$COMPAT_VERIFIED\"
+                }
+            }
+        }")
+    STATUS=$(echo "$RESPONSE" | jq -r '.status' 2>/dev/null)
+    if [ "$STATUS" = "success" ]; then
+        echo -e "${GREEN}Published to FoundryVTT Package Registry!${NC}"
+    else
+        echo -e "${RED}FoundryVTT publish failed:${NC}"
+        echo "$RESPONSE" | jq . 2>/dev/null || echo "$RESPONSE"
+    fi
+fi
 
 # Cleanup
 rm -rf "$BUILD_DIR" "$REPO_ROOT/module.zip"
