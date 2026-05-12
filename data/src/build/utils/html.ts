@@ -14,6 +14,15 @@ export function markdownToHtml(
 ): string {
   if (!md) return "";
 
+  // Step 0: Normalize blocks. Authored content frequently writes
+  //   ## Heading
+  //   paragraph text
+  // with only a single newline between heading and body. Without separation
+  // they end up in the same block and the heading-match branch would
+  // silently drop the body. Insert a blank line after every heading line so
+  // the block splitter treats them as siblings.
+  md = md.replace(/^(#{1,6}[ \t].*)\n(?!\n)/gm, "$1\n\n");
+
   // Step 1: Resolve wikilinks BEFORE any other processing.
   // [[/r d20]] and similar roll macros pass through unchanged.
   // [[Display Name]] becomes @UUID[...]{Display Name} via the resolver.

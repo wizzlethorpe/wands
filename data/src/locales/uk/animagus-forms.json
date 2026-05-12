@@ -1,7 +1,12 @@
 {
+  "combat-animagus-land.description": "",
   "combat-animagus-land.name": "Бойовий Анімаг (Земля)",
+  "combat-animagus-water.description": "",
   "combat-animagus-water.name": "Бойовий Анімаг (Вода)",
+  "evasion-animagus-air.description": "",
   "evasion-animagus-air.name": "Анімагус-утікач (Повітря)",
+  "evasion-animagus-land.description": "",
   "evasion-animagus-land.name": "Анімагус-утікач (Земля)",
+  "evasion-animagus-water.description": "",
   "evasion-animagus-water.name": "Анімагус-утікач (Вода)"
 }

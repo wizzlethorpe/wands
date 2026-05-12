@@ -467,6 +467,15 @@ function expandSubclassesPerCaster(items: CastingStyle[], overlay: OverlayMap): 
   const casters = items.filter(i => i.type === "class").map(i => i.identifier).filter(Boolean);
   if (casters.length === 0) return items;
 
+  // Sub-folder per caster (children of the "Schools of Magic" folder). Lets
+  // each school's three caster-variants group together in the compendium tree
+  // instead of all 24 entries piling into one flat folder.
+  const CASTER_SUBFOLDER: Record<string, string> = {
+    "intellect-caster": "9e09854aa9fcfa40",
+    "technique-caster": "4ef7cfe01cf18c4e",
+    "willpower-caster": "29e1f1a9a5010624",
+  };
+
   const out: CastingStyle[] = [];
   for (const item of items) {
     if (item.type !== "subclass") {
@@ -479,13 +488,16 @@ function expandSubclassesPerCaster(items: CastingStyle[], overlay: OverlayMap): 
       const variantFoundryId = idx === 0
         ? sourceId  // preserve original for first variant — minimizes world-data churn
         : stableId(`${sourceId}:${classId}`);
-      // Mirror the source's folder / image / sort onto the synthetic variant by
-      // injecting an overlay entry under the new foundryId. Without this, the
-      // technique/intellect variants would land in the compendium root with the
-      // default placeholder image, which is what the user noticed visually.
-      if (sourceOverlay && variantFoundryId !== sourceId && !overlay.has(variantFoundryId)) {
-        overlay.set(variantFoundryId, { ...sourceOverlay });
-      }
+      // Mirror the source's image / sort onto the synthetic variant by
+      // injecting an overlay entry under the new foundryId; route the folder
+      // to the per-caster sub-folder so the compendium tree groups variants
+      // by caster.
+      const subFolder = CASTER_SUBFOLDER[classId];
+      const baseOverlay = sourceOverlay ?? {};
+      overlay.set(variantFoundryId, {
+        ...baseOverlay,
+        ...(subFolder ? { folder: subFolder } : {}),
+      });
       out.push({
         ...item,
         // Keep `id` (i18n key) shared across variants so name/description lookups still resolve.

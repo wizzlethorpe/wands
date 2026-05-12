@@ -1,12 +1,22 @@
 {
+  "pet-adder.description": "",
   "pet-adder.name": "Домашня гадюка",
+  "pet-bat.description": "",
   "pet-bat.name": "Домашній Кажан",
+  "pet-cat.description": "",
   "pet-cat.name": "Домашній Кіт",
+  "pet-goliath-tarantula.description": "",
   "pet-goliath-tarantula.name": "Домашній павук-голіаф",
+  "pet-miniature-firecrab.description": "",
   "pet-miniature-firecrab.name": "Домашній мініатюрний вогняний краб",
+  "pet-owl.description": "",
   "pet-owl.name": "Домашня Сова",
+  "pet-puffskein.description": "",
   "pet-puffskein.name": "Домашній Паффскейн",
+  "pet-rat.description": "",
   "pet-rat.name": "Домашній щур",
+  "pet-snake.description": "",
   "pet-snake.name": "Домашня змія",
+  "pet-toad.description": "",
   "pet-toad.name": "Домашня Жаба"
 }

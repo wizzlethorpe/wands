@@ -17,5 +17,41 @@
       "lastModifiedBy": "6KPKvdrxQhprt6if"
     },
     "_key": "!folders!WlpvdaC2ZslNMvcf"
+  },
+  {
+    "name": "Intellect",
+    "sorting": "a",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "type": "Item",
+    "_id": "9e09854aa9fcfa40",
+    "sort": 100000,
+    "color": null,
+    "flags": {},
+    "_stats": {},
+    "_key": "!folders!9e09854aa9fcfa40"
+  },
+  {
+    "name": "Technique",
+    "sorting": "a",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "type": "Item",
+    "_id": "4ef7cfe01cf18c4e",
+    "sort": 200000,
+    "color": null,
+    "flags": {},
+    "_stats": {},
+    "_key": "!folders!4ef7cfe01cf18c4e"
+  },
+  {
+    "name": "Willpower",
+    "sorting": "a",
+    "folder": "WlpvdaC2ZslNMvcf",
+    "type": "Item",
+    "_id": "29e1f1a9a5010624",
+    "sort": 300000,
+    "color": null,
+    "flags": {},
+    "_stats": {},
+    "_key": "!folders!29e1f1a9a5010624"
   }
 ]

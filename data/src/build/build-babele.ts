@@ -11,6 +11,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { t, availableLocales } from "./utils/i18n.js";
 import { markdownToHtml } from "./utils/html.js";
+import { buildLinkResolver, collectEntityRefs } from "./utils/link-resolver.js";
 import type { LinkResolver } from "./utils/link-resolver.js";
 import type { RollTable } from "../schemas/roll-table.js";
 
@@ -73,7 +74,6 @@ export interface BuildBabeleOptions {
 }
 
 export function buildBabele(opts: BuildBabeleOptions) {
-  const lr = opts.linkResolver;
   const locales = availableLocales().filter((l) => l !== "en");
 
   if (locales.length === 0) {
@@ -98,6 +98,27 @@ export function buildBabele(opts: BuildBabeleOptions) {
   for (const locale of locales) {
     const localeDir = path.join(DIST, locale);
     fs.mkdirSync(localeDir, { recursive: true });
+
+    // Build a link resolver keyed by *this locale's* translated names so
+    // wikilinks inside translated descriptions ([[Піклувальник]] etc.)
+    // resolve to @UUID instead of falling back to bare text. Fall back to
+    // the English resolver for wikilinks that translators left in English
+    // (e.g. [[Magical Adrenaline]]).
+    const refs = {
+      spells: opts.spells,
+      items: opts.items,
+      creatures: opts.creatures,
+      features: opts.features,
+      backgrounds: opts.backgrounds,
+      houses: opts.houses,
+      castingStyles: opts.castingStyles,
+      animagusForms: opts.animagusForms,
+      magicalPets: opts.magicalPets,
+      rollTables: opts.rollTables,
+    };
+    const localeResolver = buildLinkResolver(collectEntityRefs(refs, locale, t));
+    const enResolver = buildLinkResolver(collectEntityRefs(refs, "en", t));
+    const lr: LinkResolver = (name) => localeResolver(name) ?? enResolver(name);
 
     let totalEntries = 0;
 

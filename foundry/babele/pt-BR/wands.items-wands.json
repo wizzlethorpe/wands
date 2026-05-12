@@ -67,7 +67,7 @@
     },
     "Baruffio's Brain Elixir": {
       "name": "Elixir Cerebral de Baruffio",
-      "description": "<p>Quando você bebe esta poção, você tem vantagem em testes de Inteligência por 1 hora. Seus pensamentos ficam mais intensos e rápidos, tornando fácil se concentrar.</p><p><strong>Antídoto para:</strong> Poção do Atordoamento, @UUID[Compendium.wands.spells-wands.Item.h0cxfGrQ4Rpdc66J]{Confundo}, Poção da Confusão, @UUID[Compendium.wands.spells-wands.Item.43T1UgLO8IFiAlrb]{Infirma Cerebra}</p>"
+      "description": "<p>Quando você bebe esta poção, você tem vantagem em testes de Inteligência por 1 hora. Seus pensamentos ficam mais intensos e rápidos, tornando fácil se concentrar.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Poção do Atordoamento}, @UUID[Compendium.wands.spells-wands.Item.h0cxfGrQ4Rpdc66J]{Confundo}, @UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Poção da Confusão}, @UUID[Compendium.wands.spells-wands.Item.43T1UgLO8IFiAlrb]{Infirma Cerebra}</p>"
     },
     "Winter Cloak": {
       "name": "Capa de Inverno",
@@ -87,11 +87,11 @@
     },
     "Wit-Sharpening Potion": {
       "name": "Poção para Aguçar o Intelecto",
-      "description": "<p>Quando você bebe esta poção, o funcionamento neurológico do seu cérebro é maximizado, elevando seus valores de Inteligência e Sabedoria para 20 por 1 hora. A poção não tem efeito se seus valores de habilidade forem iguais ou maiores que esse valor.</p><p><strong>Antídoto para:</strong> Poção do Atordoamento, Bolhas Sedutoras, @UUID[Compendium.wands.spells-wands.Item.h0cxfGrQ4Rpdc66J]{Confundo}, Poção da Confusão,  Cristais de Cupido, Unguento Untuoso de Gregory, Lágrimas de Coração Partido, @UUID[Compendium.wands.spells-wands.Item.43T1UgLO8IFiAlrb]{Infirma Cerebra}, Raios de Luar do Crepúsculo</p>"
+      "description": "<p>Quando você bebe esta poção, o funcionamento neurológico do seu cérebro é maximizado, elevando seus valores de Inteligência e Sabedoria para 20 por 1 hora. A poção não tem efeito se seus valores de habilidade forem iguais ou maiores que esse valor.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Poção do Atordoamento}, @UUID[Compendium.wands.items-wands.Item.jHOQchs3Qs0zGJi8]{Bolhas Sedutoras}, @UUID[Compendium.wands.spells-wands.Item.h0cxfGrQ4Rpdc66J]{Confundo}, @UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Poção da Confusão},  @UUID[Compendium.wands.items-wands.Item.g6wYrrXuD8NtzKbH]{Cristais de Cupido}, @UUID[Compendium.wands.items-wands.Item.TT8MGBykxNrmyXM6]{Unguento Untuoso de Gregory}, @UUID[Compendium.wands.items-wands.Item.jl13cyryEdqlRZQq]{Lágrimas de Coração Partido}, @UUID[Compendium.wands.spells-wands.Item.43T1UgLO8IFiAlrb]{Infirma Cerebra}, @UUID[Compendium.wands.items-wands.Item.YpAD7DG1j8eYA0Iz]{Raios de Luar do Crepúsculo}</p>"
     },
     "Swelling Solution": {
       "name": "Solução de Inchaço",
-      "description": "<p>Quando você bebe esta poção, você ganha os efeitos do feitiço @UUID[Compendium.wands.spells-wands.Item.t2qC1P5SSIHrN09U]{Engorgio} por 1d4 horas (sem necessidade de concentração). Esta poção também pode ser despejada sobre um objeto para um efeito similar.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.spells-wands.Item.ywlZJ89bFULH3NSk]{Diminuendo}, @UUID[Compendium.wands.spells-wands.Item.cGhbCj4k7hA1c9lO]{Reducio}, Solução de Encolhimento</p>"
+      "description": "<p>Quando você bebe esta poção, você ganha os efeitos do feitiço @UUID[Compendium.wands.spells-wands.Item.t2qC1P5SSIHrN09U]{Engorgio} por 1d4 horas (sem necessidade de concentração). Esta poção também pode ser despejada sobre um objeto para um efeito similar.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.spells-wands.Item.ywlZJ89bFULH3NSk]{Diminuendo}, @UUID[Compendium.wands.spells-wands.Item.cGhbCj4k7hA1c9lO]{Reducio}, @UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Solução de Encolhimento}</p>"
     },
     "Invisibility Potion": {
       "name": "Poção da Invisibilidade",
@@ -143,7 +143,7 @@
     },
     "Hate Potion": {
       "name": "Poção do Ódio",
-      "description": "<p>Quando um ser bebe esta poção, ele vê um ser escolhido como seu pior inimigo por 10 minutos. Se o preparador não selecionar um ser escolhido pronunciando seu nome dentro da poção durante o preparo, o consumidor será hostil ao próximo ser que vir dentro da duração da poção. Se esta poção for usada como antídoto, ela não tem efeito além de agir como antídoto pela mesma duração.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.UQ86jRcL49U2XZH2]{Amortentia}, Bolhas Sedutoras, Cristais de Cupido, Unguento Untuoso de Gregory, Lágrimas de Coração Partido, Poção do Beijo, Raios de Luar do Crepúsculo</p>"
+      "description": "<p>Quando um ser bebe esta poção, ele vê um ser escolhido como seu pior inimigo por 10 minutos. Se o preparador não selecionar um ser escolhido pronunciando seu nome dentro da poção durante o preparo, o consumidor será hostil ao próximo ser que vir dentro da duração da poção. Se esta poção for usada como antídoto, ela não tem efeito além de agir como antídoto pela mesma duração.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.UQ86jRcL49U2XZH2]{Amortentia}, @UUID[Compendium.wands.items-wands.Item.jHOQchs3Qs0zGJi8]{Bolhas Sedutoras}, @UUID[Compendium.wands.items-wands.Item.g6wYrrXuD8NtzKbH]{Cristais de Cupido}, @UUID[Compendium.wands.items-wands.Item.TT8MGBykxNrmyXM6]{Unguento Untuoso de Gregory}, @UUID[Compendium.wands.items-wands.Item.jl13cyryEdqlRZQq]{Lágrimas de Coração Partido}, @UUID[Compendium.wands.items-wands.Item.AtgLBe99nZKuyRL1]{Poção do Beijo}, @UUID[Compendium.wands.items-wands.Item.YpAD7DG1j8eYA0Iz]{Raios de Luar do Crepúsculo}</p>"
     },
     "Gregory's Unctuous Unction": {
       "name": "Unguento Untuoso de Gregory",
@@ -163,7 +163,7 @@
     },
     "Antidote of Uncommon Poisons": {
       "name": "Antídoto de Venenos Incomuns",
-      "description": "<p>Quando você bebe esta poção, este antídoto mais potente neutraliza venenos e você ganha vantagem em testes de resistência contra veneno por 1 hora. Se você sofreu dano de veneno no minuto anterior, você recupera todos os seus pontos de vida perdidos por dano de veneno, até um máximo de 30 pontos de vida.</p><p><strong>Antídoto para:</strong> Veneno de Erva-de-são-cristóvão, Veneno de Sanguinária, Doxicida, Gás de Estrangulamento, Veneno de Moonseed, Poção Nociva</p>"
+      "description": "<p>Quando você bebe esta poção, este antídoto mais potente neutraliza venenos e você ganha vantagem em testes de resistência contra veneno por 1 hora. Se você sofreu dano de veneno no minuto anterior, você recupera todos os seus pontos de vida perdidos por dano de veneno, até um máximo de 30 pontos de vida.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}, @UUID[Compendium.wands.items-wands.Item.dMJSoR9YqsE5tQPJ]{Veneno de Sanguinária}, @UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}, @UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}, @UUID[Compendium.wands.items-wands.Item.bpTjlZQGRKSavvXl]{Veneno de Moonseed}, @UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Poção Nociva}</p>"
     },
     "Sleeping Draught": {
       "name": "Poção do Sono",
@@ -211,7 +211,7 @@
     },
     "Draught of Peace": {
       "name": "Poção da Paz",
-      "description": "<p>Quando você bebe esta poção, todas as emoções fortes são suprimidas por 1 hora, colocando você em uma disposição neutra e relaxada. Qualquer condição de encantado ou amedrontado é removida e você tem vantagem em testes de resistência contra ficar encantado ou amedrontado. Infelizmente, a sensação desta poção se dissipando foi descrita como experimentar todas as emoções suprimidas de uma só vez, e algumas condições suprimidas podem retornar.</p><p>Além disso, se você estiver hostil, ficará indiferente aos alvos de sua hostilidade. Esta indiferença termina se você for atacado ou prejudicado por um feitiço ou se testemunhar algum de seus amigos sendo prejudicados.</p><p><strong>Antídoto para:</strong> Bolhas Sedutoras, Cristais de Cupido, Elixir para Induzir Euforia, @UUID[Compendium.wands.spells-wands.Item.gF4a6kra5adpRO4G]{Exhilaro}, Unguento Untuoso de Gregory, Lágrimas de Coração Partido, Raios de Luar do Crepúsculo</p>"
+      "description": "<p>Quando você bebe esta poção, todas as emoções fortes são suprimidas por 1 hora, colocando você em uma disposição neutra e relaxada. Qualquer condição de encantado ou amedrontado é removida e você tem vantagem em testes de resistência contra ficar encantado ou amedrontado. Infelizmente, a sensação desta poção se dissipando foi descrita como experimentar todas as emoções suprimidas de uma só vez, e algumas condições suprimidas podem retornar.</p><p>Além disso, se você estiver hostil, ficará indiferente aos alvos de sua hostilidade. Esta indiferença termina se você for atacado ou prejudicado por um feitiço ou se testemunhar algum de seus amigos sendo prejudicados.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.jHOQchs3Qs0zGJi8]{Bolhas Sedutoras}, @UUID[Compendium.wands.items-wands.Item.g6wYrrXuD8NtzKbH]{Cristais de Cupido}, @UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir para Induzir Euforia}, @UUID[Compendium.wands.spells-wands.Item.gF4a6kra5adpRO4G]{Exhilaro}, @UUID[Compendium.wands.items-wands.Item.TT8MGBykxNrmyXM6]{Unguento Untuoso de Gregory}, @UUID[Compendium.wands.items-wands.Item.jl13cyryEdqlRZQq]{Lágrimas de Coração Partido}, @UUID[Compendium.wands.items-wands.Item.YpAD7DG1j8eYA0Iz]{Raios de Luar do Crepúsculo}</p>"
     },
     "Skele-Gro": {
       "name": "Esquelesce",
@@ -219,7 +219,7 @@
     },
     "Wiggenweld Potion": {
       "name": "Poção Wiggenweld",
-      "description": "<p>Esta poção de cura é o antídoto para sono induzido magicamente, acordando a vítima imediatamente.</p><p><strong>Antídoto para:</strong> Poção do Morto-Vivo, Poção do Sono, @UUID[Compendium.wands.spells-wands.Item.Ct43yC0Wb5FWMxQD]{Stupefy}</p>"
+      "description": "<p>Esta poção de cura é o antídoto para sono induzido magicamente, acordando a vítima imediatamente.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}, @UUID[Compendium.wands.items-wands.Item.XlMmaW8RlljzkcDv]{Poção do Sono}, @UUID[Compendium.wands.spells-wands.Item.Ct43yC0Wb5FWMxQD]{Stupefy}</p>"
     },
     "Wound-Cleaning Potion": {
       "name": "Poção para Limpar Feridas",
@@ -231,7 +231,7 @@
     },
     "Memory Potion": {
       "name": "Poção da Memória",
-      "description": "<p>Quando você bebe esta poção, memórias perdidas são restauradas a você e você é capaz de lembrar de mais detalhes do que o normal. Você tem vantagem em testes de Inteligência (Herbologia), Inteligência (Teoria Mágica) e Inteligência (Estudos dos Trouxas) por 10 minutos.</p><p><strong>Antídoto para:</strong> Poção do Esquecimento, @UUID[Compendium.wands.spells-wands.Item.XKcgpYlHVknc8TiD]{Obliviate}</p>"
+      "description": "<p>Quando você bebe esta poção, memórias perdidas são restauradas a você e você é capaz de lembrar de mais detalhes do que o normal. Você tem vantagem em testes de Inteligência (Herbologia), Inteligência (Teoria Mágica) e Inteligência (Estudos dos Trouxas) por 10 minutos.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.lnSf6pxkdhfenhrY]{Poção do Esquecimento}, @UUID[Compendium.wands.spells-wands.Item.XKcgpYlHVknc8TiD]{Obliviate}</p>"
     },
     "Astronomer's Tools": {
       "name": "Ferramentas de Astrônomo",
@@ -243,7 +243,7 @@
     },
     "Regerminating Potion": {
       "name": "Poção Regeneradora",
-      "description": "<p>Quando esta poção é despejada nas raízes de uma planta moribunda, ela é revitalizada. Também acelera o crescimento de mudas saudáveis.</p><p><strong>Antídoto para:</strong> Poção Herbicida</p>"
+      "description": "<p>Quando esta poção é despejada nas raízes de uma planta moribunda, ela é revitalizada. Também acelera o crescimento de mudas saudáveis.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Poção Herbicida}</p>"
     },
     "Beguiling Bubbles": {
       "name": "Bolhas Sedutoras",
@@ -263,11 +263,11 @@
     },
     "Antidote of Common Poisons": {
       "name": "Antídoto de Venenos Comuns",
-      "description": "<p>Quando você bebe esta poção, venenos simples em seu sistema são neutralizados e você ganha vantagem em testes de resistência contra veneno por 1 hora. Se você sofreu dano de veneno no minuto anterior, você recupera metade dos seus pontos de vida perdidos por dano de veneno, até um máximo de 15 pontos de vida.</p><p><strong>Antídoto para:</strong> Veneno de Erva-de-são-cristóvão, Doxicida, Gás de Estrangulamento, Veneno de Moonseed</p>"
+      "description": "<p>Quando você bebe esta poção, venenos simples em seu sistema são neutralizados e você ganha vantagem em testes de resistência contra veneno por 1 hora. Se você sofreu dano de veneno no minuto anterior, você recupera metade dos seus pontos de vida perdidos por dano de veneno, até um máximo de 15 pontos de vida.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}, @UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}, @UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}, @UUID[Compendium.wands.items-wands.Item.bpTjlZQGRKSavvXl]{Veneno de Moonseed}</p>"
     },
     "Blood-Replenishing Potion": {
       "name": "Poção para Repor Sangue",
-      "description": "<p>Tipicamente administrada em emergências, esta poção de cura ajuda a repor o sangue perdido por ferimentos. Se o próximo descanso que você fizer for um descanso curto, a quantidade de pontos de vida ganhos ao rolar dados de vida é dobrada durante esse descanso curto. Se o próximo descanso que você fizer for um descanso longo, você recupera todos os dados de vida gastos.</p><p><strong>Antídoto para:</strong> Veneno de Erva-de-são-cristóvão, Veneno de Sanguinária</p>"
+      "description": "<p>Tipicamente administrada em emergências, esta poção de cura ajuda a repor o sangue perdido por ferimentos. Se o próximo descanso que você fizer for um descanso curto, a quantidade de pontos de vida ganhos ao rolar dados de vida é dobrada durante esse descanso curto. Se o próximo descanso que você fizer for um descanso longo, você recupera todos os dados de vida gastos.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}, @UUID[Compendium.wands.items-wands.Item.dMJSoR9YqsE5tQPJ]{Veneno de Sanguinária}</p>"
     },
     "Forgetfulness Potion": {
       "name": "Poção do Esquecimento",
@@ -279,7 +279,7 @@
     },
     "Shrinking Solution": {
       "name": "Solução de Encolhimento",
-      "description": "<p>Quando você bebe esta poção, você ganha os efeitos do feitiço @UUID[Compendium.wands.spells-wands.Item.ywlZJ89bFULH3NSk]{Diminuendo} por 1d4 horas (sem necessidade de concentração). Esta poção também pode ser despejada sobre um objeto para os efeitos de @UUID[Compendium.wands.spells-wands.Item.cGhbCj4k7hA1c9lO]{Reducio}.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.spells-wands.Item.t2qC1P5SSIHrN09U]{Engorgio}, Solução de Inchaço</p>"
+      "description": "<p>Quando você bebe esta poção, você ganha os efeitos do feitiço @UUID[Compendium.wands.spells-wands.Item.ywlZJ89bFULH3NSk]{Diminuendo} por 1d4 horas (sem necessidade de concentração). Esta poção também pode ser despejada sobre um objeto para os efeitos de @UUID[Compendium.wands.spells-wands.Item.cGhbCj4k7hA1c9lO]{Reducio}.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.spells-wands.Item.t2qC1P5SSIHrN09U]{Engorgio}, @UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Solução de Inchaço}</p>"
     },
     "Pepperup Potion": {
       "name": "Poção Pimenta",
@@ -307,7 +307,7 @@
     },
     "Blemish Blitzer": {
       "name": "Eliminador de Manchas",
-      "description": "<p>Esta poção especialmente formulada remove magicamente qualquer acne ou mancha do seu rosto quando aplicada.</p><p><strong>Antídoto para:</strong> Poção Carafungo, @UUID[Compendium.wands.spells-wands.Item.AwttbtDiV1QXzJpm]{Furnunculus}</p>"
+      "description": "<p>Esta poção especialmente formulada remove magicamente qualquer acne ou mancha do seu rosto quando aplicada.</p><p><strong>Antídoto para:</strong> @UUID[Compendium.wands.items-wands.Item.NvJBCh705HNUZJwz]{Poção Carafungo}, @UUID[Compendium.wands.spells-wands.Item.AwttbtDiV1QXzJpm]{Furnunculus}</p>"
     },
     "Draught of Living Death": {
       "name": "Poção do Morto-Vivo",
@@ -319,335 +319,335 @@
     },
     "african sea salt": {
       "name": "sal marinho africano",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Morto-Vivo<br/>Poção da Invisibilidade</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}<br/>@UUID[Compendium.wands.items-wands.Item.KVH85gQA7h2L3dwP]{Poção da Invisibilidade}</p>"
     },
     "angel's trumpet": {
       "name": "trombeta-de-anjo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção Nociva<br/>Poção do Sono</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Poção Nociva}<br/>@UUID[Compendium.wands.items-wands.Item.XlMmaW8RlljzkcDv]{Poção do Sono}</p>"
     },
     "baneberry": {
       "name": "erva-de-são-cristóvão",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Veneno de Erva-de-são-cristóvão<br/>Poção do Sono sem Sonhos</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}<br/>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Poção do Sono sem Sonhos}</p>"
     },
     "bat spleen": {
       "name": "baço de morcego",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Solução de Inchaço</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Solução de Inchaço}</p>"
     },
     "belladonna essence": {
       "name": "essência de beladona",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Essência da Insanidade<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essência da Insanidade}<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
     },
     "bicorn horn": {
       "name": "chifre de bicórnio",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Polissuco</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p>"
     },
     "billywig sting": {
       "name": "ferrão de billywig",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Antídoto de Venenos Comuns<br/>Antídoto de Venenos Incomuns</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antídoto de Venenos Comuns}<br/>@UUID[Compendium.wands.items-wands.Item.XXtozxI3F7LyJhaL]{Antídoto de Venenos Incomuns}</p>"
     },
     "boom berry": {
       "name": "baga explosiva",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Pimenta</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.sz7WNXng1pZCBvYq]{Poção Pimenta}</p>"
     },
     "boomslang skin": {
       "name": "pele de boomslang",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção da Invisibilidade<br/>Poção Polissuco</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.KVH85gQA7h2L3dwP]{Poção da Invisibilidade}<br/>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p>"
     },
     "bubotuber pus": {
       "name": "pus de bubotúbera",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Eliminador de Manchas</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ylkXrCkNOJofGzJg]{Eliminador de Manchas}</p>"
     },
     "bundimun secretion": {
       "name": "secreção de bundimun",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Doxicida<br/>Gás de Estrangulamento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}<br/>@UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}</p>"
     },
     "bursting mushroom": {
       "name": "cogumelo explosivo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Envelhecimento<br/>Poção de Proteção contra Fogo</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ybrrj6Qzry3wjW6B]{Poção do Envelhecimento}<br/>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Poção de Proteção contra Fogo}</p>"
     },
     "chinese chomping cabbage": {
       "name": "couve-mordente-chinesa",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Esquelesce</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Esquelesce}</p>"
     },
     "chizpurfle carapace": {
       "name": "carapaça de chizpurfle",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Envelhecimento<br/>Antídoto de Venenos Incomuns<br/>Poção Restauradora de Mandrágora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ybrrj6Qzry3wjW6B]{Poção do Envelhecimento}<br/>@UUID[Compendium.wands.items-wands.Item.XXtozxI3F7LyJhaL]{Antídoto de Venenos Incomuns}<br/>@UUID[Compendium.wands.items-wands.Item.gUuPcdPmgWIQOS9K]{Poção Restauradora de Mandrágora}</p>"
     },
     "cowbane": {
       "name": "cicuta-aquática",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Veneno de Erva-de-são-cristóvão<br/>Doxicida<br/>Solução de Encolhimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}<br/>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}<br/>@UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Solução de Encolhimento}</p>"
     },
     "doxy egg": {
       "name": "ovo de doxie",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Fortalecedora<br/>Poção Herbicida<br/>Poção da Invisibilidade</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.9yOwuN0ZegON8W56]{Poção Fortalecedora}<br/>@UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Poção Herbicida}<br/>@UUID[Compendium.wands.items-wands.Item.KVH85gQA7h2L3dwP]{Poção da Invisibilidade}</p>"
     },
     "dragon claw": {
       "name": "garra de dragão",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Poção para Aguçar o Intelecto</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Poção para Aguçar o Intelecto}</p>"
     },
     "erumpent horn": {
       "name": "chifre de erumpente",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Poção de Erumpente</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Poção de Erumpente}</p>"
     },
     "ethanol": {
       "name": "etanol",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção da Confusão<br/>Gás de Estrangulamento<br/>Poção Pimenta</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Poção da Confusão}<br/>@UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}<br/>@UUID[Compendium.wands.items-wands.Item.sz7WNXng1pZCBvYq]{Poção Pimenta}</p>"
     },
     "exploding ginger eyelash": {
       "name": "cílio de gengibre explosivo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção de Erumpente<br/>Gás de Estrangulamento<br/>Solução de Inchaço</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Poção de Erumpente}<br/>@UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}<br/>@UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Solução de Inchaço}</p>"
     },
     "fairy wing": {
       "name": "asa de fada",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção Fortalecedora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.9yOwuN0ZegON8W56]{Poção Fortalecedora}</p>"
     },
     "fanged geranium fang": {
       "name": "presa de gerânio-dentado",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Solução Fortalecedora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.9SN9FGJGNIUIEC4a]{Solução Fortalecedora}</p>"
     },
     "fire seed": {
       "name": "semente de fogo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Antídoto de Venenos Incomuns<br/>Poção de Erumpente</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.XXtozxI3F7LyJhaL]{Antídoto de Venenos Incomuns}<br/>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Poção de Erumpente}</p>"
     },
     "flobberworm mucus": {
       "name": "muco de verme-gosmento",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Eliminador de Manchas<br/>Poção Herbicida<br/>Poção do Sono</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ylkXrCkNOJofGzJg]{Eliminador de Manchas}<br/>@UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Poção Herbicida}<br/>@UUID[Compendium.wands.items-wands.Item.XlMmaW8RlljzkcDv]{Poção do Sono}</p>"
     },
     "flying seahorse": {
       "name": "cavalo-marinho voador",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção Fortalecedora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.9yOwuN0ZegON8W56]{Poção Fortalecedora}</p>"
     },
     "frog brain": {
       "name": "cérebro de sapo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Sono sem Sonhos</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Poção do Sono sem Sonhos}</p>"
     },
     "full-moon fluxweed": {
       "name": "fluxerva-de-lua-cheia",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Polissuco</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p>"
     },
     "galanthus nivalis": {
       "name": "galanthus nivalis",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Antídoto de Venenos Comuns<br/>Poção da Memória</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antídoto de Venenos Comuns}<br/>@UUID[Compendium.wands.items-wands.Item.gHs8gZya7LLOZV7w]{Poção da Memória}</p>"
     },
     "giant purple toad wart": {
       "name": "verruga de sapo-gigante-púrpura",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Essência da Insanidade</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essência da Insanidade}</p>"
     },
     "griffin claw": {
       "name": "garra de grifo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Esquelesce</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Esquelesce}</p>"
     },
     "gurdyroot": {
       "name": "raiz-de-gurdy",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção da Confusão</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Poção da Confusão}</p>"
     },
     "hemlock": {
       "name": "cicuta",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Doxicida<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
     },
     "honeywater": {
       "name": "água-de-mel",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Antídoto de Venenos Comuns<br/>Poção Wiggenweld</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antídoto de Venenos Comuns}<br/>@UUID[Compendium.wands.items-wands.Item.eIALIhq5cRFdRsHt]{Poção Wiggenweld}</p>"
     },
     "jobberknoll feather": {
       "name": "pena de jobberknoll",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção da Memória</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.gHs8gZya7LLOZV7w]{Poção da Memória}</p>"
     },
     "knotgrass": {
       "name": "centinódia",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Polissuco</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p>"
     },
     "lacewing fly": {
       "name": "mosca-do-véu",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Polissuco</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p>"
     },
     "lethe river water": {
       "name": "água do Rio Lete",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Esquecimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.lnSf6pxkdhfenhrY]{Poção do Esquecimento}</p>"
     },
     "lionfish spine": {
       "name": "espinho de peixe-leão",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Herbicida</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Poção Herbicida}</p>"
     },
     "lovage": {
       "name": "levístico",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Atordoamento<br/>Poção da Confusão<br/>Poção do Esquecimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Poção do Atordoamento}<br/>@UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Poção da Confusão}<br/>@UUID[Compendium.wands.items-wands.Item.lnSf6pxkdhfenhrY]{Poção do Esquecimento}</p>"
     },
     "mandrake root": {
       "name": "raiz de mandrágora",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Poção Restauradora de Mandrágora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.gUuPcdPmgWIQOS9K]{Poção Restauradora de Mandrágora}</p>"
     },
     "mistletoe berry": {
       "name": "baga de visco",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Antídoto de Venenos Comuns<br/>Poção do Esquecimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antídoto de Venenos Comuns}<br/>@UUID[Compendium.wands.items-wands.Item.lnSf6pxkdhfenhrY]{Poção do Esquecimento}</p>"
     },
     "moonseed berry": {
       "name": "baga de moonseed",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção Nociva</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Poção Nociva}</p>"
     },
     "moonstone": {
       "name": "pedra-da-lua",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção da Paz</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.dMsbWgmZ4Y1gzzC6]{Poção da Paz}</p>"
     },
     "murtlap tentacle": {
       "name": "tentáculo de murtisco",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Essência de Murtisco<br/>Esquelesce</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.VHd6y3FXyTNBryjJ]{Essência de Murtisco}<br/>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Esquelesce}</p>"
     },
     "nettle": {
       "name": "urtiga",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Eliminador de Manchas<br/>Solução de Inchaço</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ylkXrCkNOJofGzJg]{Eliminador de Manchas}<br/>@UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Solução de Inchaço}</p>"
     },
     "newt spleen": {
       "name": "baço de salamandra",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Envelhecimento<br/>Poção para Aguçar o Intelecto</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ybrrj6Qzry3wjW6B]{Poção do Envelhecimento}<br/>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Poção para Aguçar o Intelecto}</p>"
     },
     "octopus": {
       "name": "polvo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Sono sem Sonhos<br/>Poção Pimenta</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Poção do Sono sem Sonhos}<br/>@UUID[Compendium.wands.items-wands.Item.sz7WNXng1pZCBvYq]{Poção Pimenta}</p>"
     },
     "peppermint": {
       "name": "hortelã-pimenta",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Elixir para Induzir Euforia</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir para Induzir Euforia}</p>"
     },
     "poppy head": {
       "name": "cabeça de papoula",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Sono sem Sonhos</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Poção do Sono sem Sonhos}</p>"
     },
     "porcupine quill": {
       "name": "espinho de porco-espinho",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Eliminador de Manchas<br/>Poção da Paz<br/>Elixir para Induzir Euforia</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.ylkXrCkNOJofGzJg]{Eliminador de Manchas}<br/>@UUID[Compendium.wands.items-wands.Item.dMsbWgmZ4Y1gzzC6]{Poção da Paz}<br/>@UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir para Induzir Euforia}</p>"
     },
     "Potion Book — Fifth Year Potions": {
       "name": "Livro de Poções — Poções do Quinto Ano",
-      "description": "<p>Poções do Quinto Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Quinto Ano.</p><hr/><p>Poção do Atordoamento</p><ul><li>levístico &times; 1</li></ul><ul><li>erva-do-escorbuto &times; 1</li></ul><ul><li>botão-de-prata &times; 1</li></ul><p>Poção da Paz</p><ul><li>espinho de porco-espinho &times; 1</li></ul><ul><li>pedra-da-lua &times; 1</li></ul><ul><li>xarope de heléboro &times; 1</li></ul><p>Essência de Murtisco</p><ul><li>tentáculo de murtisco &times; 2</li></ul><ul><li>espírito de mirra &times; 1</li></ul><p>Poção Nociva</p><ul><li>trombeta-de-anjo &times; 1</li></ul><ul><li>baga de moonseed &times; 1</li></ul><ul><li>xarope de heléboro &times; 1</li></ul><p>Solução Fortalecedora</p><ul><li>sangue de re'em &times; 1</li></ul><ul><li>presa de gerânio-dentado &times; 1</li></ul><ul><li>sangue de salamandra &times; 1</li></ul>"
+      "description": "<p>Poções do Quinto Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Quinto Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Poção do Atordoamento}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.a642c9e47440e609]{levístico} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.7bd20b23a107dfcb]{erva-do-escorbuto} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.20e15847f08cb545]{botão-de-prata} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.dMsbWgmZ4Y1gzzC6]{Poção da Paz}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.68fa500f8013ef84]{espinho de porco-espinho} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4ec36c1c329aad1c]{pedra-da-lua} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fb3d03f90bb9cbc4]{xarope de heléboro} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.VHd6y3FXyTNBryjJ]{Essência de Murtisco}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.221439cd6f55e23e]{tentáculo de murtisco} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fa3e5146c27f6f69]{espírito de mirra} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Poção Nociva}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.917174e2018bf45c]{trombeta-de-anjo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.b35b7a6eedbcccd2]{baga de moonseed} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fb3d03f90bb9cbc4]{xarope de heléboro} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.9SN9FGJGNIUIEC4a]{Solução Fortalecedora}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.4867e29cefe149a1]{sangue de re'em} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.eb4211e5f6b261ee]{presa de gerânio-dentado} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.b25d6990bba5acc9]{sangue de salamandra} &times; 1</li></ul>"
     },
     "Potion Book — First Year Potions": {
       "name": "Livro de Poções — Poções do Primeiro Ano",
-      "description": "<p>Poções do Primeiro Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Primeiro Ano.</p><hr/><p>Antídoto de Venenos Comuns</p><ul><li>@UUID[Compendium.wands.items-wands.Item.884fb4f43debadd7]{galanthus nivalis} &times; 1</li></ul><ul><li>baga de visco &times; 1</li></ul><ul><li>água-de-mel &times; 1</li></ul><ul><li>ferrão de billywig &times; 1</li></ul><p>Eliminador de Manchas</p><ul><li>urtiga &times; 1</li></ul><ul><li>pus de bubotúbera &times; 1</li></ul><ul><li>muco de verme-gosmento &times; 1</li></ul><ul><li>espinho de porco-espinho &times; 1</li></ul><p>Poção da Confusão</p><ul><li>raiz-de-gurdy &times; 1</li></ul><ul><li>levístico &times; 2</li></ul><ul><li>etanol &times; 1</li></ul><p>Poção do Esquecimento</p><ul><li>levístico &times; 1</li></ul><ul><li>baga de visco &times; 1</li></ul><ul><li>água do Rio Lete &times; 2</li></ul><p>Poção Herbicida</p><ul><li>muco de verme-gosmento &times; 1</li></ul><ul><li>espinho de peixe-leão &times; 1</li></ul><ul><li>concha de streeler &times; 1</li></ul><ul><li>ovo de doxie &times; 1</li></ul>"
+      "description": "<p>Poções do Primeiro Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Primeiro Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antídoto de Venenos Comuns}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.884fb4f43debadd7]{galanthus nivalis} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f3014cce75e93ea2]{baga de visco} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.e7938c6198a3822a]{água-de-mel} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4f71afcb39b778d6]{ferrão de billywig} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.ylkXrCkNOJofGzJg]{Eliminador de Manchas}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.4a332bdd692bdca9]{urtiga} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.d433dc532ea900ee]{pus de bubotúbera} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f4c3802951ad1568]{muco de verme-gosmento} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.68fa500f8013ef84]{espinho de porco-espinho} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Poção da Confusão}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.c52cc24443b63ad1]{raiz-de-gurdy} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.a642c9e47440e609]{levístico} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.9378a351012f1ccc]{etanol} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.lnSf6pxkdhfenhrY]{Poção do Esquecimento}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.a642c9e47440e609]{levístico} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f3014cce75e93ea2]{baga de visco} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.89dda1fb475fd95f]{água do Rio Lete} &times; 2</li></ul><p>@UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Poção Herbicida}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.f4c3802951ad1568]{muco de verme-gosmento} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.e329d212f7c86306]{espinho de peixe-leão} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4e4f583ac0284f89]{concha de streeler} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.76f5fa01c8f70a0b]{ovo de doxie} &times; 1</li></ul>"
     },
     "Potion Book — Fourth Year Potions": {
       "name": "Livro de Poções — Poções do Quarto Ano",
-      "description": "<p>Poções do Quarto Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Quarto Ano.</p><hr/><p>Poção do Envelhecimento</p><ul><li>cogumelo explosivo &times; 1</li></ul><ul><li>baço de salamandra &times; 1</li></ul><ul><li>carapaça de chizpurfle &times; 1</li></ul><p>Poção de Proteção contra Fogo</p><ul><li>cogumelo explosivo &times; 1</li></ul><ul><li>cogumelo-verruga &times; 1</li></ul><ul><li>sangue de salamandra &times; 1</li></ul><p>Gás de Estrangulamento</p><ul><li>secreção de bundimun &times; 1</li></ul><ul><li>etanol &times; 1</li></ul><ul><li>cogumelo-verruga &times; 1</li></ul><ul><li>cílio de gengibre explosivo &times; 1</li></ul><p>Poção Pimenta</p><ul><li>baga explosiva &times; 1</li></ul><ul><li>etanol &times; 1</li></ul><ul><li>infusão de verbena &times; 1</li></ul><ul><li>polvo &times; 1</li></ul><p>Poção para Limpar Feridas</p><ul><li>grama-estrela &times; 1</li></ul><ul><li>infusão de verbena &times; 1</li></ul><ul><li>cogumelo-de-chifre &times; 1</li></ul><ul><li>espírito de mirra &times; 1</li></ul>"
+      "description": "<p>Poções do Quarto Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Quarto Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.ybrrj6Qzry3wjW6B]{Poção do Envelhecimento}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.d263b2f59746b271]{cogumelo explosivo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.159022b804ab4277]{baço de salamandra} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.ce867b65043ef3ae]{carapaça de chizpurfle} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Poção de Proteção contra Fogo}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.d263b2f59746b271]{cogumelo explosivo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.631a2036af312845]{cogumelo-verruga} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.b25d6990bba5acc9]{sangue de salamandra} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.773e31d882d57ce1]{secreção de bundimun} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.9378a351012f1ccc]{etanol} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.631a2036af312845]{cogumelo-verruga} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f4ce544ed1774e6a]{cílio de gengibre explosivo} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.sz7WNXng1pZCBvYq]{Poção Pimenta}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.a79b357b5dff2b33]{baga explosiva} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.9378a351012f1ccc]{etanol} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fb8fdb62228dd498]{infusão de verbena} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.bae3023ebfeb46d9]{polvo} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.fg6eLteXHrOMSgIO]{Poção para Limpar Feridas}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.1282594f7ec7802f]{grama-estrela} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fb8fdb62228dd498]{infusão de verbena} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.d96125de6075d0b9]{cogumelo-de-chifre} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fa3e5146c27f6f69]{espírito de mirra} &times; 1</li></ul>"
     },
     "Potion Book — Second Year Potions": {
       "name": "Livro de Poções — Poções do Segundo Ano",
-      "description": "<p>Poções do Segundo Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Segundo Ano.</p><hr/><p>Doxicida</p><ul><li>cicuta-aquática &times; 1</li></ul><ul><li>cicuta &times; 1</li></ul><ul><li>secreção de bundimun &times; 1</li></ul><ul><li>concha de streeler &times; 1</li></ul><p>Poção do Sono sem Sonhos</p><ul><li>cabeça de papoula &times; 1</li></ul><ul><li>erva-de-são-cristóvão &times; 1</li></ul><ul><li>cérebro de sapo &times; 1</li></ul><ul><li>polvo &times; 1</li></ul><p>Elixir para Induzir Euforia</p><ul><li>hortelã-pimenta &times; 1</li></ul><ul><li>figo-murcho &times; 1</li></ul><ul><li>infusão de losna &times; 1</li></ul><ul><li>espinho de porco-espinho &times; 1</li></ul><p>Poção do Sono</p><ul><li>trombeta-de-anjo &times; 1</li></ul><ul><li>erva-do-escorbuto &times; 1</li></ul><ul><li>muco de verme-gosmento &times; 1</li></ul><p>Solução de Inchaço</p><ul><li>baço de morcego &times; 1</li></ul><ul><li>urtiga &times; 1</li></ul><ul><li>olho de baiacu &times; 1</li></ul><ul><li>cílio de gengibre explosivo &times; 1</li></ul>"
+      "description": "<p>Poções do Segundo Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Segundo Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.3110065f02257280]{cicuta-aquática} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.bede4f80fe71a32b]{cicuta} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.773e31d882d57ce1]{secreção de bundimun} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4e4f583ac0284f89]{concha de streeler} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Poção do Sono sem Sonhos}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.88483df978705940]{cabeça de papoula} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.dba77822358e9588]{erva-de-são-cristóvão} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.ef3f5e336f9d0881]{cérebro de sapo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.bae3023ebfeb46d9]{polvo} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir para Induzir Euforia}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.2fb60adc3769e85f]{hortelã-pimenta} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.9885401a14f63db1]{figo-murcho} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.95ce17340100f4e9]{infusão de losna} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.68fa500f8013ef84]{espinho de porco-espinho} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.XlMmaW8RlljzkcDv]{Poção do Sono}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.917174e2018bf45c]{trombeta-de-anjo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.7bd20b23a107dfcb]{erva-do-escorbuto} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f4c3802951ad1568]{muco de verme-gosmento} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Solução de Inchaço}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.40d0a6d736fd638c]{baço de morcego} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4a332bdd692bdca9]{urtiga} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f613e18c4e06765a]{olho de baiacu} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f4ce544ed1774e6a]{cílio de gengibre explosivo} &times; 1</li></ul>"
     },
     "Potion Book — Seventh Year Potions": {
       "name": "Livro de Poções — Poções do Sétimo Ano",
-      "description": "<p>Poções do Sétimo Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Sétimo Ano.</p><hr/><p>Essência da Insanidade</p><ul><li>erva-das-mágoas &times; 1</li></ul><ul><li>ovo de runespoor &times; 1</li></ul><ul><li>verruga de sapo-gigante-púrpura &times; 1</li></ul><ul><li>essência de beladona &times; 1</li></ul><ul><li>xarope de arnica &times; 1</li></ul><p>Poção da Invisibilidade</p><ul><li>pele de boomslang &times; 2</li></ul><ul><li>pelo de unicórnio &times; 1</li></ul><ul><li>sal marinho africano &times; 1</li></ul><ul><li>ovo de doxie &times; 1</li></ul><p>Poção Restauradora de Mandrágora</p><ul><li>raiz de mandrágora &times; 3</li></ul><ul><li>carapaça de chizpurfle &times; 1</li></ul><ul><li>espírito de mirra &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p><ul><li>cicuta &times; 1</li></ul><ul><li>raiz de valeriana &times; 1</li></ul><ul><li>erva-das-mágoas &times; 1</li></ul><ul><li>essência de beladona &times; 1</li></ul><ul><li>xarope de arnica &times; 1</li></ul><p>Poção para Aguçar o Intelecto</p><ul><li>ovo de runespoor &times; 1</li></ul><ul><li>baço de salamandra &times; 1</li></ul><ul><li>garra de dragão &times; 1</li></ul><ul><li>besouro-escaravelho &times; 1</li></ul><ul><li>cérebro de preguiça &times; 1</li></ul>"
+      "description": "<p>Poções do Sétimo Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Sétimo Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essência da Insanidade}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.6bec23944cb32fda]{erva-das-mágoas} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.393e5b93a26575aa]{ovo de runespoor} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.60d01761dbb8e572]{verruga de sapo-gigante-púrpura} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.0528a250cd5eacfe]{essência de beladona} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.3be342b5f02c520e]{xarope de arnica} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.KVH85gQA7h2L3dwP]{Poção da Invisibilidade}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.30f1d55d6ecdd788]{pele de boomslang} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.d2426a750f809da3]{pelo de unicórnio} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.51dfc6fad3c8b932]{sal marinho africano} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.76f5fa01c8f70a0b]{ovo de doxie} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.gUuPcdPmgWIQOS9K]{Poção Restauradora de Mandrágora}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.446ce3a4cfd780e4]{raiz de mandrágora} &times; 3</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.ce867b65043ef3ae]{carapaça de chizpurfle} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.fa3e5146c27f6f69]{espírito de mirra} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.bede4f80fe71a32b]{cicuta} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.3fb8abd17262c482]{raiz de valeriana} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.6bec23944cb32fda]{erva-das-mágoas} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.0528a250cd5eacfe]{essência de beladona} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.3be342b5f02c520e]{xarope de arnica} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Poção para Aguçar o Intelecto}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.393e5b93a26575aa]{ovo de runespoor} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.159022b804ab4277]{baço de salamandra} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.c15c1f84f9708218]{garra de dragão} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.278d967d52622d4c]{besouro-escaravelho} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4f4e97ca5f0d40da]{cérebro de preguiça} &times; 1</li></ul>"
     },
     "Potion Book — Sixth Year Potions": {
       "name": "Livro de Poções — Poções do Sexto Ano",
-      "description": "<p>Poções do Sexto Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Sexto Ano.</p><hr/><p>Poção do Morto-Vivo</p><ul><li>raiz de valeriana &times; 2</li></ul><ul><li>raiz de asfódelo &times; 1</li></ul><ul><li>cérebro de preguiça &times; 1</li></ul><ul><li>feijão sopóforo &times; 2</li></ul><ul><li>sal marinho africano &times; 1</li></ul><p>Poção de Erumpente</p><ul><li>folha de tentácula venenosa &times; 1</li></ul><ul><li>semente de fogo &times; 1</li></ul><ul><li>chifre de erumpente &times; 2</li></ul><ul><li>cílio de gengibre explosivo &times; 1</li></ul><p>Poção da Memória</p><ul><li>@UUID[Compendium.wands.items-wands.Item.884fb4f43debadd7]{galanthus nivalis} &times; 1</li></ul><ul><li>botão-de-prata &times; 1</li></ul><ul><li>pena de jobberknoll &times; 1</li></ul><p>Poção Polissuco</p><ul><li>pele de boomslang &times; 1</li></ul><ul><li>fluxerva-de-lua-cheia &times; 1</li></ul><ul><li>centinódia &times; 2</li></ul><ul><li>mosca-do-véu &times; 1</li></ul><ul><li>chifre de bicórnio &times; 1</li></ul><ul><li>feijão sopóforo &times; 1</li></ul><p>Esquelesce</p><ul><li>couve-mordente-chinesa &times; 1</li></ul><ul><li>olho de baiacu &times; 1</li></ul><ul><li>tentáculo de murtisco &times; 1</li></ul><ul><li>garra de grifo &times; 1</li></ul><ul><li>besouro-escaravelho &times; 1</li></ul>"
+      "description": "<p>Poções do Sexto Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Sexto Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.3fb8abd17262c482]{raiz de valeriana} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.7ef7071ab444ff8b]{raiz de asfódelo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4f4e97ca5f0d40da]{cérebro de preguiça} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4b090350c5ca5a7c]{feijão sopóforo} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.51dfc6fad3c8b932]{sal marinho africano} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Poção de Erumpente}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.0059796088df1302]{folha de tentácula venenosa} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.7094132bbbcf2fce]{semente de fogo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.073c099ffadc80f6]{chifre de erumpente} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f4ce544ed1774e6a]{cílio de gengibre explosivo} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.gHs8gZya7LLOZV7w]{Poção da Memória}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.884fb4f43debadd7]{galanthus nivalis} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.20e15847f08cb545]{botão-de-prata} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.a39966365ad9c0c0]{pena de jobberknoll} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.30f1d55d6ecdd788]{pele de boomslang} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.c68b9e017a32f8d2]{fluxerva-de-lua-cheia} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.24251132afb5c6f0]{centinódia} &times; 2</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4ab49ec62b7ff261]{mosca-do-véu} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.778e2515af19afb4]{chifre de bicórnio} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4b090350c5ca5a7c]{feijão sopóforo} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Esquelesce}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.85d4231098751df4]{couve-mordente-chinesa} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.f613e18c4e06765a]{olho de baiacu} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.221439cd6f55e23e]{tentáculo de murtisco} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.d5ab5b407c5e929c]{garra de grifo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.278d967d52622d4c]{besouro-escaravelho} &times; 1</li></ul>"
     },
     "Potion Book — Third Year Potions": {
       "name": "Livro de Poções — Poções do Terceiro Ano",
-      "description": "<p>Poções do Terceiro Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Terceiro Ano.</p><hr/><p>Antídoto de Venenos Incomuns</p><ul><li>semente de fogo &times; 1</li></ul><ul><li>ferrão de billywig &times; 1</li></ul><ul><li>carapaça de chizpurfle &times; 1</li></ul><p>Veneno de Erva-de-são-cristóvão</p><ul><li>cicuta-aquática &times; 1</li></ul><ul><li>figo-murcho &times; 1</li></ul><ul><li>erva-de-são-cristóvão &times; 2</li></ul><p>Poção Fortalecedora</p><ul><li>asa de fada &times; 1</li></ul><ul><li>cavalo-marinho voador &times; 1</li></ul><ul><li>ovo de doxie &times; 1</li></ul><p>Solução de Encolhimento</p><ul><li>cicuta-aquática &times; 1</li></ul><ul><li>figo-murcho &times; 1</li></ul><ul><li>infusão de losna &times; 1</li></ul><ul><li>extrato de tatuzinho &times; 1</li></ul><p>Poção Wiggenweld</p><ul><li>casca de wiggentree &times; 1</li></ul><ul><li>água-de-mel &times; 1</li></ul><ul><li>raiz de asfódelo &times; 1</li></ul>"
+      "description": "<p>Poções do Terceiro Ano<br/>Este livro contém receitas e ingredientes para o currículo de Poções do Terceiro Ano.</p><hr/><p>@UUID[Compendium.wands.items-wands.Item.XXtozxI3F7LyJhaL]{Antídoto de Venenos Incomuns}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.7094132bbbcf2fce]{semente de fogo} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4f71afcb39b778d6]{ferrão de billywig} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.ce867b65043ef3ae]{carapaça de chizpurfle} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.3110065f02257280]{cicuta-aquática} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.9885401a14f63db1]{figo-murcho} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.dba77822358e9588]{erva-de-são-cristóvão} &times; 2</li></ul><p>@UUID[Compendium.wands.items-wands.Item.9yOwuN0ZegON8W56]{Poção Fortalecedora}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.faabe0d5a369da32]{asa de fada} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.2323f3906e46367d]{cavalo-marinho voador} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.76f5fa01c8f70a0b]{ovo de doxie} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Solução de Encolhimento}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.3110065f02257280]{cicuta-aquática} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.9885401a14f63db1]{figo-murcho} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.95ce17340100f4e9]{infusão de losna} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.4039425397ddd79e]{extrato de tatuzinho} &times; 1</li></ul><p>@UUID[Compendium.wands.items-wands.Item.eIALIhq5cRFdRsHt]{Poção Wiggenweld}</p><ul><li>@UUID[Compendium.wands.items-wands.Item.fd6805ddd369a21c]{casca de wiggentree} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.e7938c6198a3822a]{água-de-mel} &times; 1</li></ul><ul><li>@UUID[Compendium.wands.items-wands.Item.7ef7071ab444ff8b]{raiz de asfódelo} &times; 1</li></ul>"
     },
     "pufferfish eye": {
       "name": "olho de baiacu",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Esquelesce<br/>Solução de Inchaço</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Esquelesce}<br/>@UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Solução de Inchaço}</p>"
     },
     "re'em blood": {
       "name": "sangue de re'em",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Solução Fortalecedora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.9SN9FGJGNIUIEC4a]{Solução Fortalecedora}</p>"
     },
     "root of asphodel": {
       "name": "raiz de asfódelo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Morto-Vivo<br/>Poção Wiggenweld</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}<br/>@UUID[Compendium.wands.items-wands.Item.eIALIhq5cRFdRsHt]{Poção Wiggenweld}</p>"
     },
     "runespoor egg": {
       "name": "ovo de runespoor",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Essência da Insanidade<br/>Poção para Aguçar o Intelecto</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essência da Insanidade}<br/>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Poção para Aguçar o Intelecto}</p>"
     },
     "salamander blood": {
       "name": "sangue de salamandra",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção de Proteção contra Fogo<br/>Solução Fortalecedora</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Poção de Proteção contra Fogo}<br/>@UUID[Compendium.wands.items-wands.Item.9SN9FGJGNIUIEC4a]{Solução Fortalecedora}</p>"
     },
     "scarab beetle": {
       "name": "besouro-escaravelho",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Esquelesce<br/>Poção para Aguçar o Intelecto</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Esquelesce}<br/>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Poção para Aguçar o Intelecto}</p>"
     },
     "scurvy grass": {
       "name": "erva-do-escorbuto",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Atordoamento<br/>Poção do Sono</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Poção do Atordoamento}<br/>@UUID[Compendium.wands.items-wands.Item.XlMmaW8RlljzkcDv]{Poção do Sono}</p>"
     },
     "shrivelfig": {
       "name": "figo-murcho",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Veneno de Erva-de-são-cristóvão<br/>Elixir para Induzir Euforia<br/>Solução de Encolhimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Veneno de Erva-de-são-cristóvão}<br/>@UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir para Induzir Euforia}<br/>@UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Solução de Encolhimento}</p>"
     },
     "sloth brain": {
       "name": "cérebro de preguiça",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Morto-Vivo<br/>Poção para Aguçar o Intelecto</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}<br/>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Poção para Aguçar o Intelecto}</p>"
     },
     "sneezewort": {
       "name": "botão-de-prata",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Atordoamento<br/>Poção da Memória</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Poção do Atordoamento}<br/>@UUID[Compendium.wands.items-wands.Item.gHs8gZya7LLOZV7w]{Poção da Memória}</p>"
     },
     "sopophorous bean": {
       "name": "feijão sopóforo",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Morto-Vivo<br/>Poção Polissuco</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}<br/>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Poção Polissuco}</p>"
     },
     "spirit of myrrh": {
       "name": "espírito de mirra",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Restauradora de Mandrágora<br/>Essência de Murtisco<br/>Poção para Limpar Feridas</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.gUuPcdPmgWIQOS9K]{Poção Restauradora de Mandrágora}<br/>@UUID[Compendium.wands.items-wands.Item.VHd6y3FXyTNBryjJ]{Essência de Murtisco}<br/>@UUID[Compendium.wands.items-wands.Item.fg6eLteXHrOMSgIO]{Poção para Limpar Feridas}</p>"
     },
     "staghorn mushroom": {
       "name": "cogumelo-de-chifre",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção para Limpar Feridas</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.fg6eLteXHrOMSgIO]{Poção para Limpar Feridas}</p>"
     },
     "star grass": {
       "name": "grama-estrela",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção para Limpar Feridas</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.fg6eLteXHrOMSgIO]{Poção para Limpar Feridas}</p>"
     },
     "streeler shell": {
       "name": "concha de streeler",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Doxicida<br/>Poção Herbicida</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxicida}<br/>@UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Poção Herbicida}</p>"
     },
     "syrup of arnica": {
       "name": "xarope de arnica",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Essência da Insanidade<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essência da Insanidade}<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
     },
     "syrup of hellebore": {
       "name": "xarope de heléboro",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção da Paz<br/>Poção Nociva</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.dMsbWgmZ4Y1gzzC6]{Poção da Paz}<br/>@UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Poção Nociva}</p>"
     },
     "unicorn hair": {
       "name": "pelo de unicórnio",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Poção da Invisibilidade</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.KVH85gQA7h2L3dwP]{Poção da Invisibilidade}</p>"
     },
     "valerian root": {
       "name": "raiz de valeriana",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção do Morto-Vivo<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Poção do Morto-Vivo}<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
     },
     "venomous tentacula leaf": {
       "name": "folha de tentácula venenosa",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>Poção de Erumpente</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> raro</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Poção de Erumpente}</p>"
     },
     "vervain infusion": {
       "name": "infusão de verbena",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção Pimenta<br/>Poção para Limpar Feridas</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.sz7WNXng1pZCBvYq]{Poção Pimenta}<br/>@UUID[Compendium.wands.items-wands.Item.fg6eLteXHrOMSgIO]{Poção para Limpar Feridas}</p>"
     },
     "wartcap": {
       "name": "cogumelo-verruga",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Poção de Proteção contra Fogo<br/>Gás de Estrangulamento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Poção de Proteção contra Fogo}<br/>@UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Gás de Estrangulamento}</p>"
     },
     "weed-of-sorrows": {
       "name": "erva-das-mágoas",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Essência da Insanidade<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essência da Insanidade}<br/>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>"
     },
     "wiggentree bark": {
       "name": "casca de wiggentree",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>Poção Wiggenweld</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> incomum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.eIALIhq5cRFdRsHt]{Poção Wiggenweld}</p>"
     },
     "woodlice extract": {
       "name": "extrato de tatuzinho",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Solução de Encolhimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Solução de Encolhimento}</p>"
     },
     "wormwood infusion": {
       "name": "infusão de losna",
-      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>Elixir para Induzir Euforia<br/>Solução de Encolhimento</p>"
+      "description": "<p>Ingrediente de alquimia.</p><p><strong>Raridade:</strong> comum</p><hr/><p><strong>Usado em:</strong><br/>@UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir para Induzir Euforia}<br/>@UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Solução de Encolhimento}</p>"
     }
   }
 }
