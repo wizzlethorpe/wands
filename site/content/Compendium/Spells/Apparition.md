@@ -59,7 +59,7 @@ preparation_prepared: false
 
 # Apparition
 
-As an action, you turn on the spot, attempting to disapparate into nothingness and appear at your envisioned destination. Based on the distance to your destination, you expend the appropriate spell slot. Make an ability check using your spellcasting ability (Other Formula).
+As an action, you turn on the spot, attempting to disapparate into nothingness and appear at your envisioned destination. Based on the distance to your destination, you expend the appropriate spell slot. Make an ability check using your spellcasting ability.
 
  
 
@@ -70,5 +70,5 @@ Use the following roll table to determine the result:
 | 15 or higher | You disapparate properly and arrive safely. |
 | 11-14 | You disapparate but arrive off-target ([[/r d20]]). |
 | 7-10 | The disapparition feels off and you stop yourself. Nothing happens. |
-| 5-6 | You suffer a [[Minor Splinch]] and arrive off-target. |
-| 4 or below | You suffer a [[Major Splinch]] and arrive off-target. |
+| 5-6 | You suffer a [[Minor Splinch Result]] and arrive off-target. |
+| 4 or below | You suffer a [[Major Splinch Result]] and arrive off-target. |

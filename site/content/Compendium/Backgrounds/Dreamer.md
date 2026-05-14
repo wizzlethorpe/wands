@@ -15,7 +15,7 @@ uses_value: null
 uses_max: null
 uses_per: null
 uses_recovery: ""
-advancement: [{"_id":"ls8045uei1oh01ak","type":"ItemGrant","configuration":{"items":["Compendium.wands.items-wands.gHtzAAVq0fnKuZF5","Compendium.wands.backgrounds-wands.Item.i6rTdJr2YiePp7FU"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
+advancement: [{"_id":"ls8045uei1oh01ak","type":"ItemGrant","configuration":{"items":["Compendium.wands.items-wands.gHtzAAVq0fnKuZF5","Compendium.wands.features-wands.Item.i6rTdJr2YiePp7FU"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
 ---
 
 # Dreamer

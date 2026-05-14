@@ -3,10 +3,7 @@ import { CastingStyleSchema } from "../../schemas/index.js";
 /**
  * Divination — school of magic subclass.
  *
- * Source: site/content/Rules/Chapter 3 - Schools of Magic.md (Divination section).
- *
- * Both L10 and L14 are titled "Omens and Portents" in Chapter 3 (likely an
- * unintentional duplicate name); the picks themselves differ between levels.
+ * Source: W&W v1.4 rulebook (wands/source/), pp. 23–24.
  */
 export const divinationSchoolOfMagic = CastingStyleSchema.parse({
   id: "divination-school-of-magic",
@@ -18,10 +15,10 @@ export const divinationSchoolOfMagic = CastingStyleSchema.parse({
   spellcastingProgression: "none",
 
   choices: [
-    { title: "Unexplained Senses",   pool: ["glimpsing-the-future",  "mind-reading"],            picksByLevel: { "1":  1 } },
-    { title: "Divination Skills",    pool: ["crystal-ball",          "improved-legilimency"],    picksByLevel: { "6":  1 } },
-    { title: "Omens and Portents",   pool: ["improved-premonitions", "improved-mind-reading"],   picksByLevel: { "10": 1 } },
-    { title: "Omens and Portents II", pool: ["the-third-eye",        "total-legilimency"],       picksByLevel: { "14": 1 } },
-    { title: "Undeniable Power",     pool: ["prophecy",              "total-recall"],            picksByLevel: { "18": 1 } },
+    { title: "Clairvoyant Studies", pool: ["fortune-teller",  "sensing-danger"],    picksByLevel: { "1":  1 } },
+    { title: "Farseeing",           pool: ["foresight",       "legilimency"],       picksByLevel: { "6":  1 } },
+    { title: "The Unseeable",       pool: ["palmistry",       "skilled-occlumens"], picksByLevel: { "10": 1 } },
+    { title: "Revealed Intentions", pool: ["aura-reading",    "darting-eyes"],      picksByLevel: { "14": 1 } },
+    { title: "Mystical Knowledge",  pool: ["vivid-visions",   "master-of-minds"],   picksByLevel: { "18": 1 } },
   ],
 });

@@ -132,6 +132,169 @@ function componentsToProperties(comp: Spell["components"]): string[] {
   return props;
 }
 
+/**
+ * Convert a legacy `damage.parts: [[formula, type]]` array to dnd5e v5 activity
+ * damage parts. v5 dropped the parallel-array shape in favor of structured
+ * `{ number, denomination, bonus, types, scaling, custom }` records. The legacy
+ * field is retained on the spell for older worlds, but only `activities[*].damage`
+ * drives buttons in v5.
+ */
+function damagePartsToV5(
+  parts: Array<[string, string]>,
+  scaling: Spell["scaling"] | undefined,
+): Record<string, unknown>[] {
+  return parts.map(([formula, type]) => {
+    const m = formula.match(/^(\d+)d(\d+)(.*)$/);
+    if (m) {
+      const bonus = (m[3] ?? "").replace(/^\s*\+\s*/, "").trim();
+      return {
+        number: parseInt(m[1]!, 10),
+        denomination: parseInt(m[2]!, 10),
+        bonus,
+        types: type ? [type] : [],
+        scaling: {
+          mode: scaling?.mode === "level" ? "whole" : "none",
+          number: null,
+          formula: scaling?.formula ?? "",
+        },
+        custom: { enabled: false, formula: "" },
+      };
+    }
+    return {
+      number: null,
+      denomination: null,
+      bonus: "",
+      types: type ? [type] : [],
+      scaling: { mode: "none", number: null, formula: "" },
+      custom: { enabled: true, formula },
+    };
+  });
+}
+
+/**
+ * Build the dnd5e v5 activities map for a spell from its legacy fields.
+ *
+ * v5 activity types we emit:
+ *   - attack: rsak / msak / rwak / mwak (ranged|melee spell|weapon attack roll)
+ *   - save:   targets make a saving throw
+ *   - heal:   restores hit points
+ *   - utility: util / abil — no roll button, just a "use" tracker
+ *
+ * `actionType: ""` spells get no activity (typically RP/narrative spells with no
+ * mechanical roll). They still appear on the sheet and chat description works.
+ */
+function buildSpellActivities(spell: Spell): Record<string, Record<string, unknown>> {
+  const at = spell.actionType;
+  if (!at) return {};
+
+  const activityId = stableId(`${spell.foundryId ?? spell.id}:activity`);
+
+  const common = {
+    _id: activityId,
+    sort: 0,
+    activation: {
+      type: spell.activation.type,
+      value: spell.activation.cost,
+      override: false,
+      condition: spell.activation.condition || "",
+    },
+    consumption: {
+      spellSlot: true,
+      scaling: { allowed: spell.scaling?.mode === "level", max: "" },
+      targets: [],
+    },
+    duration: {
+      value: spell.duration.value != null ? String(spell.duration.value) : "",
+      units: spell.duration.units || "inst",
+      special: "",
+      override: false,
+      concentration: !!spell.components.concentration,
+    },
+    effects: [],
+    range: {
+      value: spell.range.value != null ? String(spell.range.value) : "",
+      long: spell.range.long != null ? String(spell.range.long) : "",
+      units: spell.range.units || "",
+      special: "",
+      override: false,
+    },
+    target: { override: false, prompt: true },
+    uses: { spent: 0, max: "", recovery: [], override: false },
+    description: { chatFlavor: spell.chatFlavor || "" },
+  };
+
+  let activity: Record<string, unknown>;
+  if (at === "rsak" || at === "msak" || at === "rwak" || at === "mwak") {
+    const ranged = at === "rsak" || at === "rwak";
+    const isWeapon = at.endsWith("wak");
+    activity = {
+      ...common,
+      type: "attack",
+      attack: {
+        ability: "spellcasting",
+        bonus: spell.attackBonus ? String(spell.attackBonus) : "",
+        critical: { threshold: spell.critical?.threshold ?? null },
+        flat: false,
+        type: { value: ranged ? "ranged" : "melee", classification: isWeapon ? "weapon" : "spell" },
+      },
+      damage: {
+        critical: { allow: true, bonus: "" },
+        includeBase: false,
+        parts: damagePartsToV5(spell.damage?.parts ?? [], spell.scaling),
+      },
+    };
+  } else if (at === "save") {
+    // Saving-throw ability lives in `save.ability` when set, otherwise in the
+    // legacy top-level `ability` field (some spells were authored before save
+    // was promoted to its own block).
+    const ability = spell.save?.ability || spell.ability || "dex";
+    activity = {
+      ...common,
+      type: "save",
+      save: {
+        ability: [ability],
+        dc: {
+          calculation: "spellcasting",
+          formula: spell.save?.dc != null ? String(spell.save.dc) : "",
+        },
+      },
+      damage: {
+        critical: { allow: false, bonus: "" },
+        includeBase: false,
+        parts: damagePartsToV5(spell.damage?.parts ?? [], spell.scaling),
+      },
+    };
+  } else if (at === "heal") {
+    // dnd5e v5 expresses healing as a single custom formula, not a parts array.
+    const formula = (spell.damage?.parts ?? []).map(p => p[0]).join(" + ");
+    activity = {
+      ...common,
+      type: "heal",
+      healing: {
+        custom: { enabled: !!formula, formula },
+        types: ["healing"],
+      },
+    };
+  } else {
+    // util, abil, other — utility activity. If the spell authored a `formula`
+    // (e.g. Apparition's `d20+@mod` ability check), surface it as a chat-card
+    // Roll button via the v5 utility `roll` field. Without this, utility
+    // spells render description-only and the player has to roll manually.
+    const utility: Record<string, unknown> = { ...common, type: "utility" };
+    if (spell.formula) {
+      utility.roll = {
+        formula: spell.formula,
+        name: "",
+        prompt: false,
+        visible: true,
+      };
+    }
+    activity = utility;
+  }
+
+  return { [activityId]: activity };
+}
+
 function spellToFoundry(spell: Spell, locale: string, overlay: OverlayMap, lr: LinkResolver) {
   const name = t(`spells.${spell.id}.name`, locale);
   const desc = markdownToHtml(t(`spells.${spell.id}.description`, locale), lr);
@@ -166,6 +329,7 @@ function spellToFoundry(spell: Spell, locale: string, overlay: OverlayMap, lr: L
       materials: { value: mat?.description ?? "", consumed: mat?.consumed ?? false, cost: mat?.cost ?? 0, supply: mat?.supply ?? 0 },
       preparation: spell.preparation ?? { mode: "prepared", prepared: false },
       properties: componentsToProperties(spell.components),
+      activities: buildSpellActivities(spell),
     },
     effects: m.effects,
     folder: m.folder,

@@ -337,55 +337,56 @@ Naturally gifted in divination, a seer is a wizard or witch who can see into the
 
 Legilimency is a far more tangible ability, navigating through the many layers of a person's mind and correctly interpreting one's findings. To perform Legilimency, a wizard must know where to look in someone's mind, and requires eye contact to do so. Highly skilled Legilimens can perform the same feat non-verbally, which requires even more concentration.
 
-#### School of Magic Spells
+#### School of Magic Abilities
 
-| Spell Level | Spell |
-|:-----------:|:------|
-| 2nd | *homenum revelio* |
-| 4th | *specialis revelio* |
-| 5th | *legilimens* |
+| Required Level | Ability |
+|:--------------:|:--------|
+| 2nd | [[Cleromancy]] |
+| 3rd | [[Tasseomancy]] |
+| 7th | [[Cartomancy]] |
+| 9th | [[Crystal-gazing]] |
 
 ### Subclass Features
 
-#### Unexplained Senses (1st Level)
+#### Clairvoyant Studies (1st Level)
 
 Choose one of the following features:
 
-**Glimpsing the Future.** Sometimes, you get a premonition that you can't explain. Your HM will describe situations that have the potential to be dangerous without knowing the specifics. Additionally, you can never be surprised while conscious.
+**Fortune Teller.** You've particularly taken to astronomy, tasseography, and crystal gazing. You gain a Diviner's Kit and proficiency in using a Diviner's Kit.
 
-**Mind-Reading.** You've begun your studies of Legilimency. *Legilimens* is automatically added to your list of known spells. It does not count against your total number of spells known, and cannot be forgotten to learn another spell.
+**Sensing Danger.** You add half your proficiency bonus to your Initiative and cannot be surprised while conscious.
 
-#### Divination Skills (6th Level)
-
-Choose one of the following features:
-
-**Crystal Ball.** You can see actual visions of the future when you peer into an orb, but the images may be difficult to interpret. Your HM provides you a special orb, and if you spend one minute concentrating on the orb, your HM will describe in vague terms or imagery what the next hour could look like.
-
-**Improved Legilimency.** As your skill with Legilimency grows, you can read the surface-level thoughts of most people with ease. When you cast *legilimens*, the target is unaware of the intrusion into their mind.
-
-#### Omens and Portents (10th Level)
+#### Farseeing (6th Level)
 
 Choose one of the following features:
 
-**Improved Premonitions.** Your premonitions have gotten stronger, and you sometimes have dreams that show you a glimpse of the future. Whenever you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+**Foresight.** You start to see omens everywhere you look. After a long rest, roll two d20s and record those rolls as your two foresight rolls. When you or a creature you can see is about to make an attack roll, saving throw, or ability check, you can expend one of your foresight rolls to use that number, once per turn. After a long rest, you lose and reroll your foresight rolls. At level 10, you gain another foresight roll, for a total of 3.
 
-**Improved Mind-Reading.** You can see surface thoughts with nothing more than a glance. You can use an action to cast *legilimens* targeting one humanoid you can see within 60 feet. That creature does not receive a saving throw against this use of Legilimency, but you may only obtain their surface thoughts.
+**Legilimency.** You add the *legilimens* spell to your list of known spells. It does not count against your number of spells known, and cannot be forgotten to learn another spell.
 
-#### Omens and Portents (14th Level)
-
-Choose one of the following features:
-
-**The Third Eye.** You can see things hidden from most mortals. You gain truesight, the ability to see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, perceive the original form of a shapechanger or a creature that is transformed by magic, and see into the Ethereal Plane, all out to a range of 120 feet.
-
-**Total Legilimency.** *Improved Legilimency required.* Once you get into a target's head, you know its deepest secrets. When you cast *legilimens*, you may choose to cast it at a higher level (consuming the appropriate spell slot). If the target fails their saving throw, you can delve deeper into their memories.
-
-#### Undeniable Power (18th Level)
+#### The Unseeable (10th Level)
 
 Choose one of the following features:
 
-**Prophecy.** Once in your lifetime, you can utter a prophecy about a future event. The exact wording of the prophecy is selected by your HM and is subject to interpretation. The event will then come to pass, unless something is done to prevent it.
+**Palmistry.** You've mastered reading life lines. After observing a creature for 30 seconds, as an action, you can sense its current hit points.
 
-**Total Recall.** *Improved Mind-Reading required.* You've achieved complete mastery over the mind arts. You can uncover thoughts hidden in the deepest of minds and implant suggestions in the shallowest of souls. When you cast *legilimens* or *imperius*, you can do so non-verbally and without eye contact. Your range is the distance in which you can see your target and is not limited by eye contact.
+**Skilled Occlumens.** *Legilimens* and *veritaserum* will not work on you, unless you allow it. You can choose to let *legilimens* continue and reveal false information, false emotions, or false memories of your choosing.
+
+#### Revealed Intentions (14th Level)
+
+Choose one of the following features:
+
+**Aura Reading.** Your connection with your Inner Eye allows you to see colorful auras around intelligent beings. You can immediately sense if a being is hostile, friendly or neutral.
+
+**Darting Eyes.** *Legilimency required.* As a bonus action, you can cast *legilimens* in combat to see the next spell or action a creature is planning, as long as their eyes are visible.
+
+#### Mystical Knowledge (18th Level)
+
+Choose one of the following features:
+
+**Vivid Visions.** Your connection to your Inner Eye gives you a lucid vision of the immediate future. As a bonus action, you can see a vision of your next action and its immediate consequences, rolling any required rolls and hearing a description of the results. If you choose that action, your vision becomes reality, using all the same rolls. The vision is instantaneous, and takes up no time. After you use this ability, you can't use it again until you finish a long rest.
+
+**Master of Minds.** *Legilimency required.* Your skill in navigating thoughts is unparalleled. You can now cast *legilimens* at-will, verbally or non-verbally. Any attempt to resist your *legilimens* spell is made at disadvantage.
 
 ---
 
@@ -393,61 +394,52 @@ Choose one of the following features:
 
 Magizoology is the study of magical creatures in the wizarding world. Magizoologists study and observe magical creatures in their natural habitats, sometimes living with them and documenting their behavior. Newt Scamander is one of the most famous magizoologists, having traveled the world to document many different magical creatures.
 
-### Beast Tamers
+### Dragon-Keepers
 
-Some magizoologists specialize in taming and caring for magical beasts. These beast tamers form bonds with creatures that most wizards would consider too dangerous to approach. They learn to communicate with and train these beasts, sometimes keeping them as companions.
+Dragon-keepers call the dragon reserve home, caring for the most famous XXXXX classified creature among wizards and Muggles alike. Spending day after day with them, dragon-keepers often learn to see through the eyes of their ward and empathize with the plight of many magical beasts. They seek to understand dragons for the benefit of all.
 
-### Dark Creature Hunters
+### Monster Hunters
 
-Other magizoologists focus on the study and hunting of dark creatures like werewolves, vampires, and dementors. These hunters are experts in the weaknesses and behaviors of such creatures, making them invaluable in protecting the wizarding world from these threats.
-
-#### School of Magic Spells
-
-| Spell Level | Spell |
-|:-----------:|:------|
-| 1st | *fire-making spell* |
-| 2nd | *serpensortia* |
-| 3rd | *riddikulus* |
-| 4th | *draconifors* |
+Alternatively, some take a confrontational style of protection. When a wizarding village is plagued by a growing community of trolls, or they suspect a vampire is the cause of their dead livestock, they turn to a monster hunter. Dark creatures blur into the magical being category, so a monster hunter must deal with intelligent demi-humans just as well as corral a stray beast. It is up to the monster hunter to approach a situation wand blazing or seeking a peaceful resolution.
 
 ### Subclass Features
 
-#### Field Studies (1st Level)
+#### Biological Studies (1st Level)
 
 Choose one of the following features:
 
-**Beast Bond.** You've formed a special connection with magical creatures. You have advantage on Animal Handling checks when dealing with magical beasts, and you can communicate simple ideas to beasts that have an Intelligence of 4 or lower.
+**Caretaker.** Your study of magical creatures has taught you about their injuries and physiologies. You can cast any known Healing spells on beasts.
 
-**Monster Hunter Training.** You've studied the weaknesses of dark creatures. You gain proficiency in Survival and have advantage on Intelligence checks to recall information about magical creatures.
+**Folio Bruti.** You have your own personal notebook of beasts where you record your findings. Whenever you add Magical Creatures proficiency to an Ability check, add your Intelligence modifier as a bonus as well.
 
-#### Creature Companion (6th Level)
-
-Choose one of the following features:
-
-**Loyal Beast.** You've tamed a magical beast that serves as your companion. Choose a beast with a challenge rating of 1/4 or lower. The beast obeys your commands and acts on your initiative. As an action, you can command it to take the Attack, Dash, Disengage, Dodge, or Help action.
-
-**Hunter's Instincts.** You've developed instincts that help you track and combat dangerous creatures. You deal an extra 1d6 damage to any creature with the "dark" or "beast" type.
-
-#### Advanced Studies (10th Level)
+#### Way of the Wild (6th Level)
 
 Choose one of the following features:
 
-**Improved Bond.** Your beast companion grows stronger. It gains hit points equal to your level, and its attacks count as magical for the purpose of overcoming resistance.
+**Wizard's Best Friend.** Your care and compassion towards creatures earns you their trust and respect. You can have a beast companion (see Your Beast Companion below).
 
-**Expert Hunter.** Your knowledge of creatures gives you an edge in combat. When you hit a creature with an attack, you can use your bonus action to study it. For the next minute, you have advantage on attack rolls against that creature.
+**Prepared Ambush.** In learning to combat dangerous targets, you know how to place a magical trap, waiting to be sprung. When you cast a spell that targets a single creature or area using a spell slot of 1st level or higher, you can weave that spell into your surroundings, having no immediate effect. The spell is cast when it is triggered by something, which you decide at the time of setting the trap, such as entering an area, getting within a certain distance, or manipulating an object. You can also set conditions for creatures that don't trigger the spell, such as specific people or those who say a certain password. Using this ability expends a spell slot two levels higher than the intended spell. For example, to set a 1st level spell as a magical trap, you must expend a 3rd level spell slot. If the spell requires a target, the spell can only target one triggering creature, or if it affects an area, the spell's area of effect is centered on the triggering creature. If the spell conjures hostile creatures, they appear as close as possible to the triggering creature and attack. If the spell requires concentration, it lasts its full duration. A trap can be detected by a successful Intelligence (Investigation) check against your spell save DC, or by casting *specialis revelio*.
 
-#### Master Magizoologist (14th Level)
-
-Choose one of the following features:
-
-**Alpha Beast.** Your beast companion becomes a formidable ally. It gains an additional attack when it takes the Attack action, and you can command it to attack as a bonus action.
-
-**Creature Slayer.** You know exactly where to strike. Once per turn, when you hit a creature with an attack, you deal an additional 2d6 damage.
-
-#### Legendary Status (18th Level)
+#### Outdoorswizard (10th Level)
 
 Choose one of the following features:
 
-**Phoenix Bond.** You've earned the trust of a phoenix, the most majestic of magical creatures. A phoenix becomes your companion, able to carry you in flight and heal you with its tears once per long rest.
+**Survivalist.** You are particularly adept at traveling through and surviving in natural environments. You gain proficiency in either Herbology or Survival. Between Herbology and Survival, choose one that you're proficient in; your proficiency bonus is doubled when you make any check using that chosen skill. Also, you and your group gain the following benefits: difficult terrain doesn't slow your group's travel; your group can't be surprised while resting, as long as you are keeping watch; if a hit die roll is lower than their proficiency bonus, your group can reroll it once and take the higher result.
 
-**Master Hunter.** You've become legendary among creature hunters. You gain resistance to damage from all magical beasts and dark creatures, and your attacks against such creatures are made with advantage.
+**Monster Hunting.** You have vast experience studying, tracking, and hunting creatures, allowing you to quickly adapt to threats. If you spend 10 minutes studying a beast or dark being's tracks, you automatically learn what the creature is, its size, and its speed. If you choose, that creature becomes and remains Hunted until you use this feature again. You have advantage on Wisdom checks to track a Hunted creature and on Intelligence checks to recall information about them. While you're within 30 feet of a Hunted creature that you're actively tracking, you can sense its direction relative to you and distance in feet away from you.
+
+#### Genus Genius (14th Level)
+
+Choose one of the following features:
+
+**Beast Whisperer.** You've learned the body language and social rituals of many beasts. As an action, you can use a Wisdom (Magical Creatures) check to attempt to soothe and calm a hostile beast. On success, the beast believes you mean it no harm and is neutral to the party. The effect is canceled if you or a party member inflicts any damage or condition on that beast or any identical beasts. You cannot use this feature again until you complete a short or long rest.
+
+**Exploited Vulnerabilities.** You know exactly how to hit where it hurts. As a bonus action, you can call out an enemy's weaknesses to your allies. The target takes an additional 2d8 damage from your allies' damaging spells until the start of your next turn. You have a number of uses equal to your Intelligence modifier, and uses are restored after a long rest.
+
+#### Sixth Sense (18th Level)
+
+Choose one of the following features:
+
+**Draconic Empathy.** *Wizard's Best Friend required.* Your dedication as a dragon-keeper allows you to deeply understand dragons. If you've ever raised a dragon from an egg, it will view you as an ally and can serve as your beast companion. Tamed dragons have their own hit points, hit dice, and ability scores, and use natural attack actions.
+
+**Hunter's Reflexes.** You've precisely honed your instincts in combat. As a reaction to a creature you can see casting a spell or attacking, you can cast a spell with a casting time of one action, bonus action, or reaction, targeting only that creature. Conditions and damage are applied before the target completes their action. Damage dealt to the target imposes disadvantage on its attack roll. You cannot use this feature again until you complete a short or long rest.

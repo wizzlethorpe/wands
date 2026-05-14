@@ -15,7 +15,7 @@ uses_value: null
 uses_max: null
 uses_per: null
 uses_recovery: ""
-advancement: [{"_id":"znp4js6ef6n07o3n","type":"ItemGrant","configuration":{"items":["Compendium.wands.backgrounds-wands.Item.EouqUp6xId2pfrJi"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
+advancement: [{"_id":"znp4js6ef6n07o3n","type":"ItemGrant","configuration":{"items":["Compendium.wands.features-wands.Item.EouqUp6xId2pfrJi"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
 ---
 
 # Prodigy

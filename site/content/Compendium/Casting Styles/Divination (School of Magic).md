@@ -30,37 +30,37 @@ Legilimency is a far more tangible ability, navigating through the many layers o
 | 7th | [[Cartomancy]] |
 | 9th | [[Crystal-gazing]] |
 ## Subclass Features
-### **Unexplained Senses**
+### **Clairvoyant Studies**
 At 1st level, you gain one of the following features.
 
-[[Glimpsing the Future]]
+[[Fortune Teller]]
 
-[[Mind-Reading]]
+[[Sensing Danger]]
 
-### **Divination Skills**
+### **Farseeing**
 At 6th level, you gain one of the following features.
 
-[[Crystal Ball]]
+[[Foresight]]
 
-[[Improved Legilimency]]
+[[Legilimency]]
 
-### **Omens and Portents**
+### **The Unseeable**
 At 10th level, you gain one of the following features.
 
-[[Improved Premonitions]]
+[[Palmistry]]
 
-[[Improved Mind-Reading]]
+[[Skilled Occlumens]]
 
-### **Omens and Portents II**
+### **Revealed Intentions**
 At 14th level, you gain one of the following features.
 
-[[The Third Eye]]
+[[Aura Reading]]
 
-[[Total Legilimency]]
+[[Darting Eyes]]
 
-### **Undeniable Power**
+### **Mystical Knowledge**
 At 18th level, you gain one of the following features.
 
-[[Prophecy]]
+[[Vivid Visions]]
 
-[[Total Recall]]
+[[Master of Minds]]

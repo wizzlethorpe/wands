@@ -15,7 +15,7 @@ uses_value: null
 uses_max: null
 uses_per: null
 uses_recovery: ""
-advancement: [{"_id":"7bhe45ey5f8oecoz","type":"ItemGrant","configuration":{"items":["Compendium.wands.items-wands.MXRChbKcytwoMQib","Compendium.wands.backgrounds-wands.Item.flxM2mS2hZ93PWet"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
+advancement: [{"_id":"7bhe45ey5f8oecoz","type":"ItemGrant","configuration":{"items":["Compendium.wands.items-wands.MXRChbKcytwoMQib","Compendium.wands.features-wands.Item.flxM2mS2hZ93PWet"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
 ---
 
 # Groundskeeper

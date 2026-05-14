@@ -22,37 +22,39 @@ Dragon-keepers call the dragon reserve home, caring for the most famous XXXXX cl
 Alternatively, some take a confrontational style of protection. When a wizarding village is plagued by a growing community of trolls, or they suspect a vampire is the cause of their dead livestock, they turn to a monster hunter. Dark creatures blur into the magical being category, so a monster hunter must deal with intelligent demi-humans just as well as corral a stray beast. It is up to the monster hunter to approach a situation wand blazing or seeking a peaceful resolution.
 
 ## Subclass Features
-### **Field Studies**
+**Biological Studies**
+
 At 1st level, you gain one of the following features.
 
-[[Beast Bond]]
+[[Caretaker]]
 
-[[Monster Hunter Training]]
+[[Folio Bruti]]
 
-### **Creature Companion**
+### **Way of the Wild**
 At 6th level, you gain one of the following features.
 
-[[Loyal Beast]]
+[[Wizard's Best Friend]]
 
-[[Hunter's Instincts]]
+[[Prepared Ambush]]
 
-### **Advanced Studies**
+### **Outdoorswizard**
 At 10th level, you gain one of the following features.
 
-[[Improved Bond]]
+[[Survivalist]]
 
-[[Expert Hunter]]
+[[Monster Hunting]]
 
-### **Master Magizoologist**
+**Genus Genius**
+
 At 14th level, you gain one of the following features.
 
-[[Alpha Beast]]
+[[Beast Whisperer]]
 
-[[Creature Slayer]]
+[[Exploited Vulnerabilities]]
 
-### **Legendary Status**
+### **Sixth Sense**
 At 18th level, you gain one of the following features.
 
-[[Phoenix Bond]]
+[[Draconic Empathy]]
 
-[[Master Hunter]]
+[[Hunter's Reflexes]]

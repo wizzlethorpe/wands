@@ -15,7 +15,7 @@ uses_value: null
 uses_max: null
 uses_per: null
 uses_recovery: ""
-advancement: [{"_id":"93ayq5f90cjulw9x","type":"ItemGrant","configuration":{"items":["Compendium.wands.backgrounds-wands.Item.DkYENFbwBxF1Cvc3"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
+advancement: [{"_id":"93ayq5f90cjulw9x","type":"ItemGrant","configuration":{"items":["Compendium.wands.features-wands.Item.DkYENFbwBxF1Cvc3"],"optional":false,"spell":null},"value":{},"level":0,"title":"Feature","icon":null}]
 ---
 
 # Socialite
