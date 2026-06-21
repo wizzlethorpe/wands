@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/magic/time/hourglass-yellow-green.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.10"
+    },
+    "type": {
+      "value": "class"
+    },
+    "requirements": "Casting Style 3",
+    "activation": {
+      "type": "special",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

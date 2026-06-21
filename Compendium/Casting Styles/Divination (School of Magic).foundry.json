@@ -1,0 +1,186 @@
+{
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp",
+  "system": {
+    "identifier": "divination",
+    "source": {
+      "custom": "W&W p.23",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "classIdentifier": "willpower-caster",
+    "advancement": [
+      {
+        "_id": "73e839bf1920c99f",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.YGtnl1VfN7BvP21T"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.K98JhLEPW6V5GRHi"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Clairvoyant Studies",
+        "flags": {}
+      },
+      {
+        "_id": "1554d92f9ccf8cae",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "6": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.ExfeFDYBDW3wmPjQ"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.H3mJ4CG9jCjJ6p3c"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Farseeing",
+        "flags": {}
+      },
+      {
+        "_id": "6e261c6e347b2c3d",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.j2mY6WoFFI1NFat3"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.0kOF1UxiRtRlOE8O"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "The Unseeable",
+        "flags": {}
+      },
+      {
+        "_id": "09fee8179bf0a0e7",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "14": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.KIX1NJuJ1l4yi1nz"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.oEK9maUDS84dE0do"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Revealed Intentions",
+        "flags": {}
+      },
+      {
+        "_id": "a8d625626d540d0c",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "18": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.gJCLVF6JkHwqkfEZ"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.zLxrw58humIRuiJW"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Mystical Knowledge",
+        "flags": {}
+      }
+    ]
+  }
+}

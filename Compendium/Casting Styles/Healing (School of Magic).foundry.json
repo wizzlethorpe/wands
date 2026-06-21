@@ -1,0 +1,186 @@
+{
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue.webp",
+  "system": {
+    "identifier": "healing",
+    "source": {
+      "custom": "W&W p.22",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "classIdentifier": "technique-caster",
+    "advancement": [
+      {
+        "_id": "a46228af32b10e3a",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.09hctYwlTSGmstJa"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.ze6VCRlObvjxSJke"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Medical Studies",
+        "flags": {}
+      },
+      {
+        "_id": "9741668bbe76248d",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "6": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.5wU0VKqt3n1At4xP"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.gcFvTdmOshIk5OaW"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Dedicated Protector",
+        "flags": {}
+      },
+      {
+        "_id": "cf54415b5dbcf81d",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.mdZzD7IwY9aBKoU9"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.zpHbpsIQoogokCEW"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Moral Support",
+        "flags": {}
+      },
+      {
+        "_id": "2a75e53e10cf78b0",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "14": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.zUjGUgq5CMUs8Bkv"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.F1yTpv7DyxJM5Vjv"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Combat Medic",
+        "flags": {}
+      },
+      {
+        "_id": "cf97fbeb800055e6",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "18": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.dxOlNgvzEfL7xTlh"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.QGlLM158mjz69wdD"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Savior",
+        "flags": {}
+      }
+    ]
+  }
+}

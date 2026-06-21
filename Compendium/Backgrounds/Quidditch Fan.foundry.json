@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+  "system": {
+    "identifier": "quidditch-fan",
+    "source": {
+      "custom": "W&W p.36",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.zLix4G4HPiLH7nGO"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

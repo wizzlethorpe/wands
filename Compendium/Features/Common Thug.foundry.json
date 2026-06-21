@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/skills/melee/unarmed-punch-fist.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.35"
+    },
+    "type": {
+      "value": "background"
+    },
+    "requirements": "Bully",
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

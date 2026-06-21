@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "system": {
+    "identifier": "bully",
+    "source": {
+      "custom": "W&W p.36",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.k0LULtBYNJ2xMSOu"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

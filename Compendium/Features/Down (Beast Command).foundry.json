@@ -1,0 +1,60 @@
+{
+  "type": "feat",
+  "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p26"
+    },
+    "type": {
+      "value": "class"
+    },
+    "requirements": "Wizard's Beast Friend",
+    "activation": {
+      "type": "bonus",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "util",
+    "attackBonus": "",
+    "damage": {
+      "parts": [
+        [
+          "d6",
+          ""
+        ]
+      ]
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

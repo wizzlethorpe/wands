@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "system": {
+    "identifier": "follower",
+    "source": {
+      "custom": "W&W p.38",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.GWEfVz6PDbUCtEo3"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

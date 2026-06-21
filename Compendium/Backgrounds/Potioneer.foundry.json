@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "system": {
+    "identifier": "potioneer",
+    "source": {
+      "custom": "W&W p.34",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.QyIL838DMhWlpxuM"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.21"
+    },
+    "type": {
+      "value": "class"
+    },
+    "requirements": "Healing",
+    "activation": {
+      "type": "reaction",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": 10,
+      "long": null,
+      "units": "ft"
+    },
+    "target": {
+      "type": "creature",
+      "value": 1,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

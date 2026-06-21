@@ -1,0 +1,186 @@
+{
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-purple-pink.webp",
+  "system": {
+    "identifier": "charms",
+    "source": {
+      "custom": "W&W",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "classIdentifier": "willpower-caster",
+    "advancement": [
+      {
+        "_id": "76e952c6883f3ada",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.Id95hikL7vGvRxVb"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.23g7Lq1DXPHopXjW"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Bewitching Studies",
+        "flags": {}
+      },
+      {
+        "_id": "d562783dff3f3849",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "6": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.RqKX7cH5cCcnYwN1"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.iI7mXPakj7JcdPEB"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Advanced Charmswork",
+        "flags": {}
+      },
+      {
+        "_id": "ca29aee41679933b",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.Ahg4D1EmcjawNueB"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.QBBJvAkKPk5dveuC"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Unique Talents",
+        "flags": {}
+      },
+      {
+        "_id": "4b0192e481e49012",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "14": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.s8IaNnOam5Ngh6dj"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.wenKcholDVy6CkF7"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Refined Techniques",
+        "flags": {}
+      },
+      {
+        "_id": "94a58adb6e63f208",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "18": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.p77oVAIEHAetHpXg"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.Pda9NazUBRLh6d7t"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Pinnacle of Casting",
+        "flags": {}
+      }
+    ]
+  }
+}

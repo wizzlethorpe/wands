@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/commodities/currency/coin-plain-gold.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.33"
+    },
+    "type": {
+      "value": "background"
+    },
+    "requirements": "Potioneer",
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

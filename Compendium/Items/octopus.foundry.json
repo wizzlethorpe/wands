@@ -1,0 +1,75 @@
+{
+  "type": "loot",
+  "img": "icons/creatures/tentacles/tentacles-octopus-black-pink.webp",
+  "system": {
+    "source": {
+      "custom": "W&W"
+    },
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "rarity": "common",
+    "identified": true,
+    "equipped": false,
+    "attunement": 0,
+    "price": {
+      "value": 0.5,
+      "denomination": "gp"
+    },
+    "weight": 0.1,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": ""
+    },
+    "formula": "",
+    "ability": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "properties": [],
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "capacity": {
+      "type": "",
+      "value": null
+    }
+  }
+}

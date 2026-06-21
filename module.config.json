@@ -1,0 +1,26 @@
+{
+  "id": "wands",
+  "title": "W.A.N.D.S.",
+  "description": "Wands & Wizards, a Harry Potter 5e adaptation. Compiled from the WANDS vault by vaults-compiler.",
+  "version": "0.0.0",
+  "authors": [{ "name": "jaredraycoleman" }],
+  "system": "dnd5e",
+  "compatibility": { "minimum": "14", "verified": "14" },
+  "relationships": {
+    "systems": [
+      { "id": "dnd5e", "type": "system", "compatibility": { "minimum": "5" } }
+    ]
+  },
+  "packs": [
+    { "folder": "Spells", "name": "spells-wands", "label": "Spells (WANDS)", "type": "Item" },
+    { "folder": "Items", "name": "items-wands", "label": "Items (WANDS)", "type": "Item" },
+    { "folder": "Creatures", "name": "monsters-wands", "label": "Monsters (WANDS)", "type": "Actor" },
+    { "folder": "Features", "name": "features-wands", "label": "Features (WANDS)", "type": "Item" },
+    { "folder": "Backgrounds", "name": "backgrounds-wands", "label": "Backgrounds (WANDS)", "type": "Item" },
+    { "folder": "Houses", "name": "houses-wands", "label": "Houses (WANDS)", "type": "Item" },
+    { "folder": "Casting Styles", "name": "casting-styles-and-schools-of-magic-wands", "label": "Casting Styles and Schools of Magic (WANDS)", "type": "Item" },
+    { "folder": "Animagus Forms", "name": "animagus-form-wands", "label": "Animagus Forms (WANDS)", "type": "Actor" },
+    { "folder": "Magical Pets", "name": "magical-pets-wands", "label": "Magical Pets (WANDS)", "type": "Actor" },
+    { "folder": "Roll Tables", "name": "wands-roll-tables", "label": "Roll Tables (WANDS)", "type": "RollTable" }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.24"
+    },
+    "type": {
+      "value": "class"
+    },
+    "requirements": "Magizoology",
+    "activation": {
+      "type": "reaction",
+      "cost": 1,
+      "condition": "can't be used again until taking 1 long/short rest"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "creature",
+      "value": 1,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "sr",
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

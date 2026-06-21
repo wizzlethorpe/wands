@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/sundries/documents/envelope-sealed-red-tan.webp",
+  "system": {
+    "identifier": "prodigy",
+    "source": {
+      "custom": "W&W p.30",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "znp4js6ef6n07o3n",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.EouqUp6xId2pfrJi"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

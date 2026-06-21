@@ -1,0 +1,40 @@
+.wands-spell-card {
+  border: 1px solid var(--accent, #7a1f1a);
+  border-radius: 6px;
+  padding: 0.6rem 0.85rem;
+  margin: 0 0 1rem;
+  background: color-mix(in srgb, var(--accent, #7a1f1a) 6%, transparent);
+  font-size: 0.95em;
+}
+.wands-spell-head {
+  font-weight: 700;
+  color: var(--accent, #7a1f1a);
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  font-size: 0.85em;
+}
+.wands-spell-row {
+  display: flex;
+  gap: 0.5rem;
+  line-height: 1.5;
+}
+.wands-spell-key {
+  flex: 0 0 8.5rem;
+  font-weight: 600;
+}
+.wands-spell-val { flex: 1 1 auto; }
+.wands-spell-tags {
+  margin-top: 0.45rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.wands-spell-tag {
+  font-size: 0.78em;
+  font-weight: 600;
+  padding: 0.05rem 0.5rem;
+  border-radius: 999px;
+  background: var(--accent, #7a1f1a);
+  color: #fff;
+}

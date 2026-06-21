@@ -1,0 +1,121 @@
+{
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-tube-corked-red.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.43"
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "rarity": "uncommon",
+    "identified": true,
+    "equipped": false,
+    "attunement": 0,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "weight": 0,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": "inst"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "recovery": "",
+      "autoDestroy": true
+    },
+    "actionType": "save",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "damage": {
+      "parts": [
+        [
+          "2d6",
+          "poison"
+        ]
+      ]
+    },
+    "save": {
+      "ability": "con",
+      "dc": 16,
+      "scaling": "flat"
+    },
+    "formula": "",
+    "ability": "con",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "properties": [],
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "capacity": {
+      "type": "",
+      "value": null
+    }
+  },
+  "effects": [
+    {
+      "_id": "srbZ4d3Xa2oEIvaN",
+      "flags": {},
+      "changes": [],
+      "disabled": true,
+      "duration": {
+        "startTime": null,
+        "seconds": null,
+        "combat": null,
+        "rounds": null,
+        "turns": null,
+        "startRound": null,
+        "startTurn": null
+      },
+      "origin": "Item.SvqPXId891Qkx9OD",
+      "tint": "#ffffff",
+      "transfer": true,
+      "name": "Poison",
+      "description": "",
+      "statuses": [],
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "img": "icons/svg/poison.svg",
+      "type": "base",
+      "system": {},
+      "sort": 0,
+      "_key": "!items.effects!dMJSoR9YqsE5tQPJ.srbZ4d3Xa2oEIvaN"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
+  "system": {
+    "identifier": "jinxes-hexes-and-curses",
+    "source": {
+      "custom": "W&W p.18",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "classIdentifier": "intellect-caster",
+    "advancement": [
+      {
+        "_id": "6a46937f9f8cd3ef",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.g7E4rUyV8LkHCUUX"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.tNfarNLf7XYynLBA"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Practical Studies",
+        "flags": {}
+      },
+      {
+        "_id": "412ddfe4df0882d9",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "6": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.iT3xh6wHCOkjg9o2"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.AxOv8zagJ4gmqzlg"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Combat-Ready",
+        "flags": {}
+      },
+      {
+        "_id": "fec8f3ed2fbfadf1",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.qyYgiYGZ3gVAPPGp"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.vLyqRGiUCxB2rAbi"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Specialized Skills",
+        "flags": {}
+      },
+      {
+        "_id": "91decebbd4b50479",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "14": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.TZL55PehzHqaKvUk"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.pzr9bHEYyqyi18Oh"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Cursemaster",
+        "flags": {}
+      },
+      {
+        "_id": "74f3915aa73fcfa7",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "18": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.4Vm2EKoawas4zBZk"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.xlcBvtKFpNTv9RA1"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.sAzCUPDwePlBUE9a"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Legendary",
+        "flags": {}
+      }
+    ]
+  }
+}

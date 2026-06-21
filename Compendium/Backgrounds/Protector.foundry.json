@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "system": {
+    "identifier": "protector",
+    "source": {
+      "custom": "W&W p.35",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.i79ohukQiIll4kei"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
+  "system": {
+    "identifier": "troublemaker",
+    "source": {
+      "custom": "W&W p.38",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.x1hgjn8FxPcbmQpe"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

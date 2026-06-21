@@ -1,0 +1,186 @@
+{
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-orange.webp",
+  "system": {
+    "identifier": "transfiguration",
+    "source": {
+      "custom": "W&W p.19",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "classIdentifier": "willpower-caster",
+    "advancement": [
+      {
+        "_id": "a976fe9fd8076058",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.6H4CZeQjDoAlMXn1"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.dSp1iqUguu0uaOZx"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Scientific Studies",
+        "flags": {}
+      },
+      {
+        "_id": "7c25b9d56e748842",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "6": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.dCaSJnUhQVjdRsIo"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.DH8llNE5QemeV7tH"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Transfiguration Prodigy",
+        "flags": {}
+      },
+      {
+        "_id": "c9966451a9314842",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.qjY0M07KyCS5A8yx"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.eg9ujYaElmZXzkYd"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Precise Control",
+        "flags": {}
+      },
+      {
+        "_id": "8fe889ea57881607",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "14": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.Ok82C70D89EGBKjs"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.fM13prfsCgpvcPwn"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Magically Reinforced",
+        "flags": {}
+      },
+      {
+        "_id": "98302b2ff722df3a",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "18": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.VdRKM0dXVRIzQSeL"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.cm7nxYmVwUILWlpY"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Molecular Manipulator",
+        "flags": {}
+      }
+    ]
+  }
+}

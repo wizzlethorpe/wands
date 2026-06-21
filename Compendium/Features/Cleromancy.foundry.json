@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/commodities/bones/bone-fragments-grey.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.24"
+    },
+    "type": {
+      "value": "class"
+    },
+    "requirements": "Divination",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "2 Sorcery Points"
+    },
+    "duration": {
+      "value": 10,
+      "units": "minute"
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

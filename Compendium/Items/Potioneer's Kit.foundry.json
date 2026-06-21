@@ -1,0 +1,77 @@
+{
+  "type": "tool",
+  "img": "icons/containers/bags/pack-simple-leather.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.85"
+    },
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "rarity": "",
+    "identified": true,
+    "equipped": false,
+    "attunement": 0,
+    "price": {
+      "value": null,
+      "denomination": "gp"
+    },
+    "weight": 0,
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": ""
+    },
+    "formula": "",
+    "ability": "dex",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "properties": [],
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": 0,
+    "capacity": {
+      "type": "",
+      "value": null
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "background",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "system": {
+    "identifier": "klutz",
+    "source": {
+      "custom": "W&W p.33",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "PFj23T7PPj7iTqrz",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "0": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.6h3i8bqSCMaYTWYw",
+            "Compendium.wands.features-wands.Item.PANwBvpB0NmpLUE4"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "background"
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

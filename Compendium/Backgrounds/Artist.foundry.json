@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/tools/hand/brush-paint-pink.webp",
+  "system": {
+    "identifier": "artist",
+    "source": {
+      "custom": "W&W p.29",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.QwxIaXS4EWie4g32"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

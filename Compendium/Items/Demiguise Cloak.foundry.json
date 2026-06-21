@@ -1,0 +1,77 @@
+{
+  "type": "equipment",
+  "img": "icons/equipment/back/cloak-brown.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.38"
+    },
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "rarity": "",
+    "identified": true,
+    "equipped": false,
+    "attunement": 0,
+    "price": {
+      "value": null,
+      "denomination": "gp"
+    },
+    "weight": 18,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": "",
+    "ability": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "properties": [],
+    "armor": {
+      "value": 13,
+      "dex": 2
+    },
+    "proficient": 1,
+    "capacity": {
+      "type": "",
+      "value": null
+    }
+  }
+}

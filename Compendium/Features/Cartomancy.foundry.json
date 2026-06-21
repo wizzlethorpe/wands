@@ -1,0 +1,55 @@
+{
+  "type": "feat",
+  "img": "icons/sundries/misc/admission-ticket-grey.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.24"
+    },
+    "type": {
+      "value": "class"
+    },
+    "requirements": "Divination",
+    "activation": {
+      "type": "minute",
+      "cost": 10,
+      "condition": "6 Sorcery Points"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": ""
+  }
+}

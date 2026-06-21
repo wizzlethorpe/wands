@@ -1,0 +1,77 @@
+{
+  "type": "equipment",
+  "img": "icons/equipment/back/mantle-collared-black.webp",
+  "system": {
+    "source": {
+      "custom": "W&W p.38"
+    },
+    "type": {
+      "value": "",
+      "subtype": ""
+    },
+    "quantity": 1,
+    "rarity": "",
+    "identified": true,
+    "equipped": false,
+    "attunement": 0,
+    "price": {
+      "value": null,
+      "denomination": "gp"
+    },
+    "weight": 12,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "target": {
+      "type": "",
+      "value": null,
+      "width": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": "",
+      "autoDestroy": false
+    },
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "damage": {
+      "parts": []
+    },
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "formula": "",
+    "ability": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "properties": [],
+    "armor": {
+      "value": 11,
+      "dex": null
+    },
+    "proficient": 1,
+    "capacity": {
+      "type": "",
+      "value": null
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "background",
+  "img": "icons/environment/settlement/hut.webp",
+  "system": {
+    "identifier": "groundskeeper",
+    "source": {
+      "custom": "W&W p.32",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "7bhe45ey5f8oecoz",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.items-wands.MXRChbKcytwoMQib",
+            "Compendium.wands.features-wands.Item.flxM2mS2hZ93PWet"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}

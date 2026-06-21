@@ -1,0 +1,33 @@
+.wands-statblock {
+  border: 1px solid var(--accent, #7a1f1a);
+  border-top: 3px solid var(--accent, #7a1f1a);
+  border-radius: 4px;
+  padding: 0.7rem 0.9rem;
+  margin: 0 0 1rem;
+  background: color-mix(in srgb, var(--accent, #7a1f1a) 5%, transparent);
+  font-size: 0.95em;
+}
+.wands-sb-head {
+  font-style: italic;
+  color: var(--accent, #7a1f1a);
+  margin-bottom: 0.5rem;
+}
+.wands-sb-row { display: flex; gap: 0.5rem; line-height: 1.5; }
+.wands-sb-key { flex: 0 0 10rem; font-weight: 700; }
+.wands-sb-val { flex: 1 1 auto; }
+.wands-sb-abils {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.6rem 0;
+  padding: 0.5rem 0;
+  border-top: 1px solid color-mix(in srgb, var(--accent, #7a1f1a) 25%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--accent, #7a1f1a) 25%, transparent);
+}
+.wands-sb-abil {
+  flex: 1 1 4rem;
+  text-align: center;
+  min-width: 3.5rem;
+}
+.wands-sb-abil-k { display: block; font-weight: 700; color: var(--accent, #7a1f1a); font-size: 0.8em; }
+.wands-sb-abil-v { display: block; }

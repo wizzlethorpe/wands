@@ -1,0 +1,42 @@
+---
+title: Down (Beast Command)
+public: true
+type: feat
+feature_type: class
+feature_type_display: Class Feature
+source: W&W p26
+requirements: Wizard's Beast Friend
+activation_type: bonus
+activation_cost: 1
+activation_condition: ''
+duration_value: null
+duration_units: ''
+range_value: null
+range_units: ''
+target_type: ''
+target_value: null
+target_units: ''
+uses_value: null
+uses_max: ''
+uses_per: null
+uses_recovery: ''
+recharge_value: null
+recharge_charged: false
+action_type: util
+attack_bonus: 0
+damage_parts:
+  - - d6
+    - ''
+save_ability: ''
+save_dc: null
+save_scaling: spell
+formula: ''
+aliases:
+  - Down
+foundry:
+  base: Item:feat
+  id: KJJfIoOwXQceqePS
+  data_json: Compendium/Features/Down (Beast Command).foundry.json
+---
+
+You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to fall prone and attempt to Hide, adding the result of the command die to its Dexterity (Stealth) check. The first attack it makes while hidden in this way also adds the result of the command die to its attack roll.

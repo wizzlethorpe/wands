@@ -1,0 +1,43 @@
+/* Styling for the `rolltable` code-block handler — a wiki-side render
+   of a Foundry RollTable defined in frontmatter. Dropped into the wiki
+   bundle and (when opted in via assets.targets.foundry.styles) into
+   the Foundry module's per-vault stylesheet too. */
+
+table.rolltable {
+  width: 100%;
+  margin: 1rem 0;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+
+table.rolltable caption {
+  caption-side: top;
+  text-align: left;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--muted);
+}
+
+table.rolltable thead th {
+  text-align: left;
+  padding: 0.4rem 0.75rem;
+  border-bottom: 2px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  font-weight: 600;
+}
+
+table.rolltable tbody td {
+  padding: 0.4rem 0.75rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 12%, transparent);
+  vertical-align: top;
+}
+
+table.rolltable tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--accent) 4%, transparent);
+}
+
+table.rolltable td.rolltable-roll {
+  width: 5em;
+  white-space: nowrap;
+  font-weight: 600;
+  color: var(--accent);
+}

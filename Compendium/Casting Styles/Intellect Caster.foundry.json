@@ -1,0 +1,526 @@
+{
+  "type": "class",
+  "img": "icons/magic/fire/explosion-fireball-large-blue.webp",
+  "system": {
+    "identifier": "intellect-caster",
+    "source": {
+      "custom": "W&W p.15",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "full",
+      "ability": "int",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "hd": {
+      "additional": "",
+      "denomination": "d8",
+      "spent": 0
+    },
+    "levels": 1,
+    "primaryAbility": {
+      "value": [
+        "int"
+      ],
+      "all": true
+    },
+    "properties": [],
+    "startingEquipment": [],
+    "wealth": "",
+    "advancement": [
+      {
+        "_id": "5ac5d0b0a0b95861",
+        "type": "HitPoints",
+        "configuration": {},
+        "value": {},
+        "level": 0,
+        "flags": {}
+      },
+      {
+        "_id": "a878027cf69a8080",
+        "type": "Subclass",
+        "configuration": {},
+        "value": {},
+        "level": 1,
+        "flags": {}
+      },
+      {
+        "_id": "f3a56e5c76ecee89",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {},
+          "locked": [],
+          "points": 2
+        },
+        "value": {},
+        "level": 4,
+        "flags": {}
+      },
+      {
+        "_id": "1aa051cb16e3f065",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {},
+          "locked": [],
+          "points": 2
+        },
+        "value": {},
+        "level": 8,
+        "flags": {}
+      },
+      {
+        "_id": "99a6389f6cf6666c",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {},
+          "locked": [],
+          "points": 2
+        },
+        "value": {},
+        "level": 12,
+        "flags": {}
+      },
+      {
+        "_id": "ad864da2309ac5bc",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {},
+          "locked": [],
+          "points": 2
+        },
+        "value": {},
+        "level": 16,
+        "flags": {}
+      },
+      {
+        "_id": "ad3c0c8b4110566a",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "cap": 2,
+          "fixed": {},
+          "locked": [],
+          "points": 2
+        },
+        "value": {},
+        "level": 19,
+        "flags": {}
+      },
+      {
+        "_id": "337bf6a62a817233",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.g1R67HlsjBfjdpHD",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.yKuuNWPRkDaw8zC6",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.mjl2AEU4BTYlkMSf",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "flags": {}
+      },
+      {
+        "_id": "461a247d5881c995",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.e38945005bc4f458",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "flags": {}
+      },
+      {
+        "_id": "2c4031bb6aa78f3c",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.1kZzJx0va0Fhi81T",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.gz3EDRAUnimqJriU",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "flags": {}
+      },
+      {
+        "_id": "ecaa11225b8e00ba",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.K0sNedD2aum7pe1T",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "flags": {}
+      },
+      {
+        "_id": "48052e1692af83db",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.YhbP81Hza2VTskb1",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 20,
+        "flags": {}
+      },
+      {
+        "_id": "af0fd1048232aed3",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "3": {
+              "count": 2,
+              "replacement": false
+            },
+            "10": {
+              "count": 1,
+              "replacement": false
+            },
+            "17": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.0WSEVvMEmPguSJeu"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.7mV9VErFXSkroF9N"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.9Uwuy8LvCZ888TZ3"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.YUmL8vdQJhqCFkis"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.KmZiDGjcDTaiOabW"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.fOwRW1AsQ1H84XL8"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.mzeKANMCzYx4sdnS"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.w5WsO4UkKjAYlQFf"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Metamagic",
+        "flags": {}
+      },
+      {
+        "_id": "6387115c6381d8fe",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "sorcery-points",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 2
+            },
+            "3": {
+              "value": 3
+            },
+            "4": {
+              "value": 4
+            },
+            "5": {
+              "value": 5
+            },
+            "6": {
+              "value": 6
+            },
+            "7": {
+              "value": 7
+            },
+            "8": {
+              "value": 8
+            },
+            "9": {
+              "value": 9
+            },
+            "10": {
+              "value": 10
+            },
+            "11": {
+              "value": 11
+            },
+            "12": {
+              "value": 12
+            },
+            "13": {
+              "value": 13
+            },
+            "14": {
+              "value": 14
+            },
+            "15": {
+              "value": 15
+            },
+            "16": {
+              "value": 16
+            },
+            "17": {
+              "value": 17
+            },
+            "18": {
+              "value": 18
+            },
+            "19": {
+              "value": 19
+            },
+            "20": {
+              "value": 20
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Sorcery Points",
+        "flags": {}
+      },
+      {
+        "_id": "b0813421aad80d92",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "metamagic-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "3": {
+              "value": 2
+            },
+            "10": {
+              "value": 3
+            },
+            "17": {
+              "value": 4
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Metamagic Known",
+        "flags": {}
+      },
+      {
+        "_id": "5030412b526a12a4",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "cantrips-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 6
+            },
+            "2": {
+              "value": 6
+            },
+            "3": {
+              "value": 6
+            },
+            "4": {
+              "value": 7
+            },
+            "5": {
+              "value": 7
+            },
+            "6": {
+              "value": 7
+            },
+            "7": {
+              "value": 8
+            },
+            "8": {
+              "value": 8
+            },
+            "9": {
+              "value": 8
+            },
+            "10": {
+              "value": 9
+            },
+            "11": {
+              "value": 9
+            },
+            "12": {
+              "value": 9
+            },
+            "13": {
+              "value": 10
+            },
+            "14": {
+              "value": 10
+            },
+            "15": {
+              "value": 10
+            },
+            "16": {
+              "value": 10
+            },
+            "17": {
+              "value": 11
+            },
+            "18": {
+              "value": 11
+            },
+            "19": {
+              "value": 11
+            },
+            "20": {
+              "value": 11
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Cantrips Known",
+        "flags": {}
+      },
+      {
+        "_id": "486fed1228a0c03a",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "spells-known",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 6
+            },
+            "2": {
+              "value": 8
+            },
+            "3": {
+              "value": 10
+            },
+            "4": {
+              "value": 12
+            },
+            "5": {
+              "value": 15
+            },
+            "6": {
+              "value": 17
+            },
+            "7": {
+              "value": 18
+            },
+            "8": {
+              "value": 19
+            },
+            "9": {
+              "value": 22
+            },
+            "10": {
+              "value": 23
+            },
+            "11": {
+              "value": 24
+            },
+            "12": {
+              "value": 24
+            },
+            "13": {
+              "value": 27
+            },
+            "14": {
+              "value": 27
+            },
+            "15": {
+              "value": 28
+            },
+            "16": {
+              "value": 28
+            },
+            "17": {
+              "value": 31
+            },
+            "18": {
+              "value": 31
+            },
+            "19": {
+              "value": 31
+            },
+            "20": {
+              "value": 31
+            }
+          }
+        },
+        "value": {},
+        "level": 0,
+        "title": "Spells Known",
+        "flags": {}
+      }
+    ]
+  }
+}

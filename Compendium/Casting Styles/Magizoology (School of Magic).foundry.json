@@ -1,0 +1,186 @@
+{
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-green.webp",
+  "system": {
+    "identifier": "magizoology",
+    "source": {
+      "custom": "W&W p.25",
+      "rules": "2024"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "",
+      "preparation": {
+        "formula": ""
+      }
+    },
+    "classIdentifier": "willpower-caster",
+    "advancement": [
+      {
+        "_id": "ae59d134bbb76a0c",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "1": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.D5TbpuxPEM8C3mlW"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.Eom245h6LiLxcRMR"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Biological Studies",
+        "flags": {}
+      },
+      {
+        "_id": "2686623c305625cc",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "6": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.zZKTRoKCVHjLgqX8"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.9NFkPexJLRn7HVzi"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Way of the Wild",
+        "flags": {}
+      },
+      {
+        "_id": "ba3de6440212a498",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "10": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.hn3Ni3YL48Wml4vz"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.MmRMbk3JCJlZatLl"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Outdoorswizard",
+        "flags": {}
+      },
+      {
+        "_id": "6e6aabf77ade7184",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "14": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.gDEKDuMd0Rrj9I0O"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.8A5uoEtnvRnGA0Vh"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Genus Genius",
+        "flags": {}
+      },
+      {
+        "_id": "7e179f18abc8bfb9",
+        "type": "ItemChoice",
+        "configuration": {
+          "allowDrops": true,
+          "choices": {
+            "18": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "pool": [
+            {
+              "uuid": "Compendium.wands.features-wands.Item.0PRnNZ0fE1xmY7qz"
+            },
+            {
+              "uuid": "Compendium.wands.features-wands.Item.RGAkLqQUuY6SdWEq"
+            }
+          ],
+          "restriction": {
+            "level": "",
+            "list": [],
+            "subtype": "",
+            "type": ""
+          },
+          "spell": null,
+          "type": "feat"
+        },
+        "value": {},
+        "level": 0,
+        "title": "Sixth Sense",
+        "flags": {}
+      }
+    ]
+  }
+}

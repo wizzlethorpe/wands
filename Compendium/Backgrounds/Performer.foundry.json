@@ -1,0 +1,30 @@
+{
+  "type": "background",
+  "img": "icons/skills/social/diplomacy-peace-alliance.webp",
+  "system": {
+    "identifier": "performer",
+    "source": {
+      "custom": "W&W p.29",
+      "rules": "2024"
+    },
+    "advancement": [
+      {
+        "_id": "0f20mi7ww6n6nn96",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.GzkwmFGYK0H8oTbl"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "startingEquipment": [],
+    "wealth": ""
+  }
+}
