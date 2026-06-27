@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 8tt8LszN4RUexC1o
   data_json: Compendium/Spells/Langlock.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

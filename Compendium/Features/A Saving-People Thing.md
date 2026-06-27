@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: F1yTpv7DyxJM5Vjv
   data_json: Compendium/Features/A Saving-People Thing.foundry.json
+  folder: Class Feature
 ---
 
 You will throw yourself in the line of fire to protect others. If a creature you can see within 10 feet of you is targeted by a spell or attack, you can use your reaction to cast [[Protego]] and leap in front of that creature, becoming the new target of the attack. If the spell or attack affects both of you and you step in front of that creature, you will be subject to the effects of that spell or attack twice.

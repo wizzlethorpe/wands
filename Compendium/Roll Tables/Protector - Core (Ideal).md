@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Might. History is written by the victors, and the strong will always win.'
         weight: 2
+  folder: Protector
 ---
 
 ```rolltable

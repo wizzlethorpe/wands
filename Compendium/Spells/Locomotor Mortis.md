@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: RxkOrJzCX3egYmLC
   data_json: Compendium/Spells/Locomotor Mortis.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

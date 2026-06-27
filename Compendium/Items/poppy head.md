@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 88483df978705940
   data_json: Compendium/Items/poppy head.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

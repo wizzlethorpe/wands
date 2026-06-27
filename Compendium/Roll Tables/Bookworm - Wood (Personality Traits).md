@@ -42,6 +42,7 @@ foundry:
           - 4
           - 4
         text: Walnut wands are often found in the hands of highly intelligent magical innovators and inventors; this is a handsome wood possessed of unusual versatility and adaptability. Walnut wands will, once subjugated, perform any task its owner desires, provided that the user is of sufficient brilliance. This makes for a truly lethal weapon in the hands of a witch or wizard of no conscience, for the wand and the wizard may feed on each other in an unhealthy manner.
+  folder: Bookworm
 ---
 
 ```rolltable

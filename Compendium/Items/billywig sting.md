@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4f71afcb39b778d6
   data_json: Compendium/Items/billywig sting.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

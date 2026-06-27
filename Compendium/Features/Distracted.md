@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: qOFMIxXhii0sCzQ9
   data_json: Compendium/Features/Distracted.foundry.json
+  folder: Feat
 ---
 
 Your mind has grown scattered and easily clouded. You have disadvantage on Intelligence ability checks, except for Intelligence saving throws.

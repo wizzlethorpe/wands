@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 4G8f82GOhy3E2XEB
   data_json: Compendium/Features/Metamorph Magic.foundry.json
+  folder: Feat
 ---
 
 Once in a great many years, a metamorphmagus is born to a wizarding family with their very particular talent: morphing every aspect of their human appearance. Before becoming an adult, a metamorphmagus will not have complete control over this ability, often letting their emotions or stress get the better of them and losing control.

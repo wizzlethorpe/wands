@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: i6rTdJr2YiePp7FU
   data_json: Compendium/Features/Stargazer.foundry.json
+  folder: Background Feature
 ---
 
 Many of your nights are spent staring up at space, contemplating existence. You're a natural at Astronomy and share the Centaurs' views on the importance of the heavens. Your affinity for the ethereal also leads ghosts to be more trusting of you and more forthcoming with information.

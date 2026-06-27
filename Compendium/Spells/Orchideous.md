@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: MeJA6LTCO4CAEn1b
   data_json: Compendium/Spells/Orchideous.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

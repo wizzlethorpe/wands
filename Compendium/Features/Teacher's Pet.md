@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: EouqUp6xId2pfrJi
   data_json: Compendium/Features/Teacher's Pet.foundry.json
+  folder: Background Feature
 ---
 
 Because you are a bright individual, teachers and those in positions of authority are more likely to interpret your actions and intentions favorably. You might be in a better position to enlist their help, or have plausible deniability based on your academic reputation.

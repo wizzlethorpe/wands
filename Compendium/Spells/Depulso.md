@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: lmJJaXRHiDHZfV7h
   data_json: Compendium/Spells/Depulso.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

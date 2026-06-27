@@ -55,6 +55,7 @@ foundry:
   base: Item:equipment
   id: 7RPPlU65gInFAsw5
   data_json: Compendium/Items/Silk Cloak.foundry.json
+  folder: Equipment
 ---
 
 All of the concealing benefits of a cloak with none of the unwieldy bulk, a silk cloak is the preferred travel wear of experienced duelists. The smooth and lightweight material allows for a full range of movement and nimbleness.

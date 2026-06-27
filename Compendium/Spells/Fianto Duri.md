@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ZIXMrRHJv3L54u3X
   data_json: Compendium/Spells/Fianto Duri.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

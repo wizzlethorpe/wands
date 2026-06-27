@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: a642c9e47440e609
   data_json: Compendium/Items/lovage.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: Q8yBwkBRjVgvvqcX
   data_json: Compendium/Spells/Slugulus Eructo.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

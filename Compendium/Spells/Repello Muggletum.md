@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: xrTWMXrutiEa7mfw
   data_json: Compendium/Spells/Repello Muggletum.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Surprisingly Swishy: I am easily distracted and if there''s a plan, I''ll forget it. If I don''t forget it, I''ll ignore it.'
         weight: 2
+  folder: Dreamer
 ---
 
 ```rolltable

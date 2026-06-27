@@ -55,6 +55,7 @@ foundry:
   base: Item:tool
   id: MXRChbKcytwoMQib
   data_json: Compendium/Items/Herbologist's Tools.foundry.json
+  folder: Tool
 ---
 
 This set of tools includes a trowel, hand cultivator, pruning shears, dragon-hide gloves, twine, small burlap sacks, a few small pots and a pair of earmuffs.

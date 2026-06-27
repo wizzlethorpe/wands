@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: DMtd0U4uLUFJphSp
   data_json: Compendium/Features/Remarkable Aim.foundry.json
+  folder: Feat
 ---
 
 You have unerring accuracy with projectile spells. Your ranged spell attacks ignore half cover and treat three-quarters cover as if it were half cover.

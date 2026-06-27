@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: F95rFIoSUWjvbvgr
   data_json: Compendium/Items/Beautification Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, your appearance is transformed to be more attractive for 10 minutes. For the duration, when you make a Charisma (Deception), Charisma (Performance) or Charisma (Persuasion) check, you roll a `dice: d4` and add the number rolled to the check.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: v1TnTjk2YX18SV1B
   data_json: Compendium/Spells/Muffliato.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

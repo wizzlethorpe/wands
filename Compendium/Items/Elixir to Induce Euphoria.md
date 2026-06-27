@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: GcaawJhErL46zMtg
   data_json: Compendium/Items/Elixir to Induce Euphoria.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, your emotions are overpowered by a sudden inexplicable happiness, with the side effects of spontaneous singing and nose-tweaking. You gain resistance to psychic damage for 1 hour. For the duration, you have disadvantage on Dexterity (Stealth), Charisma (Intimidation), and Charisma (Deception) checks.

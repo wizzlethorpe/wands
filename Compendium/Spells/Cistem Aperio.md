@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: teiJrAHloBhkGPyQ
   data_json: Compendium/Spells/Cistem Aperio.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

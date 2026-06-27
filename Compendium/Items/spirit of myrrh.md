@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: fa3e5146c27f6f69
   data_json: Compendium/Items/spirit of myrrh.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 1282594f7ec7802f
   data_json: Compendium/Items/star grass.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

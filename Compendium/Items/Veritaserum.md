@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: QV2bAMA1HKKMP1B8
   data_json: Compendium/Items/Veritaserum.foundry.json
+  folder: Potion
 ---
 
 A creature subjected to this potion must succeed on a DC 21 Charisma saving throw. On a failed save, the creature is compelled to tell the whole truth to any questions asked of it within the next 10 minutes. You know whether the creature succeeds or fails on its saving throw, based on the dull and dazed look in its eyes.

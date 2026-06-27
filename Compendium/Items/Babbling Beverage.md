@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: XS99dtF2VkYn4ahw
   data_json: Compendium/Items/Babbling Beverage.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, every word you try to say comes out as gibberish or complete nonsense for the next 1 minute.

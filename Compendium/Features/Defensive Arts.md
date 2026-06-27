@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: pzr9bHEYyqyi18Oh
   data_json: Compendium/Features/Defensive Arts.foundry.json
+  folder: Class Feature
 ---
 
 You've learned how to block the most dangerous of spells. Defensive spells are automatically cast two levels higher than the consumed spell slot, not exceeding the highest available level of spell slots you have.

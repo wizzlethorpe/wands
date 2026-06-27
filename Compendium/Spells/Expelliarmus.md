@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: riWXiETnA7psWuM2
   data_json: Compendium/Spells/Expelliarmus.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

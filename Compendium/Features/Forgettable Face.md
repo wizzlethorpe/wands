@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: GWEfVz6PDbUCtEo3
   data_json: Compendium/Features/Forgettable Face.foundry.json
+  folder: Background Feature
 ---
 
 If a person were to take you at face value, you'd come across as inconsequential and they would assume your unimportance. It's also unusually difficult to pick your face out from a crowd, making it easier for you to blend in and harder for someone to blame you in particular.

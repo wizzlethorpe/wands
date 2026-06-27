@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: qYG3DBttisvOrPXs
   data_json: Compendium/Spells/Reparo.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

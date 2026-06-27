@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: arlH705OGLjIhWId
   data_json: Compendium/Items/Pet Tonic.foundry.json
+  folder: Potion
 ---
 
 When this potion is given to a magical pet, all of its hit points are restored, any diseases and conditions are removed and it gains 1d4 temporary hit points for 1 hour.

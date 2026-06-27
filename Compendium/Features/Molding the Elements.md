@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: eg9ujYaElmZXzkYd
   data_json: Compendium/Features/Molding the Elements.foundry.json
+  folder: Class Feature
 ---
 
 You've learned to bend the elements to your will. Any spell that involves only fire, water, earth, or air can be cast in a different shape than the original spell intended. The new shape cannot exceed the approximate area or volume of the original spell.

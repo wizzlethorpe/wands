@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: RqKX7cH5cCcnYwN1
   data_json: Compendium/Features/Target Practice.foundry.json
+  folder: Class Feature
 ---
 
 Your steady hand and hours of practice have given you an edge. Whenever you add your spellcasting ability modifier to a spell attack roll, add half your Dexterity modifier (rounded up) as a bonus as well.

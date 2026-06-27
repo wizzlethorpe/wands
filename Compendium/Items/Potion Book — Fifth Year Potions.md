@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 380ee89af3e9c547
   data_json: Compendium/Items/Potion Book — Fifth Year Potions.foundry.json
+  folder: Loot
 ---
 
 Fifth Year Potions

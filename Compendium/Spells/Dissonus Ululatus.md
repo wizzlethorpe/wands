@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: rwE32HoFEGrZa1pD
   data_json: Compendium/Spells/Dissonus Ululatus.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

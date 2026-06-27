@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 4JedCeLIdY9ASEq6
   data_json: Compendium/Features/Bravehearted.foundry.json
+  folder: Racial Trait
 ---
 
 You have advantage on saving throws against being frightened from any source other than a Dementor.

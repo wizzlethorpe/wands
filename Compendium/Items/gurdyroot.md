@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: c52cc24443b63ad1
   data_json: Compendium/Items/gurdyroot.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

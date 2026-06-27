@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: jQ5Y8fArHFHMdez3
   data_json: Compendium/Items/Dreamless Sleep Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you immediately fall asleep and gain the benefits of a long rest after 4 hours of uninterrupted sleep. However, your sleep is far deeper than usual, and someone using their action to shake you or taking damage is the only way for you to wake before 4 hours have passed.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: awKAxkmmCZSjYiZw
   data_json: Compendium/Spells/Rennervate.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

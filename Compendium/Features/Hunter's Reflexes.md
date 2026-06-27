@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: RGAkLqQUuY6SdWEq
   data_json: Compendium/Features/Hunter's Reflexes.foundry.json
+  folder: Class Feature
 ---
 
 You've precisely honed your instincts in combat. As a reaction to a creature you can see casting a spell or attacking, you can cast a spell with a casting time of one action, bonus action, or reaction, targeting only that creature. Conditions and damage are applied before the target completes their action. Damage dealt to the target imposes disadvantage on its attack roll. You cannot use this feature again until you complete a short or long rest.

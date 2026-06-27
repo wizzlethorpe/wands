@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 7R1TDQsY6cJ9u3DQ
   data_json: Compendium/Items/Erumpent Potion.foundry.json
+  folder: Potion
 ---
 
 As an action, you can throw a bottle of Erumpent Potion at a point up to 60 feet away, releasing a violent explosion and shockwave. Each creature within 10 feet of that point must make a DC 14 Dexterity saving throw, taking 10d6 bludgeoning damage on a failed save, or half as much damage on a successful one. Each creature within 30 feet of that point takes 4d8 thunder damage. This potion is highly volatile and will explode if it is poured out of its container.

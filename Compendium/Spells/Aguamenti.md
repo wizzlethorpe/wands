@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: vRGqcJIal0kGv19T
   data_json: Compendium/Spells/Aguamenti.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

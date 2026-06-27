@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: jl13cyryEdqlRZQq
   data_json: Compendium/Items/Heartbreak Teardrops.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they are overcome with the fear of being rejected by the object of their desire for 1 hour. If no relationship or attraction exists, a new one will be magically created. The being is susceptible to the next suggested course of action to try to avoid rejection. The suggestion does not need to logically prevent rejection, but it must be reasonable and not be obviously harmful. It pursues the course of action you described to the best of its ability, until the course of action is complete or until the potion's effect wears off.

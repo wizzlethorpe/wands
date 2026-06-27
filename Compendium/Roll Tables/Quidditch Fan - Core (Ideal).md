@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Competition. The struggle to win and survive drives greatness.'
         weight: 2
+  folder: Quidditch Fan
 ---
 
 ```rolltable

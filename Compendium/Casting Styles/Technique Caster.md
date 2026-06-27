@@ -12,6 +12,7 @@ foundry:
   base: Item:class
   id: yIqpcDpoUmFoJI3U
   data_json: Compendium/Casting Styles/Technique Caster.foundry.json
+  folder: Casting Styles
 ---
 
 These spellcasters have practiced countless hours to obtain their level of control of magic. They are specialists: powerful and reactive. Their eye for detail them makes them formidable foes in the dueling world, and often are credited as the best of their field.

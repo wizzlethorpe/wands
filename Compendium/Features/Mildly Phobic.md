@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: R6N8HnLphMcSRtcu
   data_json: Compendium/Features/Mildly Phobic.foundry.json
+  folder: Feat
 ---
 
 You begin to obsess over a specific creature or person, believing them to be the cause of your demise. During the first round of combat with a creature of the chosen type, you are frightened.

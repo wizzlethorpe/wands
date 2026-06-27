@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: aolxtyoPsC4ChRax
   data_json: Compendium/Features/Dungeon Delver.foundry.json
+  folder: Feat
 ---
 
 Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:

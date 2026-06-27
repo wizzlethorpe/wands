@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: eFzSkIgxYHLaKlEs
   data_json: Compendium/Spells/Fidelius Mysteria Celare.foundry.json
+  folder: 9th Level
 ---
 
 ```spell-card

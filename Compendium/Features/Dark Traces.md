@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: qyYgiYGZ3gVAPPGp
   data_json: Compendium/Features/Dark Traces.foundry.json
+  folder: Class Feature
 ---
 
 You've learned the patterns and styles of Dark magic. You have advantage on any Investigation, Insight, or Perception roll that is involved with detecting Dark magic or a Dark wizard.

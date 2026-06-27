@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: s6zKb1EhdCpLvxdc
   data_json: Compendium/Items/Shrinking Solution.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you gain the effects of the [[Diminuendo]] spell for 1d4 hours (no concentration required). This potion can also be poured over an object for the effects of [[Reducio]].

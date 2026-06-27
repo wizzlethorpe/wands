@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: QiVVsr1653UIDixu
   data_json: Compendium/Features/Crimson Pupils.foundry.json
+  folder: Feat
 ---
 
 Your eyes are bloodshot and in the right lighting, even the blackest part of your pupils seem to shine red. You have disadvantage on attack rolls when you are facing the sun or a bright light.

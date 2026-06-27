@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: iI4DAtowIg24mYFH
   data_json: Compendium/Spells/Repello Inimicum.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

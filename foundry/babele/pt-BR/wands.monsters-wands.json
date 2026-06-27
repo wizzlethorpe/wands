@@ -1,0 +1,254 @@
+{
+  "label": "Monsters (WANDS)",
+  "entries": {
+    "Abraxan Winged Horse": {
+      "name": "Cavalo Alado Abraxano"
+    },
+    "Adult Acromantula": {
+      "name": "Acromântula Adulta"
+    },
+    "Adult Antipodean Opaleye": {
+      "name": "Olho-de-Opala Antípoda Adulto"
+    },
+    "Adult Ape": {
+      "name": "Macaco Adulto"
+    },
+    "Adult Basilisk": {
+      "name": "Basilisco Adulto"
+    },
+    "Adult Black Bear": {
+      "name": "Urso-Negro Adulto"
+    },
+    "Adult Brown Bear": {
+      "name": "Urso-Pardo Adulto"
+    },
+    "Adult Cerberus": {
+      "name": "Cérbero Adulto"
+    },
+    "Adult Chinese Fireball": {
+      "name": "Bola-de-Fogo Chinês Adulto"
+    },
+    "Adult Common Welsh Green": {
+      "name": "Verde-Galês Comum Adulto"
+    },
+    "Adult Diricawl": {
+      "name": "Diricawl Adulto"
+    },
+    "Adult Hebridean Black": {
+      "name": "Negro das Hébridas Adulto"
+    },
+    "Adult Hungarian Horntail": {
+      "name": "Rabo-Córneo Húngaro Adulto"
+    },
+    "Adult Norwegian Ridgeback": {
+      "name": "Dorso-de-Crista Norueguês Adulto"
+    },
+    "Adult Nundu": {
+      "name": "Nundu Adulto"
+    },
+    "Adult Peruvian Vipertooth": {
+      "name": "Dente-de-Víbora Peruano Adulto"
+    },
+    "Adult Polar Bear": {
+      "name": "Urso-Polar Adulto"
+    },
+    "Adult Romanian Longhorn": {
+      "name": "Chifre-Longo Romeno Adulto"
+    },
+    "Adult Swedish Shortsnout": {
+      "name": "Focinho-Curto Sueco Adulto"
+    },
+    "Adult Ukrainian Ironbelly": {
+      "name": "Barriga-de-Ferro Ucraniano Adulto"
+    },
+    "Adult Wolf": {
+      "name": "Lobo Adulto"
+    },
+    "Adult Yeti": {
+      "name": "Yeti Adulto"
+    },
+    "Aethonan Winged Horse": {
+      "name": "Cavalo Alado Etônio"
+    },
+    "Alpha Acromantula": {
+      "name": "Acromântula Alfa"
+    },
+    "Alpha Wolf": {
+      "name": "Lobo Alfa"
+    },
+    "Ancient Basilisk": {
+      "name": "Basilisco Ancião"
+    },
+    "Antipodean Opaleye Wyrmling": {
+      "name": "Filhote de Olho-de-Opala Antípoda"
+    },
+    "Bear Cub": {
+      "name": "Filhote de Urso"
+    },
+    "Billywig Swarm": {
+      "name": "Enxame de Billywigs"
+    },
+    "Bowtruckle": {
+      "name": "Tronquilho"
+    },
+    "Chinese Fireball Wyrmling": {
+      "name": "Filhote de Bola-de-Fogo Chinês"
+    },
+    "Common Welsh Green Wyrmling": {
+      "name": "Filhote de Verde-Galês Comum"
+    },
+    "Deer (Buck)": {
+      "name": "Cervo (Macho)"
+    },
+    "Deer (Doe)": {
+      "name": "Cervo (Fêmea)"
+    },
+    "Deer (Fawn)": {
+      "name": "Cervo (Filhote)"
+    },
+    "Dementor": {
+      "name": "Dementador"
+    },
+    "Giant Plague Rat": {
+      "name": "Rato Pestilento Gigante"
+    },
+    "Giant Rat": {
+      "name": "Rato Gigante"
+    },
+    "Goblin Banker": {
+      "name": "Goblin Banqueiro"
+    },
+    "Goblin Guard": {
+      "name": "Goblin Guarda"
+    },
+    "Goblin Warrior": {
+      "name": "Goblin Guerreiro"
+    },
+    "Granian Winged Horse": {
+      "name": "Cavalo Alado Graniano"
+    },
+    "Hebridean Black Wyrmling": {
+      "name": "Filhote de Negro das Hébridas"
+    },
+    "Hungarian Horntail Wyrmling": {
+      "name": "Filhote de Rabo-Córneo Húngaro"
+    },
+    "Infant Acromantula": {
+      "name": "Acromântula Infantil"
+    },
+    "Inferi Horde": {
+      "name": "Horda de Inferi"
+    },
+    "Inferi Swarm": {
+      "name": "Enxame de Inferi"
+    },
+    "Mortis Bat": {
+      "name": "Morcego Mortis"
+    },
+    "Norwegian Ridgeback Wyrmling": {
+      "name": "Filhote de Dorso-de-Crista Norueguês"
+    },
+    "Peruvian Vipertooth Wyrmling": {
+      "name": "Filhote de Dente-de-Víbora Peruano"
+    },
+    "Phoenix": {
+      "name": "Fênix"
+    },
+    "Pit Viper": {
+      "name": "Víbora"
+    },
+    "Plague Rat": {
+      "name": "Rato Pestilento"
+    },
+    "Rat": {
+      "name": "Rato"
+    },
+    "Romanian Longhorn Wyrmling": {
+      "name": "Filhote de Chifre-Longo Romeno"
+    },
+    "Spectre Bat": {
+      "name": "Morcego Espectral"
+    },
+    "Swarm of Grindylow": {
+      "name": "Enxame de Grindylows"
+    },
+    "Swarm of Mortis Bats": {
+      "name": "Enxame de Morcegos Mortis"
+    },
+    "Swarm of Small Birds": {
+      "name": "Enxame de Pássaros Pequenos"
+    },
+    "Swarm of Spectre Bats": {
+      "name": "Enxame de Morcegos Espectrais"
+    },
+    "Swarm of Tiny Birds": {
+      "name": "Enxame de Pássaros Minúsculos"
+    },
+    "Swedish Shortsnout Wyrmling": {
+      "name": "Filhote de Focinho-Curto Sueco"
+    },
+    "Thestral": {
+      "name": "Testrálio"
+    },
+    "Ukrainian Ironbelly Wyrmling": {
+      "name": "Filhote de Barriga-de-Ferro Ucraniano"
+    },
+    "Winged Foal": {
+      "name": "Potro Alado"
+    },
+    "Wolf Pup": {
+      "name": "Filhote de Lobo"
+    },
+    "Young Acromantula": {
+      "name": "Acromântula Jovem"
+    },
+    "Young Antipodean Opaleye": {
+      "name": "Olho-de-Opala Antípoda Jovem"
+    },
+    "Young Ape": {
+      "name": "Macaco Jovem"
+    },
+    "Young Cerberus": {
+      "name": "Cérbero Jovem"
+    },
+    "Young Chinese Fireball": {
+      "name": "Bola-de-Fogo Chinês Jovem"
+    },
+    "Young Common Welsh Green": {
+      "name": "Verde-Galês Comum Jovem"
+    },
+    "Young Diricawl": {
+      "name": "Diricawl Jovem"
+    },
+    "Young Hebridean Black": {
+      "name": "Negro das Hébridas Jovem"
+    },
+    "Young Hungarian Horntail": {
+      "name": "Rabo-Córneo Húngaro Jovem"
+    },
+    "Young Norwegian Ridgeback": {
+      "name": "Dorso-de-Crista Norueguês Jovem"
+    },
+    "Young Nundu": {
+      "name": "Nundu Jovem"
+    },
+    "Young Peruvian Vipertooth": {
+      "name": "Dente-de-Víbora Peruano Jovem"
+    },
+    "Young Polar Bear": {
+      "name": "Urso-Polar Jovem"
+    },
+    "Young Romanian Longhorn": {
+      "name": "Chifre-Longo Romeno Jovem"
+    },
+    "Young Swedish Shortsnout": {
+      "name": "Focinho-Curto Sueco Jovem"
+    },
+    "Young Ukrainian Ironbelly": {
+      "name": "Barriga-de-Ferro Ucraniano Jovem"
+    },
+    "Young Yeti": {
+      "name": "Yeti Jovem"
+    }
+  }
+}

@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: G01FoNIujKOi8pyR
   data_json: Compendium/Items/Noxious Potion.foundry.json
+  folder: Potion
 ---
 
 The liquid and fumes of this potion are equally dangerous, allowing for creatively nefarious uses. A creature that ingests or inhales this poison must succeed on a DC 13 Constitution saving throw or take 21 (6d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 7 (2d6) poison damage. After three successful saves, the poison ends.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 3b127TtSS7K04kf6
   data_json: Compendium/Spells/Tergeo.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

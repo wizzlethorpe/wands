@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: b25d6990bba5acc9
   data_json: Compendium/Items/salamander blood.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

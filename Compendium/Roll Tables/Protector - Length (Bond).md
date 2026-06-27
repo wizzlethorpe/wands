@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '13.5": I protect those who cannot protect themselves.'
         weight: 2
+  folder: Protector
 ---
 
 ```rolltable

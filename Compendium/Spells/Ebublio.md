@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ERTP6Lm6qmqH8dBw
   data_json: Compendium/Spells/Ebublio.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

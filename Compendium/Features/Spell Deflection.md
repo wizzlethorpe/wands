@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: RAY9AaKWGx1vkYhd
   data_json: Compendium/Features/Spell Deflection.foundry.json
+  folder: Class Feature
 ---
 
 At 3rd level, when you are the target of a spell or included in the area of a spell, you can deflect the spell as a reaction. The spell must be on your list of known spells and you spend a number of sorcery points equal to twice that spell's level.

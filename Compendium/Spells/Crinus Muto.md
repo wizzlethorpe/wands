@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: E3YhVkvxabkFpAwx
   data_json: Compendium/Spells/Crinus Muto.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

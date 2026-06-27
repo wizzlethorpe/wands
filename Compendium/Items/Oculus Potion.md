@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: bfiKprWDzaBfRHbZ
   data_json: Compendium/Items/Oculus Potion.foundry.json
+  folder: Potion
 ---
 
 Drinking this deep orange potion removes the blind condition, restoring your eyesight to its normal state.

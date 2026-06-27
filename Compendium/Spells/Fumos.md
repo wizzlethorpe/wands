@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: tITRwjvVLVb6hbOx
   data_json: Compendium/Spells/Fumos.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

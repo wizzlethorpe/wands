@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: xwYxEfiivByAd8KJ
   data_json: Compendium/Features/Spellcasting (Willpower).foundry.json
+  folder: Class Feature
 ---
 
 Charisma is your spellcasting ability for your spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.

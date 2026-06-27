@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 60d01761dbb8e572
   data_json: Compendium/Items/giant purple toad wart.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

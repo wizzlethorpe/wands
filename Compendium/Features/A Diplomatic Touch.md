@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: ZAAlZINpw1QhGA6G
   data_json: Compendium/Features/A Diplomatic Touch.foundry.json
+  folder: Racial Trait
 ---
 
 If you assist a hostile being in a meaningful way, they're more likely to reconsider their hostility towards you, potentially defusing the situation.

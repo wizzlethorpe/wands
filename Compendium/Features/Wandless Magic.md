@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: pnzwEriuGceQxiQY
   data_json: Compendium/Features/Wandless Magic.foundry.json
+  folder: Feat
 ---
 
 Through studying ancient tomes or channeling some of the volatile magic of your youth, you're able to perform small magical feats without your wand. If you know any of the following spells, you can cast them without needing a wand or somatic component: [[Accio]]*, [[Alohomora]], [[Colovaria]], [[Illegibilus]], [[Incendio Glacia]], [[Pereo]], [[Wingardium Leviosa]]*.

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: fb8fdb62228dd498
   data_json: Compendium/Items/vervain infusion.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

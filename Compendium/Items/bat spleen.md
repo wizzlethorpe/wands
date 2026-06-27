@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 40d0a6d736fd638c
   data_json: Compendium/Items/bat spleen.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

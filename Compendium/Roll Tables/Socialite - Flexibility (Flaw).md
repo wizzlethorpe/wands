@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Swishy: I''m a (misguided) romantic and a sucker for a pretty face.'
         weight: 2
+  folder: Socialite
 ---
 
 ```rolltable

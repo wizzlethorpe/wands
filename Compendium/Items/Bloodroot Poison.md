@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: dMJSoR9YqsE5tQPJ
   data_json: Compendium/Items/Bloodroot Poison.foundry.json
+  folder: Potion
 ---
 
 The Bloodroot Poison gets into the bloodstream and causes a very gradual internal necrosis. A creature that ingests this poison must succeed on a DC 16 Constitution saving throw or take 7 (2d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 7 (2d6) poison damage on a failed save.

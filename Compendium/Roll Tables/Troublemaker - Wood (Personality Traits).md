@@ -42,6 +42,7 @@ foundry:
           - 4
           - 4
         text: Holly is one of the rarer kinds of wand woods; traditionally considered protective, it works most happily for those who may need help overcoming a tendency to anger and impetuosity. At the same time, holly wands often choose owners engaged in some dangerous and often spiritual quest. Holly is a notoriously difficult wood to team with phoenix feather, but should such a pairing find its match, nothing and nobody should stand in their way.
+  folder: Troublemaker
 ---
 
 ```rolltable

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: b9sm4jrjmbBKkdDC
   data_json: Compendium/Features/Giant's Blood.foundry.json
+  folder: Feat
 ---
 
 Even though they are few and far between, it's hard for half-giants and part-giants to hide their genealogy; they tend to turn heads wherever they go. With a broad build, impressive strength and a genetic resistance to magic, wizards with giant blood are powerful allies.

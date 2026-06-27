@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: sAzCUPDwePlBUE9a
   data_json: Compendium/Features/Fractured Soul.foundry.json
+  folder: Class Feature
 ---
 
 Your pursuit of Dark magic has uncovered the writings of Herpo the Foul. You can create a Horcrux by performing the Horcrux Ritual, committing murder, and selecting a target to become the Horcrux. Only one Horcux may exist at one time.

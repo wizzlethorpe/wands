@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: dba77822358e9588
   data_json: Compendium/Items/baneberry.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4a332bdd692bdca9
   data_json: Compendium/Items/nettle.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

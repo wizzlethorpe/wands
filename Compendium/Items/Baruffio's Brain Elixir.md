@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: DzHLk4wA9pbUeBOc
   data_json: Compendium/Items/Baruffio's Brain Elixir.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you have advantage on Intelligence checks for 1 hour. Your thoughts become louder and faster, making it easy to focus.

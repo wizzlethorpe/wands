@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: g1R67HlsjBfjdpHD
   data_json: Compendium/Features/Spellcasting (Intellect).foundry.json
+  folder: Class Feature
 ---
 
 Intelligence is your spellcasting ability for your spells. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '14": I suffer recurring dreams of a terrible event in the future and will do anything to prevent it.'
         weight: 2
+  folder: Dreamer
 ---
 
 ```rolltable

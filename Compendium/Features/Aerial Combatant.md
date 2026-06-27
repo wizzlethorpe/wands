@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 9Lf4DtHi5rxApNDP
   data_json: Compendium/Features/Aerial Combatant.foundry.json
+  folder: Feat
 ---
 
 You're able to keep yourself oriented and lead your targets while flying a broomstick. You gain the following benefits.

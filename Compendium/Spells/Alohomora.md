@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 7iEiSq5gvaTOm5TS
   data_json: Compendium/Spells/Alohomora.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

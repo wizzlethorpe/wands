@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 0059796088df1302
   data_json: Compendium/Items/venomous tentacula leaf.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: fd6805ddd369a21c
   data_json: Compendium/Items/wiggentree bark.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

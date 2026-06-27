@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: fM13prfsCgpvcPwn
   data_json: Compendium/Features/Fortified Structures.foundry.json
+  folder: Class Feature
 ---
 
 You've learned to make magical objects stronger than the real thing. Your transfigured or conjured objects have twice as many hit points before breaking, and can support three times as much weight as their mundane equivalents.

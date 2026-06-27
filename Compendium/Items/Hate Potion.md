@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: S0q90HycTnRsJ4gU
   data_json: Compendium/Items/Hate Potion.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they view a chosen being as their most hated enemy for 10 minutes. If the brewer does not select a chosen being by speaking their name into the potion during brewing, the drinker will be hostile towards the next being they see within the potion's duration. If this potion is used as an antidote, it has no effect beyond acting as an antidote for the same duration.

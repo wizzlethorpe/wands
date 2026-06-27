@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: pGjSQVEEO4vxnCnx
   data_json: Compendium/Features/Crystal-gazing.foundry.json
+  folder: Class Feature
 ---
 
 By gazing into the cloudy depths of the crystal ball, you can spend 7 sorcery points to see a particular creature you choose for 10 minutes. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're using this ability, it can fail the saving throw voluntarily if it wants to be observed.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: xbAvLMDnxJjT0zu1
   data_json: Compendium/Spells/Mimblewimble.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

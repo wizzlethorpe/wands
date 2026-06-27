@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: c15c1f84f9708218
   data_json: Compendium/Items/dragon claw.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

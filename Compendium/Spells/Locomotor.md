@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: bywNONdUp4Y2Gz8W
   data_json: Compendium/Spells/Locomotor.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

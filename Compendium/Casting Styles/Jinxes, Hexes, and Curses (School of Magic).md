@@ -12,8 +12,22 @@ aliases:
   - Jinxes, Hexes, and Curses
 foundry:
   base: Item:subclass
-  id: ce032d224bae6231
+  id: 9fdc09d311aaee51
   data_json: Compendium/Casting Styles/Jinxes, Hexes, and Curses (School of Magic).foundry.json
+  folder: Schools of Magic
+  variants:
+    - id: 9fdc09d311aaee51
+      data:
+        system:
+          classIdentifier: technique-caster
+    - id: VdxlU1YFkJGwlJSY
+      data:
+        system:
+          classIdentifier: willpower-caster
+    - id: ce032d224bae6231
+      data:
+        system:
+          classIdentifier: intellect-caster
 ---
 
 Formally referred to as Dark charms, jinxes, hexes and curses are often associated with the Dark Arts because they inflict malicious effects on the target. While jinxes are mostly irritating and hexes are a little worse or more painful, curses are the worst kind of Dark magic. All three Unforgivables are classified as curses, and the average civilian wizard could go their whole life without casting a serious curse.

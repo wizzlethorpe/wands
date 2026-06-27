@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: EjZG9PL7BmYxNuIx
   data_json: Compendium/Features/Cough.foundry.json
+  folder: Feat
 ---
 
 You develop an uncontrollable cough that creeps up every now and then. You have disadvantage on Dexterity (Stealth) checks.

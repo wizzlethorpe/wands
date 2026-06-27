@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: gz3EDRAUnimqJriU
   data_json: Compendium/Features/Diverse Studies.foundry.json
+  folder: Class Feature
 ---
 
 At 3rd level, you gain both level 1 feature of your chosen School of Magic.

@@ -12,8 +12,22 @@ aliases:
   - Divination
 foundry:
   base: Item:subclass
-  id: vywxjPPtRgn5UDBd
+  id: 1aae3f3aa0c95444
   data_json: Compendium/Casting Styles/Divination (School of Magic).foundry.json
+  folder: Schools of Magic
+  variants:
+    - id: 1aae3f3aa0c95444
+      data:
+        system:
+          classIdentifier: technique-caster
+    - id: 3188edb2457192e1
+      data:
+        system:
+          classIdentifier: intellect-caster
+    - id: vywxjPPtRgn5UDBd
+      data:
+        system:
+          classIdentifier: willpower-caster
 ---
 
 Divination is an unusual branch of magic involving gathering insights into past, present and future events. It is an inexact science, requiring interpretation of tea leaves and omens. Some believe true divination involves meditation and a belief of non-self to access the Inner Eye, while Centaurs have a unique way of practicing divination by observing the movement of planets, moons, and stars.

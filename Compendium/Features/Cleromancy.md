@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: srRtgG4zoLaEil5N
   data_json: Compendium/Features/Cleromancy.foundry.json
+  folder: Class Feature
 ---
 
 You focus your inner eye upon rune-inscribed sticks or Grindylow bones as you cast them on the ground. As an action, you can spend 2 sorcery points to interpret their meaning and advise one being of your choice within 30 feet of you. The next time the being makes an ability check, attack roll or saving throw within the next 10 minutes, the target can roll a `dice: d4` and add the number rolled to the attack roll or saving throw. This effect can only be active on one target at a time. If you are concentrating on a spell at the time of interpreting the sticks or bones, you lose concentration.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 9T5ikBIdwJQzTpFa
   data_json: Compendium/Spells/Relashio.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

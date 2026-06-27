@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: mdZzD7IwY9aBKoU9
   data_json: Compendium/Features/Phoenix Song.foundry.json
+  folder: Class Feature
 ---
 
 You have a soothing presence. You gain proficiency in Persuasion and advantage on Charisma checks to ease someone's pain or help them maintain composure.

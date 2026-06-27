@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: aDKqv3T1MRfd0y7J
   data_json: Compendium/Items/Fire Protection Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you gain resistance to fire damage for 1 hour.

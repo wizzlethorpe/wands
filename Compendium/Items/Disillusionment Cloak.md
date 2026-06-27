@@ -55,6 +55,7 @@ foundry:
   base: Item:equipment
   id: dH018NLGfL46PP0L
   data_json: Compendium/Items/Disillusionment Cloak.foundry.json
+  folder: Equipment
 ---
 
 Created by weaving *pellucidi pellis* and a few other enchantments into a silk cloak, the disillusionment cloak has no delay, functioning as an effective invisibility cloak. However, in a certain light, an onlooker may be able to see a slightly distorted outline of the cloak's shape. In combat, it's quite effective, but as with any invisibility cloak, the wearer becomes partially visible if they open it to cast a spell.

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Quite Bendy: Don''t expect me to save those who can''t save themselves. It is nature''s way that the strong thrive and the weak perish.'
         weight: 2
+  folder: Groundskeeper
 ---
 
 ```rolltable

@@ -40,6 +40,7 @@ foundry:
           - 6
         text: Willow is an uncommon wand wood with healing power, and their ideal owner often has some (usually unwarranted) insecurity, however well they may try and hide it. With a handsome appearance and well-founded reputation for enabling advanced, non-verbal magic, the willow wands have consistently selected those of greatest potential, rather than those who feel they have little to learn.
         weight: 2
+  folder: Klutz
 ---
 
 ```rolltable

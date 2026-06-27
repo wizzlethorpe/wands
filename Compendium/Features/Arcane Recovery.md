@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: YhbP81Hza2VTskb1
   data_json: Compendium/Features/Arcane Recovery.foundry.json
+  folder: Class Feature
 ---
 
 When you reach 20th level, you have learned to regain some of your magical energy by studying in your free time. Whenever you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than 10, and none of the slots can be 6th level or higher.

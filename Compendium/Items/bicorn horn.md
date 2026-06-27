@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 778e2515af19afb4
   data_json: Compendium/Items/bicorn horn.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

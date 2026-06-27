@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: faabe0d5a369da32
   data_json: Compendium/Items/fairy wing.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

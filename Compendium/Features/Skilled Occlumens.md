@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 0kOF1UxiRtRlOE8O
   data_json: Compendium/Features/Skilled Occlumens.foundry.json
+  folder: Class Feature
 ---
 
 *[[Legilimens]] *and [[Veritaserum]] will not work on you, unless you allow it. You can choose to let *legilimens *continue and reveal false information, false emotions, or false memories of your choosing.

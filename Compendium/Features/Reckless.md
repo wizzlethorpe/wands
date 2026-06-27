@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: JN1RlcPm3MCyTnEk
   data_json: Compendium/Features/Reckless.foundry.json
+  folder: Feat
 ---
 
 You've become impulsive in the face of dangerous situations. The first attack made against you in any combat encounter has advantage on the attack roll.

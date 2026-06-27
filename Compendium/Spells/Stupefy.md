@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: Ct43yC0Wb5FWMxQD
   data_json: Compendium/Spells/Stupefy.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

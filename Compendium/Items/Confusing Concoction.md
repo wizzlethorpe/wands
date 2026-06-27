@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: kMuvqAHWCk6NhpyA
   data_json: Compendium/Items/Confusing Concoction.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you become utterly discombobulated for 6 seconds. You can’t take actions or reactions and you roll a `dice: d10`. If you roll 1-8, you must use all of your movement to move in a random direction. To determine the direction, assign a direction to each number 1-8. If you roll a 9-10, you don't move.

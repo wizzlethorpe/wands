@@ -37,6 +37,7 @@ foundry:
   base: Item:feat
   id: H1luuJ6zzu6N1bX3
   data_json: Compendium/Features/Find (Beast Command).foundry.json
+  folder: Class Feature
 ---
 
 You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to attempt to Search for hidden creatures or objects, adding the result of the command die to the skill check made for the Search.

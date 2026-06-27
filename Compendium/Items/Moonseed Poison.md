@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: bpTjlZQGRKSavvXl
   data_json: Compendium/Items/Moonseed Poison.foundry.json
+  folder: Potion
 ---
 
 The moonseed vine, its leaves and its berries give their toxicity to this basic poison. A creature that ingests this poison must succeed on a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.

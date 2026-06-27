@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: HLjTdBAZPg4LucMi
   data_json: Compendium/Spells/Avada Kedavra.foundry.json
+  folder: 8th Level
 ---
 
 ```spell-card

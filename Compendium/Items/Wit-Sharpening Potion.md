@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: Hgbk2ejlRQQareof
   data_json: Compendium/Items/Wit-Sharpening Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, your brain's neurological functioning is maximized, raising your Intelligence and Wisdom scores to 20 for 1 hour. The potion has no effect if your ability scores are equal to or greater than that score.

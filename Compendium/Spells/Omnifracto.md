@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: VIHuOkkoWTVDidKr
   data_json: Compendium/Spells/Omnifracto.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

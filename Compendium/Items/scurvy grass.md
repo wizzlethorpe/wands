@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 7bd20b23a107dfcb
   data_json: Compendium/Items/scurvy grass.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

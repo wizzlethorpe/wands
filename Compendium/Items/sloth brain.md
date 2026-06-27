@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4f4e97ca5f0d40da
   data_json: Compendium/Items/sloth brain.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

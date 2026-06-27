@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: VdRKM0dXVRIzQSeL
   data_json: Compendium/Features/Apex Predator.foundry.json
+  folder: Class Feature
 ---
 
 ***Animagus Transformation required.*** You've achieved complete mastery over the mystical art of animagus transformations. You can select two additional creatures as your animagus shapes, and you can choose to keep these shapes hidden from the Ministry of Magic. You may also choose to use any of these animals as your corporeal patronus.

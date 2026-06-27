@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: s8IaNnOam5Ngh6dj
   data_json: Compendium/Features/Wand and Shield.foundry.json
+  folder: Class Feature
 ---
 
 You've uncovered an ancient dueling style, allowing both offense and defense at the same time. When you cast [[Protego]]* *or [[Protego Maxima]], you can transition the spell's casting to your off-hand, freeing up your wand to cast other spells. The spell still requires concentration, but you are able to cast and maintain another concentration spell with your wand. Any factor that affects your ability to maintain concentration is applied individually to each effect (e.g. upon taking damage make a Constitution saving throw for each spell).

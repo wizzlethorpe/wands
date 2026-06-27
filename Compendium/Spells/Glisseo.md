@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: UEmdBoIYEyOTaNNo
   data_json: Compendium/Spells/Glisseo.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

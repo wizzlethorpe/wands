@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: eIALIhq5cRFdRsHt
   data_json: Compendium/Items/Wiggenweld Potion.foundry.json
+  folder: Potion
 ---
 
 This healing potion is the antidote for magically induced sleep, immediately waking the victim.

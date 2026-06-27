@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Pliant: I overlook obvious solutions in favor of complicated ones.'
         weight: 2
+  folder: Bookworm
 ---
 
 ```rolltable

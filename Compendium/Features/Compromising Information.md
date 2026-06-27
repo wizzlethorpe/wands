@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: bZ3VyayJTuRaUaHh
   data_json: Compendium/Features/Compromising Information.foundry.json
+  folder: Racial Trait
 ---
 
 Whenever you make a Charisma check related to using a person's secrets, you are considered proficient in the appropriate skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.

@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: RT3iN95EMkJGtF2L
   data_json: Compendium/Items/Gillyweed.foundry.json
+  folder: Potion
 ---
 
 When you eat this plant, your body adapts to an aquatic environment, sprouting gills and growing webbing between your fingers for 1 hour. You can breathe underwater and gain a swimming speed equal to your walking speed. However, you lose the ability to breathe air, following the rules for suffocating if you emerge from water.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: czpa0o0AzXB3YYrU
   data_json: Compendium/Spells/Obscuro.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

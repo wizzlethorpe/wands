@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: I1r49bYvyXaIyyIz
   data_json: Compendium/Spells/Illegibilus.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

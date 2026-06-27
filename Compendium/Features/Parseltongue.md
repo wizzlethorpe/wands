@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: XBPFGJafpJdzVlnX
   data_json: Compendium/Features/Parseltongue.foundry.json
+  folder: Feat
 ---
 
 Almost exclusively hereditary, to speak Parseltongue is to magically comprehend and verbally communicate with all snakes and snake-like beasts, like the Runespoor and Basilisk. This oral language has been associated with Dark wizards, owing to a certain family's bloodline and notable Dark Lord. However, outside of Wizarding Britain, no such association exists.

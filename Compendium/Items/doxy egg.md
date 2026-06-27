@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 76f5fa01c8f70a0b
   data_json: Compendium/Items/doxy egg.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: E8vuQSRQsDTGyWsw
   data_json: Compendium/Spells/Nebulus.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

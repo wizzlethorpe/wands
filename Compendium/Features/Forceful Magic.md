@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: iT3xh6wHCOkjg9o2
   data_json: Compendium/Features/Forceful Magic.foundry.json
+  folder: Class Feature
 ---
 
 You cast every spell as if it were life-or-death. When you cast a spell that deals damage, add `dice: 1d6` to one damage roll.

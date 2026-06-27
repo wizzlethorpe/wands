@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: PcBnLLTP94VYb2sK
   data_json: Compendium/Features/Veela Charm.foundry.json
+  folder: Feat
 ---
 
 Just like part-giants, it’s very rare to find a part-veela. A wizard or witch who inherited veela blood will almost always be the center of attention, a picture of grace and beauty. Unlike half-veela or quarter-veela, part-veela are just as likely to be male as female.

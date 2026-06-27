@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: b5afec42331ed2df
   data_json: Compendium/Features/Font of Magic (Technique).foundry.json
+  folder: Class Feature
 ---
 
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.

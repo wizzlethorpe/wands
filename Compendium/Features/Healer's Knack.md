@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: U7onCy7go4ftNPJI
   data_json: Compendium/Features/Healer's Knack.foundry.json
+  folder: Racial Trait
 ---
 
 Whenever you make a Wisdom (Medicine) check to stabilize a creature, add half your proficiency bonus to your roll.

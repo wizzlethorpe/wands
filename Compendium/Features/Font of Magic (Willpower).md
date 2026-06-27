@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: d1e1c3f951d08678
   data_json: Compendium/Features/Font of Magic (Willpower).foundry.json
+  folder: Class Feature
 ---
 
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.

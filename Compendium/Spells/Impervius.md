@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: apk6grtvtNE1Cj2Q
   data_json: Compendium/Spells/Impervius.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

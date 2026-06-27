@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 0528a250cd5eacfe
   data_json: Compendium/Items/belladonna essence.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

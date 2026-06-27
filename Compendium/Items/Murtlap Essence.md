@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: VHd6y3FXyTNBryjJ
   data_json: Compendium/Items/Murtlap Essence.foundry.json
+  folder: Potion
 ---
 
 This solution of strained and pickled tentacles of Murtlaps soothes painful cuts and abrasions, helping you regain 4d4 + 4 hit points when applied.

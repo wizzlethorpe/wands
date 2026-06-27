@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: Yka4GkqRAFnAtEfW
   data_json: Compendium/Items/Befuddlement Draught.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you become belligerent and reckless for 1 hour. For the duration, you have disadvantage on Intelligence checks and Wisdom checks, and you have advantage on saving throws against being frightened from any source other than a Dementor.

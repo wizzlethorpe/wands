@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: vLyqRGiUCxB2rAbi
   data_json: Compendium/Features/Ward-Breaker.foundry.json
+  folder: Class Feature
 ---
 
 ***Curse-Breaking required.*** It is impossible for anyone to magically detect the act of you successfully breaking a curse, removing an enchantment, or taking down a ward. If someone sees you curse-breaking or is actively looking for the removed magic, they will notice the magic's absence. If a spell is designed to notify the caster in some way, it no longer works and the caster will not be notified.

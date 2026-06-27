@@ -55,6 +55,7 @@ foundry:
   base: Item:equipment
   id: Esw2azHBNNrsx6Qw
   data_json: Compendium/Items/Winter Cloak.foundry.json
+  folder: Equipment
 ---
 
 One of the required supplies for attendance at British Wizard Shcool, this heavy winter cloak keeps its wearer quite warm in cold, snowy winters. A winter cloak helps conceal a duelist's intended movements from their opponents, but the weight and bulk can be a hindrance.

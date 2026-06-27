@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 5FshZ3pIIzYxRyxv
   data_json: Compendium/Spells/Orbis.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Ok82C70D89EGBKjs
   data_json: Compendium/Features/Durable Constructs.foundry.json
+  folder: Class Feature
 ---
 
 You imbue your constructs of creatures with a more potent magic. Your transfigured or conjured living constructs gain additional hit points equal to your level and deal an additional 1d6 of damage.

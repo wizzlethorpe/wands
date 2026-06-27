@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: OjQqIDGNMILPlEV8
   data_json: Compendium/Features/Procedural Thinking.foundry.json
+  folder: Racial Trait
 ---
 
 You enjoy testing yourself with riddles and logic puzzles. If you get stuck on one, you might subconsciously connect a few dots.

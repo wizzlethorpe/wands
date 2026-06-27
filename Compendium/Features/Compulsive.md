@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: MlmRx0EN6TKBNWkt
   data_json: Compendium/Features/Compulsive.foundry.json
+  folder: Feat
 ---
 
 You begin to exhibit a mild, compulsive ritual of the HM's choice, likely associated with some fear. This can manifest as quadruple-checking locks and defensive measures, inspecting behind curtains, doors, and bushes for hidden attackers, or refusing to consume anything until you can get a small animal to test it for poison, for example. You take 1.5 times as long to complete a short rest.

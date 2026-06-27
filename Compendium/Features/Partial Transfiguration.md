@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: qjY0M07KyCS5A8yx
   data_json: Compendium/Features/Partial Transfiguration.foundry.json
+  folder: Class Feature
 ---
 
 Your understanding of magical theory has enabled you to compartmentalize your magic. Any transfiguration spell can be intentionally cast as a partial transfiguration, converting only the desired portion of the target. All the same capabilities and restrictions of casting those spells at higher levels apply.

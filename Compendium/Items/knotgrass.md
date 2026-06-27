@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 24251132afb5c6f0
   data_json: Compendium/Items/knotgrass.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

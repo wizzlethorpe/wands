@@ -12,8 +12,22 @@ aliases:
   - Transfiguration
 foundry:
   base: Item:subclass
-  id: zR5SEFVXzxkr4A5T
+  id: 6c116e0fabd08f2c
   data_json: Compendium/Casting Styles/Transfiguration (School of Magic).foundry.json
+  folder: Schools of Magic
+  variants:
+    - id: 6c116e0fabd08f2c
+      data:
+        system:
+          classIdentifier: technique-caster
+    - id: a521718824dd9f9a
+      data:
+        system:
+          classIdentifier: intellect-caster
+    - id: zR5SEFVXzxkr4A5T
+      data:
+        system:
+          classIdentifier: willpower-caster
 ---
 
 Transfiguration is a branch of magic that focuses on the alteration of the form or appearance of an object, via the manipulation of the object's molecular structure. Transfiguration is regarded as “very hard work” and is “more scientific” than any other form of magic, i.e. the practicing witch or wizard has to get it exactly right for the transfiguration to be successful.

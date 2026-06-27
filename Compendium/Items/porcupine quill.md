@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 68fa500f8013ef84
   data_json: Compendium/Items/porcupine quill.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

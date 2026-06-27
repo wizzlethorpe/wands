@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: LkmfTNvHM6p9R24P
   data_json: Compendium/Items/Herbicide Potion.foundry.json
+  folder: Potion
 ---
 
 When this poison is poured directly on a magical plant, the plant immediately withers and dies. There is only enough poison to affect a plant that fits within a 5 foot cube. If the magical plant is larger than a 5 foot cube, the affected area will wither, but the plant will not die until the entire plant is withered.

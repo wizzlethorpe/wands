@@ -55,6 +55,7 @@ foundry:
   base: Item:tool
   id: ZiL09HkXdPgIwUr8
   data_json: Compendium/Items/Diviner's Kit.foundry.json
+  folder: Tool
 ---
 
 The Diviner's kit contains a wide range of divination equipment, including tea leaves, a tea cup and saucer, a travel tea pot, grindylow bones, rune inscribed sticks, a deck of tarot cards and a small crystal ball. Proficiency with this kit allows you to make more accurate predictions with your Divination Abilities. Divination Abilities cannot be performed without this kit.

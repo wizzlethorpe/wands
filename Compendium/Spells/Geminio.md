@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: GlXKURVTA5e9fUzt
   data_json: Compendium/Spells/Geminio.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

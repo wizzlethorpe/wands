@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: LaLGB1LcuduKwnIQ
   data_json: Compendium/Features/Cartomancy.foundry.json
+  folder: Class Feature
 ---
 
 You gain insight into the past, present, and future of a being other than yourself by performing a tarot card reading. Your subject asks a single question concerning a specific goal, event, or activity to occur within 7 days. By spending 6 sorcery points and 10 minutes, the cards tell you a story (a truthful reply from the HM). The cards' meaning might be a short phrase, a cryptic rhyme, or an omen.

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: flxM2mS2hZ93PWet
   data_json: Compendium/Features/Value All Life.foundry.json
+  folder: Background Feature
 ---
 
 You've earned a reputation for your compassionate demeanor. Magical beings and intelligent beasts are more likely to treat you favorably or grant you an audience. If they have any prejudices against wizardkind, you'll have the chance to prove yourself and become exempt from those prejudices.

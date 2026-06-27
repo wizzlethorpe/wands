@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: RCfX6qYd9l0GM4jc
   data_json: Compendium/Items/Drink of Despair.foundry.json
+  folder: Potion
 ---
 
 When a creature drinks this fabled poison, it hallucinates all of its worst fears and memories, vividly reexperiencing its deepest regrets and darkest traumas. It is incapacitated for 30 seconds, it is reduced to 1 hit point and its gains 4 levels of exhaustion.

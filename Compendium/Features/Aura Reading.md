@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: KIX1NJuJ1l4yi1nz
   data_json: Compendium/Features/Aura Reading.foundry.json
+  folder: Class Feature
 ---
 
 Your connection with your Inner Eye allows you to see colorful auras around intelligent beings. You can immediately sense if a being is hostile, friendly or neutral.

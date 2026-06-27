@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: xaKvFb2eQ2TYogim
   data_json: Compendium/Spells/Silencio.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

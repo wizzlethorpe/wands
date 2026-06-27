@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 073c099ffadc80f6
   data_json: Compendium/Items/erumpent horn.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

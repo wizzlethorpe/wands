@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: I3Tq6dodRnATfA7a
   data_json: Compendium/Spells/Ignis Laqueis.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Whippy: Too often, violence is my answer to almost any situation.'
         weight: 2
+  folder: Protector
 ---
 
 ```rolltable

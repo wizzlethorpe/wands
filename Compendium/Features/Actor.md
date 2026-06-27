@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: F6x1LyNIWsDut93p
   data_json: Compendium/Features/Actor.foundry.json
+  folder: Feat
 ---
 
 Skilled at mimicry and dramatics, you gain the following benefits:

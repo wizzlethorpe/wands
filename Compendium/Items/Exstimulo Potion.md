@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: ckV4i4wpQ7wu48VI
   data_json: Compendium/Items/Exstimulo Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, the next spell you cast within the next 8 hours will be as if it were cast using a spell slot one level higher than its original level.

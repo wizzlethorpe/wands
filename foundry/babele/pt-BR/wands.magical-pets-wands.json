@@ -1,0 +1,35 @@
+{
+  "label": "Magical Pets (WANDS)",
+  "entries": {
+    "Pet Adder": {
+      "name": "Víbora de Estimação"
+    },
+    "Pet Bat": {
+      "name": "Morcego de Estimação"
+    },
+    "Pet Cat": {
+      "name": "Gato de Estimação"
+    },
+    "Pet Goliath Tarantula": {
+      "name": "Tarântula Golias de Estimação"
+    },
+    "Pet Miniature Firecrab": {
+      "name": "Caranguejo-de-Fogo Miniatura de Estimação"
+    },
+    "Pet Owl": {
+      "name": "Coruja de Estimação"
+    },
+    "Pet Puffskein": {
+      "name": "Pelúcio de Estimação"
+    },
+    "Pet Rat": {
+      "name": "Rato de Estimação"
+    },
+    "Pet Snake": {
+      "name": "Serpente de Estimação"
+    },
+    "Pet Toad": {
+      "name": "Sapo de Estimação"
+    }
+  }
+}

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: QBBJvAkKPk5dveuC
   data_json: Compendium/Features/Obliviator.foundry.json
+  folder: Class Feature
 ---
 
 Instead of simply erasing memories, when you cast *oblivate*, you can choose to implant very detailed false memories. These memories are undetectable by the target of the spell, but if others examine the target's memories (through Legilimency or a Penseive), they might be able to detect that they're false.

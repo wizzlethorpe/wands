@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: yKuuNWPRkDaw8zC6
   data_json: Compendium/Features/Ritual Casting.foundry.json
+  folder: Class Feature
 ---
 
 Your ability to recall information allows you to freely cast spells, as long as you have enough time to stop and focus. At 1st level, you can cast a spell as a ritual if that spell has the ritual tag and you know the spell. A ritual version of a spell takes only 1 minute longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.

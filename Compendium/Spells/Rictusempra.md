@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: IZOmjRn6UC0vzyqw
   data_json: Compendium/Spells/Rictusempra.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

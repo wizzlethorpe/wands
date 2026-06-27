@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: G1wMvXspvRFwUbBn
   data_json: Compendium/Features/Empowered Darkness.foundry.json
+  folder: Feat
 ---
 
 When you have [[Empowered Spell]] as one of your metamagic options and use it on a Dark spell, it costs 0 sorcery points.

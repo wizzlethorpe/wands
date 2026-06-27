@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: mjl2AEU4BTYlkMSf
   data_json: Compendium/Features/School of Magic.foundry.json
+  folder: Class Feature
 ---
 
 At 1st-level you choose one of the following options as your focused school of magic:

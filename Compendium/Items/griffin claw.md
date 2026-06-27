@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: d5ab5b407c5e929c
   data_json: Compendium/Items/griffin claw.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

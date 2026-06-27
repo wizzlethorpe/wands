@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: RVqXLVOI1CjoInwQ
   data_json: Compendium/Items/Hiccoughing Solution.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you come down with a bad case of the hiccups for 1 hour. For the duration, you have disadvantage on Charisma checks. If you try to cast a spell verbally, roll a `dice: d10`. On a 1, the casting fails and the spell is wasted.

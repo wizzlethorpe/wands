@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: ZAPFklljKMXAdJrm
   data_json: Compendium/Features/Observant.foundry.json
+  folder: Feat
 ---
 
 Quick to notice details of your environment, you gain the following benefits:

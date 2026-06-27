@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: tgPT53glC2cTCnjD
   data_json: Compendium/Spells/Avis.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: k6Cl5LpPTw2Vpxq9
   data_json: Compendium/Spells/Conjunctivia.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

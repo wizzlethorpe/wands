@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: XKcgpYlHVknc8TiD
   data_json: Compendium/Spells/Obliviate.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

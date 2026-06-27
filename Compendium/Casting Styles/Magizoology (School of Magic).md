@@ -12,8 +12,22 @@ aliases:
   - Magizoology
 foundry:
   base: Item:subclass
-  id: 6Z6ChZqL42lSkjnH
+  id: 208b265050259982
   data_json: Compendium/Casting Styles/Magizoology (School of Magic).foundry.json
+  folder: Schools of Magic
+  variants:
+    - id: 208b265050259982
+      data:
+        system:
+          classIdentifier: technique-caster
+    - id: 3de0f023e643fd36
+      data:
+        system:
+          classIdentifier: intellect-caster
+    - id: 6Z6ChZqL42lSkjnH
+      data:
+        system:
+          classIdentifier: willpower-caster
 ---
 
 Magizoologists study magical creatures. As they work with many different creatures, the Department for the Regulation of Magical Creatures at the British Government of Magic created a classification of every known beast, being and spirit, ranging from X to XXXXX. Whether harmless or an untameable wizard-killer, magizoologists record the unique traits of beasts for wizardkind’s safety.

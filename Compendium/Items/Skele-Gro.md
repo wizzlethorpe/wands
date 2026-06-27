@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: dRD8sQrfloqHoawd
   data_json: Compendium/Items/Skele-Gro.foundry.json
+  folder: Potion
 ---
 
 Used to rapidly regrow and repair bones, this healing potion is a staple in a mediwizard's potion case. If the next rest you take is a short rest, you regain hit points equal to half your hit point maximum. If the next rest you take is a long rest, you regain all spent hit dice and gain temporary hit points equal to twice your caster level.

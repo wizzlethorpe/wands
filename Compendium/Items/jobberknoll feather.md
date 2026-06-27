@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: a39966365ad9c0c0
   data_json: Compendium/Items/jobberknoll feather.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

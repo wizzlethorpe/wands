@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: gm07IGHO4e8TsVx6
   data_json: Compendium/Items/Regerminating Potion.foundry.json
+  folder: Potion
 ---
 
 When this potion is poured on the roots of a dying plant, it is revitalized. It also accelerates the growth of healthy seedlings.

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 55BKrk3KIpvESzwH
   data_json: Compendium/Features/Sadistic.foundry.json
+  folder: Feat
 ---
 
 Your bloodlust makes you become entranced by the pain you cause. Whenever you deal damage, the next attack made against you by anything other than the creature you damaged has advantage on the attack roll.

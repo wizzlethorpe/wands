@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: iI7mXPakj7JcdPEB
   data_json: Compendium/Features/Professional Charmer.foundry.json
+  folder: Class Feature
 ---
 
 You've learned to weave your enchantments throughout objects. If you cast a single target Charm with a duration longer than Instantaneous on an individual object, the effects have a permanent duration, if desired, until dispelled by you. This feature does not remove Concentration or Dedication requirements.

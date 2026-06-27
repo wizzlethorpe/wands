@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: 9SN9FGJGNIUIEC4a
   data_json: Compendium/Items/Strengthening Solution.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, your Strength score is raised to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.

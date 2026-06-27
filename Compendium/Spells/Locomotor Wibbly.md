@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: zHlJ6I3T7wpP1oN6
   data_json: Compendium/Spells/Locomotor Wibbly.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

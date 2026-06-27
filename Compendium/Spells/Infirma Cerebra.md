@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 43T1UgLO8IFiAlrb
   data_json: Compendium/Spells/Infirma Cerebra.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

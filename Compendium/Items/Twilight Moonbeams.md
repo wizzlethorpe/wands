@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: YpAD7DG1j8eYA0Iz
   data_json: Compendium/Items/Twilight Moonbeams.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they become charmed by a chosen being for 1 hour. The chosen being is selected by the brewer speaking their name into the potion during brewing. The charmed subject's mind is clouded with daydreams and has disadvantage on Wisdom (Perception) checks to notice anything other than the chosen being.

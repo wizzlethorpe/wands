@@ -42,6 +42,7 @@ foundry:
           - 4
           - 4
         text: Poplar wands can be relied upon, wands of consistency, strength and uniform power. Always happiest when working with a witch or wizard of clear moral vision, some wizards joke that a poplar wand has never chosen a politician. However, two of the Ministry’s most accomplished Ministers for Magic, Eldritch Diggory and Evangeline Orpington, were possessors of fine, Ollivander-made poplar wands.
+  folder: Groundskeeper
 ---
 
 ```rolltable

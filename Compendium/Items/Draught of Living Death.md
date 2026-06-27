@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: zdXtC9Cbi4VSai92
   data_json: Compendium/Items/Draught of Living Death.foundry.json
+  folder: Potion
 ---
 
 The drinker of this infamous and challenging poison falls into a deep sleep and can't be awoken by any means, aside from administering an antidote. The creature will breathe normally, but cannot be suffocated in this state. It also doesn't need to eat or drink. The creature will age normally, and it can die of old age while under the effects of this poison.

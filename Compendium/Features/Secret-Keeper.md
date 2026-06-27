@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Pda9NazUBRLh6d7t
   data_json: Compendium/Features/Secret-Keeper.foundry.json
+  folder: Class Feature
 ---
 
 You add the [[Fidelius Mysteria Celare]] spell to your list of known spells. It does not count against your number of spells known, and cannot be forgotten to learn another spell.

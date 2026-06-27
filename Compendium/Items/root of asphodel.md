@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 7ef7071ab444ff8b
   data_json: Compendium/Items/root of asphodel.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

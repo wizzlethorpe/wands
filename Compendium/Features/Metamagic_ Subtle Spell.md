@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: mzeKANMCzYx4sdnS
   data_json: Compendium/Features/Metamagic_ Subtle Spell.foundry.json
+  folder: Class Feature
 ---
 
 When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.

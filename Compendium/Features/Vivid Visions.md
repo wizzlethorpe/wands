@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: gJCLVF6JkHwqkfEZ
   data_json: Compendium/Features/Vivid Visions.foundry.json
+  folder: Class Feature
 ---
 
 Your connection to your Inner Eye gives you a lucid visions of the immediate future. As a bonus action, you can see a vision of your next action and its immediate consequences, rolling any required rolls and hearing a description of the results. If you choose that action, your vision becomes reality, using all the same rolls. The vision is instantaneous, and takes up no time. After you use this ability, you can’t use it again until you finish a long rest.

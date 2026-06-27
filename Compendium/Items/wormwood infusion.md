@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 95ce17340100f4e9
   data_json: Compendium/Items/wormwood infusion.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

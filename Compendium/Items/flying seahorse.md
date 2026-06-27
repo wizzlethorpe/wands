@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 2323f3906e46367d
   data_json: Compendium/Items/flying seahorse.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

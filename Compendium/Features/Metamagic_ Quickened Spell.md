@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: fOwRW1AsQ1H84XL8
   data_json: Compendium/Features/Metamagic_ Quickened Spell.foundry.json
+  folder: Class Feature
 ---
 
 When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.

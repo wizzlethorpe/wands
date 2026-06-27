@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: D5TbpuxPEM8C3mlW
   data_json: Compendium/Features/Caretaker.foundry.json
+  folder: Class Feature
 ---
 
 Your study of magical creatures has taught you about their injuries and physiologies. You can cast any known Healing spells on beasts.

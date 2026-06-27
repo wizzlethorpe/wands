@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: aZ6d6KCnUuTJR4D4
   data_json: Compendium/Spells/Duro.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

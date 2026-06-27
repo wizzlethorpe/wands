@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: e329d212f7c86306
   data_json: Compendium/Items/lionfish spine.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

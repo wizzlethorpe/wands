@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: X4ct8APuWOXfHlX7
   data_json: Compendium/Spells/Vera Verto.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

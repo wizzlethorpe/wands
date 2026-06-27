@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: d2426a750f809da3
   data_json: Compendium/Items/unicorn hair.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: XUX8NuUWEEhOaNMS
   data_json: Compendium/Spells/Protego Maxima.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

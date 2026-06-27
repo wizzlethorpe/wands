@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: aKTg71AoFpoiJle5
   data_json: Compendium/Spells/Mobilicorpus.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

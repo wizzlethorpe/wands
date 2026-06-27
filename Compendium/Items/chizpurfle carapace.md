@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: ce867b65043ef3ae
   data_json: Compendium/Items/chizpurfle carapace.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

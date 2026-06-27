@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: dSp1iqUguu0uaOZx
   data_json: Compendium/Features/Intuitive Conversion.foundry.json
+  folder: Class Feature
 ---
 
 Conceptualizing a transfiguration just comes easily to you. When you cast [[Vera Verto]], it automatically affects targets one size larger than specified by the spell slot level.

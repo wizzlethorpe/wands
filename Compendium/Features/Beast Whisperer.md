@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: gDEKDuMd0Rrj9I0O
   data_json: Compendium/Features/Beast Whisperer.foundry.json
+  folder: Class Feature
 ---
 
 You've learned the body language and social rituals of many beasts. As an action, you can use a Wisdom (Magical Creatures) check to attempt to soothe and calm a hostile beast. On success, the beast believes you mean it no harm and is neutral to the party. The effect is canceled if you or a party member inflicts any damage or condition on that beast or any identical beasts. You cannot use this feature again until you complete a short or long rest.

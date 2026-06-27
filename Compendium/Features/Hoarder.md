@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: nVJ14ea5kcdHbsBT
   data_json: Compendium/Features/Hoarder.foundry.json
+  folder: Feat
 ---
 
 You are compelled to collect anything that might be remotely useful in protecting you from your greatest fears. Appropriate items stumbled upon must be gathered and carried, if able, until at carrying capacity.

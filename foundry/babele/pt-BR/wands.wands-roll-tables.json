@@ -1,0 +1,141 @@
+{
+  "label": "WANDS Roll Tables (WANDS)",
+  "entries": {
+    "Artist - Core (Ideal)": {
+      "name": "Artista - Núcleo (Ideal)"
+    },
+    "Artist - Flexibility (Flaw)": {
+      "name": "Artista - Flexibilidade (Defeito)"
+    },
+    "Artist - Length (Bond)": {
+      "name": "Artista - Comprimento (Vínculo)"
+    },
+    "Artist - Wood (Personality Traits)": {
+      "name": "Artista - Madeira (Traços de Personalidade)"
+    },
+    "Bookworm - Core (Ideal)": {
+      "name": "Rato de Biblioteca - Núcleo (Ideal)"
+    },
+    "Bookworm - Flexibility (Flaw)": {
+      "name": "Rato de Biblioteca - Flexibilidade (Defeito)"
+    },
+    "Bookworm - Length (Bond)": {
+      "name": "Rato de Biblioteca - Comprimento (Vínculo)"
+    },
+    "Bookworm - Wood (Personality Traits)": {
+      "name": "Rato de Biblioteca - Madeira (Traços de Personalidade)"
+    },
+    "Corruption Mild Effects": {
+      "name": "Efeitos Leves de Corrupção",
+      "description": "<p>Experimentar com magia das Trevas quase sempre resulta de uma sede insaciável de poder, um medo incrivelmente intenso ou um profundo poço de ódio. Ao usar magia distorcida e cometer atos indescritíveis, essa escuridão interior cobra seu preço sobre o bem-estar físico e mental de um bruxo das Trevas.</p>"
+    },
+    "Corruption Severe Effects": {
+      "name": "Efeitos Graves de Corrupção",
+      "description": "<p>Experimentar com magia das Trevas quase sempre resulta de uma sede insaciável de poder, um medo incrivelmente intenso ou um profundo poço de ódio. Ao usar magia distorcida e cometer atos indescritíveis, essa escuridão interior cobra seu preço sobre o bem-estar físico e mental de um bruxo das Trevas.</p>"
+    },
+    "Dreamer - Core (Ideal)": {
+      "name": "Sonhador - Núcleo (Ideal)"
+    },
+    "Dreamer - Flexibility (Flaw)": {
+      "name": "Sonhador - Flexibilidade (Defeito)"
+    },
+    "Dreamer - Length (Bond)": {
+      "name": "Sonhador - Comprimento (Vínculo)"
+    },
+    "Dreamer - Wood (Personality Traits)": {
+      "name": "Sonhador - Madeira (Traços de Personalidade)"
+    },
+    "Groundskeeper - Core (Ideal)": {
+      "name": "Guarda-caça - Núcleo (Ideal)"
+    },
+    "Groundskeeper - Flexibility (Flaw)": {
+      "name": "Guarda-caça - Flexibilidade (Defeito)"
+    },
+    "Groundskeeper - Length (Bond)": {
+      "name": "Guarda-caça - Comprimento (Vínculo)"
+    },
+    "Groundskeeper - Wood (Personality Traits)": {
+      "name": "Guarda-caça - Madeira (Traços de Personalidade)"
+    },
+    "Klutz - Core (Ideal)": {
+      "name": "Desastrado - Núcleo (Ideal)"
+    },
+    "Klutz - Flexibility (Flaw)": {
+      "name": "Desastrado - Flexibilidade (Defeito)"
+    },
+    "Klutz - Length (Bond)": {
+      "name": "Desastrado - Comprimento (Vínculo)"
+    },
+    "Klutz - Wood (Personality Traits)": {
+      "name": "Desastrado - Madeira (Traços de Personalidade)"
+    },
+    "Major Splinch Result": {
+      "name": "Resultado de Estrunção Maior",
+      "description": "<p>Uma estrunção maior é muito mais grave e frequentemente ameaça a vida. Você perde uma parte grande do corpo, como uma perna ou braço, ou um pedaço de carne é arrancado do seu corpo. Role uma quantidade de dados [[/r d6]] igual ao seu nível. Você sofre essa quantidade de dano cortante e um nível de exaustão. Esse dano não pode ser reduzido ou prevenido de nenhuma forma. No início dos seus turnos seguintes, você sofre dano cortante igual à metade do seu nível enquanto sangra, o que termina assim que você receber pontos de vida de um efeito de cura.</p>"
+    },
+    "Minor Splinch Result": {
+      "name": "Resultado de Estrunção Menor",
+      "description": "<p>Uma estrunção menor ocorre quando a parte do corpo perdida geralmente não é ameaçadora; talvez uma sobrancelha, uma parte do seu dedo ou uma pequena seção de pele. Você determina quanto dano cortante sofre rolando um único [[/r d10]]. Esse dano não pode ser reduzido ou prevenido de nenhuma forma.</p>"
+    },
+    "Potioneer - Core (Ideal)": {
+      "name": "Pocionista - Núcleo (Ideal)"
+    },
+    "Potioneer - Flexibility (Flaw)": {
+      "name": "Pocionista - Flexibilidade (Defeito)"
+    },
+    "Potioneer - Length (Bond)": {
+      "name": "Pocionista - Comprimento (Vínculo)"
+    },
+    "Potioneer - Wood (Personality Traits)": {
+      "name": "Pocionista - Madeira (Traços de Personalidade)"
+    },
+    "Protector - Core (Ideal)": {
+      "name": "Protetor - Núcleo (Ideal)"
+    },
+    "Protector - Flexibility (Flaw)": {
+      "name": "Protetor - Flexibilidade (Defeito)"
+    },
+    "Protector - Length (Bond)": {
+      "name": "Protetor - Comprimento (Vínculo)"
+    },
+    "Protector - Wood (Personality Traits)": {
+      "name": "Protetor - Madeira (Traços de Personalidade)"
+    },
+    "Quidditch Fan - Core (Ideal)": {
+      "name": "Fã de Quadribol - Núcleo (Ideal)"
+    },
+    "Quidditch Fan - Flexibility (Flaw)": {
+      "name": "Fã de Quadribol - Flexibilidade (Defeito)"
+    },
+    "Quidditch Fan - Length (Bond)": {
+      "name": "Fã de Quadribol - Comprimento (Vínculo)"
+    },
+    "Quidditch Fan - Wood (Personality Traits)": {
+      "name": "Fã de Quadribol - Madeira (Traços de Personalidade)"
+    },
+    "Socialite - Core (Ideal)": {
+      "name": "Socialite - Núcleo (Ideal)"
+    },
+    "Socialite - Flexibility (Flaw)": {
+      "name": "Socialite - Flexibilidade (Defeito)"
+    },
+    "Socialite - Length (Bond)": {
+      "name": "Socialite - Comprimento (Vínculo)"
+    },
+    "Socialite - Wood (Personality Traits)": {
+      "name": "Socialite - Madeira (Traços de Personalidade)"
+    },
+    "Troublemaker - Core (Ideal)": {
+      "name": "Encrenqueiro - Núcleo (Ideal)"
+    },
+    "Troublemaker - Flexibility (Flaw)": {
+      "name": "Encrenqueiro - Flexibilidade (Defeito)"
+    },
+    "Troublemaker - Length (Bond)": {
+      "name": "Encrenqueiro - Comprimento (Vínculo)"
+    },
+    "Troublemaker - Wood (Personality Traits)": {
+      "name": "Encrenqueiro - Madeira (Traços de Personalidade)"
+    }
+  }
+}

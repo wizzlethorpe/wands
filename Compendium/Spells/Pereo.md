@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 6aI5t4FtiaYxGRyd
   data_json: Compendium/Spells/Pereo.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

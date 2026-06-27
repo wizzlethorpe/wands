@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ZHPPAams6Xm4LY7g
   data_json: Compendium/Spells/Legilimens.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

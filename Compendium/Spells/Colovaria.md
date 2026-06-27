@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: G9jNNlFA4ZJYSuIz
   data_json: Compendium/Spells/Colovaria.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

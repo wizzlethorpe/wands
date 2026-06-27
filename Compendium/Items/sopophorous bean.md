@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4b090350c5ca5a7c
   data_json: Compendium/Items/sopophorous bean.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

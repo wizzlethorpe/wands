@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: p77oVAIEHAetHpXg
   data_json: Compendium/Features/Lightning-Fast Wand.foundry.json
+  folder: Class Feature
 ---
 
 You've honed your skills in the dueling ring to be able to cast spells twice as fast as the average wizard. If you don't already have it, Quickened Spell is added to your metamagic options and does not count towards your metamagic count. When you use the Quickened Spell metamagic to cast a spell as a bonus action, you are able to cast any spell as your action and the normal bonus action spellcasting rules do not apply.

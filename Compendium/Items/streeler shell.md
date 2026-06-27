@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4e4f583ac0284f89
   data_json: Compendium/Items/streeler shell.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

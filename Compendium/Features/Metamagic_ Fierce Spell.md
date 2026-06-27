@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: bX8ekUbs0Cvh4AYI
   data_json: Compendium/Features/Metamagic_ Fierce Spell.foundry.json
+  folder: Class Feature
 ---
 
 At 3rd level, when you cast a spell, you can spend 2 sorcery points to cast that spell as if it were cast using a spell slot one level higher than its original level, or 4 sorcery points to cast that spell two levels higher. The spell's higher level cannot exceed your highest available level of spell slots. This does not count against your number of Metamagic options.

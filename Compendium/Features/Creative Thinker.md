@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: x1hgjn8FxPcbmQpe
   data_json: Compendium/Features/Creative Thinker.foundry.json
+  folder: Background Feature
 ---
 
 Having found yourself in some predicaments, you're quick to look for a way out; "work smart, not hard" is your motto. Your invented alibis always sound half-reasonable to others, and you're good at finding figurative and literal shortcuts. Also, rule-breakers are more willing to share their secrets with you.

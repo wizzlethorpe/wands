@@ -42,6 +42,7 @@ foundry:
           - 4
           - 4
         text: It is said a laurel wand cannot perform a dishonourable act, although in the owner’s quest for glory, laurel wands can perform powerful and sometimes lethal magic. The laurel wand seems unable to tolerate laziness in a possessor, and in that case, can be won away from their owner most easily. Otherwise, it will cleave happily to its first match and issue a spontaneous zap if another attempts to steal it.
+  folder: Potioneer
 ---
 
 ```rolltable

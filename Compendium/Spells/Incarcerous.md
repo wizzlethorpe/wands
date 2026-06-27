@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: uCE4cTdb8hT2hvzB
   data_json: Compendium/Spells/Incarcerous.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

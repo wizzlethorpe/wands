@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: BUkVOL8i6fif5HsG
   data_json: Compendium/Spells/Riddikulus.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

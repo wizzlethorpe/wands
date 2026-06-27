@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: VqHPazoeRtAClwuZ
   data_json: Compendium/Features/Martial Artist.foundry.json
+  folder: Feat
 ---
 
 Whether as a childhood extracurricular activity or a supplement to your magical dueling, you're trained in striking and grappling. You gain the following benefits.

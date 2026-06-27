@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: bFaHfNdaRvROZDfA
   data_json: Compendium/Spells/Pellucidi Pellis.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

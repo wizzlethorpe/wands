@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: GzkwmFGYK0H8oTbl
   data_json: Compendium/Features/Dramatic Entrance.foundry.json
+  folder: Background Feature
 ---
 
 Your flair for the dramatic means you can always do things in the most attention-grabbing way as possible. This often makes for an excellent distraction or starts to build a crowd.

@@ -55,6 +55,7 @@ foundry:
   base: Item:tool
   id: 9N7466XCneIsi5SV
   data_json: Compendium/Items/Potioneer's Kit.foundry.json
+  folder: Tool
 ---
 
 The Potioneer's Kit includes a set of brass scales, silver knife, cutting board, mortar and pestle, measuring cups, eye dropper and vials, jars and flasks, as well as some staple ingredients that aren't included in recipes.

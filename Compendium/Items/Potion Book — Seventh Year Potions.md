@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 98c70938ded78eff
   data_json: Compendium/Items/Potion Book — Seventh Year Potions.foundry.json
+  folder: Loot
 ---
 
 Seventh Year Potions

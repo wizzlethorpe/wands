@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: JuOF7gAFL5zs0Kaw
   data_json: Compendium/Features/Scholar's Mind.foundry.json
+  folder: Racial Trait
 ---
 
 You add half your proficiency bonus to any Intelligence or Wisdom ability check you make that doesn't already include your proficiency bonus.

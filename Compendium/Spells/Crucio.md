@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: NsNFI0dgndgxcrdT
   data_json: Compendium/Spells/Crucio.foundry.json
+  folder: 7th Level
 ---
 
 ```spell-card

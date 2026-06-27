@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: 94kFPYA3wPMZcyuB
   data_json: Compendium/Items/Wolfsbane Potion.foundry.json
+  folder: Potion
 ---
 
 When a lycanthrope drinks this potion once a day for the entire week before the full moon, their alignment does not change and they are not placed under HM control during their transformation. If the drinker misses a single dose in the preceding week, the potion has no effect.

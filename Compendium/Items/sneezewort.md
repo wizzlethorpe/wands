@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 20e15847f08cb545
   data_json: Compendium/Items/sneezewort.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

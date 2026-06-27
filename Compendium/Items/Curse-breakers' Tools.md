@@ -55,6 +55,7 @@ foundry:
   base: Item:tool
   id: uqI6wa2MtvwDKY5n
   data_json: Compendium/Items/Curse-breakers' Tools.foundry.json
+  folder: Tool
 ---
 
 The Curse-breakers' tools includes a curse sneakoscope, a compact secrecy sensor, an eye loupe set, a collapsible retriever tool with a hook on the end, a small mirror and a very large pair of tweezers. Proficiency with these tools lets you add your proficiency bonus to any ability check you make using *finite incantatem* or to remove a curse from an object or an area.

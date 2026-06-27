@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: fHeehV67CV8NHJ1p
   data_json: Compendium/Spells/Oppugno.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: 6cKqaQb6MZKKd3J7
   data_json: Compendium/Items/Felix Felicis.foundry.json
+  folder: Potion
 ---
 
 Also known as "liquid luck," this potion makes you exceptionally lucky for `dice: 1d4` hours, to the point of succeeding at everything you attempt. For the duration, your Charisma score is raised to 21, you can’t be surprised and have advantage on attack rolls, ability checks, and saving throws. Additionally, other creatures have disadvantage on attack rolls against you for the duration.

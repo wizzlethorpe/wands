@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: ef3f5e336f9d0881
   data_json: Compendium/Items/frog brain.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

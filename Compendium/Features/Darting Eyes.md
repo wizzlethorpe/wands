@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: oEK9maUDS84dE0do
   data_json: Compendium/Features/Darting Eyes.foundry.json
+  folder: Class Feature
 ---
 
 ***[[Legilimency]] required.*** As a bonus action, you can cast [[Legilimens]] in combat to see the next spell or action a creature is planning, as long as their eyes are visible.

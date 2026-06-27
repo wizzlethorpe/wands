@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: r2GhFm005A1wyiZU
   data_json: Compendium/Features/Scent of Decay.foundry.json
+  folder: Feat
 ---
 
 Your body has begun to emit a faint stench of death. You have disadvantage on Charisma (Persuasion) checks.

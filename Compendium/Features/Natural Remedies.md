@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 09hctYwlTSGmstJa
   data_json: Compendium/Features/Natural Remedies.foundry.json
+  folder: Class Feature
 ---
 
 Your interest in healing has led you to study potions and poultices. You learn the recipe for [[Star Grass Salve]] and gain proficiency in one of the following skills: Herbology, Medicine, Potion-Making.

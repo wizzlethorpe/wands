@@ -22,6 +22,7 @@ foundry:
           - 3
           - 3
         text: 'Quite Yielding: I''ll do anything to win fame and renown.'
+  folder: Artist
 ---
 
 ```rolltable

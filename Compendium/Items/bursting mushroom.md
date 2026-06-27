@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: d263b2f59746b271
   data_json: Compendium/Items/bursting mushroom.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

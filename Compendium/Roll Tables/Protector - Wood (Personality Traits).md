@@ -60,6 +60,7 @@ foundry:
           - 10
         text: Yew wands are among the rarer kinds, and their ideal matches are likewise unusual and occasionally notorious. The wand of yew is reputed to endow the power of life and death, retaining a fearsome reputation in the spheres of duelling and curses. However, a witch or wizard might equally prove a fierce protector. Where wizards have been buried with wands of yew, the wand generally sprouts into a tree guarding the owner’s grave. A yew wand never chooses either a mediocre or a timid owner.
         weight: 2
+  folder: Protector
 ---
 
 ```rolltable

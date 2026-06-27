@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: vwF5cPJxlnU6bWIt
   data_json: Compendium/Features/Rowena's Library.foundry.json
+  folder: Racial Trait
 ---
 
 You can easily research a desired topic through enlisting your housemates' help and browsing books exclusively found in the Eagle common room.

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: ze6VCRlObvjxSJke
   data_json: Compendium/Features/Unshakable Nerves.foundry.json
+  folder: Class Feature
 ---
 
 Your study of injuries and magical diseases have given you a strong stomach and iron will. You have advantage on saving throws against being frightened.

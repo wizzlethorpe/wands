@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: c68b9e017a32f8d2
   data_json: Compendium/Items/full-moon fluxweed.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

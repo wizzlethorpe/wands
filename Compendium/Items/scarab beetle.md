@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 278d967d52622d4c
   data_json: Compendium/Items/scarab beetle.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

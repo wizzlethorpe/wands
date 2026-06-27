@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4039425397ddd79e
   data_json: Compendium/Items/woodlice extract.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

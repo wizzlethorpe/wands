@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: EgRBuzwafm5XCPxo
   data_json: Compendium/Spells/Protego.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

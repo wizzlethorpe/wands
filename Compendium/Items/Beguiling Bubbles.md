@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: jHOQchs3Qs0zGJi8
   data_json: Compendium/Items/Beguiling Bubbles.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they become charmed by a chosen being for 1 hour. The chosen being is selected by the brewer speaking their name into the potion during brewing. If the chosen being is someone the charmed subject would normally be attracted to, they regard that being as their true love while they are charmed.

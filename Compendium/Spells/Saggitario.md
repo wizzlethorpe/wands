@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: LKr79xu9caQkKPPL
   data_json: Compendium/Spells/Saggitario.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

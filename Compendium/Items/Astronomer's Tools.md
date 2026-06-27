@@ -55,6 +55,7 @@ foundry:
   base: Item:tool
   id: gHtzAAVq0fnKuZF5
   data_json: Compendium/Items/Astronomer's Tools.foundry.json
+  folder: Tool
 ---
 
 This tubular case contains a featherlight-charmed travel telescope, a sextant, an astro-compass, several star charts, spare parchment, ink and a quill.

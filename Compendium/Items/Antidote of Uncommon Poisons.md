@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: XXtozxI3F7LyJhaL
   data_json: Compendium/Items/Antidote of Uncommon Poisons.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, this more potent antidote counteracts poisons and you gain advantage on saving throws against poison for 1 hour. If you took poison damage in the previous minute, you regain all of your hit points lost to poison damage, up to a maximum of 30 hit points.

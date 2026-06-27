@@ -1,0 +1,266 @@
+{
+  "label": "Monsters (WANDS)",
+  "entries": {
+    "Abraxan Winged Horse": {
+      "name": "Крилатий кінь Абраксана"
+    },
+    "Adult Acromantula": {
+      "name": "Доросла Акромантула"
+    },
+    "Adult Antipodean Opaleye": {
+      "name": "Дорослий Антиподіанський Опалеокий"
+    },
+    "Adult Ape": {
+      "name": "Доросла мавпа"
+    },
+    "Adult Basilisk": {
+      "name": "Дорослий василіск"
+    },
+    "Adult Black Bear": {
+      "name": "Дорослий чорний ведмідь"
+    },
+    "Adult Brown Bear": {
+      "name": "Дорослий бурий ведмідь"
+    },
+    "Adult Cerberus": {
+      "name": "Дорослий Цербер"
+    },
+    "Adult Chinese Fireball": {
+      "name": "Дорослий китайський Вогняний"
+    },
+    "Adult Common Welsh Green": {
+      "name": "Доросла звичайна Валлійська Зелена"
+    },
+    "Adult Diricawl": {
+      "name": "Дорослий Дирикаул"
+    },
+    "Adult Hebridean Black": {
+      "name": "Доросла чорна гебридська"
+    },
+    "Adult Hungarian Horntail": {
+      "name": "Дорослий угорський рогатий"
+    },
+    "Adult Norwegian Ridgeback": {
+      "name": "Дорослий норвезький риджбек"
+    },
+    "Adult Nundu": {
+      "name": "Доросла Нунду"
+    },
+    "Adult Peruvian Vipertooth": {
+      "name": "Дорослий перуанський змієзуб"
+    },
+    "Adult Polar Bear": {
+      "name": "Дорослий полярний ведмідь"
+    },
+    "Adult Romanian Longhorn": {
+      "name": "Доросла румунська довгорога"
+    },
+    "Adult Swedish Shortsnout": {
+      "name": "Дорослий шведський короткомордий"
+    },
+    "Adult Ukrainian Ironbelly": {
+      "name": "Дорослий український залізочеревий"
+    },
+    "Adult Wolf": {
+      "name": "Дорослий вовк"
+    },
+    "Adult Yeti": {
+      "name": "Дорослий Єті "
+    },
+    "Aethonan Winged Horse": {
+      "name": "Крилатий кінь Аетона"
+    },
+    "Alpha Acromantula": {
+      "name": "Альфа-акромантула"
+    },
+    "Alpha Wolf": {
+      "name": "Альфа-вовк"
+    },
+    "Ancient Basilisk": {
+      "name": "Стародавній василіск"
+    },
+    "Antipodean Opaleye Wyrmling": {
+      "name": "Антиподіанський Опалеокий вирмлінг"
+    },
+    "Bear Cub": {
+      "name": "Ведмежа"
+    },
+    "Billywig": {
+      "name": "Біллівіг"
+    },
+    "Billywig Swarm": {
+      "name": "Рой Біллівігів"
+    },
+    "Bowtruckle": {
+      "name": "Боутракл"
+    },
+    "Chinese Fireball Wyrmling": {
+      "name": "Китайський Вогняний вирмлінг"
+    },
+    "Clabbert": {
+      "name": "Клабберт"
+    },
+    "Common Welsh Green Wyrmling": {
+      "name": "Звичайний валлійський зелений вирмлінг"
+    },
+    "Deer (Buck)": {
+      "name": "Олень"
+    },
+    "Deer (Doe)": {
+      "name": "Лань"
+    },
+    "Deer (Fawn)": {
+      "name": "Оленя"
+    },
+    "Dementor": {
+      "name": "Дементор"
+    },
+    "Doxy": {
+      "name": "Доксі"
+    },
+    "Giant Plague Rat": {
+      "name": "Гігантський чумний щур"
+    },
+    "Giant Rat": {
+      "name": "Гігантський Щур"
+    },
+    "Goblin Banker": {
+      "name": "Гоблін-банкір"
+    },
+    "Goblin Guard": {
+      "name": "Гоблін-охоронець"
+    },
+    "Goblin Warrior": {
+      "name": "Воїн-гоблін"
+    },
+    "Granian Winged Horse": {
+      "name": "Крилатий кінь Граніана"
+    },
+    "Grindylow": {
+      "name": "Грінділоу"
+    },
+    "Hebridean Black Wyrmling": {
+      "name": "Гебрідський чорний вирмлінг"
+    },
+    "Hungarian Horntail Wyrmling": {
+      "name": "Угорський рогатий вирмлінг"
+    },
+    "Infant Acromantula": {
+      "name": "Дитинча акромантули"
+    },
+    "Inferi Horde": {
+      "name": "Орда Інфері"
+    },
+    "Inferi Swarm": {
+      "name": "Зграя Інфері"
+    },
+    "Inferius": {
+      "name": "Інферіус"
+    },
+    "Norwegian Ridgeback Wyrmling": {
+      "name": "Норвезький риджбек вирмлінг"
+    },
+    "Peruvian Vipertooth Wyrmling": {
+      "name": "Перуанський змієзубий вирмлінг"
+    },
+    "Phoenix": {
+      "name": "Фенікс"
+    },
+    "Pit Viper": {
+      "name": "Ямкоголова гадюка"
+    },
+    "Plague Rat": {
+      "name": "Чумовий щур"
+    },
+    "Rat": {
+      "name": "Щур"
+    },
+    "Romanian Longhorn Wyrmling": {
+      "name": "Румунський довгорогий вирмлінг"
+    },
+    "Spectre Bat": {
+      "name": "Кажан-привид"
+    },
+    "Swarm of Grindylow": {
+      "name": "Зграя Ґрінділоу"
+    },
+    "Swarm of Mortis Bats": {
+      "name": "Зграя кажанів Мортіса"
+    },
+    "Swarm of Small Birds": {
+      "name": "Зграя дрібних птахів"
+    },
+    "Swarm of Spectre Bats": {
+      "name": "Зграя кажанів-привидів"
+    },
+    "Swarm of Tiny Birds": {
+      "name": "Зграя крихітних пташок"
+    },
+    "Swedish Shortsnout Wyrmling": {
+      "name": "Шведський короткомордий вирмлінг"
+    },
+    "Thestral": {
+      "name": "Тестрал"
+    },
+    "Ukrainian Ironbelly Wyrmling": {
+      "name": "Український залізочеревий вирмлінг"
+    },
+    "Winged Foal": {
+      "name": "Крилате лоша"
+    },
+    "Wolf Pup": {
+      "name": "Вовченя"
+    },
+    "Young Acromantula": {
+      "name": "Молода акромантула"
+    },
+    "Young Antipodean Opaleye": {
+      "name": "Молодий австралійський опалеокий"
+    },
+    "Young Ape": {
+      "name": "Молода Мавпа"
+    },
+    "Young Cerberus": {
+      "name": "Молодий Цербер"
+    },
+    "Young Chinese Fireball": {
+      "name": "Молодий китайський вогняний"
+    },
+    "Young Common Welsh Green": {
+      "name": "Молодий звичайний валлійський зелений"
+    },
+    "Young Diricawl": {
+      "name": "Юний Дірікаул"
+    },
+    "Young Hebridean Black": {
+      "name": "Молодий гебридський чорний"
+    },
+    "Young Hungarian Horntail": {
+      "name": "Молодий угорський рогатий"
+    },
+    "Young Norwegian Ridgeback": {
+      "name": "Молодий норвезький ріджбек"
+    },
+    "Young Nundu": {
+      "name": "Молода Нунду"
+    },
+    "Young Peruvian Vipertooth": {
+      "name": "Молодий перуанський змієзуб"
+    },
+    "Young Polar Bear": {
+      "name": "Молодий полярний ведмідь"
+    },
+    "Young Romanian Longhorn": {
+      "name": "Молодий румунський довгорогий"
+    },
+    "Young Swedish Shortsnout": {
+      "name": "Молодий шведський короткомордий"
+    },
+    "Young Ukrainian Ironbelly": {
+      "name": "Молодий Український залізочеревий"
+    },
+    "Young Yeti": {
+      "name": "Молодий Єті"
+    }
+  }
+}

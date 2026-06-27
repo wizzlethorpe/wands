@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: Bev0BjmaJRkuQxez
   data_json: Compendium/Spells/Scourgify.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

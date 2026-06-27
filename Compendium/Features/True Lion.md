@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: sBwG9yIv1XBjokrY
   data_json: Compendium/Features/True Lion.foundry.json
+  folder: Racial Trait
 ---
 
 In times of dire need, the Sword of Lion may present itself to you.

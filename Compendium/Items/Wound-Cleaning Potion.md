@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: fg6eLteXHrOMSgIO
   data_json: Compendium/Items/Wound-Cleaning Potion.foundry.json
+  folder: Potion
 ---
 
 When you apply this potion to open wounds, it stings, smokes and perfectly sterilizes the area. A bottle contains ten doses, and one dose stabilizes a creature that has 0 Hit Points, without needing to make a Wisdom (Medicine) check.

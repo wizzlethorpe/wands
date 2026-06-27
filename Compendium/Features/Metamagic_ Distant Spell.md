@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: 7mV9VErFXSkroF9N
   data_json: Compendium/Features/Metamagic_ Distant Spell.foundry.json
+  folder: Class Feature
 ---
 
 When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.

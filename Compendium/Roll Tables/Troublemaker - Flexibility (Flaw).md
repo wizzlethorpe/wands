@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Flexible: I''ll say anything to avoid having to do extra work.'
         weight: 2
+  folder: Troublemaker
 ---
 
 ```rolltable

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 1BwhdXg2Uvp85DX4
   data_json: Compendium/Spells/Ventus.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

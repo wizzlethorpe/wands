@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: xFevYAMjnAj0GyZt
   data_json: Compendium/Features/Exchange Student.foundry.json
+  folder: Racial Trait
 ---
 
 You're familiar with the workings of the International Confederation of Wizards and other international associations.

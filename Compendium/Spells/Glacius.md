@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ubGQ6Vk2T8IdKZqK
   data_json: Compendium/Spells/Glacius.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Live and Let Live. Meddling in the affairs of others only causes trouble.'
         weight: 2
+  folder: Potioneer
 ---
 
 ```rolltable

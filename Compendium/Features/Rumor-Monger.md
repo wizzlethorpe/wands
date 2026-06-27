@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: DkYENFbwBxF1Cvc3
   data_json: Compendium/Features/Rumor-Monger.foundry.json
+  folder: Background Feature
 ---
 
 Your skill at making connections has earned you inroads with people in the know. When you attempt to uncover a particularly juicy secret or a dangerous rumor, your sources may be able to help you or point you in the right direction.

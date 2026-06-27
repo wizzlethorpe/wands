@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: GBcjuuBfNa6e9giv
   data_json: Compendium/Spells/Appare Vestigium.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

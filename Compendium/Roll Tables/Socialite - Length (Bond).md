@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '13": It is my duty to lead and inspire others.'
         weight: 2
+  folder: Socialite
 ---
 
 ```rolltable

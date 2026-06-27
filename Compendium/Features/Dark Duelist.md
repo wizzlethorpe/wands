@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: TZL55PehzHqaKvUk
   data_json: Compendium/Features/Dark Duelist.foundry.json
+  folder: Class Feature
 ---
 
 Your experience fighting Dark wizards has taught you how to use their own techniques against them. You have advantage on any saving throws made against Dark magic or a spell cast by a Dark wizard, and any Dark spells you cast are automatically cast one level higher than the consumed spell slot, not exceeding the highest available level of spell slots you have.

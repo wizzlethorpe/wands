@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: lKqTlS33zLxRCMWP
   data_json: Compendium/Spells/Genu Recurvatum.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

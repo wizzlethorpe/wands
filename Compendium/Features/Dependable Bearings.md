@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: QscDzf2amq2A0Chj
   data_json: Compendium/Features/Dependable Bearings.foundry.json
+  folder: Racial Trait
 ---
 
 You have a good sense of direction and can easily use notable landmarks and geography to remember the general layout of areas.

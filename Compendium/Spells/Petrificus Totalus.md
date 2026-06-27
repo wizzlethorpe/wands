@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: Uwbo0my3Ot8QSnOD
   data_json: Compendium/Spells/Petrificus Totalus.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

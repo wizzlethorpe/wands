@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 30f1d55d6ecdd788
   data_json: Compendium/Items/boomslang skin.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

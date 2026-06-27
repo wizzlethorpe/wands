@@ -22,6 +22,7 @@ foundry:
           - 3
           - 3
         text: '13": My camera/easel/instrument is my most treasured possession, and it reminds me of someone I love.'
+  folder: Artist
 ---
 
 ```rolltable

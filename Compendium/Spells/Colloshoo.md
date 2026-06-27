@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 5HeMomzrSnAwH3cb
   data_json: Compendium/Spells/Colloshoo.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

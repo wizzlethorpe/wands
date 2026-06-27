@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: BlS1I1coRn3gW5Hu
   data_json: Compendium/Features/Nimble Evasion.foundry.json
+  folder: Racial Trait
 ---
 
 Whenever you take the dodge action, add half your proficiency modifier to your AC and your Dexterity saving throws.

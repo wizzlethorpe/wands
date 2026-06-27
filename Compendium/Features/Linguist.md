@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: z4ZyqOfsu4pXYFHn
   data_json: Compendium/Features/Linguist.foundry.json
+  folder: Feat
 ---
 
 You have studied languages and codes, gaining the following benefits:

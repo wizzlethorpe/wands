@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: DH8llNE5QemeV7tH
   data_json: Compendium/Features/Elementalist.foundry.json
+  folder: Class Feature
 ---
 
 Your study of Alchemy has given you insights in the nature of elements. Any spell that involves only fire, water, earth, or air is automatically cast one level higher than the consumed spell slot, not exceeding the highest available level of spell slots you have.

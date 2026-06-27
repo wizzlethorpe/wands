@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: DXr0kJP9lMFe1yjU
   data_json: Compendium/Spells/Specialis Revelio.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

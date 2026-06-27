@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: nX8DJFD6JgdVzzoG
   data_json: Compendium/Items/Essence of Insanity.foundry.json
+  folder: Potion
 ---
 
 Instead of attacking the body, this oil attacks the mind. A creature that makes contact with this poison is overwhelmed with paranoia and becomes poisoned for 1 hour. It is frightened of the nearest creature for the duration. On its next turn, the victim must take the dash action and move away from that creature by the safest and shortest available route, unless there is nowhere to move.

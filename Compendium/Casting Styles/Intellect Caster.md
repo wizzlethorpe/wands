@@ -12,6 +12,7 @@ foundry:
   base: Item:class
   id: aY9MKttqjWxgO8aq
   data_json: Compendium/Casting Styles/Intellect Caster.foundry.json
+  folder: Casting Styles
 ---
 
 Clever wizards delve into the underlying theory of magic. These academics are able to learn a wide variety of spells, although they might struggle in the heat of battle. Their expertise and magical versatility makes them invaluable companions across the wizarding world.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: XLDz4SCZipcQOQDG
   data_json: Compendium/Spells/Revelio.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

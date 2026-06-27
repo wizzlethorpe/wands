@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: wenKcholDVy6CkF7
   data_json: Compendium/Features/A Duty to Protect.foundry.json
+  folder: Class Feature
 ---
 
 When you cast [[Piertotum Locomotor]], concentration is no longer required, twice as many objects can be animated, and the duration is extended to 1 hour.

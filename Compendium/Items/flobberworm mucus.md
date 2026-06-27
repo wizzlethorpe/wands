@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: f4c3802951ad1568
   data_json: Compendium/Items/flobberworm mucus.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

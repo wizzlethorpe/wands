@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: j2mY6WoFFI1NFat3
   data_json: Compendium/Features/Palmistry.foundry.json
+  folder: Class Feature
 ---
 
 You've mastered reading life lines. After observing a creature for 30 seconds, as an action, you can sense its current hit points.

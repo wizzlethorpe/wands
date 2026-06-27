@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: AwttbtDiV1QXzJpm
   data_json: Compendium/Spells/Furnunculus.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

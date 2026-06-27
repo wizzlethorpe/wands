@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: H3mJ4CG9jCjJ6p3c
   data_json: Compendium/Features/Legilimency.foundry.json
+  folder: Class Feature
 ---
 
 You add the [[Legilimens]]* *spell to your list of known spells. It does not count against your number of spells known, and cannot be forgotten to learn another spell.

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Quite Flexible: I''m horribly jealous of anyone who outshines my work. Everywhere I go, I''m surrounded by rivals.'
         weight: 2
+  folder: Potioneer
 ---
 
 ```rolltable

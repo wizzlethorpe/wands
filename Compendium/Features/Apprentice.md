@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: QwxIaXS4EWie4g32
   data_json: Compendium/Features/Apprentice.foundry.json
+  folder: Background Feature
 ---
 
 Although you're not yet able to create original works, you have enough knowledge and rudimentary skills to begin an apprenticeship under a mentor, should you find one willing to teach you. Additionally, you've become practiced in hand-eye coordination and precise work.

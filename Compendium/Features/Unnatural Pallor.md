@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: GuU4oMsPFkFpzorP
   data_json: Compendium/Features/Unnatural Pallor.foundry.json
+  folder: Feat
 ---
 
 Your skin has become pale and waxy and your features oddly distorted. You have disadvantage on Charisma ability checks, except for Charisma (Intimidation) and Charisma saving throws.

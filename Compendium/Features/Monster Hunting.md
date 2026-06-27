@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: MmRMbk3JCJlZatLl
   data_json: Compendium/Features/Monster Hunting.foundry.json
+  folder: Class Feature
 ---
 
 You have vast experience studying, tracking, and hunting creatures, allowing you to quickly adapt to threats. If you spend 10 minutes studying a beast or dark being's tracks, you automatically learn what the creature is, its size, and its speed. If you choose, that creature becomes and remains Hunted until you use this feature again.

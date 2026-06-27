@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: tWeoXe5LGdMiSNJ5
   data_json: Compendium/Features/Steady Caster.foundry.json
+  folder: Feat
 ---
 
 You're able to maintain focus, even in stressful situations. You have advantage on Constitution saving throws that you make to maintain concentration on a spell when you take damage.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: xsQcssBtP4b2oLes
   data_json: Compendium/Spells/Salvio Hexia.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

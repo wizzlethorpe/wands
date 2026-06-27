@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: exCcTF281uCasIg9
   data_json: Compendium/Spells/Transmogrify.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

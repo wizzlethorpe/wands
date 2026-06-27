@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: t2qC1P5SSIHrN09U
   data_json: Compendium/Spells/Engorgio.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

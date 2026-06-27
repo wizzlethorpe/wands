@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: etnNvxwkSCNrcHAW
   data_json: Compendium/Features/Steadfast Loyalty.foundry.json
+  folder: Racial Trait
 ---
 
 You have advantage on saving throws against any effect that would make you attack or work against a creature you would normally consider an ally.

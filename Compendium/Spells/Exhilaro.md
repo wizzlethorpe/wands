@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: gF4a6kra5adpRO4G
   data_json: Compendium/Spells/Exhilaro.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

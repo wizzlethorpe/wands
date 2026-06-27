@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Self-improvement. The goal of a life of study is the betterment of oneself.'
         weight: 2
+  folder: Bookworm
 ---
 
 ```rolltable

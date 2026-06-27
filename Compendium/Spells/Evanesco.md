@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ao0uAYz0vhGJM2va
   data_json: Compendium/Spells/Evanesco.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

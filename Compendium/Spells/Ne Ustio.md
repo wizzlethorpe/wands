@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: UCa2Dh0jMa6pxvvs
   data_json: Compendium/Spells/Ne Ustio.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

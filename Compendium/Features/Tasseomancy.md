@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: u5QusbRmcQjYl0Rw
   data_json: Compendium/Features/Tasseomancy.foundry.json
+  folder: Class Feature
 ---
 
 The future is revealed through a uniquely complex reading of symbols and patterns within residual tea leaves a cup recently consumed by a being other than yourself. After ten minutes of preparation, you can spend 3 sorcery points to interpret the cup's omens and predict the results of a specific course of action that your subject plans to take within the next 30 minutes. The HM chooses from the following possible omens:

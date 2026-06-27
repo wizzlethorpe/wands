@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: a79b357b5dff2b33
   data_json: Compendium/Items/boom berry.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

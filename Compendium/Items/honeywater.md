@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: e7938c6198a3822a
   data_json: Compendium/Items/honeywater.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

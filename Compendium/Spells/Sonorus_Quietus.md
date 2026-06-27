@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: fs9b0l8eAJBKmqH9
   data_json: Compendium/Spells/Sonorus_Quietus.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

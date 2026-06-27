@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: Mw777QpIjrZlCqY8
   data_json: Compendium/Items/Garrotting Gas.foundry.json
+  folder: Potion
 ---
 
 This gas produces a choking or suffocating sensation, which, given the fact it's colorless, can be quite dangerous. A creature that inhales this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is unconscious while poisoned in this way. The creature wakes up if it takes damage or a creature shakes it awake as an action.

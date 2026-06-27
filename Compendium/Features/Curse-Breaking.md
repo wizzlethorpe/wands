@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: tNfarNLf7XYynLBA
   data_json: Compendium/Features/Curse-Breaking.foundry.json
+  folder: Class Feature
 ---
 
 Your curiosity in taking apart spells and enchantments has found an outlet. Gain a set of [[Curse-breakers' Tools]] and gain proficiency in Curse-breakers' Tools.

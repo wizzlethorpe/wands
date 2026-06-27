@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 0PRnNZ0fE1xmY7qz
   data_json: Compendium/Features/Draconic Empathy.foundry.json
+  folder: Class Feature
 ---
 
 *** Wizard's Best Friend required.*** Your dedication as a dragon-keeper allows you to deeply understand dragons. If you've ever raised a dragon from an egg, it will view you as an ally and can serve as your beast companion. Tamed dragons have their own hit points, hit dice, and ability scores, and use natural attack actions.

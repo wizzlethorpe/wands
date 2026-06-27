@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 221439cd6f55e23e
   data_json: Compendium/Items/murtlap tentacle.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

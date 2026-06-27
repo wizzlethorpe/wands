@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: f613e18c4e06765a
   data_json: Compendium/Items/pufferfish eye.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

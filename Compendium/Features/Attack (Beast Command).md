@@ -37,6 +37,7 @@ foundry:
   base: Item:feat
   id: k5pYIiS2kWD6tS2F
   data_json: Compendium/Features/Attack (Beast Command).foundry.json
+  folder: Class Feature
 ---
 
 You can use your bonus action and roll a command die to issue this command. Your companion can use its action to take one of its natural attack actions. However, it can't use its Multiattack action, if it has one. If the attack hits, add the result of the command die to the damage roll.

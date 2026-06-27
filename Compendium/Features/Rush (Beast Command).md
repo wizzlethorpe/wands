@@ -37,6 +37,7 @@ foundry:
   base: Item:feat
   id: ZsESDjQx3HU1PUXA
   data_json: Compendium/Features/Rush (Beast Command).foundry.json
+  folder: Class Feature
 ---
 
 You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to take the Help action, aiding the next attack against a creature within its reach that it can see. If this attack hits, the attack deals extra damage equal to the result of the command die.

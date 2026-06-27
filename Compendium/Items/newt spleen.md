@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 159022b804ab4277
   data_json: Compendium/Items/newt spleen.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

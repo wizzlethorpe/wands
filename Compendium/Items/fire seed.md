@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 7094132bbbcf2fce
   data_json: Compendium/Items/fire seed.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

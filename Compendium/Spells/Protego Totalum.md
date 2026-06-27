@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: PsGaIKsVev0tbDzQ
   data_json: Compendium/Spells/Protego Totalum.foundry.json
+  folder: 6th Level
 ---
 
 ```spell-card

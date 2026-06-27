@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Eom245h6LiLxcRMR
   data_json: Compendium/Features/Folio Bruti.foundry.json
+  folder: Class Feature
 ---
 
 You have your own personal notebook of beasts where you record your findings. Whenever you add Magical Creatures proficiency to an Ability check, add your Intelligence modifier as a bonus as well.

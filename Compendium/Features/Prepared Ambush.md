@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 9NFkPexJLRn7HVzi
   data_json: Compendium/Features/Prepared Ambush.foundry.json
+  folder: Class Feature
 ---
 
 In learning to combat dangerous targets, you know how to place a magical trap, waiting to be sprung. When you cast a spell that targets a single creature or area using a spell slot of 1st level or higher, you can weave that spell into your surroundings, having no immediate effect. The spell is cast when it is triggered by something, which you decide at the time of setting the trap, such as entering an area, getting within a certain distance, or manipulating an object. You can also set conditions for creatures that don't trigger the spell, such as specific people or those who say a certain password.

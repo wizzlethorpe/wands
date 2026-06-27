@@ -37,6 +37,7 @@ foundry:
   base: Item:feat
   id: KJJfIoOwXQceqePS
   data_json: Compendium/Features/Down (Beast Command).foundry.json
+  folder: Class Feature
 ---
 
 You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to fall prone and attempt to Hide, adding the result of the command die to its Dexterity (Stealth) check. The first attack it makes while hidden in this way also adds the result of the command die to its attack roll.

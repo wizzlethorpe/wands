@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: a4hQlSKc5Iz6AFsc
   data_json: Compendium/Spells/Inanimatus Conjurus.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: LXM6kWuYiJ10Nwl3
   data_json: Compendium/Features/Heightened Darkness.foundry.json
+  folder: Feat
 ---
 
 You are able to use the Heightened Spell metamagic when casting a Dark spell, whether it's one of your metamagic options or not. When you use the Heightened Spell metamagic on a Dark spell, it costs 1 sorcery point.

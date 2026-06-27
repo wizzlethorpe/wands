@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: j5gs4q6ayH0Yr276
   data_json: Compendium/Features/Kitchen Trips.foundry.json
+  folder: Racial Trait
 ---
 
 Your experience with the British Magical School house elves has taught you how to politely address and interact with magical beings. Oh, and you can get tons of snacks.

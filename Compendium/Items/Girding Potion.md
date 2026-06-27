@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 9yOwuN0ZegON8W56
   data_json: Compendium/Items/Girding Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you gain 6d4 + 6 temporary hit points for 1 hour. This feels like an abnormal amount of physical stamina and pain tolerance.

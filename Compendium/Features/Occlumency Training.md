@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 4cNDmnBetoKoQaAd
   data_json: Compendium/Features/Occlumency Training.foundry.json
+  folder: Feat
 ---
 
 You have developed the presence of mind to resist a mental invasion. When targeted by *legilimens*, you make a Wisdom saving throw to resist its initial effects, and you have advantage on the Intelligence contests. If you fail your initial saving throw, you are immediately aware that the spell is targeting you. If you succeed on a saving throw or contest, you can let the spell continue and reveal false information, false emotions, or false memories of your choosing.

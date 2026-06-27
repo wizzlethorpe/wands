@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: f3014cce75e93ea2
   data_json: Compendium/Items/mistletoe berry.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

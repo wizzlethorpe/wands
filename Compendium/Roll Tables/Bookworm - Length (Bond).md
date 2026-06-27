@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '13": My family has an ancient text of terrible secrets that must not fall into the wrong hands.'
         weight: 2
+  folder: Bookworm
 ---
 
 ```rolltable

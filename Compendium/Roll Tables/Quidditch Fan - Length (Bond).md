@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '14": Those who fight beside me are those worth dying for.'
         weight: 2
+  folder: Quidditch Fan
 ---
 
 ```rolltable

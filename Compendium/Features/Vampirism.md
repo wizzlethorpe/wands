@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 8frXd100NK62IYFH
   data_json: Compendium/Features/Vampirism.foundry.json
+  folder: Feat
 ---
 
 You gain the following benefits:

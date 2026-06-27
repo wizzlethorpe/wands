@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: gHs8gZya7LLOZV7w
   data_json: Compendium/Items/Memory Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, lost memories  are restored to you and you're able to recall more details than usual. You have advantage on Intelligence (Herbology), Intelligence (Magical Theory) and Intelligence (Muggle Studies) checks for 10 minutes.

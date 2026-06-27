@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Id95hikL7vGvRxVb
   data_json: Compendium/Features/Called Shot.foundry.json
+  folder: Class Feature
 ---
 
 You've honed your aim to be able to strike very specifically with your dueling Charms. When casting a Charm, you can target specific items or body parts, as well as restrict the effects of the charm to only that specific item or body part.

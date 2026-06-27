@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: l4NJDA43TZHjSwFO
   data_json: Compendium/Items/Antidote of Common Poisons.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, simple poisons in your system are neutralized and you gain advantage on saving throws against poison for 1 hour. If you took poison damage in the previous minute, you regain half of your hit points lost to poison damage, up to a maximum of 15 hit points.

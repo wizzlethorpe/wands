@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 0bqG2d7a2HPONNEN
   data_json: Compendium/Items/Star Grass Salve.foundry.json
+  folder: Potion
 ---
 
 You regain 2d4 + 2 hit points when you apply this medicinal balm to your injuries.

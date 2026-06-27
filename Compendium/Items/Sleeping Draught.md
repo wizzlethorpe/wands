@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: XlMmaW8RlljzkcDv
   data_json: Compendium/Items/Sleeping Draught.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you fall unconscious into a deep sleep. You can't be awoken by any means for 1 hour, aside from administering an antidote. After that, the sleep is natural, so you would sleep only as long as you normally would or until woken by taking damage or someone shaking or slapping you awake.

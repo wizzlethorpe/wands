@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: E2pOKP8nQx7G9Gqn
   data_json: Compendium/Spells/Serpensortia.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

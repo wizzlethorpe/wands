@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 3be342b5f02c520e
   data_json: Compendium/Items/syrup of arnica.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

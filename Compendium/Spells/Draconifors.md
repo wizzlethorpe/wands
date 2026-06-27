@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: J9SLlXNKiIikWzdk
   data_json: Compendium/Spells/Draconifors.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

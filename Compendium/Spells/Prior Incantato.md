@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: F0o5Xrimdh2Vf2Fg
   data_json: Compendium/Spells/Prior Incantato.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

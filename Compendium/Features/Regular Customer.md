@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: QyIL838DMhWlpxuM
   data_json: Compendium/Features/Regular Customer.foundry.json
+  folder: Background Feature
 ---
 
 You're a familiar face to any prominent wizarding apothecary, and as a frequent customer, you get access to new and unusual inventory that potion supplies stores may not want to open up to the public. You've also picked up one common and one uncommon potion recipe of your choice.

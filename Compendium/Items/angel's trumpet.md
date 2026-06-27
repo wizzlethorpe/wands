@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 917174e2018bf45c
   data_json: Compendium/Items/angel's trumpet.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

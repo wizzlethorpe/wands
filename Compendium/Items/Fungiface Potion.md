@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: NvJBCh705HNUZJwz
   data_json: Compendium/Items/Fungiface Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you gain the effects of the furnunculus spell, sprouting dense and itchy mushrooms on your face instead of pimples. These mushrooms will last 1 hour.

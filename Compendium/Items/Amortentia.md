@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: UQ86jRcL49U2XZH2
   data_json: Compendium/Items/Amortentia.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they are overwhelmingly charmed by the brewer of this potion for 1 week. The charmed subject believes the brewer to be their one true love and will perform any request the brewer asks, to the best of their ability. All thoughts will be colored by a powerful obsession with the brewer, but their personality will otherwise be unchanged. This charmed effect can only be removed by an antidote to this potion.

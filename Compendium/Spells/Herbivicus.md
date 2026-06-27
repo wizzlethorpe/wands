@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: cgsHUV03Lk20w4tM
   data_json: Compendium/Spells/Herbivicus.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: tSNte9WLiC8N1mqX
   data_json: Compendium/Spells/Periculum_Verdimillious.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

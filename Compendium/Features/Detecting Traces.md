@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 4F7hy30J5yzhTWdb
   data_json: Compendium/Features/Detecting Traces.foundry.json
+  folder: Feat
 ---
 
 You've learned to feel magic and recognize styles of spells and curses. Using concentration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn the associated spell's school of magic, if any. This ability can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, or 3 feet of wood or dirt.

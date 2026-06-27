@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: zpHbpsIQoogokCEW
   data_json: Compendium/Features/Empathic Bond.foundry.json
+  folder: Class Feature
 ---
 
 You feel others' pain deeply, which gives insight into their suffering. When you cast a Healing spell on another creature, they gain additional hit points and you lose hit points equal to your proficiency bonus, unless their hit points are fully restored by the Healing spell or unless this effect would reduce your hit points to 0.

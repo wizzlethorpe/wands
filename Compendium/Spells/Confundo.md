@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: h0cxfGrQ4Rpdc66J
   data_json: Compendium/Spells/Confundo.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

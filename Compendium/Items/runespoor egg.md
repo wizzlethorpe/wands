@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 393e5b93a26575aa
   data_json: Compendium/Items/runespoor egg.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

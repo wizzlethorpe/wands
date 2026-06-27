@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: ExfeFDYBDW3wmPjQ
   data_json: Compendium/Features/Foresight.foundry.json
+  folder: Class Feature
 ---
 
 You start to see omens everywhere you look. After a long rest, roll two d20s and record those rolls as your two foresight rolls.

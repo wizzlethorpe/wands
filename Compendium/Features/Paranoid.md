@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: ysAn2dJhmEIDntbP
   data_json: Compendium/Features/Paranoid.foundry.json
+  folder: Feat
 ---
 
 You no longer trust the people you meet. You do not count as a "friendly" creature to strangers and acquaintances, and they do not count as "friendly" to you, in regards to abilities or spells. The only creature your beneficial spells and abilities can target is yourself and your closest allies.

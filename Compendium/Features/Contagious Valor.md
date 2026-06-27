@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: uGzL0mWwlYX6cDrL
   data_json: Compendium/Features/Contagious Valor.foundry.json
+  folder: Racial Trait
 ---
 
 Your moxie can be inspiring, and those around you feel more inclined to accompany you into battle against your foes.

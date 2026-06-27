@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: d433dc532ea900ee
   data_json: Compendium/Items/bubotuber pus.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

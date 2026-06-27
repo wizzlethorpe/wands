@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: EaJRQ5xcaM3Mq45W
   data_json: Compendium/Features/Spellcasting (Technique).foundry.json
+  folder: Class Feature
 ---
 
 Wisdom is your spellcasting ability for your spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.

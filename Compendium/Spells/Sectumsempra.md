@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: dYlo34EKocPSL3CF
   data_json: Compendium/Spells/Sectumsempra.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

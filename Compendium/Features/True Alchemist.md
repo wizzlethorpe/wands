@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: cm7nxYmVwUILWlpY
   data_json: Compendium/Features/True Alchemist.foundry.json
+  folder: Class Feature
 ---
 
 Your lifelong study of Flamel's and Dumbledore's writings has finally come to fruition. You can create a Philosopher’s Stone, turning any metal into gold and producing the Elixir of Life. You cannot die of natural causes, and you age at a slower rate. For every 10 years that pass, your body ages only 1 year. Only one Philosopher’s Stone may exist at one time.

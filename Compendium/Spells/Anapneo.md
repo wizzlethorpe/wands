@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 5zjpnZcFzf46ixGp
   data_json: Compendium/Spells/Anapneo.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

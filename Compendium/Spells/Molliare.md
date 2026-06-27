@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: z2tiBhmegXkVb1QP
   data_json: Compendium/Spells/Molliare.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

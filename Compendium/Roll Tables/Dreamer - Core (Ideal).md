@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Independence. My spirit is free, and no one else has authority over my life.'
         weight: 2
+  folder: Dreamer
 ---
 
 ```rolltable

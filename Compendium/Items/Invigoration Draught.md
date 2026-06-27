@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 64El0eWKkyAGS4j8
   data_json: Compendium/Items/Invigoration Draught.foundry.json
+  folder: Potion
 ---
 
 You regain 8d4 + 8 hit points when you drink this shimmering orange potion.

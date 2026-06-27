@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: dCaSJnUhQVjdRsIo
   data_json: Compendium/Features/Animagus Transformation.foundry.json
+  folder: Class Feature
 ---
 
 You can use your action to magically assume the shape of your animagus form (see Your Animagus Form below). You can use this feature twice. You regain expended uses when you finish a short or long rest.

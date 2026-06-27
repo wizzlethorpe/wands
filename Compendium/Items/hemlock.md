@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: bede4f80fe71a32b
   data_json: Compendium/Items/hemlock.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

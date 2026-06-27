@@ -1,0 +1,10 @@
+# Compiled output of `vfmc` (regenerated from the vault's Compendium content).
+# Everything else here (module.json, src/, styles/, lang/, babele/) is
+# hand-authored and tracked.
+packs/
+
+# vfmc scratch dir (per-pack JSON before LevelDB packing); normally auto-removed.
+_json/
+
+# Local Foundry paths / release tokens.
+.env

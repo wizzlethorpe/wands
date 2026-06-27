@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: va6bVt1U19lwGzjH
   data_json: Compendium/Items/Volubilis Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you have an advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person for 10 minutes. It magically alters your voice to sound like someone else's, or if your voice is lost, it will restore it.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: uA1XF4a9OKWuRcwq
   data_json: Compendium/Spells/Levicorpus_Liberacorpus.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

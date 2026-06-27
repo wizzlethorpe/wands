@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: VTTT0dAMjpI0wwIx
   data_json: Compendium/Spells/Episkey.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

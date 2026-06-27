@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4867e29cefe149a1
   data_json: Compendium/Items/re'em blood.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

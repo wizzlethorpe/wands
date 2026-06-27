@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ZdmCbl07ML6tJjUU
   data_json: Compendium/Spells/Point Me.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

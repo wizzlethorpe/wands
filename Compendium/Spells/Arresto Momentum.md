@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: H5qkAQSb6RcZNdEQ
   data_json: Compendium/Spells/Arresto Momentum.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

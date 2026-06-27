@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: QFbK80Nuw22UT03W
   data_json: Compendium/Spells/Flipendo.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

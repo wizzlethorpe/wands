@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: sz7WNXng1pZCBvYq
   data_json: Compendium/Items/Pepperup Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this deep red potion, jets of steam shoot out of your ears, you're cured of the common cold and you feel quite warm throughout your body, rendering you immune to gaining exhaustion from cold environments for 1 hour. One level of exhaustion is removed for the duration, but it is regained at the end of the potion's effects.

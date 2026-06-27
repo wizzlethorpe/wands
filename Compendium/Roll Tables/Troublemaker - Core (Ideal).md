@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Freedom. When people follow rules blindly, they imprison themselves.'
         weight: 2
+  folder: Troublemaker
 ---
 
 ```rolltable

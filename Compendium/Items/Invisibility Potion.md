@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: KVH85gQA7h2L3dwP
   data_json: Compendium/Items/Invisibility Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this silvery potion, you gain the effects of [[Pellucidi Pellis]] for 10 minutes (no concentration required). The potion's effect ends if you attack or cast a spell. This potion can also be poured over an object for a similar effect.

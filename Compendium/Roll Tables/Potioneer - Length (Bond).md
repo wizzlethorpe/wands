@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '12": I am the only one carrying on my name, and it is up to me to immortalize it in history.'
         weight: 2
+  folder: Potioneer
 ---
 
 ```rolltable

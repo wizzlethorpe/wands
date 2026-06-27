@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: rEHpgzC8daBibUE1
   data_json: Compendium/Spells/Reducto.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

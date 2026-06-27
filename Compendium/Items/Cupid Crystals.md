@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: g6wYrrXuD8NtzKbH
   data_json: Compendium/Items/Cupid Crystals.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they will become infatuated with the next being they see within 10 minutes. They become charmed by that being for 1 hour.

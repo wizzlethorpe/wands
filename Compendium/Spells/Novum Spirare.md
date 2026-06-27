@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 6oRDpMXIw5ZfyKJI
   data_json: Compendium/Spells/Novum Spirare.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

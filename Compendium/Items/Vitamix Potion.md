@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: zxTgLaX1ZDpcFGLh
   data_json: Compendium/Items/Vitamix Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you have advantage on Dexterity checks for 1 hour. Drinking it feels like 'a burst of energy', greatly sharpening one's reflexes.

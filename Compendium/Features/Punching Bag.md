@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: PANwBvpB0NmpLUE4
   data_json: Compendium/Features/Punching Bag.foundry.json
+  folder: Background Feature
 ---
 
 You may not be coordinated, but at least you've learned how to take a punch. You have resistance to damage dealt by falling, traps or inanimate objects. You also have disadvantage on saving throws made to avoid or resist traps, any rolls made to detect traps and Dexterity (Acrobatics) checks.

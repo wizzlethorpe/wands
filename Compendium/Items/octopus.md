@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: bae3023ebfeb46d9
   data_json: Compendium/Items/octopus.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

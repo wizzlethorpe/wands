@@ -42,6 +42,7 @@ foundry:
           - 4
           - 4
         text: The golden-toned wood of pear produces wands of splendid magical powers. Possessors of pear wands are usually popular and well-respected, and no one knows of a single instance where a pear wand was in the possession of a Dark witch or wizard. Pear wands are among the most resilient, and they commonly keep a remarkable appearance of newness, even after many years of hard use.
+  folder: Socialite
 ---
 
 ```rolltable

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 9gE25344Q4hWDXMz
   data_json: Compendium/Spells/Incendio.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

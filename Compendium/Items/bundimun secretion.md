@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 773e31d882d57ce1
   data_json: Compendium/Items/bundimun secretion.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

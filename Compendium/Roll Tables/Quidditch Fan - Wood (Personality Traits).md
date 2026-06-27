@@ -40,6 +40,7 @@ foundry:
           - 6
         text: Spruce wands are ill-matched with cautious or nervous natures, becoming positively dangerous in fumbling fingers. They require a firm hand, because they seem to have their own ideas about what magic it ought to produce. However, when a spruce wand meets its match in a bold spell-caster with a good sense of humor, it becomes a superb helper. Intensely loyal to owners, the wands are capable of producing particularly flamboyant and dramatic effects.
         weight: 2
+  folder: Quidditch Fan
 ---
 
 ```rolltable

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 3fb8abd17262c482
   data_json: Compendium/Items/valerian root.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

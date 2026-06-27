@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: yCRD6pabyn0mkVoa
   data_json: Compendium/Spells/Finestra.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

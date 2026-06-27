@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: uUrAudFyl6k4DVKd
   data_json: Compendium/Spells/Perfusorius.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

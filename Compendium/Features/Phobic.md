@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Y3anHlfFvmqhbsEm
   data_json: Compendium/Features/Phobic.foundry.json
+  folder: Feat
 ---
 
 A specific creature or person invades your dreams, turning them to nightmares. When you enter combat with a creature of the chosen type, you must make a Wisdom saving throw (DC is 10 + your total corruption points). On a failure, you are frightened of them for 1 minute.

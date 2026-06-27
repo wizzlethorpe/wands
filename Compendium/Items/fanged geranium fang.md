@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: eb4211e5f6b261ee
   data_json: Compendium/Items/fanged geranium fang.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

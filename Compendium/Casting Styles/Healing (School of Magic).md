@@ -12,8 +12,22 @@ aliases:
   - Healing
 foundry:
   base: Item:subclass
-  id: e74c585ff4a86521
+  id: 95f7d81332225363
   data_json: Compendium/Casting Styles/Healing (School of Magic).foundry.json
+  folder: Schools of Magic
+  variants:
+    - id: 95f7d81332225363
+      data:
+        system:
+          classIdentifier: intellect-caster
+    - id: OhycVSevKDIBxbE2
+      data:
+        system:
+          classIdentifier: willpower-caster
+    - id: e74c585ff4a86521
+      data:
+        system:
+          classIdentifier: technique-caster
 ---
 
 Healing magic is devoted to improving the physical and mental condition. With many different spells and potions, healing magic requires a wizard to be well-versed in magical conditions and their different remedies.

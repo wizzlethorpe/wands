@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: dGuRNYr82oIAva8Y
   data_json: Compendium/Spells/Abscondi.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

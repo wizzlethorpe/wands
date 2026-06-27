@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Hz9ldrmSkBrFwpLE
   data_json: Compendium/Features/Athlete.foundry.json
+  folder: Feat
 ---
 
 You have undergone extensive physical training to gain the following benefits:

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: vIeeBcG374znJOtD
   data_json: Compendium/Spells/Deprimo.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

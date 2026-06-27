@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: 47ZQr17DAoDArsBw
   data_json: Compendium/Items/Fatiguing Fusion.foundry.json
+  folder: Potion
 ---
 
 A creature that ingests or inhales this tiresome poison must succeed on a DC 13 Constitution saving throw or gain 3 levels of exhaustion. This poison cannot cause you to reach more than 5 levels of exhaustion.

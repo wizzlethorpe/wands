@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: D45jKuNucX2YtWgs
   data_json: Compendium/Features/Adventurer's Footing.foundry.json
+  folder: Racial Trait
 ---
 
 Moving through nonmagical difficult terrain costs you no extra movement.

@@ -60,6 +60,7 @@ foundry:
           - 10
         text: This unusual and highly attractive wand wood was greatly in vogue in the nineteenth century, and demand consistently outstripped supply. The reasons for these wands’ desirability lay not only in their unusually handsome appearance, but also because they had a reputation for performing best for Seers and those skilled in Legilimency, mysterious arts both, which consequently gave the possessor of a silver lime wand considerable status.
         weight: 2
+  folder: Dreamer
 ---
 
 ```rolltable

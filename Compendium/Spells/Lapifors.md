@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ewtmiKM90jo1BauV
   data_json: Compendium/Spells/Lapifors.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

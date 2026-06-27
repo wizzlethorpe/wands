@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: KfJigqojr45VFQKX
   data_json: Compendium/Features/Goblin Cunning.foundry.json
+  folder: Feat
 ---
 
 The rarest racial combination of all, part-goblins can have goblin ancestry anywhere in their family tree, and it will still make a very noticeable difference. At an average of 4 feet tall, part-goblins may feel out of place in a larger world. However, these small wizards have inherited goblins’ cleverness and often come with big hearts and big personalities.

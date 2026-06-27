@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: tIa49UKdCUECWSWl
   data_json: Compendium/Items/Dr. Ubbly's Oblivious Unction.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, your brain's perception is softened for 1 hour to protect it from harmful thoughts. For the duration, you have disadvantage on Wisdom checks. If you are targeted by [[Legilimens]], you can make a Wisdom saving throw to resist its initial effects, and if you are targeted by [[Imperio]], you have advantage on the first Charisma saving throw.

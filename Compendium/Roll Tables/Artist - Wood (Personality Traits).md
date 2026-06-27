@@ -40,6 +40,7 @@ foundry:
           - 6
         text: The sycamore makes a questing wand, eager for experience and losing brilliance in mundane activities. These may combust if allowed to become ‘bored,’ and many aging witches and wizards are disconcerted to find their wand bursting into flame as they ask it, one more time, to fetch their slippers. The sycamore’s ideal owner is curious, vital and adventurous, and with such an owner, it demonstrates a highly-prized capacity to learn and adapt.
         weight: 2
+  folder: Artist
 ---
 
 ```rolltable

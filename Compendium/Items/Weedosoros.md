@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 9A4SUIROEnN5qB5O
   data_json: Compendium/Items/Weedosoros.foundry.json
+  folder: Potion
 ---
 
 Named after the mysterious magical plant, weed of sorrows, this poison is reputed to fill the victim with deep regret in their final moments. A creature that ingests this poison must make a DC 15 Constitution saving throw, taking 49 (14d6) poison damage and being poisoned for 1 day on a failed save, or half as much damage and poisoned for 1 minute on a successful one.

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: b35b7a6eedbcccd2
   data_json: Compendium/Items/moonseed berry.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

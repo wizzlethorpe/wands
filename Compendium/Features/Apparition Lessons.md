@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: K0sNedD2aum7pe1T
   data_json: Compendium/Features/Apparition Lessons.foundry.json
+  folder: Class Feature
 ---
 
 Apparition is the method by which many adult witches and wizards choose to travel from place to place. When one apparates, they turn on the spot, "feeling [their] way into nothingness," and vanish from their present location to reappear a second later in a new location, accompanied by a loud cracking or popping sound.

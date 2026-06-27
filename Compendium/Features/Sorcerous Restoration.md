@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: nMRKZyxqAGAghkLS
   data_json: Compendium/Features/Sorcerous Restoration.foundry.json
+  folder: Class Feature
 ---
 
 When you reach 20th level, you regain 4 expended sorcery points whenever you finish a short rest.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: irqqg1GDa5fHRafz
   data_json: Compendium/Spells/Tarantallegra.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Destiny. Nothing and no one can steer me away from my higher calling.'
         weight: 2
+  folder: Socialite
 ---
 
 ```rolltable

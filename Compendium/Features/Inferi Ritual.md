@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 5i7PJLudvWVskGbt
   data_json: Compendium/Features/Inferi Ritual.foundry.json
+  folder: Feat
 ---
 
 By focusing for 10 minutes and expending a 5th level spell slot, this ritual creates an undead servant. Choose a corpse of a Medium or Small humanoid you can touch. Your spell imbues the target with a foul mimicry of life, raising it as an [[Inferius]].

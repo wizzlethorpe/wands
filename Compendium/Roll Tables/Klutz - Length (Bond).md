@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '14": I will be fiercely loyal to anyone who doesn''t see me for my faults, but for who I am.'
         weight: 2
+  folder: Klutz
 ---
 
 ```rolltable

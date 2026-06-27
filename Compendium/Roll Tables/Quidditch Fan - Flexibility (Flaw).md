@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Very Pliant: I too often hear veiled insults and threats in innocent words, and I''m quick to anger.'
         weight: 2
+  folder: Quidditch Fan
 ---
 
 ```rolltable

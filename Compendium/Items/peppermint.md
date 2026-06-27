@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 2fb60adc3769e85f
   data_json: Compendium/Items/peppermint.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

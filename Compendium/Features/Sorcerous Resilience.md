@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: INoQH7zBzSR6JU1M
   data_json: Compendium/Features/Sorcerous Resilience.foundry.json
+  folder: Class Feature
 ---
 
 The accidental magic in your early childhood never stopped protecting you. Your AC equals 13 + your Dexterity modifier.

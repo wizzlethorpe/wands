@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: LWyajeY6pJnCJ7U0
   data_json: Compendium/Items/Polyjuice Potion.foundry.json
+  folder: Potion
 ---
 
 After adding the hair, nail clipping, or other part of a human, drinking this potion perfectly transforms you into that human for 1 hour, changing your height, weight, facial features, sound of your voice, hair length and coloration. None of your statistics change, but your size may change to match the targeted human.

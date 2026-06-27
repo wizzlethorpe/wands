@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4ec36c1c329aad1c
   data_json: Compendium/Items/moonstone.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

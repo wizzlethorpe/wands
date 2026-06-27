@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: dMsbWgmZ4Y1gzzC6
   data_json: Compendium/Items/Draught of Peace.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, all strong emotions are suppressed for 1 hour, putting you into a neutral and relaxed disposition. Any charmed or  frightened condition is removed and you have advantage on saving throws against being charmed or frightened. Unfortunately, the feeling of this potion wearing off has been described as experiencing all of the suppressed emotions at once, and some suppressed conditions may resume.

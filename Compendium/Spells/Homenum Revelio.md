@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: uCvgD5pc19lDMuAq
   data_json: Compendium/Spells/Homenum Revelio.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

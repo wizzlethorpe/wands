@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: iUruyzGbgmjDPUVg
   data_json: Compendium/Features/Jittery.foundry.json
+  folder: Feat
 ---
 
 You become far too easy to spook or startle. You have disadvantage on initiative rolls.

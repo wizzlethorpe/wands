@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 4ab49ec62b7ff261
   data_json: Compendium/Items/lacewing fly.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

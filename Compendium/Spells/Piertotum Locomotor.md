@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ThUz2c1Isi0U9bkK
   data_json: Compendium/Spells/Piertotum Locomotor.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

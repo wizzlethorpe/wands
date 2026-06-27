@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 9885401a14f63db1
   data_json: Compendium/Items/shrivelfig.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

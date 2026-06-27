@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: m9Y8EtqINax2pLO4
   data_json: Compendium/Spells/Carpe Retractum.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

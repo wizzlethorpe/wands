@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: d96125de6075d0b9
   data_json: Compendium/Items/staghorn mushroom.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

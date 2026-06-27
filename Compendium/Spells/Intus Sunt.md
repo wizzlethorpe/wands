@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: tsvo5fYrhU0jP9i5
   data_json: Compendium/Spells/Intus Sunt.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

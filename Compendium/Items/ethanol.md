@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 9378a351012f1ccc
   data_json: Compendium/Items/ethanol.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

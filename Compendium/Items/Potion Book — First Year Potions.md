@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 9b4b917f428ce548
   data_json: Compendium/Items/Potion Book — First Year Potions.foundry.json
+  folder: Loot
 ---
 
 First Year Potions

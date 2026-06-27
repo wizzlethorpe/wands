@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: w5WsO4UkKjAYlQFf
   data_json: Compendium/Features/Metamagic_ Twinned Spell.foundry.json
+  folder: Class Feature
 ---
 
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).

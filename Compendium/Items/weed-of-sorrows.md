@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 6bec23944cb32fda
   data_json: Compendium/Items/weed-of-sorrows.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

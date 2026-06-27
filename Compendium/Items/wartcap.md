@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 631a2036af312845
   data_json: Compendium/Items/wartcap.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

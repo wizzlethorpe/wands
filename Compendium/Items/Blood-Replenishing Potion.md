@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: l7D305BA2ojpyiu7
   data_json: Compendium/Items/Blood-Replenishing Potion.foundry.json
+  folder: Potion
 ---
 
 Typically administered in an emergency, this healing potion helps replenish blood lost from injuries. If the next rest you take is a short rest, the amount of hit points gained from rolling hit dice is doubled during that short rest. If the next rest you take is a long rest, you regain all spent hit dice.

@@ -1,0 +1,20 @@
+{
+  "label": "Animagus Form (WANDS)",
+  "entries": {
+    "Combat Animagus (Land)": {
+      "name": "Animago de Combate (Terra)"
+    },
+    "Combat Animagus (Water)": {
+      "name": "Animago de Combate (Água)"
+    },
+    "Evasion Animagus (Air)": {
+      "name": "Animago de Evasão (Ar)"
+    },
+    "Evasion Animagus (Land)": {
+      "name": "Animago de Evasão (Terra)"
+    },
+    "Evasion Animagus (Water)": {
+      "name": "Animago de Evasão (Água)"
+    }
+  }
+}

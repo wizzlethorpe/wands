@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: i79ohukQiIll4kei
   data_json: Compendium/Features/People's Champ.foundry.json
+  folder: Background Feature
 ---
 
 The way you carry yourself makes people comfortable and confident that you can help them when they're feeling harrassed or imperiled. As long as you live up to your reputation, your noble deeds can make you a shoo-in for prefect, team captain or other small positions of authority.

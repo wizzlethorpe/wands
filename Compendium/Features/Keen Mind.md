@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: mh2fRxrwi7bmQGSi
   data_json: Compendium/Features/Keen Mind.foundry.json
+  folder: Feat
 ---
 
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:

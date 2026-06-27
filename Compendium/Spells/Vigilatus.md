@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: JQHSEgvCM4RPUz57
   data_json: Compendium/Spells/Vigilatus.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

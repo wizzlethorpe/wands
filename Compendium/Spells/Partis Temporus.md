@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ngKwdVOw8HNwcjwK
   data_json: Compendium/Spells/Partis Temporus.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

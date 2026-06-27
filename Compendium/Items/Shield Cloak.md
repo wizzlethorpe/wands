@@ -55,6 +55,7 @@ foundry:
   base: Item:equipment
   id: KiYoSiNjJMY7XC1M
   data_json: Compendium/Items/Shield Cloak.foundry.json
+  folder: Equipment
 ---
 
 Popular in times of war and always in high demand among Aurors, a shield cloak is a standard silk cloak that's been enchanted with the protego charm. While nowhere near as effective as the actual Shield Charm, the enchantment provides minor spell resistance that can make the difference between life and death.

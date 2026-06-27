@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 7diyINrwOrLBwxrN
   data_json: Compendium/Spells/Capacious Extremis.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

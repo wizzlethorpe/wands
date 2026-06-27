@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: zLxrw58humIRuiJW
   data_json: Compendium/Features/Master of Minds.foundry.json
+  folder: Class Feature
 ---
 
 ***[[Legilimency]] required.*** Your skill in navigating thoughts is unparalleled. You can now cast [[Legilimens]]* *at-will, verbally or non-verbally. Any attempt to resist your *legilimens *spell is made at disadvantage.

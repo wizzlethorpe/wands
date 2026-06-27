@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 5EBv9gSd9K8FjmHN
   data_json: Compendium/Features/In-Depth Knowledge.foundry.json
+  folder: Racial Trait
 ---
 
 Whenever you make an Intelligence or Wisdom ability check that lets you add your proficiency bonus, you can treat a d20 roll of 5 or lower as a 6.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: KJTHvwvmlkbPEwK7
   data_json: Compendium/Spells/Ignis Furore.foundry.json
+  folder: 6th Level
 ---
 
 ```spell-card

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Very Supple: I''m always putting my foot in my mouth, invariably insulting or embarrassing others.'
         weight: 2
+  folder: Klutz
 ---
 
 ```rolltable

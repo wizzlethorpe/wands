@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: dxOlNgvzEfL7xTlh
   data_json: Compendium/Features/Phoenix Tears.foundry.json
+  folder: Class Feature
 ---
 
 Your saint-like devotion to others and bravery in the face of danger has earned the respect of phoenixes. If you spend 8 hours reaching out with your magic, a phoenix will appear in a flash of fire and shed tears into a vial for you. Phoenix tears remove all curses, diseases, and poisons affecting a creature. Also, the creature regains all its hit points. A phoenix will only appear and fill a vial with tears when you do not have any other tears, and the phoenix tears will lose their healing properties if anyone other than you possesses the tears or tries to administer them.

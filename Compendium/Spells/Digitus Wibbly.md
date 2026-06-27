@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: g3v9bgrbSTDdDta8
   data_json: Compendium/Spells/Digitus Wibbly.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

@@ -12,6 +12,7 @@ foundry:
   base: Item:class
   id: HRkzC0UTl2ZXhzzh
   data_json: Compendium/Casting Styles/Willpower Caster.foundry.json
+  folder: Casting Styles
 ---
 
 When witches and wizards cast with feeling, they put all of their energy into their spells. Their “gut instinct” approach to magic taps into that willpower, but teaches them to take shortcuts. These wizards often have strong personalities and gravitate to the frontlines.

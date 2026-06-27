@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: iw9eCAwGt6KTTQKd
   data_json: Compendium/Spells/Muco Volatilis.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: XVdszqglD9WFH7XG
   data_json: Compendium/Spells/Epoximise.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

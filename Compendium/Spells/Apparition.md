@@ -12,6 +12,7 @@ foundry:
   base: Item:spell
   id: xjyXNncVKZgo4z01
   data_json: Compendium/Spells/Apparition.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

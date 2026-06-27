@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: 9Uwuy8LvCZ888TZ3
   data_json: Compendium/Features/Metamagic_ Empowered Spell.foundry.json
+  folder: Class Feature
 ---
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your spellcasting ability modifier (minimum of one). You must use the new rolls.

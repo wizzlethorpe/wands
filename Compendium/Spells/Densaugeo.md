@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 2t2TuOHaeTRemxMv
   data_json: Compendium/Spells/Densaugeo.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

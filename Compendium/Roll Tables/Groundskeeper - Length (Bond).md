@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '13.5": It is my duty to preserve and sustain endangered creatures.'
         weight: 2
+  folder: Groundskeeper
 ---
 
 ```rolltable

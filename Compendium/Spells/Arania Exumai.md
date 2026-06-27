@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: t8wyry090Kl5k1UU
   data_json: Compendium/Spells/Arania Exumai.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

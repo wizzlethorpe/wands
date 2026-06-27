@@ -22,6 +22,7 @@ foundry:
           - 3
           - 3
         text: 'Phoenix Feather: Honesty. Art should reflect the soul; it should come from within and reveal who we really are.'
+  folder: Artist
 ---
 
 ```rolltable

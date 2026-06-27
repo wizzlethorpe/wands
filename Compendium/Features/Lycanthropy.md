@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: xUFhJQhBkZAHFbjE
   data_json: Compendium/Features/Lycanthropy.foundry.json
+  folder: Feat
 ---
 
 You've been attacked by a transformed werewolf, infecting you with the blood curse of lycanthropy. You gain the following benefits.

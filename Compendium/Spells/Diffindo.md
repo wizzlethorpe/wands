@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: kCbce6brWwK7a3s8
   data_json: Compendium/Spells/Diffindo.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

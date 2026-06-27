@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Sincerity. There''s no good pretending to be something I''m not.'
         weight: 2
+  folder: Klutz
 ---
 
 ```rolltable

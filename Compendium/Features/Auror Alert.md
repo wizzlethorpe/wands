@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 4Vm2EKoawas4zBZk
   data_json: Compendium/Features/Auror Alert.foundry.json
+  folder: Class Feature
 ---
 
 As a prominent combatant of Dark magic, you have connections in the Department of Magical Law Enforcement. You can call in a two-man auror team to apparate in on your location. You can’t use this feature again until you finish a long rest.

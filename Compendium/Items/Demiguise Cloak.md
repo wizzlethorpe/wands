@@ -55,6 +55,7 @@ foundry:
   base: Item:equipment
   id: 8wdzlW5UqGK4UyT8
   data_json: Compendium/Items/Demiguise Cloak.foundry.json
+  folder: Equipment
 ---
 
 A demiguise cloak is a rough cloak woven with a thick silvery-white fiber. The outer layer is made from the hair of a Demiguise, a rare and elusive magical creature from Asia with the ability to turn invisible at will. The cloak functions as perfect camouflage from all angles, but when the wearer moves, there is a perceptible delay before the cloak matches its new surroundings. In combat, this often gives its wearer a visible but blurred appearance.

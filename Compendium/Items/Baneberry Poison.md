@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: AXz39U6Fh6Lis9Nh
   data_json: Compendium/Items/Baneberry Poison.foundry.json
+  folder: Potion
 ---
 
 While this poison doesn't actually cause any harm in the body, its toxins interfere with blood clotting and produce an overall sickly feeling. A creature that ingests this poison must succeed on a DC 13 Constitution saving throw or become poisoned. The poisoned creature must repeat the saving throw every 24 hours. Until this poison ends, the creature can’t be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.

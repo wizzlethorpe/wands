@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 85d4231098751df4
   data_json: Compendium/Items/chinese chomping cabbage.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: TPFYUtmd1XGdbx8k
   data_json: Compendium/Spells/Azreth.foundry.json
+  folder: 7th Level
 ---
 
 ```spell-card

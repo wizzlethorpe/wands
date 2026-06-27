@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: UBMeESIUBkTsEgm0
   data_json: Compendium/Spells/Ferula.foundry.json
+  folder: 1st Level
 ---
 
 ```spell-card

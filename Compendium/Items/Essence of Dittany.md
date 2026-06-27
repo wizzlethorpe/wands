@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 73Kkg18ydDuSk94z
   data_json: Compendium/Items/Essence of Dittany.foundry.json
+  folder: Potion
 ---
 
 This highly concentrated liquid rapidly heals and regenerates open wounds, helping you regain 10d4 + 20 hit points when applied. If the target has lost body members (fingers, legs, and so on) and the severed part is held to its place, applying this potion causes the limb to heal back on immediately.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: apcdAOspeni6sNVR
   data_json: Compendium/Spells/Defodio.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

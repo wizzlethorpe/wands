@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: TT8MGBykxNrmyXM6
   data_json: Compendium/Items/Gregory's Unctuous Unction.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you are charmed by the giver of the potion for 1 hour. The charmed subject believes the giver is their very best friend.

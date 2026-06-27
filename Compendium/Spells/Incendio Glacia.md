@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: rLPfrlJJcEIPbVMg
   data_json: Compendium/Spells/Incendio Glacia.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

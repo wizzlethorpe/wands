@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 6h3i8bqSCMaYTWYw
   data_json: Compendium/Features/Walking Disaster.foundry.json
+  folder: Background Feature
 ---
 
 You've seen so many situations go completely awry that you've started being able to predict all the ways things can go wrong. If you're looking to hinder something or bring about a dangerous accident, you'll have no shortage of ideas.

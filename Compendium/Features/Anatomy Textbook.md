@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 6H4CZeQjDoAlMXn1
   data_json: Compendium/Features/Anatomy Textbook.foundry.json
+  folder: Class Feature
 ---
 
 Your knowledge of the inner workings of a creature make your transfigurations easier. If a Transfiguration spell must be cast at a higher level to involve a living creature, you can involve a living creature and consume a spell slot one level lower than what's required.

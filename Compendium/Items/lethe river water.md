@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 89dda1fb475fd95f
   data_json: Compendium/Items/lethe river water.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

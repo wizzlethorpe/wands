@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: bRva7KY6nVWmRZ9c
   data_json: Compendium/Spells/Expecto Patronum.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

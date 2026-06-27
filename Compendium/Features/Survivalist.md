@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: hn3Ni3YL48Wml4vz
   data_json: Compendium/Features/Survivalist.foundry.json
+  folder: Class Feature
 ---
 
 You are particularly adept at traveling through and surviving in natural environments.

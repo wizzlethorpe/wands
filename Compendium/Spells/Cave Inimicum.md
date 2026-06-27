@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: xcJj5h2HbksR2dZg
   data_json: Compendium/Spells/Cave Inimicum.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 23g7Lq1DXPHopXjW
   data_json: Compendium/Features/Protective Enchantments.foundry.json
+  folder: Class Feature
 ---
 
 Any charm spell you cast that affects an area (cube, line, sphere, or cone) has its area's size doubled.

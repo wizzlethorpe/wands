@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 446ce3a4cfd780e4
   data_json: Compendium/Items/mandrake root.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: fb3d03f90bb9cbc4
   data_json: Compendium/Items/syrup of hellebore.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

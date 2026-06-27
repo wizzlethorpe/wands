@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: ylkXrCkNOJofGzJg
   data_json: Compendium/Items/Blemish Blitzer.foundry.json
+  folder: Potion
 ---
 
 This specially formulated potion will magically remove any acne or blemishes from your face when applied.

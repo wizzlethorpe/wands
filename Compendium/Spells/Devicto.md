@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: S6BSXO0q346KzbhV
   data_json: Compendium/Spells/Devicto.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

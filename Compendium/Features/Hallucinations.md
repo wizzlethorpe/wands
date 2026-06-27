@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: Tehmrfm0ZJtYIODU
   data_json: Compendium/Features/Hallucinations.foundry.json
+  folder: Feat
 ---
 
 Strange visions and sourceless whispers occasionally tug at your perception. You have disadvantage on Wisdom (Perception) checks.

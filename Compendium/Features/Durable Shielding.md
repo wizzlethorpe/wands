@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: gcFvTdmOshIk5OaW
   data_json: Compendium/Features/Durable Shielding.foundry.json
+  folder: Class Feature
 ---
 
 Your shield spells are more effective. Whenever you use a defensive spell of 1st level or higher that improves a creature’s AC or grants temporary hit points, the creature gains additional temporary hit points equal to 2 + the spell’s level, which last the duration of the spell's effect.

@@ -12,8 +12,22 @@ aliases:
   - Charms
 foundry:
   base: Item:subclass
-  id: n31KaJnrCwRtUyuR
+  id: 7b0048d08bfc74e1
   data_json: Compendium/Casting Styles/Charms (School of Magic).foundry.json
+  folder: Schools of Magic
+  variants:
+    - id: 7b0048d08bfc74e1
+      data:
+        system:
+          classIdentifier: technique-caster
+    - id: a3bdb972f94b3aae
+      data:
+        system:
+          classIdentifier: intellect-caster
+    - id: n31KaJnrCwRtUyuR
+      data:
+        system:
+          classIdentifier: willpower-caster
 ---
 
 Charms, a type of spell that alters properties of a thing, can be some of the most powerful spells in existence. The Fidelius Charm, for example, can completely hide a person or a place in such a way that no one can find them unless given the Secret. Memory Charms can be so strong as to remove a person's memory or damage their mind permanently.

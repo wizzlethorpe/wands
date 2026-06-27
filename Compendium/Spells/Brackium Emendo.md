@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: n1mv5w4S5RxAINEN
   data_json: Compendium/Spells/Brackium Emendo.foundry.json
+  folder: 4th Level
 ---
 
 ```spell-card

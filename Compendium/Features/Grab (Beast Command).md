@@ -37,6 +37,7 @@ foundry:
   base: Item:feat
   id: Cr94uTu2t4sD4iuc
   data_json: Compendium/Features/Grab (Beast Command).foundry.json
+  folder: Class Feature
 ---
 
 When your companion makes an opportunity attack, you can use your reaction and roll a command die to issue this command. If the attack hits, your companion can attempt to grapple the target as part of the attack, adding the result of the command die to the skill check it makes for the attempt.

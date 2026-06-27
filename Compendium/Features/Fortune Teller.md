@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: YGtnl1VfN7BvP21T
   data_json: Compendium/Features/Fortune Teller.foundry.json
+  folder: Class Feature
 ---
 
 You've particularly taken to astronomy, tasseography, and crystal gazing. You gain a [[Diviner's Kit]] and proficiency in using a Diviner's Kit.

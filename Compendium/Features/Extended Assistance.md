@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: zUjGUgq5CMUs8Bkv
   data_json: Compendium/Features/Extended Assistance.foundry.json
+  folder: Class Feature
 ---
 
 You've pushed the limits of your healing magic to saves lives on the front lines. All of your Healing spells' ranges are doubled. If a Healing spell has a range of touch, its new range is 60 feet.

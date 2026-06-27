@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 6fOzz7YuV8iHp8QL
   data_json: Compendium/Features/A Noble Quality.foundry.json
+  folder: Racial Trait
 ---
 
 You're able to adopt a persona of importance to blend in among high-ranking officials and prestigious witches and wizards.

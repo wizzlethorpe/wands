@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: OVpq2HeRQKJEk8RO
   data_json: Compendium/Items/Wideye Potion.foundry.json
+  folder: Potion
 ---
 
 Also known as the Awakening Potion, drinking this potion removes up to two levels of exhaustion. Other uses are awakening someone from non-magical drugging or concussion, and side effects include restlessness and insomnia.

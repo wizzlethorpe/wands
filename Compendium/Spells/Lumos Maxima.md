@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: r3rwXjISSe99kZfk
   data_json: Compendium/Spells/Lumos Maxima.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

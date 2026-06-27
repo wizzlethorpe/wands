@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: K98JhLEPW6V5GRHi
   data_json: Compendium/Features/Sensing Danger.foundry.json
+  folder: Class Feature
 ---
 
 You add half your proficiency bonus to your Initiative and cannot be surprised while conscious.

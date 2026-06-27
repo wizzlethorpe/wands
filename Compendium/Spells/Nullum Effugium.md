@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: vdKNNez7BuFB79hc
   data_json: Compendium/Spells/Nullum Effugium.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

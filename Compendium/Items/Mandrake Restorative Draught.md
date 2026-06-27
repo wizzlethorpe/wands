@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: gUuPcdPmgWIQOS9K
   data_json: Compendium/Items/Mandrake Restorative Draught.foundry.json
+  folder: Potion
 ---
 
 When this healing potion is administered, it ends one of the following effects on the target:

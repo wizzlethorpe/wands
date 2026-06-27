@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 51dfc6fad3c8b932
   data_json: Compendium/Items/african sea salt.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

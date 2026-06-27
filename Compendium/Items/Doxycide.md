@@ -57,6 +57,7 @@ foundry:
   base: Item:consumable
   id: 3dD30dB0SoYXzGGe
   data_json: Compendium/Items/Doxycide.foundry.json
+  folder: Potion
 ---
 
 Delivered as a mist via a spray bottle, this mild poison is a household staple to deal with pests. A creature that inhales this poison must succeed on a DC 13 Constitution saving throw, taking 2 (1d4) poison damage on a failed save, or half as much damage on a successful one.

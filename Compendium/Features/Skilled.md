@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 4YYeiBrbznIYbyj6
   data_json: Compendium/Features/Skilled.foundry.json
+  folder: Feat
 ---
 
 You gain proficiency in any combination of three skills or tools of your choice.

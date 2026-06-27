@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ywlZJ89bFULH3NSk
   data_json: Compendium/Spells/Diminuendo.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

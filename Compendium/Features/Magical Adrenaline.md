@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: AxOv8zagJ4gmqzlg
   data_json: Compendium/Features/Magical Adrenaline.foundry.json
+  folder: Class Feature
 ---
 
 Your magic invigorates you in times of dire need. As a bonus action, you can spend one hit die to recover hit points as you normally would after a short rest, equal to hit die + Constitution modifier. You have a number of uses equal to your proficiency bonus, and all uses are restored after a long rest.

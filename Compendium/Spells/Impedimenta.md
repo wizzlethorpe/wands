@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: shyIHZFhSGKHTxZW
   data_json: Compendium/Spells/Impedimenta.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: YN38OZROA5Oxljuu
   data_json: Compendium/Spells/Confringo.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

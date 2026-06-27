@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: I2aqoLQfkyDsQRBi
   data_json: Compendium/Items/Swelling Solution.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you gain the effects of the [[Engorgio]] spell for 1d4 hours (no concentration required). This potion can also be poured over an object for a similar effect.

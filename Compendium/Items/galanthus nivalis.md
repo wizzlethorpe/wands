@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 884fb4f43debadd7
   data_json: Compendium/Items/galanthus nivalis.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

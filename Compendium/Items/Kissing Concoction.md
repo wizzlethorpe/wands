@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: AtgLBe99nZKuyRL1
   data_json: Compendium/Items/Kissing Concoction.foundry.json
+  folder: Potion
 ---
 
 When a being drinks this potion, they become charmed by a chosen being and powerfully compelled to kiss them for 1 hour. The chosen being is selected by the brewer speaking their name into the potion during brewing. If the charmed subject sees the chosen being, they must use as much of their movement as possible to move to the chosen being and kiss them, ending the potion's effect.

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: eKRIFNekxx8Az6HR
   data_json: Compendium/Features/Warrior's Endurance.foundry.json
+  folder: Racial Trait
 ---
 
 When you roll a 16 or higher on a death saving throw, you instantly regain 1 hit point. You can't use this feature again until you finish a long rest.

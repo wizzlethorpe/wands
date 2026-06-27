@@ -35,6 +35,7 @@ foundry:
   base: Item:feat
   id: u1MxoKo8Gzmq5urI
   data_json: Compendium/Features/Metamagic_ Resistant Spell.foundry.json
+  folder: Class Feature
 ---
 
 At 3rd level, when you cast a spell, you can spend 1 sorcery point per increased level to make spell deflection, [[Finite Incantatem]], or [[Reparifors]]  as if your spell was cast using a spell slot higher than its original level, making your spell more resistant. The spell's higher level cannot exceed your highest available level of spell slots. This does not count against your number of Metamagic options.

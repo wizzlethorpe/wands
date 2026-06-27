@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: PvZoDaj54ZZJNrLS
   data_json: Compendium/Spells/Lumos _ Nox.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

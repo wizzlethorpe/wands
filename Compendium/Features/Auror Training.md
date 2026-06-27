@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: g7E4rUyV8LkHCUUX
   data_json: Compendium/Features/Auror Training.foundry.json
+  folder: Class Feature
 ---
 
 You've already started practicing the required skills to become an Auror. You learn one common potion recipe and gain proficiency in two of the following: Investigation, Potion-Making, Stealth, Survival.

@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 1d2yPOwD2NrJubSg
   data_json: Compendium/Spells/Melofors.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

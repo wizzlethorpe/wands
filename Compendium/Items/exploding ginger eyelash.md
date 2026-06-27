@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: f4ce544ed1774e6a
   data_json: Compendium/Items/exploding ginger eyelash.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

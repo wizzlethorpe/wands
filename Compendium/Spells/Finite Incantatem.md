@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: SQnurPdikw1UbJ3p
   data_json: Compendium/Spells/Finite Incantatem.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

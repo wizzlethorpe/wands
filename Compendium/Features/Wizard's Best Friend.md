@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: zZKTRoKCVHjLgqX8
   data_json: Compendium/Features/Wizard's Best Friend.foundry.json
+  folder: Class Feature
 ---
 
 Your care and compassion towards creatures earns you their trust and respect. You can have a beast companion*.*

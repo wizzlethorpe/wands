@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: ApILxZHWCg2cMZej
   data_json: Compendium/Spells/Spongify.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

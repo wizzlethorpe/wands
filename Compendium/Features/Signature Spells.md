@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: GcH83aqmJt78JEkq
   data_json: Compendium/Features/Signature Spells.foundry.json
+  folder: Class Feature
 ---
 
 When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two of your known 3rd-level spells as your signature spells. You can cast each of them once at 3rd level without expending a spell slot. When you do so, you can’t do so again until you finish a short or long rest.

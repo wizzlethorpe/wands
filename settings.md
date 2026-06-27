@@ -9,7 +9,9 @@ image_quality: 85
 max_file_bytes: 26214400
 
 # Glob patterns of files to skip when rendering and syncing. Examples: 'Templates/**', '*.draft.md', 'Private/**'.
-ignore: []
+ignore:
+  - "foundry/**"
+  - README.md
 
 # Inject the page title as an <h1> at the top. Set false if your notes already start with a '# Title' heading and you don't want the duplicate.
 inline_title: true

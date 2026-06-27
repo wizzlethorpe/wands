@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: TxOVEG5EzfBhbuCV
   data_json: Compendium/Features/Dark Education.foundry.json
+  folder: Racial Trait
 ---
 
 You have advantage on any rolls made to resist gaining Corruption effects from Dark magic.

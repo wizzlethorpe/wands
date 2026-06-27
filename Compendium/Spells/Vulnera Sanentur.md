@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: g4z9ulU4uWkk4bHr
   data_json: Compendium/Spells/Vulnera Sanentur.foundry.json
+  folder: 6th Level
 ---
 
 ```spell-card

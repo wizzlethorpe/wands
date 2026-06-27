@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 2QW1xUgLxIfWSdyx
   data_json: Compendium/Spells/Wingardium Leviosa.foundry.json
+  folder: Cantrips
 ---
 
 ```spell-card

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 2Xiqd7GNjfvErQOi
   data_json: Compendium/Features/Cold Efficiency.foundry.json
+  folder: Racial Trait
 ---
 
 You add the  spell [[Bombarda]] to your list of known spells. It does not count against your cantrips known, and cannot be forgotten to learn another cantrip.

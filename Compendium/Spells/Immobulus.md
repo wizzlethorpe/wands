@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 6yZcAouod1aHBJYO
   data_json: Compendium/Spells/Immobulus.foundry.json
+  folder: 2nd Level
 ---
 
 ```spell-card

@@ -25,6 +25,7 @@ foundry:
           - 6
         text: 'Phoenix Feather: Nature. The natural world is more precious than all of so-called civilization.'
         weight: 2
+  folder: Groundskeeper
 ---
 
 ```rolltable

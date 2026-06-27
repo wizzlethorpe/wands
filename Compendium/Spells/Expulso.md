@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: 7oFO8vw0GNO8857C
   data_json: Compendium/Spells/Expulso.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card

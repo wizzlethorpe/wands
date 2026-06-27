@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: oJ9u3TDc2g1Nwlkn
   data_json: Compendium/Spells/Imperio.foundry.json
+  folder: 5th Level
 ---
 
 ```spell-card

@@ -55,6 +55,7 @@ foundry:
   base: Item:loot
   id: 3110065f02257280
   data_json: Compendium/Items/cowbane.foundry.json
+  folder: Loot
 ---
 
 Alchemy ingredient.

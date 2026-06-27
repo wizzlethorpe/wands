@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: 2XoVbQbNEmIqiweh
   data_json: Compendium/Features/Durable.foundry.json
+  folder: Feat
 ---
 
 Hardy and resilient, you gain the following benefits:

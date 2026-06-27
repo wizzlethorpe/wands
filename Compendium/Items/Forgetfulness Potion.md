@@ -55,6 +55,7 @@ foundry:
   base: Item:consumable
   id: lnSf6pxkdhfenhrY
   data_json: Compendium/Items/Forgetfulness Potion.foundry.json
+  folder: Potion
 ---
 
 When you drink this potion, you forget everything you perceived in the last minute and you won't be able to remember anything you perceive in the next 10 minutes.

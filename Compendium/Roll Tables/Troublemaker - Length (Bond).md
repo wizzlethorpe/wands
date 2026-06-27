@@ -25,6 +25,7 @@ foundry:
           - 6
         text: '13.5": No one else is going to have to endure the hardships I''ve been through.'
         weight: 2
+  folder: Troublemaker
 ---
 
 ```rolltable

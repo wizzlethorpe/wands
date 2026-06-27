@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: k0LULtBYNJ2xMSOu
   data_json: Compendium/Features/Common Thug.foundry.json
+  folder: Background Feature
 ---
 
 Everyone who's heard of you has heard of your misdeeds, and they will know to come to you when they need someone to take care of their dirty work. The faint of heart will immediately fear you and try to escape your ire by letting you boss them around.

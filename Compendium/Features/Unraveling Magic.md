@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: xlcBvtKFpNTv9RA1
   data_json: Compendium/Features/Unraveling Magic.foundry.json
+  folder: Class Feature
 ---
 
 Automatically succeed whenever casting [[Finite Incantatem]].

@@ -33,6 +33,7 @@ foundry:
   base: Item:feat
   id: zLix4G4HPiLH7nGO
   data_json: Compendium/Features/Superfan.foundry.json
+  folder: Background Feature
 ---
 
 It seems like you can only think about broomsticks and quaffles. You're always on top of recent matches, the latest brooms, and quidditch tactics. Also, you can easily strike up conversation and build rapport with a fellow enthusiast.

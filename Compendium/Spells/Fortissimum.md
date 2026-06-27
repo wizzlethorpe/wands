@@ -13,6 +13,7 @@ foundry:
   base: Item:spell
   id: TQcUlVY1YJPN9rNY
   data_json: Compendium/Spells/Fortissimum.foundry.json
+  folder: 3rd Level
 ---
 
 ```spell-card
