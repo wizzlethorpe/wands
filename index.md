@@ -2,12 +2,10 @@
 title: W.A.N.D.S.
 ---
 
-> [!note]
-> Content is based on [Wands & Wizards](https://wandsnwizards.com/) by MadManNBlueBox.
+Welcome to the W.A.N.D.S. (Wizarding Alternative for Novelty Dungeoneering Stories) Rulebook — a comprehensive Harry Potter 5e adaptation that brings the magic of the Wizarding World to your tabletop.
 
-**W.A.N.D.S.** (Wands & Wizards) is a Harry Potter 5e adaptation for the D&D 5e
-system. This is the reference wiki: every spell, item, creature, and rule, with a
-companion Foundry VTT module compiled straight from these pages.
+> [!note] Acknowledgements
+> This site is an unofficial fan project based on the Wands & Wizards rulebook (v1.4) created by [u/Murphen44](https://www.reddit.com/user/Murphen44). The original content can be found on [r/WandsAndWizards](https://www.reddit.com/r/WandsAndWizards/), the [Discord Server](https://discord.gg/zcmbyMt), and the [GMBinder document](https://www.gmbinder.com/share/-M-WtrKeZNFdEXq0MKXw). Harry Potter and all related characters and elements are trademarks of Warner Bros. Entertainment Inc. This project is not affiliated with or endorsed by Warner Bros. or J.K. Rowling.
 
 ## Browse
 
