@@ -71,6 +71,96 @@
       "somatic",
       "concentration"
     ],
-    "activities": {}
-  }
+    "activities": {
+      "5280ff0d3c4eab1e": {
+        "_id": "5280ff0d3c4eab1e",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "override": false,
+          "condition": "Dedication"
+        },
+        "consumption": {
+          "spellSlot": true,
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "targets": []
+        },
+        "duration": {
+          "value": "10",
+          "units": "minute",
+          "special": "",
+          "override": false,
+          "concentration": true
+        },
+        "effects": [
+          {
+            "_id": "474f144b73cf6f73"
+          }
+        ],
+        "range": {
+          "value": "",
+          "long": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": [],
+          "override": false
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "type": "utility",
+        "appliedEffects": [
+          "474f144b73cf6f73"
+        ],
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        }
+      }
+    }
+  },
+  "effects": [
+    {
+      "_id": "474f144b73cf6f73",
+      "name": "Protego",
+      "img": "icons/magic/defensive/shield-barrier-blue.webp",
+      "type": "base",
+      "disabled": true,
+      "transfer": false,
+      "duration": {
+        "value": 10,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "<p>A +5 bonus to AC for the duration, including against the triggering attack.</p>",
+      "statuses": [],
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "value": "5",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "flags": {},
+      "tint": "#ffffff",
+      "sort": 0
+    }
+  ]
 }

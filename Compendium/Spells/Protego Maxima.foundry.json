@@ -71,6 +71,96 @@
       "somatic",
       "concentration"
     ],
-    "activities": {}
-  }
+    "activities": {
+      "5417a9a4398bfc9f": {
+        "_id": "5417a9a4398bfc9f",
+        "sort": 0,
+        "activation": {
+          "type": "reaction",
+          "value": 1,
+          "override": false,
+          "condition": "Dedication"
+        },
+        "consumption": {
+          "spellSlot": true,
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "targets": []
+        },
+        "duration": {
+          "value": "10",
+          "units": "minute",
+          "special": "",
+          "override": false,
+          "concentration": true
+        },
+        "effects": [
+          {
+            "_id": "98c820544ef3b8cb"
+          }
+        ],
+        "range": {
+          "value": "",
+          "long": "",
+          "units": "self",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": [],
+          "override": false
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "type": "utility",
+        "appliedEffects": [
+          "98c820544ef3b8cb"
+        ],
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        }
+      }
+    }
+  },
+  "effects": [
+    {
+      "_id": "98c820544ef3b8cb",
+      "name": "Protego Maxima",
+      "img": "icons/magic/defensive/shield-barrier-blue.webp",
+      "type": "base",
+      "disabled": true,
+      "transfer": false,
+      "duration": {
+        "value": 10,
+        "units": "minutes",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "<p>A +3 bonus to AC for the duration. A successful Strength or Dexterity save against an effect that would deal half damage instead deals none, and a failure deals half.</p>",
+      "statuses": [],
+      "changes": [
+        {
+          "key": "system.attributes.ac.bonus",
+          "value": "3",
+          "mode": 2,
+          "priority": null
+        }
+      ],
+      "flags": {},
+      "tint": "#ffffff",
+      "sort": 0
+    }
+  ]
 }

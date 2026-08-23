@@ -70,6 +70,74 @@
       "vocal",
       "somatic"
     ],
-    "activities": {}
+    "activities": {
+      "a5c90368fe91ddd3": {
+        "_id": "a5c90368fe91ddd3",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "spellSlot": true,
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "targets": []
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false,
+          "concentration": false
+        },
+        "effects": [],
+        "range": {
+          "value": "60",
+          "long": "",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": [],
+          "override": false
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "type": "attack",
+        "attack": {
+          "ability": "spellcasting",
+          "bonus": "",
+          "flat": false,
+          "critical": {
+            "threshold": null
+          },
+          "type": {
+            "value": "ranged",
+            "classification": "spell"
+          }
+        },
+        "damage": {
+          "critical": {
+            "allow": false,
+            "bonus": ""
+          },
+          "includeBase": false,
+          "parts": []
+        }
+      }
+    }
   }
 }

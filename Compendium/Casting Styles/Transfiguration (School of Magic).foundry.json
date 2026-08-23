@@ -180,6 +180,64 @@
         "level": 0,
         "title": "Molecular Manipulator",
         "flags": {}
+      },
+      {
+        "_id": "43f0047204c90b06",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.5FshZ3pIIzYxRyxv",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.bgbal4Kr9r6jWrDi",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "95b8e7eb6dc6bd86",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.I3Tq6dodRnATfA7a",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "24386b74220bc48e",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.ewtmiKM90jo1BauV",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "School of Magic Spells",
+        "flags": {}
       }
     ]
   }

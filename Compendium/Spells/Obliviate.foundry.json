@@ -71,6 +71,67 @@
       "somatic",
       "concentration"
     ],
-    "activities": {}
+    "activities": {
+      "dfc2eee28ad69b51": {
+        "_id": "dfc2eee28ad69b51",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "spellSlot": true,
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "targets": []
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false,
+          "concentration": false
+        },
+        "effects": [],
+        "range": {
+          "value": "30",
+          "long": "",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": [],
+          "override": false
+        },
+        "description": {
+          "chatFlavor": "One being makes a Wisdom save, with advantage if you are fighting it."
+        },
+        "type": "save",
+        "save": {
+          "ability": [
+            "wis"
+          ],
+          "dc": {
+            "calculation": "spellcasting",
+            "formula": ""
+          }
+        },
+        "damage": {
+          "onSave": "none",
+          "parts": []
+        }
+      }
+    }
   }
 }

@@ -180,6 +180,64 @@
         "level": 0,
         "title": "Savior",
         "flags": {}
+      },
+      {
+        "_id": "52b7da01eb058b1f",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.5zjpnZcFzf46ixGp",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "e8a2012ff81f4da9",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.tsvo5fYrhU0jP9i5",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "ef7c86d4b4bb246c",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.PsGaIKsVev0tbDzQ",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.g4z9ulU4uWkk4bHr",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "School of Magic Spells",
+        "flags": {}
       }
     ]
   }

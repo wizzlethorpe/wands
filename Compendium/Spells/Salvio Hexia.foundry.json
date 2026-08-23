@@ -71,6 +71,63 @@
       "somatic",
       "concentration"
     ],
-    "activities": {}
+    "activities": {
+      "60f8e1c951ae115d": {
+        "_id": "60f8e1c951ae115d",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "spellSlot": true,
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "targets": []
+        },
+        "duration": {
+          "value": "",
+          "units": "inst",
+          "special": "",
+          "override": false,
+          "concentration": false
+        },
+        "effects": [],
+        "range": {
+          "value": "30",
+          "long": "",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": [],
+          "override": false
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "type": "heal",
+        "healing": {
+          "custom": {
+            "enabled": true,
+            "formula": "@mod"
+          },
+          "types": [
+            "temphp"
+          ]
+        }
+      }
+    }
   }
 }

@@ -71,6 +71,60 @@
       "somatic",
       "concentration"
     ],
-    "activities": {}
+    "activities": {
+      "b3be24c4a533c62e": {
+        "_id": "b3be24c4a533c62e",
+        "sort": 0,
+        "activation": {
+          "type": "action",
+          "value": 1,
+          "override": false,
+          "condition": ""
+        },
+        "consumption": {
+          "spellSlot": true,
+          "scaling": {
+            "allowed": false,
+            "max": ""
+          },
+          "targets": []
+        },
+        "duration": {
+          "value": "1",
+          "units": "minute",
+          "special": "",
+          "override": false,
+          "concentration": true
+        },
+        "effects": [],
+        "range": {
+          "value": "10",
+          "long": "",
+          "units": "ft",
+          "special": "",
+          "override": false
+        },
+        "target": {
+          "override": false,
+          "prompt": true
+        },
+        "uses": {
+          "spent": 0,
+          "max": "",
+          "recovery": [],
+          "override": false
+        },
+        "description": {
+          "chatFlavor": ""
+        },
+        "type": "utility",
+        "roll": {
+          "formula": "",
+          "name": "",
+          "prompt": false,
+          "visible": false
+        }
+      }
+    }
   }
 }

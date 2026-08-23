@@ -180,6 +180,64 @@
         "level": 0,
         "title": "Pinnacle of Casting",
         "flags": {}
+      },
+      {
+        "_id": "ca0724a1f28c9033",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.v1TnTjk2YX18SV1B",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "7162aba1e776937a",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.7diyINrwOrLBwxrN",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "f1503aecf4cbc49e",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.XKcgpYlHVknc8TiD",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.ThUz2c1Isi0U9bkK",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "School of Magic Spells",
+        "flags": {}
       }
     ]
   }

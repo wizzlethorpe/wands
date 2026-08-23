@@ -183,6 +183,64 @@
         "level": 0,
         "title": "Legendary",
         "flags": {}
+      },
+      {
+        "_id": "6cae474c1b7c692a",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.8tt8LszN4RUexC1o",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "105f2c5c568a4201",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.dYlo34EKocPSL3CF",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "School of Magic Spells",
+        "flags": {}
+      },
+      {
+        "_id": "24a6dd3e903c04f0",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.vdKNNez7BuFB79hc",
+              "optional": false
+            },
+            {
+              "uuid": "Compendium.wands.spells-wands.Item.VIHuOkkoWTVDidKr",
+              "optional": false
+            }
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "School of Magic Spells",
+        "flags": {}
       }
     ]
   }
