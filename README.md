@@ -43,4 +43,4 @@ code (`src/`), styles, UI `lang/`, and Babele translations are preserved. See
 
 ## Credits
 
-Content is based on [Wands & Wizards](https://wandsnwizards.com/) by MadManNBlueBox.
+Content is based on [Wands & Wizards](https://www.gmbinder.com/share/-LsXE64qLDdLgBczM2kA) by MadManNBlueBox.
