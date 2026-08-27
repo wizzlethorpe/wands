@@ -187,7 +187,8 @@
       "sorting": "m",
       "color": "#000475",
       "packs": [
-        "wands-roll-tables"
+        "wands-roll-tables",
+        "wands-journal"
       ],
       "folders": [
         {
