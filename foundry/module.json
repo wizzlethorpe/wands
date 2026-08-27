@@ -30,7 +30,7 @@
   ],
   "url": "https://github.com/wizzlethorpe/wands",
   "readme": "https://github.com/wizzlethorpe/wands/blob/main/README.md",
-  "version": "0.16.8",
+  "version": "0.16.9",
   "compatibility": {
     "minimum": "14",
     "verified": "14.359"
