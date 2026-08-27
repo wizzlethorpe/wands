@@ -41,7 +41,8 @@
         "id": "dnd5e",
         "type": "system",
         "compatibility": {
-          "minimum": "5"
+          "minimum": "5",
+          "verified": "5.3.0"
         }
       }
     ],
@@ -103,74 +104,70 @@
   ],
   "packs": [
     {
-      "name": "spells-wands",
-      "label": "Spells (WANDS)",
-      "system": "dnd5e",
-      "path": "packs/spells-wands",
+      "name": "animagus-form-wands",
+      "label": "Animagus Form (WANDS)",
+      "path": "packs/animagus-form-wands",
+      "type": "Actor"
+    },
+    {
+      "name": "backgrounds-wands",
+      "label": "Backgrounds (WANDS)",
+      "path": "packs/backgrounds-wands",
       "type": "Item"
     },
     {
-      "name": "items-wands",
-      "label": "Items (WANDS)",
-      "system": "dnd5e",
-      "path": "packs/items-wands",
+      "name": "casting-styles-and-schools-of-magic-wands",
+      "label": "Casting Styles and Schools of Magic (WANDS)",
+      "path": "packs/casting-styles-and-schools-of-magic-wands",
       "type": "Item"
     },
     {
       "name": "monsters-wands",
       "label": "Monsters (WANDS)",
-      "system": "dnd5e",
       "path": "packs/monsters-wands",
       "type": "Actor"
     },
     {
       "name": "features-wands",
       "label": "Features (WANDS)",
-      "system": "dnd5e",
       "path": "packs/features-wands",
-      "type": "Item"
-    },
-    {
-      "name": "backgrounds-wands",
-      "label": "Backgrounds (WANDS)",
-      "system": "dnd5e",
-      "path": "packs/backgrounds-wands",
       "type": "Item"
     },
     {
       "name": "houses-wands",
       "label": "Houses (WANDS)",
-      "system": "dnd5e",
       "path": "packs/houses-wands",
       "type": "Item"
     },
     {
-      "name": "casting-styles-and-schools-of-magic-wands",
-      "label": "Casting Styles and Schools of Magic (WANDS)",
-      "system": "dnd5e",
-      "path": "packs/casting-styles-and-schools-of-magic-wands",
+      "name": "items-wands",
+      "label": "Items (WANDS)",
+      "path": "packs/items-wands",
       "type": "Item"
-    },
-    {
-      "name": "animagus-form-wands",
-      "label": "Animagus Form (WANDS)",
-      "system": "dnd5e",
-      "path": "packs/animagus-form-wands",
-      "type": "Actor"
     },
     {
       "name": "magical-pets-wands",
       "label": "Magical Pets (WANDS)",
-      "system": "dnd5e",
       "path": "packs/magical-pets-wands",
       "type": "Actor"
     },
     {
       "name": "wands-roll-tables",
       "label": "WANDS Roll Tables (WANDS)",
-      "system": "dnd5e",
       "path": "packs/wands-roll-tables",
       "type": "RollTable"
+    },
+    {
+      "name": "spells-wands",
+      "label": "Spells (WANDS)",
+      "path": "packs/spells-wands",
+      "type": "Item"
+    },
+    {
+      "name": "wands-journal",
+      "label": "Wands & Wizards WANDS Rulebook: Journals",
+      "path": "packs/wands-journal",
+      "type": "JournalEntry"
     }
   ],
   "packFolders": [
@@ -283,6 +280,11 @@
           "label": "WANDS Roll Tables (WANDS)",
           "type": "RollTable"
         }
+      ]
+    },
+    "vaults": {
+      "journal": [
+        "Rules"
       ]
     }
   }

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Release this Foundry module: compile the vault with `vfmc`, package the module
+# Release this Foundry module: compile the vault with `vaults build --module`, package the module
 # dir into a module.zip, publish a GitHub release, and (optionally) the FoundryVTT
 # package registry.
 #
@@ -19,7 +19,11 @@ command -v jq   >/dev/null 2>&1 || { echo -e "${RED}Error: jq is required.${NC}"
 command -v gh   >/dev/null 2>&1 || { echo -e "${RED}Error: GitHub CLI (gh) is required.${NC}" >&2; exit 1; }
 command -v zip  >/dev/null 2>&1 || { echo -e "${RED}Error: zip is required.${NC}" >&2; exit 1; }
 command -v curl >/dev/null 2>&1 || { echo -e "${RED}Error: curl is required.${NC}" >&2; exit 1; }
-command -v vfmc >/dev/null 2>&1 || { echo -e "${RED}Error: vfmc not on PATH.${NC}" >&2; exit 1; }
+command -v vaults >/dev/null 2>&1 || { echo -e "${RED}Error: vaults not on PATH.${NC}" >&2; exit 1; }
+node -e "require.resolve('@foundryvtt/foundryvtt-cli/package.json')" >/dev/null 2>&1 \
+  || npm ls -g @foundryvtt/foundryvtt-cli >/dev/null 2>&1 \
+  || { echo -e "${RED}Error: @foundryvtt/foundryvtt-cli is required to write LevelDB packs.${NC}" >&2; \
+       echo -e "${YELLOW}  npm i -g @foundryvtt/foundryvtt-cli${NC}" >&2; exit 1; }
 gh auth status >/dev/null 2>&1  || { echo -e "${RED}Error: gh not authenticated. Run 'gh auth login'.${NC}" >&2; exit 1; }
 
 # Read FOUNDRY_RELEASE_TOKEN literally (avoid source-ing .env).
@@ -52,7 +56,7 @@ TAG="v$NEW_VERSION"
 echo "Release version: $NEW_VERSION ($TAG)"
 echo ""
 
-# Bump version (vfmc preserves this key).
+# Bump version (the compiler preserves this key: it owns only `packs`).
 if [ "$NEW_VERSION" != "$CURRENT_VERSION" ]; then
   echo -e "${YELLOW}Updating module.json version to $NEW_VERSION...${NC}"
   jq --arg v "$NEW_VERSION" '.version = $v' "$MODULE_JSON" > "$MODULE_JSON.tmp" && mv "$MODULE_JSON.tmp" "$MODULE_JSON"
@@ -70,8 +74,19 @@ jq --arg base "$REPO_URL/releases/download/$TAG" \
   "$MODULE_JSON" > "$MODULE_JSON.tmp" && mv "$MODULE_JSON.tmp" "$MODULE_JSON"
 
 # Compile packs from the vault (preserves the module.json edits above).
-echo -e "${YELLOW}Compiling vault → packs (vfmc)...${NC}"
-vfmc "$VAULT"
+#
+# `vaults build --module` writes the packs in place beside foundry/module.json,
+# because that manifest names its own `download`: a module that says where it
+# is published is not republished through the vault, and its release URLs are
+# left alone — which is what the versioned-URL rewrite below depends on.
+#
+# It renders the vault twice, once to produce the journal HTML the Rules
+# chapters ship as and once for real. The output directory is a scratch one;
+# the module lands in foundry/ either way.
+echo -e "${YELLOW}Compiling vault → packs (vaults build --module)...${NC}"
+VAULTS_RENDER_DIR=$(mktemp -d)
+vaults build "$VAULT" --module --output "$VAULTS_RENDER_DIR"
+rm -rf "$VAULTS_RENDER_DIR"
 
 # Stage the module at the zip root under its id (Foundry expects modules/<id>/).
 BUILD_DIR=$(mktemp -d)
