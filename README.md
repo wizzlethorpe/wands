@@ -17,7 +17,7 @@ WANDS/
 ├── Compendium/         spells, items, creatures, features, … (one page per entry)
 │   └── <Type>/         <Name>.md (+ <Name>.foundry.json sidecar of dnd5e data)
 ├── settings.md         vault config (managed by the `vaults` CLI)
-└── foundry/            the Foundry module (built by vfmc; see foundry/, wiki-ignored)
+└── foundry/            the Foundry module (built by `vaults build --module`; wiki-ignored)
 ```
 
 Each compendium page is both a wiki article and a Foundry document: the markdown
@@ -33,12 +33,13 @@ vaults preview        # view it
 vaults push           # deploy
 
 # Foundry module (LevelDB compendium packs + module.json, in WANDS/foundry/)
-vfmc .                 # compile this vault into foundry/
+vaults build . --module   # compile this vault into foundry/
 ```
 
-The Foundry module dir (`foundry/`) is an extensible module you own —
-`vfmc` rewrites only its `packs/` and the `packs` array of `module.json`; custom
-code (`src/`), styles, UI `lang/`, and Babele translations are preserved. See
+The Foundry module dir (`foundry/`) is an extensible module you own — the
+compiler rewrites only its `packs/` and the `packs` array of `module.json`;
+custom code (`src/`), styles, UI `lang/`, `packFolders` and Babele translations
+are preserved. See
 [foundry/scripts/](foundry/scripts/) for `dev-install.sh` and `release.sh`.
 
 ## Credits
