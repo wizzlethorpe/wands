@@ -281,11 +281,6 @@
           "type": "RollTable"
         }
       ]
-    },
-    "vaults": {
-      "journal": [
-        "Rules"
-      ]
     }
   }
 }
