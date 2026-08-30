@@ -38,10 +38,6 @@ preview_mode: normal
 # Internal-link preview behavior on touch (mobile) devices, where there is no hover: 'sticky' (the default) shows a preview on tap with a 'Go to page' link instead of navigating; 'none' disables previews so taps just navigate. ('normal' has no hover to trigger it on touch and behaves like 'none'.)
 preview_mode_mobile: sticky
 
-# The highest role your Foundry players are allowed to read. Pages at this role or below import as player-visible (Observer ownership); everything above stays GM-only. Empty string (the default) means none of it is player-visible. Set it to your lowest tier, usually 'public', to share exactly what the wiki shows a signed-out visitor. Must be one of your configured roles. Role-gated callouts above this tier are also hidden inside pages players can see.
-foundry_player_role: public
-
-
 # Override the accent color (links, headings, highlights). Any CSS color works: '#a8201a', 'crimson', 'rgb(168 32 26)'. Empty = use the built-in scarlet.
 accent_color: "#7a1f1a"
 
@@ -66,8 +62,11 @@ auto_image: true
 # Ship files with unrecognized extensions to every deploy variant. Default false skips them (with a warning) so a stray file in your vault can't accidentally bypass role gating. Recognized media types (audio/video/pdf/epub) are reference-gated like images regardless of this setting.
 include_unknown_files: false
 
-# How this vault reaches Foundry VTT. 'adventure' packages it as a single Adventure document: import it once and every internal link resolves to the documents you imported, which is what a campaign or module wants. 'compendium' produces browsable compendium packs, one per document type, which is what a reference library wants — you look one thing up rather than importing the lot. 'none' ships no Foundry integration at all: the deploy drops the importer bundle (~60KB) and the /_batch sync endpoints it would never use, for a vault that has nothing to do with Foundry. Pages keep their 'foundry:' frontmatter under 'none'; it simply isn't advertised.
-foundry_package: compendium
+# Everything this vault says about Foundry VTT. 'package' is how it is delivered: 'adventure' packages it as one Adventure document, so importing it once makes every internal link resolve to the documents you imported — what a campaign wants; 'compendium' (the default) produces browsable packs, one per document type, which is what a reference library wants; 'none' ships no integration at all and the deploy drops the importer bundle and sync endpoints. 'player_role' is the highest role your players may read: pages at that role or below import player-visible, everything above stays GM-only, and empty (the default) means none of it is. 'module' is the manifest for 'vaults build --module' — anything Foundry accepts in a module.json, with only 'packs' written for you; leave it empty and the compiler looks for a module.json at the vault root or in foundry/ instead.
+foundry:
+  package: compendium
+  player_role: public
+  module: {}
 
 # Public base URL this vault is served from, e.g. 'https://notes.example.com'. Set it and the build emits sitemap.xml and robots.txt so search engines can index the site; leave it empty and neither is written. Only pages in the default (lowest) role are listed — a sitemap naming gated pages would advertise that they exist.
 site_url: ""

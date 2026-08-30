@@ -9,6 +9,9 @@
 
 set -e
 
+# The vaults CLI version this module is built with. See the note below.
+VAULTS_PIN=0.14.0
+
 RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; NC='\033[0m'
 
 FOUNDRY_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"   # WANDS/foundry
@@ -83,9 +86,17 @@ jq --arg base "$REPO_URL/releases/download/$TAG" \
 # It renders the vault twice, once to produce the journal HTML the Rules
 # chapters ship as and once for real. The output directory is a scratch one;
 # the module lands in foundry/ either way.
-echo -e "${YELLOW}Compiling vault → packs (vaults build --module)...${NC}"
+# Pinned. `--module` was removed from the vaults CLI after 0.14.0, when the
+# Foundry integration moved to graft: a vault now compiles to an entry list its
+# module fetches, rather than to packs with the content baked in. WANDS has not
+# made that move, so it builds with the last version that has the compiler --
+# which is also the exact version that produced its previous release.
+#
+# The pin covers the wiki too (see README): a current `vaults build` migrates
+# this vault's frontmatter to the newer key names, which 0.14.0 cannot read.
+echo -e "${YELLOW}Compiling vault → packs (vaults@${VAULTS_PIN} build --module)...${NC}"
 VAULTS_RENDER_DIR=$(mktemp -d)
-vaults build "$VAULT" --module --output "$VAULTS_RENDER_DIR"
+npx -y "@wizzlethorpe/vaults@$VAULTS_PIN" build "$VAULT" --module --output "$VAULTS_RENDER_DIR"
 rm -rf "$VAULTS_RENDER_DIR"
 
 # Stage the module at the zip root under its id (Foundry expects modules/<id>/).
